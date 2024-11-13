@@ -1,0 +1,28 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+spa2	P23201	GLU	1312			ste5	P32917	ILE	193		
+spa2	P23201	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	ARG	187		
+spa2	P23201	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	LYS	189		
+spa2	P23201	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	GLY	190		
+spa2	P23201	ARG	1395	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	LYS	189		
+spa2	P23201	ILE	1373	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	ARG	187		
+spa2	P23201	GLU	1312			ste5	P32917	ARG	187		
+spa2	P23201	LYS	50	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	LYS	192		
+spa2	P23201	GLU	1312			ste5	P32917	LYS	192		
+spa2	P23201	LYS	50	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	HIS	700	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	LEU	49	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	HIS	700	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	LEU	49	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	HIS	698	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	ALA	46	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	HIS	700	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	LEU	49	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	ASP	608	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	ARG	119	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	ASP	608	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	ALA	46	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	GLN	42			ste5	P32917	ASN	696	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	ASN	531		
+spa2	P23201	LEU	353	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	ALA	468		
+spa2	P23201	LEU	353	GIT, Spa2 homology (SHD) domain	IPR013724	ste5	P32917	GLU	467		
+spa2	P23201	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	LEU	593		
+spa2	P23201	ASP	1396	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	ASN	531		
+spa2	P23201	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	THR	594	Protein Ste5, Fus3-binding domain	IPR021106
+spa2	P23201	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	GLN	590		
+spa2	P23201	GLN	1392	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	THR	543		
+spa2	P23201	ILE	1434	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	ste5	P32917	THR	594	Protein Ste5, Fus3-binding domain	IPR021106

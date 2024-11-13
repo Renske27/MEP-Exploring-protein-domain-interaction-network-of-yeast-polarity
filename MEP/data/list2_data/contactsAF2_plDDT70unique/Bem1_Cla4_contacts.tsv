@@ -1,0 +1,9 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bem1	P29366	GLU	191	SH3 domain	IPR001452	Cla4	P48562	PRO	20		
+Bem1	P29366	TRP	192	SH3 domain	IPR001452	Cla4	P48562	PRO	20		
+Bem1	P29366	TRP	192	SH3 domain	IPR001452	Cla4	P48562	ALA	21		
+Bem1	P29366	GLU	191	SH3 domain	IPR001452	Cla4	P48562	ALA	21		
+Bem1	P29366	LYS	196	SH3 domain	IPR001452	Cla4	P48562	TYR	812	Protein kinase domain	IPR000719
+Bem1	P29366	LYS	545	PB1 domain	IPR000270	Cla4	P48562	ASN	654	Protein kinase domain	IPR000719
+Bem1	P29366	LYS	482	PB1 domain	IPR000270	Cla4	P48562	GLU	653	Protein kinase domain	IPR000719
+Bem1	P29366	LYS	482	PB1 domain	IPR000270	Cla4	P48562	ASP	650	Protein kinase domain	IPR000719

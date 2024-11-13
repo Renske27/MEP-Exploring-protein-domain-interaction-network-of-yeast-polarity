@@ -1,0 +1,942 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Nrp1	P32770	OG1	2667	THR	334			Nrp1	P32770	CA	7574	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2667	THR	334			Nrp1	P32770	C	7575	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2667	THR	334			Nrp1	P32770	N	7577	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2667	THR	334			Nrp1	P32770	O	7576	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	1813	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	NH1	7592	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	1811	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	NH1	7592	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	1813	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7581	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	1811	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7581	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	1813	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7579	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	1811	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7579	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	1811	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7584	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	1801	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	1812	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	NH1	7592	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	1801	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7584	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2339	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	NH1	7592	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2339	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2335	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2336	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2341	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2342	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2338	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	1794	SER	225			Nrp1	P32770	O	7576	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	1792	SER	225			Nrp1	P32770	O	7576	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	1813	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7576	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	1811	ILE	227	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7576	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG	1796	SER	225			Nrp1	P32770	O	7576	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	1797	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7576	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	1793	SER	225			Nrp1	P32770	O	7576	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2692	ASP	338			Nrp1	P32770	NH2	7593	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OD1	2693	ASP	338			Nrp1	P32770	NH2	7593	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OD1	2693	ASP	338			Nrp1	P32770	CG2	7550	THR	247	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2686	LEU	337			Nrp1	P32770	CZ	7594	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2686	LEU	337			Nrp1	P32770	NE	7591	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2686	LEU	337			Nrp1	P32770	CD	7590	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2686	LEU	337			Nrp1	P32770	NH2	7593	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OD1	2693	ASP	338			Nrp1	P32770	CZ	7594	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2684	LEU	337			Nrp1	P32770	NH2	7593	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2682	LEU	337			Nrp1	P32770	NH2	7593	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2684	LEU	337			Nrp1	P32770	CZ	7594	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2682	LEU	337			Nrp1	P32770	CZ	7594	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2685	LEU	337			Nrp1	P32770	CZ	7594	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2684	LEU	337			Nrp1	P32770	NE	7591	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2685	LEU	337			Nrp1	P32770	NE	7591	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2685	LEU	337			Nrp1	P32770	CD	7590	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7595	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7596	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ2	2065	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7510	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ3	2066	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7510	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CH2	2064	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7510	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2337	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7586	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2337	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7596	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2041	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2040	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2038	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2038	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2041	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2041	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2038	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2340	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ3	2066	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2337	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7510	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2340	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2337	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ2	2065	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7513	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ2	2065	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7512	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ2	2065	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7511	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ2	2065	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7508	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ3	2066	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7511	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CH2	2064	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7513	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CH2	2064	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7512	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CH2	2064	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7511	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CH2	2064	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7508	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2042	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7512	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2040	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7512	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7512	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7511	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE2	7622	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2042	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7480	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7480	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE2	7622	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7479	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7480	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE2	7622	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE2	2061	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7513	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE2	2061	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7511	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE1	2063	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7513	GLU	243	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2754	PRO	346			Nrp1	P32770	OE1	8353	GLN	349		
+Nrp1	P32770	CB	2752	PRO	346			Nrp1	P32770	OE1	8353	GLN	349		
+Nrp1	P32770	CB	2752	PRO	346			Nrp1	P32770	CD	8351	GLN	349		
+Nrp1	P32770	CZ2	2065	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7590	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ3	2066	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7590	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CH2	2064	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7590	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ3	2066	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7589	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CH2	2064	TRP	257	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7589	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2986	CYS	375	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	ND2	8375	ASN	352		
+Nrp1	P32770	C	2990	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	ND2	8375	ASN	352		
+Nrp1	P32770	O	2992	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	ND2	8375	ASN	352		
+Nrp1	P32770	O	2992	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CG	8374	ASN	352		
+Nrp1	P32770	O	2992	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CB	8372	ASN	352		
+Nrp1	P32770	CA	3017	SER	379	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	ND2	8375	ASN	352		
+Nrp1	P32770	N	3016	SER	379	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	ND2	8375	ASN	352		
+Nrp1	P32770	N	3016	SER	379	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CG	8374	ASN	352		
+Nrp1	P32770	N	3016	SER	379	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	OD1	8376	ASN	352		
+Nrp1	P32770	CB	3019	SER	379	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	ND2	8375	ASN	352		
+Nrp1	P32770	OG	3021	SER	379	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	ND2	8375	ASN	352		
+Nrp1	P32770	OG	3021	SER	379	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CG	8374	ASN	352		
+Nrp1	P32770	OG	3021	SER	379	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	OD1	8376	ASN	352		
+Nrp1	P32770	O	2665	THR	334			Nrp1	P32770	NH2	7593	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2663	THR	334			Nrp1	P32770	NH2	7593	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2666	THR	334			Nrp1	P32770	NH2	7593	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2666	THR	334			Nrp1	P32770	CG2	7550	THR	247	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2666	THR	334			Nrp1	P32770	O	7549	THR	247	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2662	THR	334			Nrp1	P32770	NH2	7593	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2684	LEU	337			Nrp1	P32770	NH1	7592	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2682	LEU	337			Nrp1	P32770	NH1	7592	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2685	LEU	337			Nrp1	P32770	NH1	7592	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2337	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2339	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7589	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2339	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7587	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2339	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7586	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2336	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7586	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2336	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7595	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2336	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7596	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2341	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7586	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2341	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7595	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2341	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7596	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2342	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7596	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2338	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7596	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2335	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2336	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2336	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2338	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2338	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2338	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1787	LYS	224			Nrp1	P32770	OE1	7986	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1788	LYS	224			Nrp1	P32770	OE1	7986	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE	1789	LYS	224			Nrp1	P32770	OE1	7986	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NZ	1790	LYS	224			Nrp1	P32770	OE1	7986	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	1785	LYS	224			Nrp1	P32770	OE1	7986	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2371	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7987	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2371	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7985	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2369	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7987	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2369	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7985	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2373	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7986	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2371	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7986	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NZ	1790	LYS	224			Nrp1	P32770	CD	7985	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NZ	1790	LYS	224			Nrp1	P32770	CG	7984	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2371	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7984	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2381	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7952	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2372	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2365	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2372	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2372	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2365	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2365	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2370	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2378	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2363	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2363	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7962	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2368	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2368	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7962	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2363	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2378	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2363	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2368	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2365	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2370	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2388	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7958	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2380	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7958	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2380	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7958	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7951	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7958	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7967	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2389	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2389	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2389	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2382	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2388	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2388	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2380	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2388	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2380	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2370	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2378	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7958	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2378	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2363	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2368	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2368	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7960	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2379	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2379	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7958	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2379	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2381	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7958	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2381	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7951	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2386	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7952	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2386	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7953	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2369	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2369	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2363	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7987	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2368	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7987	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2368	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7985	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2369	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7959	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2386	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7984	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2386	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7982	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2368	HIS	296	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7982	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE	1804	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7583	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE	1804	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7565	TYR	249	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NZ	1805	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7565	TYR	249	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	1800	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7580	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	1800	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7582	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1802	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7580	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1803	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7580	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1802	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7582	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1803	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7582	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1803	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7994	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1802	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7583	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1803	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7583	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NZ	1805	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7994	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2354	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7993	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2356	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7993	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2362	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7988	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2343	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2343	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7918	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2352	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2395	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2352	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7918	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2395	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7918	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7971	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2366	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2364	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2361	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2354	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2362	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2355	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7993	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2364	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7988	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7988	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7989	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7990	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7995	LEU	303	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2357	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7600	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2359	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7544	PHE	246	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2359	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7542	PHE	246	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2359	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	8202	LEU	329		
+Nrp1	P32770	CG	2357	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7544	PHE	246	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2357	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7542	PHE	246	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7598	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2037	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7598	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2037	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7904	VAL	291	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2358	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7903	VAL	291	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2358	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	8203	LEU	329		
+Nrp1	P32770	OE1	2360	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7903	VAL	291	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2360	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	8203	LEU	329		
+Nrp1	P32770	CD	2358	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7922	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2360	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7922	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2358	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7904	VAL	291	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7600	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2037	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7600	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2357	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7920	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2357	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7922	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2357	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7904	VAL	291	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2359	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7904	VAL	291	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2359	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7901	VAL	291	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2358	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7544	PHE	246	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2358	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7542	PHE	246	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2358	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	8202	LEU	329		
+Nrp1	P32770	OE1	2360	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	8202	LEU	329		
+Nrp1	P32770	NE2	2359	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7903	VAL	291	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2359	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	8203	LEU	329		
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7601	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7600	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2353	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7600	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2343	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7600	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2352	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7600	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7598	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2353	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7920	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2360	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7993	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2343	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7598	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2352	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7598	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2352	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7920	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2355	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7920	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2355	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7922	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2360	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7391	LEU	228	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2359	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	8201	LEU	329		
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7582	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2353	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7582	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2361	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7582	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2354	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7582	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2356	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7582	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2354	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7994	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2356	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7994	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2362	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7994	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2354	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7991	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2356	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7991	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2362	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7991	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	1800	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2343	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7582	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2364	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7991	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7991	VAL	302	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2357	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7540	PHE	246	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2359	GLN	294	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7540	PHE	246	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NZ	1805	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7986	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE	1804	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7987	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NZ	1805	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7987	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NZ	1805	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7985	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7981	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2361	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2362	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2362	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2362	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2362	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7962	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2365	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2395	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2363	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2395	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2366	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2366	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7962	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2364	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2364	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7962	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7962	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2395	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7967	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2366	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7960	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2366	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7967	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2364	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7960	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7960	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7967	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7979	GLU	301	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2395	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7968	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2366	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7968	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7969	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OG1	2367	THR	295	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7968	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7623	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2037	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7623	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7618	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7621	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7619	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2037	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7621	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2037	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7619	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1802	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7575	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1802	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7576	GLY	250	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	1798	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	1799	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2399	ALA	299	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2397	ALA	299	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2396	ALA	299	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2396	ALA	299	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2396	ALA	299	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7963	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2344	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2344	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2348	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2346	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2346	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	1800	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7578	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1802	LYS	226	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7578	VAL	251	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7584	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2343	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7588	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2342	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2344	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2342	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7918	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2346	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7966	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2341	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7598	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2342	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7598	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2338	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7598	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7585	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7586	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7595	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2345	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7596	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2343	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7586	ARG	252	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2343	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7595	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2343	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7596	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7601	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7600	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7596	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7598	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7599	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2034	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7623	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE1	7621	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2036	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7619	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ	7623	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	7620	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	7620	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7618	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7618	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2632	LEU	329			Nrp1	P32770	NE2	7930	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2630	LEU	329			Nrp1	P32770	NE2	7930	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2631	LEU	329			Nrp1	P32770	NE2	7930	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2333	VAL	291	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7607	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2048	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7607	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2050	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7607	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2052	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7607	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	1910	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	8352	GLN	349		
+Nrp1	P32770	NE2	2781	GLN	349			Nrp1	P32770	NE2	8352	GLN	349		
+Nrp1	P32770	C	2922	ASN	368	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8569	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	OG	2919	SER	367	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8569	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	OG	2919	SER	367	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE1	8567	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CB	2917	SER	367	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE1	8567	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	C	2916	SER	367	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8569	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	O	2918	SER	367	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8569	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	C	2916	SER	367	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE1	8567	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	O	2918	SER	367	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE1	8567	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	NH1	2967	ARG	372	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	NH2	8539	ARG	372	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2969	ARG	372	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	NH2	8539	ARG	372	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	NH2	2968	ARG	372	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	NH2	8539	ARG	372	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2937	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	NE	8537	ARG	372	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2935	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	NH2	8539	ARG	372	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2937	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	NH2	8539	ARG	372	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	NH2	2968	ARG	372	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8540	ARG	372	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CG	2933	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8568	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	N	2928	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8568	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	N	2928	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8569	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CG	2933	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8566	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2938	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8568	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2935	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8568	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2938	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8566	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2935	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8566	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2937	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8566	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE1	2911	PHE	366	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8483	PHE	366	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2913	PHE	366	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE1	8482	PHE	366	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2913	PHE	366	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8483	PHE	366	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2910	PHE	366	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8483	PHE	366	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2912	PHE	366	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8483	PHE	366	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2912	PHE	366	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8481	PHE	366	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8506	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8508	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CG	8504	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2997	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8506	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2997	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CG	8504	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2998	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD1	8505	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2998	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE1	8507	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8509	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD1	8505	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE1	8507	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CG	2993	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE1	8507	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2997	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8509	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2997	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD1	8505	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2997	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE1	8507	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2997	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CB	8502	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2997	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	N	8499	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2998	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	N	8499	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2998	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	C	8493	ASN	368	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2998	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CA	8492	ASN	368	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2998	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	O	8489	SER	367	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE1	2996	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	O	8489	SER	367	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2998	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	C	8487	SER	367	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE1	2996	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	C	8487	SER	367	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2998	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	N	8491	ASN	368	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE1	2911	PHE	366	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8484	PHE	366	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2913	PHE	366	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8484	PHE	366	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2912	PHE	366	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8484	PHE	366	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	NH2	2968	ARG	372	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8506	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	NH2	2968	ARG	372	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8508	PHE	369	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE2	2997	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	NH1	8538	ARG	372	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2998	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	NH1	8538	ARG	372	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	ND2	2804	ASN	352			Nrp1	P32770	C	8561	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	OD1	2805	ASN	352			Nrp1	P32770	OG	8592	SER	379	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CG	2803	ASN	352			Nrp1	P32770	OG	8592	SER	379	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	ND2	2804	ASN	352			Nrp1	P32770	OG	8592	SER	379	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	OD1	2805	ASN	352			Nrp1	P32770	CB	8590	SER	379	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	ND2	2804	ASN	352			Nrp1	P32770	CB	8590	SER	379	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	ND2	2804	ASN	352			Nrp1	P32770	CA	8588	SER	379	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	OD1	2805	ASN	352			Nrp1	P32770	N	8587	SER	379	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CG	2803	ASN	352			Nrp1	P32770	N	8587	SER	379	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	ND2	2804	ASN	352			Nrp1	P32770	N	8587	SER	379	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	ND2	2804	ASN	352			Nrp1	P32770	O	8557	CYS	375	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CB	2801	ASN	352			Nrp1	P32770	O	8563	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CG	2803	ASN	352			Nrp1	P32770	O	8563	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	ND2	2804	ASN	352			Nrp1	P32770	O	8563	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD1	2934	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8568	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CD1	2934	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8566	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE1	2936	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CE2	8568	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CE1	2936	PHE	369	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CD2	8566	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CG1	2332	VAL	291	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7930	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2330	VAL	291	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7930	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2333	VAL	291	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7930	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	1973	PHE	246	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7930	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	1971	PHE	246	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7930	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2400	ALA	299	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2408	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2391	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2392	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7932	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2408	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2408	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2408	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2391	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2391	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7932	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2422	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7927	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2420	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7927	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2420	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7933	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2418	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2420	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2417	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2410	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2418	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2420	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2420	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7932	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2417	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2417	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2410	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2410	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2391	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7933	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2392	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7933	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2411	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2411	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2413	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2413	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2392	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7934	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2392	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7936	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2403	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2403	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2403	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2408	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7956	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2408	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7955	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2409	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2409	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2409	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2409	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2413	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7956	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2413	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7955	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	NZ	7361	LYS	224		
+Nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	NZ	7361	LYS	224		
+Nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7939	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7942	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7939	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7942	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7944	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	7945	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2392	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7940	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2392	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7941	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2392	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7943	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2392	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7939	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2413	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7939	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7374	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	1994	TYR	249	RNA recognition motif domain	IPR000504	Nrp1	P32770	NZ	7376	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	1994	TYR	249	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE	7375	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	NZ	7376	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE	7375	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7359	LYS	224		
+Nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7356	LYS	224		
+Nrp1	P32770	CG2	2423	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2412	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2423	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7927	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2423	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7933	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE	7360	LYS	224		
+Nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	NZ	7376	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7359	LYS	224		
+Nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7356	LYS	224		
+Nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7359	LYS	224		
+Nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7356	LYS	224		
+Nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7939	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7942	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7358	LYS	224		
+Nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7358	LYS	224		
+Nrp1	P32770	CE1	2349	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7931	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2349	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7929	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2349	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7608	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2393	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7917	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7917	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2393	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	7919	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	7919	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2393	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7915	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7915	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2349	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7928	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2349	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7926	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2349	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7924	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2349	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7916	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2349	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7923	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2349	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7914	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7372	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7370	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7909	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7910	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2017	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7906	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2017	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7910	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2017	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7908	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2015	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7906	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2015	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7910	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2015	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7908	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2027	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7605	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2027	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2027	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2030	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7605	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7605	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7909	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2024	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7909	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7909	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2015	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7909	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7909	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2017	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7909	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2017	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7905	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2030	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7608	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7608	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2024	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7608	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2024	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7913	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2030	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7916	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2024	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7916	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2015	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7916	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2030	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7914	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2024	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7912	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2015	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7912	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7907	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2024	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7907	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7907	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2015	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7907	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2017	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7912	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2017	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7907	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2393	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7970	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7970	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7377	ILE	227	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2009	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7371	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2007	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7371	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2011	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7371	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2012	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7371	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2004	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7371	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2005	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7371	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2005	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7369	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	1935	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	1937	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2013	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7911	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2016	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7911	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2023	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7911	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2016	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2016	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ3	7637	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH2	2022	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ3	7637	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2014	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7911	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2019	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	8256	LEU	337		
+Nrp1	P32770	NE	2020	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	8256	LEU	337		
+Nrp1	P32770	C	1936	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	1938	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2018	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2018	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ3	7637	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2019	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2019	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ3	7637	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE	2020	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7911	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH2	2022	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	8256	LEU	337		
+Nrp1	P32770	CZ	2023	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	8256	LEU	337		
+Nrp1	P32770	NH1	2021	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7890	PHE	290	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH1	2021	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7383	ILE	227	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH1	2021	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7893	PHE	290	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2007	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7382	ILE	227	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2004	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7382	ILE	227	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2005	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7382	ILE	227	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2005	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7368	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2006	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7384	ILE	227	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2004	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7384	ILE	227	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2005	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7384	ILE	227	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH1	2021	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7911	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH2	2022	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7890	PHE	290	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2023	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7890	PHE	290	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2011	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7913	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7371	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7369	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	1969	PHE	246	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7928	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2011	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7924	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1968	PHE	246	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7916	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2011	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7916	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2011	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7925	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2011	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7923	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2011	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7914	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2011	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7372	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2007	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7372	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2005	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7370	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2013	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7916	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2014	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7912	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2013	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7912	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2013	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7372	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2029	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7605	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2027	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2027	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ3	7637	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2015	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ3	7637	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2015	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7911	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ3	7637	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2017	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ3	7637	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2017	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7911	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH2	2022	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7910	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2023	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7910	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2391	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7926	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2391	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7925	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2422	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7931	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2422	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7929	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2393	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7934	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2393	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7936	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7934	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7936	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2422	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7928	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2422	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7926	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2422	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7925	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2420	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7925	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2423	VAL	302	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7925	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2011	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7927	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2012	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7927	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2009	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7927	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2012	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7374	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2012	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7373	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2004	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7373	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2005	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7373	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2012	VAL	251	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE	7375	LYS	226	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	1978	THR	247	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	8237	THR	334		
+Nrp1	P32770	N	2002	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	8237	THR	334		
+Nrp1	P32770	CB	1977	THR	247	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	8257	LEU	337		
+Nrp1	P32770	CG2	1979	THR	247	RNA recognition motif domain	IPR000504	Nrp1	P32770	OD1	8264	ASP	338		
+Nrp1	P32770	CG2	1979	THR	247	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	8257	LEU	337		
+Nrp1	P32770	CA	2003	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	8237	THR	334		
+Nrp1	P32770	C	2004	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	8237	THR	334		
+Nrp1	P32770	CA	2003	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	8238	THR	334		
+Nrp1	P32770	C	2004	GLY	250	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	8238	THR	334		
+Nrp1	P32770	CZ	2023	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	8255	LEU	337		
+Nrp1	P32770	CZ	2023	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	8253	LEU	337		
+Nrp1	P32770	OG1	1980	THR	247	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	8257	LEU	337		
+Nrp1	P32770	CG	2018	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	8257	LEU	337		
+Nrp1	P32770	CD	2019	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	8257	LEU	337		
+Nrp1	P32770	NE	2020	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	8257	LEU	337		
+Nrp1	P32770	CD	2019	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	8255	LEU	337		
+Nrp1	P32770	NE	2020	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	8255	LEU	337		
+Nrp1	P32770	NE	2020	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	8253	LEU	337		
+Nrp1	P32770	NH1	2021	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	8253	LEU	337		
+Nrp1	P32770	NE2	1909	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7481	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	1909	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	1909	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	1909	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7613	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	1941	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	8325	PRO	346		
+Nrp1	P32770	OE2	1942	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ2	7636	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	1942	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE1	7634	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	1942	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE2	7632	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	1942	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	8325	PRO	346		
+Nrp1	P32770	CG	1939	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ2	7636	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1940	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ2	7636	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1940	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE2	7632	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	1941	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1939	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7612	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	1941	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7612	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1940	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7612	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	1941	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7617	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	1941	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	8323	PRO	346		
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7613	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7613	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7614	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2027	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2027	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7613	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7613	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7614	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7612	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2027	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7612	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7612	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7612	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7612	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2028	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE3	7633	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1939	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1940	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CH2	7635	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH2	2022	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	7631	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH2	2022	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE3	7633	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2019	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CE3	7633	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	1937	GLU	243	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ2	7636	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2018	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ2	7636	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2019	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CZ2	7636	TRP	257	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH2	2022	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7892	PHE	290	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NH1	2021	ARG	252	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7892	PHE	290	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2631	LEU	329			Nrp1	P32770	CD	7929	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2332	VAL	291	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7931	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG1	2332	VAL	291	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7929	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	1971	PHE	246	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7929	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	1971	PHE	246	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7928	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2048	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2045	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2047	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2049	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2047	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2049	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2049	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE1	2050	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2052	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE2	2051	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2052	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7605	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE2	2051	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE2	2051	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD2	2049	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE2	2051	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	1910	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7481	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1908	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7481	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2781	GLN	349			Nrp1	P32770	OE1	7481	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	2781	GLN	349			Nrp1	P32770	CB	8323	PRO	346		
+Nrp1	P32770	CE1	2996	PHE	376	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	OG	8490	SER	367	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CZ	2351	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7930	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2334	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7607	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2328	VAL	291	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG1	7607	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2752	PRO	346			Nrp1	P32770	NE2	8352	GLN	349		
+Nrp1	P32770	OE1	1910	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7479	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	1910	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7480	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	1908	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7480	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2920	ASN	368	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8569	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CA	2921	ASN	368	Zinc finger, RanBP2-type	IPR001876	Nrp1	P32770	CZ	8569	PHE	376	Zinc finger, RanBP2-type	IPR001876
+Nrp1	P32770	CG2	2406	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7956	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2406	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7955	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2404	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7956	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2404	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7955	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2398	ALA	299	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2397	ALA	299	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2402	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2401	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2396	ALA	299	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2402	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2406	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2404	THR	300	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	1817	LEU	228	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7931	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	1820	LEU	228	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7931	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	1819	LEU	228	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7931	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2336	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7608	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2334	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7608	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2338	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7608	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE2	2350	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7931	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CE2	2350	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7929	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2347	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7608	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2347	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7913	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2347	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7915	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2351	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7931	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2351	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7929	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2351	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7608	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2347	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7926	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2347	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7924	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2347	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7916	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2347	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7923	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2351	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7928	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CZ	2351	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7926	GLN	294	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD1	2347	PHE	293	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7914	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2338	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7605	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2338	VAL	292	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2043	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2042	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2042	PHE	256	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2041	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2041	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2041	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2040	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2040	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2040	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2040	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2039	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2038	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2038	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2038	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2038	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2031	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	O	7606	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7604	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7603	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7609	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7597	PRO	253	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2025	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2026	PRO	253	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7602	VAL	254	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2038	GLY	255	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7613	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7614	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2035	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7616	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7610	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7611	GLY	255	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2033	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7613	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	1909	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7479	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	NE2	1909	GLN	239	RNA recognition motif domain	IPR000504	Nrp1	P32770	NE2	7480	GLN	239	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2391	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE1	7965	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	O	2391	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD	7964	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG	2392	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7961	GLU	298	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2389	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2388	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG2	7937	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2389	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2389	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7932	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2389	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2388	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7935	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2388	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2388	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	C	2380	GLU	297	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	OG1	7938	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	OE2	7957	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7934	THR	295	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2388	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7949	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7949	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	N	2387	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7950	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7949	GLU	297	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	C	7941	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CB	2390	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7939	HIS	296	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2393	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7967	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CD	2393	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7968	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE1	2394	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7968	ALA	299	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2395	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CB	7915	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2395	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7917	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	OE2	2395	GLU	298	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	7919	PHE	293	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2037	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	N	7905	VAL	292	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CG2	2037	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CA	7899	VAL	291	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD2	7620	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CG	7618	PHE	256	RNA recognition motif domain	IPR000504
+Nrp1	P32770	CA	2032	VAL	254	RNA recognition motif domain	IPR000504	Nrp1	P32770	CD1	7619	PHE	256	RNA recognition motif domain	IPR000504

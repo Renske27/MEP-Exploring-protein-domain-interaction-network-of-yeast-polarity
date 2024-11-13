@@ -1,0 +1,19 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rho1	P06780	ASN	46	Small GTP-binding domain	IPR005225	Spa2	P23201	GLN	1429	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	VAL	48	Small GTP-binding domain	IPR005225	Spa2	P23201	LYS	1425	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	LEU	93	Small GTP-binding domain	IPR005225	Spa2	P23201	LYS	90		
+Rho1	P06780	GLU	139	Small GTP-binding domain	IPR005225	Spa2	P23201	HIS	88		
+Rho1	P06780	LEU	93	Small GTP-binding domain	IPR005225	Spa2	P23201	HIS	88		
+Rho1	P06780	GLN	135	Small GTP-binding domain	IPR005225	Spa2	P23201	HIS	88		
+Rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225	Spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	VAL	43	Small GTP-binding domain	IPR005225	Spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	Spa2	P23201	ALA	1439	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	Spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	PHE	44	Small GTP-binding domain	IPR005225	Spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	Spa2	P23201	LYS	1344	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	Spa2	P23201	LEU	1340	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	GLU	69	Small GTP-binding domain	IPR005225	Spa2	P23201	LYS	47	GIT, Spa2 homology (SHD) domain	IPR013724
+Rho1	P06780	GLU	102	Small GTP-binding domain	IPR005225	Spa2	P23201	LYS	50	GIT, Spa2 homology (SHD) domain	IPR013724
+Rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225	Spa2	P23201	LYS	1440	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	ASP	70	Small GTP-binding domain	IPR005225	Spa2	P23201	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rho1	P06780	ASP	95	Small GTP-binding domain	IPR005225	Spa2	P23201	LYS	90		

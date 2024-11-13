@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc28	P00546	GLY	50	Protein kinase domain	IPR000719	rax1	Q08760	ARG	67	RGS domain	IPR016137
+cdc28	P00546	SER	46	Protein kinase domain	IPR000719	rax1	Q08760	ASN	71	RGS domain	IPR016137
+cdc28	P00546	ARG	57	Protein kinase domain	IPR000719	rax1	Q08760	TYR	43	RGS domain	IPR016137
+cdc28	P00546	THR	54	Protein kinase domain	IPR000719	rax1	Q08760	VAL	60	RGS domain	IPR016137
+cdc28	P00546	SER	53	Protein kinase domain	IPR000719	rax1	Q08760	LEU	29	RGS domain	IPR016137
+cdc28	P00546	THR	54	Protein kinase domain	IPR000719	rax1	Q08760	THR	64	RGS domain	IPR016137
+cdc28	P00546	LYS	187	Protein kinase domain	IPR000719	rax1	Q08760	HIS	182	RGS domain	IPR016137

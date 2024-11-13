@@ -1,0 +1,26 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp3	P47117	PRO	108	Actin family	IPR004000	spa2	P23201	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+arp3	P47117	GLY	107	Actin family	IPR004000	spa2	P23201	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+arp3	P47117	PRO	108	Actin family	IPR004000	spa2	P23201	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+arp3	P47117	TYR	110	Actin family	IPR004000	spa2	P23201	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+arp3	P47117	LEU	112	Actin family	IPR004000	spa2	P23201	GLN	1392	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+arp3	P47117	SER	111	Actin family	IPR004000	spa2	P23201	ASP	1396	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+arp3	P47117	SER	105	Actin family	IPR004000	spa2	P23201	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+arp3	P47117	GLU	276	Actin family	IPR004000	spa2	P23201	SER	183		
+arp3	P47117	PRO	271	Actin family	IPR004000	spa2	P23201	TRP	181		
+arp3	P47117	TYR	268	Actin family	IPR004000	spa2	P23201	SER	183		
+arp3	P47117	LEU	240	Actin family	IPR004000	spa2	P23201	PRO	1314		
+arp3	P47117	ARG	368	Actin family	IPR004000	spa2	P23201	TRP	181		
+arp3	P47117	ARG	371	Actin family	IPR004000	spa2	P23201	TRP	181		
+arp3	P47117	ARG	371	Actin family	IPR004000	spa2	P23201	ILE	179		
+arp3	P47117	ARG	367	Actin family	IPR004000	spa2	P23201	TRP	181		
+arp3	P47117	ASP	364	Actin family	IPR004000	spa2	P23201	TRP	181		
+arp3	P47117	ASN	379	Actin family	IPR004000	spa2	P23201	PRO	174		
+arp3	P47117	SER	375	Actin family	IPR004000	spa2	P23201	ALA	177		
+arp3	P47117	ARG	371	Actin family	IPR004000	spa2	P23201	ALA	177		
+arp3	P47117	SER	375	Actin family	IPR004000	spa2	P23201	MET	176		
+arp3	P47117	ARG	247	Actin family	IPR004000	spa2	P23201	GLU	1312		
+arp3	P47117	PRO	232	Actin family	IPR004000	spa2	P23201	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+arp3	P47117	PRO	232	Actin family	IPR004000	spa2	P23201	ARG	1379	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+arp3	P47117	GLY	225	Actin family	IPR004000	spa2	P23201	GLN	42		
+arp3	P47117	ASP	237	Actin family	IPR004000	spa2	P23201	GLN	1377	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

@@ -1,0 +1,4 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cla4	P48562	ASN	770	Protein kinase domain	IPR000719	cdc24	P11433	THR	219	Calponin homology domain	IPR001715
+cla4	P48562	ASN	770	Protein kinase domain	IPR000719	cdc24	P11433	SER	221	Calponin homology domain	IPR001715
+cla4	P48562	ASP	772	Protein kinase domain	IPR000719	cdc24	P11433	THR	219	Calponin homology domain	IPR001715

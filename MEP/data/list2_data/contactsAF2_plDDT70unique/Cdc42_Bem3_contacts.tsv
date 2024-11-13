@@ -1,0 +1,56 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc42	P19073	LEU	67	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	737	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	VAL	33	Small GTP-binding domain	IPR005225	Bem3	P32873	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	VAL	33	Small GTP-binding domain	IPR005225	Bem3	P32873	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	PRO	34	Small GTP-binding domain	IPR005225	Bem3	P32873	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	TYR	64	Small GTP-binding domain	IPR005225	Bem3	P32873	ILE	1125	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	TYR	64	Small GTP-binding domain	IPR005225	Bem3	P32873	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	TYR	64	Small GTP-binding domain	IPR005225	Bem3	P32873	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	PRO	34	Small GTP-binding domain	IPR005225	Bem3	P32873	ASN	1080	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	Bem3	P32873	ASN	1080	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	PRO	34	Small GTP-binding domain	IPR005225	Bem3	P32873	ARG	950	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	VAL	33	Small GTP-binding domain	IPR005225	Bem3	P32873	ARG	950	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	VAL	33	Small GTP-binding domain	IPR005225	Bem3	P32873	ASN	1080	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	Bem3	P32873	ARG	950	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLN	61	Small GTP-binding domain	IPR005225	Bem3	P32873	ARG	950	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	Bem3	P32873	LYS	1075	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	Bem3	P32873	GLU	946	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	Bem3	P32873	GLY	947	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	LYS	128	Small GTP-binding domain	IPR005225	Bem3	P32873	GLU	945	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	Bem3	P32873	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	Bem3	P32873	ARG	1007	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLU	62	Small GTP-binding domain	IPR005225	Bem3	P32873	LYS	1003	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLU	62	Small GTP-binding domain	IPR005225	Bem3	P32873	ARG	1007	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	Bem3	P32873	LYS	1003	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	Bem3	P32873	THR	1088	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ARG	133	Small GTP-binding domain	IPR005225	Bem3	P32873	GLU	981	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	Bem3	P32873	VAL	1084	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ALA	41	Small GTP-binding domain	IPR005225	Bem3	P32873	LEU	692	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	ASN	39	Small GTP-binding domain	IPR005225	Bem3	P32873	ASN	691	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	ASN	39	Small GTP-binding domain	IPR005225	Bem3	P32873	PRO	690	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	THR	52	Small GTP-binding domain	IPR005225	Bem3	P32873	PRO	693	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	THR	3	Small GTP-binding domain	IPR005225	Bem3	P32873	PRO	693	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	ALA	41	Small GTP-binding domain	IPR005225	Bem3	P32873	PRO	693	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	PHE	56	Small GTP-binding domain	IPR005225	Bem3	P32873	PRO	690	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	GLY	54	Small GTP-binding domain	IPR005225	Bem3	P32873	LEU	692	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	LEU	70	Small GTP-binding domain	IPR005225	Bem3	P32873	LEU	688	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	SER	71	Small GTP-binding domain	IPR005225	Bem3	P32873	LEU	688	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	PRO	73	Small GTP-binding domain	IPR005225	Bem3	P32873	GLU	687	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	SER	74	Small GTP-binding domain	IPR005225	Bem3	P32873	GLU	687	Pleckstrin homology domain	IPR001849
+Cdc42	P19073	GLY	60	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	952	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLY	12	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	952	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ASP	11	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	952	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLU	95	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	955	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ASN	92	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	955	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	LYS	96	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	952	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLU	91	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	954	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	PRO	88	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	954	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ARG	133	Small GTP-binding domain	IPR005225	Bem3	P32873	TYR	992	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLU	95	Small GTP-binding domain	IPR005225	Bem3	P32873	THR	956	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLY	12	Small GTP-binding domain	IPR005225	Bem3	P32873	LEU	951	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ASN	92	Small GTP-binding domain	IPR005225	Bem3	P32873	GLY	953	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ASN	92	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	954	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ALA	13	Small GTP-binding domain	IPR005225	Bem3	P32873	LEU	951	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	ALA	13	Small GTP-binding domain	IPR005225	Bem3	P32873	ARG	950	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLY	12	Small GTP-binding domain	IPR005225	Bem3	P32873	ARG	950	Rho GTPase-activating protein domain	IPR000198
+Cdc42	P19073	GLU	62	Small GTP-binding domain	IPR005225	Bem3	P32873	SER	952	Rho GTPase-activating protein domain	IPR000198

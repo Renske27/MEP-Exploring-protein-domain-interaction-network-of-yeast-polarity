@@ -1,0 +1,14 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cla4	P48562	N	6125	THR	785	Protein kinase domain	IPR000719	Axl2	P38928	OD1	7839	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	CG1	6313	VAL	808	Protein kinase domain	IPR000719	Axl2	P38928	CB	8246	PRO	209	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	NZ	6147	LYS	787	Protein kinase domain	IPR000719	Axl2	P38928	CG2	7855	VAL	161	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	CE	6146	LYS	787	Protein kinase domain	IPR000719	Axl2	P38928	CG2	7855	VAL	161	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	NZ	6147	LYS	787	Protein kinase domain	IPR000719	Axl2	P38928	OG1	8237	THR	207	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	CE	6146	LYS	787	Protein kinase domain	IPR000719	Axl2	P38928	OG1	8237	THR	207	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	OG1	6131	THR	785	Protein kinase domain	IPR000719	Axl2	P38928	CG	7837	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	OG1	6131	THR	785	Protein kinase domain	IPR000719	Axl2	P38928	ND2	7838	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	OG1	6131	THR	785	Protein kinase domain	IPR000719	Axl2	P38928	OD1	7839	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	CG2	6130	THR	785	Protein kinase domain	IPR000719	Axl2	P38928	ND2	7838	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	CB	6128	THR	785	Protein kinase domain	IPR000719	Axl2	P38928	CG	7837	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	CB	6128	THR	785	Protein kinase domain	IPR000719	Axl2	P38928	ND2	7838	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Cla4	P48562	CB	6128	THR	785	Protein kinase domain	IPR000719	Axl2	P38928	OD1	7839	ASN	159	Dystroglycan-type cadherin-like	IPR006644

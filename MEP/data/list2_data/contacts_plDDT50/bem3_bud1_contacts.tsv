@@ -1,0 +1,78 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	ND2	5362	ASN	691	Pleckstrin homology domain	IPR001849	bud1	P13856	ND2	10001	ASN	153	Small GTP-binding domain	IPR005225
+bem3	P32873	ND2	5362	ASN	691	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	9999	ASN	153	Small GTP-binding domain	IPR005225
+bem3	P32873	ND2	5362	ASN	691	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	10000	ASN	153	Small GTP-binding domain	IPR005225
+bem3	P32873	CG	5360	ASN	691	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	10000	ASN	153	Small GTP-binding domain	IPR005225
+bem3	P32873	OD1	5445	ASN	701	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	10000	ASN	153	Small GTP-binding domain	IPR005225
+bem3	P32873	NH2	5670	ARG	729	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	10022	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	NH2	5670	ARG	729	Pleckstrin homology domain	IPR001849	bud1	P13856	CD	10023	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	NH2	5670	ARG	729	Pleckstrin homology domain	IPR001849	bud1	P13856	CB	10021	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	5640	SER	726	Pleckstrin homology domain	IPR001849	bud1	P13856	CA	9995	ASN	153	Small GTP-binding domain	IPR005225
+bem3	P32873	CA	5637	SER	726	Pleckstrin homology domain	IPR001849	bud1	P13856	CD	10023	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	5640	SER	726	Pleckstrin homology domain	IPR001849	bud1	P13856	CD	10023	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	5640	SER	726	Pleckstrin homology domain	IPR001849	bud1	P13856	N	9994	ASN	153	Small GTP-binding domain	IPR005225
+bem3	P32873	OG	5641	SER	726	Pleckstrin homology domain	IPR001849	bud1	P13856	N	9994	ASN	153	Small GTP-binding domain	IPR005225
+bem3	P32873	CG	4576	ASN	594	Phox homology	IPR001683	bud1	P13856	CB	9973	LEU	150	Small GTP-binding domain	IPR005225
+bem3	P32873	OD1	4577	ASN	594	Phox homology	IPR001683	bud1	P13856	CB	9973	LEU	150	Small GTP-binding domain	IPR005225
+bem3	P32873	OD1	4577	ASN	594	Phox homology	IPR001683	bud1	P13856	O	9972	LEU	150	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	5640	SER	726	Pleckstrin homology domain	IPR001849	bud1	P13856	O	9980	ARG	151	Small GTP-binding domain	IPR005225
+bem3	P32873	OG	5641	SER	726	Pleckstrin homology domain	IPR001849	bud1	P13856	O	9980	ARG	151	Small GTP-binding domain	IPR005225
+bem3	P32873	CZ	5668	ARG	729	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	10022	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	NE	5667	ARG	729	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	10022	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	CZ	5668	ARG	729	Pleckstrin homology domain	IPR001849	bud1	P13856	CD	10023	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	NE	5667	ARG	729	Pleckstrin homology domain	IPR001849	bud1	P13856	CD	10023	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	O	5735	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	9159	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	O	5735	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	ND2	9161	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	CA	5739	ASP	738	Pleckstrin homology domain	IPR001849	bud1	P13856	ND2	9161	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	5736	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	N	9154	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	5736	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	9160	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	OG	5737	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	N	9154	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	OG	5737	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	9160	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	C	5734	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	9160	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	N	5738	ASP	738	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	9160	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	OG	5715	SER	734	Pleckstrin homology domain	IPR001849	bud1	P13856	OE2	9137	GLU	45	Small GTP-binding domain	IPR005225
+bem3	P32873	OD1	5744	ASP	738	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	9160	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	5736	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	9159	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	O	5735	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	9160	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	CA	5739	ASP	738	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	9160	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	OG	5737	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	9159	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	C	5734	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	9159	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	N	5738	ASP	738	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	9159	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	C	5734	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	ND2	9161	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	N	5738	ASP	738	Pleckstrin homology domain	IPR001849	bud1	P13856	ND2	9161	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	OD1	5744	ASP	738	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	9159	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	OD1	5744	ASP	738	Pleckstrin homology domain	IPR001849	bud1	P13856	ND2	9161	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	CA	5733	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	OD1	9160	ASN	48	Small GTP-binding domain	IPR005225
+bem3	P32873	N	5642	LYS	727	Pleckstrin homology domain	IPR001849	bud1	P13856	OD2	10016	ASP	155	Small GTP-binding domain	IPR005225
+bem3	P32873	CA	5643	LYS	727	Pleckstrin homology domain	IPR001849	bud1	P13856	OD2	10016	ASP	155	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	5646	LYS	727	Pleckstrin homology domain	IPR001849	bud1	P13856	OD2	10016	ASP	155	Small GTP-binding domain	IPR005225
+bem3	P32873	OE1	5678	GLU	730	Pleckstrin homology domain	IPR001849	bud1	P13856	CG2	10050	VAL	159		
+bem3	P32873	CD	5677	GLU	730	Pleckstrin homology domain	IPR001849	bud1	P13856	CG2	10050	VAL	159		
+bem3	P32873	CD	5677	GLU	730	Pleckstrin homology domain	IPR001849	bud1	P13856	CB	10013	ASP	155	Small GTP-binding domain	IPR005225
+bem3	P32873	OE2	5679	GLU	730	Pleckstrin homology domain	IPR001849	bud1	P13856	CB	10013	ASP	155	Small GTP-binding domain	IPR005225
+bem3	P32873	OE2	5679	GLU	730	Pleckstrin homology domain	IPR001849	bud1	P13856	CG	10014	ASP	155	Small GTP-binding domain	IPR005225
+bem3	P32873	OE2	5679	GLU	730	Pleckstrin homology domain	IPR001849	bud1	P13856	OD2	10016	ASP	155	Small GTP-binding domain	IPR005225
+bem3	P32873	CG	5647	LYS	727	Pleckstrin homology domain	IPR001849	bud1	P13856	OD2	10016	ASP	155	Small GTP-binding domain	IPR005225
+bem3	P32873	CD1	5338	LEU	688	Pleckstrin homology domain	IPR001849	bud1	P13856	CZ	10082	ARG	163		
+bem3	P32873	CD1	5338	LEU	688	Pleckstrin homology domain	IPR001849	bud1	P13856	NH1	10083	ARG	163		
+bem3	P32873	CD1	5369	LEU	692	Pleckstrin homology domain	IPR001849	bud1	P13856	CD1	9917	PHE	143	Small GTP-binding domain	IPR005225
+bem3	P32873	CD1	5369	LEU	692	Pleckstrin homology domain	IPR001849	bud1	P13856	CE1	9919	PHE	143	Small GTP-binding domain	IPR005225
+bem3	P32873	CE	7413	LYS	959	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	NE2	9479	GLN	88	Small GTP-binding domain	IPR005225
+bem3	P32873	CD	7412	LYS	959	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	NE2	9479	GLN	88	Small GTP-binding domain	IPR005225
+bem3	P32873	OG1	7389	THR	956	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	CG	9457	ASP	86	Small GTP-binding domain	IPR005225
+bem3	P32873	CE	7413	LYS	959	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	OE1	9478	GLN	88	Small GTP-binding domain	IPR005225
+bem3	P32873	CD	7412	LYS	959	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	OE1	9478	GLN	88	Small GTP-binding domain	IPR005225
+bem3	P32873	OG	7383	SER	955	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	OD2	9459	ASP	86	Small GTP-binding domain	IPR005225
+bem3	P32873	OG1	7389	THR	956	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	OD2	9459	ASP	86	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	7382	SER	955	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	O	8876	GLY	12	Small GTP-binding domain	IPR005225
+bem3	P32873	CB	7366	SER	952	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	N	8877	GLY	13	Small GTP-binding domain	IPR005225
+bem3	P32873	OG	7383	SER	955	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	O	8876	GLY	12	Small GTP-binding domain	IPR005225
+bem3	P32873	NE2	4611	GLN	598	Phox homology	IPR001683	bud1	P13856	O	9724	ASP	119	Small GTP-binding domain	IPR005225
+bem3	P32873	CG	4608	GLN	598	Phox homology	IPR001683	bud1	P13856	CD2	9968	LEU	149	Small GTP-binding domain	IPR005225
+bem3	P32873	NE2	4611	GLN	598	Phox homology	IPR001683	bud1	P13856	OD2	9728	ASP	119	Small GTP-binding domain	IPR005225
+bem3	P32873	NE2	4611	GLN	598	Phox homology	IPR001683	bud1	P13856	CD2	9968	LEU	149	Small GTP-binding domain	IPR005225
+bem3	P32873	NH1	7804	ARG	1007	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	CA	9268	GLN	63	Small GTP-binding domain	IPR005225
+bem3	P32873	NE2	4611	GLN	598	Phox homology	IPR001683	bud1	P13856	CA	9722	ASP	119	Small GTP-binding domain	IPR005225
+bem3	P32873	NE2	4611	GLN	598	Phox homology	IPR001683	bud1	P13856	C	9723	ASP	119	Small GTP-binding domain	IPR005225
+bem3	P32873	NE2	4611	GLN	598	Phox homology	IPR001683	bud1	P13856	CG	9726	ASP	119	Small GTP-binding domain	IPR005225
+bem3	P32873	NE2	4611	GLN	598	Phox homology	IPR001683	bud1	P13856	CB	9725	ASP	119	Small GTP-binding domain	IPR005225

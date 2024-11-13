@@ -1,0 +1,22 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+nrp1	P32770	LYS	224			bem1	P29366	SER	157	SH3 domain	IPR001452
+nrp1	P32770	LEU	221			bem1	P29366	TYR	159	SH3 domain	IPR001452
+nrp1	P32770	ARG	218			bem1	P29366	ILE	217	SH3 domain	IPR001452
+nrp1	P32770	GLU	297	RNA recognition motif domain	IPR000504	bem1	P29366	PHE	183	SH3 domain	IPR001452
+nrp1	P32770	GLY	605	Zinc finger, RanBP2-type	IPR001876	bem1	P29366	ILE	161	SH3 domain	IPR001452
+nrp1	P32770	CYS	604	Zinc finger, RanBP2-type	IPR001876	bem1	P29366	VAL	178	SH3 domain	IPR001452
+nrp1	P32770	CYS	604	Zinc finger, RanBP2-type	IPR001876	bem1	P29366	LEU	163	SH3 domain	IPR001452
+nrp1	P32770	CYS	604	Zinc finger, RanBP2-type	IPR001876	bem1	P29366	VAL	162	SH3 domain	IPR001452
+nrp1	P32770	GLY	605	Zinc finger, RanBP2-type	IPR001876	bem1	P29366	VAL	162	SH3 domain	IPR001452
+nrp1	P32770	ILE	102			bem1	P29366	GLU	180	SH3 domain	IPR001452
+nrp1	P32770	ARG	97			bem1	P29366	ARG	200	SH3 domain	IPR001452
+nrp1	P32770	ARG	97			bem1	P29366	GLY	199	SH3 domain	IPR001452
+nrp1	P32770	ALA	304	RNA recognition motif domain	IPR000504	bem1	P29366	ARG	200	SH3 domain	IPR001452
+nrp1	P32770	ILE	102			bem1	P29366	TYR	177	SH3 domain	IPR001452
+nrp1	P32770	GLU	301	RNA recognition motif domain	IPR000504	bem1	P29366	LYS	196	SH3 domain	IPR001452
+nrp1	P32770	ILE	102			bem1	P29366	VAL	178	SH3 domain	IPR001452
+nrp1	P32770	THR	300	RNA recognition motif domain	IPR000504	bem1	P29366	ILE	198	SH3 domain	IPR001452
+nrp1	P32770	CYS	378	Zinc finger, RanBP2-type	IPR001876	bem1	P29366	SER	102	SH3 domain	IPR001452
+nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504	bem1	P29366	VAL	326	Phox homology	IPR001683
+nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504	bem1	P29366	PRO	357	Phox homology	IPR001683
+nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	bem1	P29366	VAL	358	Phox homology	IPR001683

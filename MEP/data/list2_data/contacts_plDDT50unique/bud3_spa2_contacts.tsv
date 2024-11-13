@@ -1,0 +1,24 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	ASN	125	Bud3, N-terminal	IPR021895	spa2	P23201	GLU	724		
+bud3	P25558	VAL	126	Bud3, N-terminal	IPR021895	spa2	P23201	LEU	720		
+bud3	P25558	VAL	60	Bud3, N-terminal	IPR021895	spa2	P23201	PHE	723		
+bud3	P25558	LEU	173	Bud3, N-terminal	IPR021895	spa2	P23201	ILE	716		
+bud3	P25558	VAL	126	Bud3, N-terminal	IPR021895	spa2	P23201	PHE	723		
+bud3	P25558	TYR	62	Bud3, N-terminal	IPR021895	spa2	P23201	LEU	720		
+bud3	P25558	ASN	125	Bud3, N-terminal	IPR021895	spa2	P23201	PHE	723		
+bud3	P25558	LEU	86	Bud3, N-terminal	IPR021895	spa2	P23201	PHE	723		
+bud3	P25558	LYS	79	Bud3, N-terminal	IPR021895	spa2	P23201	PHE	723		
+bud3	P25558	THR	175	Bud3, N-terminal	IPR021895	spa2	P23201	ILE	716		
+bud3	P25558	ILE	174	Bud3, N-terminal	IPR021895	spa2	P23201	ILE	716		
+bud3	P25558	THR	57	Bud3, N-terminal	IPR021895	spa2	P23201	LYS	719		
+bud3	P25558	GLN	58	Bud3, N-terminal	IPR021895	spa2	P23201	PHE	723		
+bud3	P25558	GLU	465			spa2	P23201	ASP	1315		
+bud3	P25558	LYS	477			spa2	P23201	GLU	1312		
+bud3	P25558	TYR	476			spa2	P23201	GLU	1312		
+bud3	P25558	LYS	461			spa2	P23201	PRO	1314		
+bud3	P25558	TRP	478			spa2	P23201	GLU	1312		
+bud3	P25558	LYS	461			spa2	P23201	GLU	1312		
+bud3	P25558	THR	457			spa2	P23201	GLN	1377	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+bud3	P25558	LEU	479			spa2	P23201	ILE	1373	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+bud3	P25558	LEU	479			spa2	P23201	GLU	1312		
+bud3	P25558	GLU	541			spa2	P23201	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

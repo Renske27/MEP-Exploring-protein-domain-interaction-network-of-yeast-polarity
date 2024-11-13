@@ -1,0 +1,4 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bud1	P13856	NH2	813	ARG	102	Small GTP-binding domain	IPR005225	Arp2	P32381	CE	5033	LYS	367	Actin family	IPR004000
+Bud1	P13856	OH	560	TYR	71	Small GTP-binding domain	IPR005225	Arp2	P32381	CB	3326	SER	151	Actin family	IPR004000
+Bud1	P13856	OH	560	TYR	71	Small GTP-binding domain	IPR005225	Arp2	P32381	OG	3328	SER	151	Actin family	IPR004000

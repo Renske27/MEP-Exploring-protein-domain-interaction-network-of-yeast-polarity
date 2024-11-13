@@ -1,0 +1,14 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc42	P19073	O	499	ARG	66	Small GTP-binding domain	IPR005225	ste5	P32917	CD2	6021	LEU	575		
+cdc42	P19073	CG	538	LEU	70	Small GTP-binding domain	IPR005225	ste5	P32917	CD2	6021	LEU	575		
+cdc42	P19073	N	219	ASP	31	Small GTP-binding domain	IPR005225	ste5	P32917	N	2847	ASN	174		
+cdc42	P19073	OG1	23	THR	3	Small GTP-binding domain	IPR005225	ste5	P32917	O	6220	LYS	603	Protein Ste5, Fus3-binding domain	IPR021106
+cdc42	P19073	CG	14	GLN	2	Small GTP-binding domain	IPR005225	ste5	P32917	OE2	6245	GLU	605	Protein Ste5, Fus3-binding domain	IPR021106
+cdc42	P19073	CB	13	GLN	2	Small GTP-binding domain	IPR005225	ste5	P32917	OE2	6245	GLU	605	Protein Ste5, Fus3-binding domain	IPR021106
+cdc42	P19073	O	4	MET	1	Small GTP-binding domain	IPR005225	ste5	P32917	N	6237	GLU	605	Protein Ste5, Fus3-binding domain	IPR021106
+cdc42	P19073	O	4	MET	1	Small GTP-binding domain	IPR005225	ste5	P32917	C	6228	ARG	604	Protein Ste5, Fus3-binding domain	IPR021106
+cdc42	P19073	O	4	MET	1	Small GTP-binding domain	IPR005225	ste5	P32917	CA	6238	GLU	605	Protein Ste5, Fus3-binding domain	IPR021106
+cdc42	P19073	O	4	MET	1	Small GTP-binding domain	IPR005225	ste5	P32917	O	6229	ARG	604	Protein Ste5, Fus3-binding domain	IPR021106
+cdc42	P19073	C	3	MET	1	Small GTP-binding domain	IPR005225	ste5	P32917	O	6229	ARG	604	Protein Ste5, Fus3-binding domain	IPR021106
+cdc42	P19073	O	536	LEU	70	Small GTP-binding domain	IPR005225	ste5	P32917	CD1	6002	PHE	573		
+cdc42	P19073	O	536	LEU	70	Small GTP-binding domain	IPR005225	ste5	P32917	CE1	6004	PHE	573		

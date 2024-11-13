@@ -1,0 +1,33 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	OE2	1660	GLU	215	Calponin homology domain	IPR001715	Cdc24	P11433	NZ	10670	LYS	481	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	CD	1658	GLU	215	Calponin homology domain	IPR001715	Cdc24	P11433	CE	10669	LYS	481	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	CD	1658	GLU	215	Calponin homology domain	IPR001715	Cdc24	P11433	NZ	10670	LYS	481	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	OE2	1660	GLU	215	Calponin homology domain	IPR001715	Cdc24	P11433	CE	10669	LYS	481	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	OE1	1659	GLU	215	Calponin homology domain	IPR001715	Cdc24	P11433	NZ	10670	LYS	481	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	OE1	1659	GLU	215	Calponin homology domain	IPR001715	Cdc24	P11433	CE	10669	LYS	481	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	OE1	1659	GLU	215	Calponin homology domain	IPR001715	Cdc24	P11433	CD	10668	LYS	481	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	OD2	2435	ASP	309	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	NH1	10645	ARG	478	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	O	2432	ASP	309	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	CG2	10654	ILE	479	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	SD	2523	MET	320	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	CE	9337	MET	320	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	CE	2524	MET	320	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	CE	9337	MET	320	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	CE	2524	MET	320	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	SD	9336	MET	320	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	CZ	3011	PHE	379	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	NZ	10531	LYS	465		
+Cdc24	P11433	NZ	3718	LYS	465			Cdc24	P11433	CZ	9824	PHE	379	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc24	P11433	OE1	8472	GLU	215	Calponin homology domain	IPR001715
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc24	P11433	OE1	8472	GLU	215	Calponin homology domain	IPR001715
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc24	P11433	CD	8471	GLU	215	Calponin homology domain	IPR001715
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	O	9245	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	O	9245	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	CA	9242	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	CA	9242	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	OD1	9247	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	OD1	9247	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	CG	9246	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc24	P11433	OD2	9248	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	N	3843	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	O	9245	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc24	P11433	OE2	8473	GLU	215	Calponin homology domain	IPR001715
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc24	P11433	OE2	8473	GLU	215	Calponin homology domain	IPR001715
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc24	P11433	OE1	8472	GLU	215	Calponin homology domain	IPR001715
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc24	P11433	CD	8471	GLU	215	Calponin homology domain	IPR001715
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	C	9243	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	CG2	3841	ILE	479	Pleckstrin homology domain	IPR001849	Cdc24	P11433	O	9245	ASP	309	Dbl homology (DH) domain	IPR000219

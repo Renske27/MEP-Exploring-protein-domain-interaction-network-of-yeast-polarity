@@ -1,0 +1,24 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+act1	P60010	SER	170	Actin family	IPR004000	act1	P60010	HIS	40	Actin family	IPR004000
+act1	P60010	ASP	286	Actin family	IPR004000	act1	P60010	THR	202	Actin family	IPR004000
+act1	P60010	LEU	171	Actin family	IPR004000	act1	P60010	ILE	64	Actin family	IPR004000
+act1	P60010	ASP	286	Actin family	IPR004000	act1	P60010	GLY	63	Actin family	IPR004000
+act1	P60010	VAL	289	Actin family	IPR004000	act1	P60010	GLY	63	Actin family	IPR004000
+act1	P60010	TYR	166	Actin family	IPR004000	act1	P60010	ILE	64	Actin family	IPR004000
+act1	P60010	ARG	290	Actin family	IPR004000	act1	P60010	ASP	244	Actin family	IPR004000
+act1	P60010	VAL	287	Actin family	IPR004000	act1	P60010	ASP	244	Actin family	IPR004000
+act1	P60010	ASP	288	Actin family	IPR004000	act1	P60010	PRO	243	Actin family	IPR004000
+act1	P60010	SER	324	Actin family	IPR004000	act1	P60010	GLY	245	Actin family	IPR004000
+act1	P60010	VAL	287	Actin family	IPR004000	act1	P60010	ILE	208	Actin family	IPR004000
+act1	P60010	VAL	287	Actin family	IPR004000	act1	P60010	PRO	243	Actin family	IPR004000
+act1	P60010	MET	325	Actin family	IPR004000	act1	P60010	ASP	244	Actin family	IPR004000
+act1	P60010	MET	325	Actin family	IPR004000	act1	P60010	GLY	245	Actin family	IPR004000
+act1	P60010	MET	325	Actin family	IPR004000	act1	P60010	PRO	243	Actin family	IPR004000
+act1	P60010	LYS	291	Actin family	IPR004000	act1	P60010	PRO	243	Actin family	IPR004000
+act1	P60010	ASP	286	Actin family	IPR004000	act1	P60010	ALA	204	Actin family	IPR004000
+act1	P60010	ASP	288	Actin family	IPR004000	act1	P60010	ALA	204	Actin family	IPR004000
+act1	P60010	ASP	288	Actin family	IPR004000	act1	P60010	ARG	62	Actin family	IPR004000
+act1	P60010	TYR	166	Actin family	IPR004000	act1	P60010	SER	60	Actin family	IPR004000
+act1	P60010	PRO	322	Actin family	IPR004000	act1	P60010	GLN	246	Actin family	IPR004000
+act1	P60010	PRO	322	Actin family	IPR004000	act1	P60010	GLY	245	Actin family	IPR004000
+act1	P60010	PRO	322	Actin family	IPR004000	act1	P60010	ASP	244	Actin family	IPR004000

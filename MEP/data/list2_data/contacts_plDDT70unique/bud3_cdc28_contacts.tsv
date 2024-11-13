@@ -1,0 +1,10 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	ASN	301	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ASP	219	Protein kinase domain	IPR000719
+bud3	P25558	GLY	302	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+bud3	P25558	ALA	614			cdc28	P00546	LEU	61	Protein kinase domain	IPR000719
+bud3	P25558	ALA	614			cdc28	P00546	ARG	57	Protein kinase domain	IPR000719
+bud3	P25558	ALA	614			cdc28	P00546	SER	60	Protein kinase domain	IPR000719
+bud3	P25558	GLN	226			cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+bud3	P25558	HIS	616			cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+bud3	P25558	ASN	217			cdc28	P00546	SER	129	Protein kinase domain	IPR000719
+bud3	P25558	HIS	616			cdc28	P00546	HIS	130	Protein kinase domain	IPR000719

@@ -1,0 +1,10 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	ASN	399	Dbl homology (DH) domain	IPR000219	Rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198
+Cdc24	P11433	LEU	401	Dbl homology (DH) domain	IPR000219	Rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198
+Cdc24	P11433	ASN	31			Rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+Cdc24	P11433	ASN	34			Rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+Cdc24	P11433	ASN	34			Rga2	Q06407	HIS	865	Rho GTPase-activating protein domain	IPR000198
+Cdc24	P11433	ASN	34			Rga2	Q06407	GLY	829	Rho GTPase-activating protein domain	IPR000198
+Cdc24	P11433	ASN	31			Rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+Cdc24	P11433	ASN	399	Dbl homology (DH) domain	IPR000219	Rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+Cdc24	P11433	ASN	34			Rga2	Q06407	LYS	827	Rho GTPase-activating protein domain	IPR000198

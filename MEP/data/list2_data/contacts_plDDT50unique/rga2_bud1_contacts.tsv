@@ -1,0 +1,41 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	GLN	88	Small GTP-binding domain	IPR005225
+rga2	Q06407	THR	832	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	GLN	88	Small GTP-binding domain	IPR005225
+rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	GLU	92	Small GTP-binding domain	IPR005225
+rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	GLY	12	Small GTP-binding domain	IPR005225
+rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	GLN	88	Small GTP-binding domain	IPR005225
+rga2	Q06407	ASP	984	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	LEU	70	Small GTP-binding domain	IPR005225
+rga2	Q06407	GLY	981	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	LEU	70	Small GTP-binding domain	IPR005225
+rga2	Q06407	ILE	556			bud1	P13856	GLU	145	Small GTP-binding domain	IPR005225
+rga2	Q06407	ILE	556			bud1	P13856	VAL	128	Small GTP-binding domain	IPR005225
+rga2	Q06407	ILE	556			bud1	P13856	TYR	144	Small GTP-binding domain	IPR005225
+rga2	Q06407	MET	558			bud1	P13856	PHE	143	Small GTP-binding domain	IPR005225
+rga2	Q06407	ALA	557			bud1	P13856	PHE	143	Small GTP-binding domain	IPR005225
+rga2	Q06407	MET	558			bud1	P13856	ILE	132	Small GTP-binding domain	IPR005225
+rga2	Q06407	PHE	559			bud1	P13856	VAL	141	Small GTP-binding domain	IPR005225
+rga2	Q06407	PHE	559			bud1	P13856	ARG	140	Small GTP-binding domain	IPR005225
+rga2	Q06407	MET	558			bud1	P13856	PRO	142	Small GTP-binding domain	IPR005225
+rga2	Q06407	THR	561			bud1	P13856	GLN	164		
+rga2	Q06407	PHE	559			bud1	P13856	PRO	142	Small GTP-binding domain	IPR005225
+rga2	Q06407	THR	561			bud1	P13856	PRO	142	Small GTP-binding domain	IPR005225
+rga2	Q06407	THR	561			bud1	P13856	ASP	160		
+rga2	Q06407	PHE	559			bud1	P13856	SER	136	Small GTP-binding domain	IPR005225
+rga2	Q06407	PHE	559			bud1	P13856	SER	135	Small GTP-binding domain	IPR005225
+rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	PHE	64	Small GTP-binding domain	IPR005225
+rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198	bud1	P13856	TYR	71	Small GTP-binding domain	IPR005225
+rga2	Q06407	HIS	555			bud1	P13856	ASN	153	Small GTP-binding domain	IPR005225
+rga2	Q06407	ILE	556			bud1	P13856	ASN	153	Small GTP-binding domain	IPR005225
+rga2	Q06407	ALA	557			bud1	P13856	TYR	144	Small GTP-binding domain	IPR005225
+rga2	Q06407	ARG	560			bud1	P13856	TYR	144	Small GTP-binding domain	IPR005225
+rga2	Q06407	ARG	560			bud1	P13856	GLU	156	Small GTP-binding domain	IPR005225
+rga2	Q06407	LEU	564			bud1	P13856	ILE	166		
+rga2	Q06407	THR	561			bud1	P13856	ARG	163		
+rga2	Q06407	LEU	564			bud1	P13856	ARG	167		
+rga2	Q06407	PRO	562			bud1	P13856	ARG	167		
+rga2	Q06407	PRO	563			bud1	P13856	ARG	167		
+rga2	Q06407	PRO	562			bud1	P13856	ARG	163		
+rga2	Q06407	PRO	563			bud1	P13856	ARG	163		
+rga2	Q06407	PRO	563			bud1	P13856	ASP	47	Small GTP-binding domain	IPR005225
+rga2	Q06407	LEU	564			bud1	P13856	ASP	47	Small GTP-binding domain	IPR005225
+rga2	Q06407	ARG	560			bud1	P13856	ASP	160		
+rga2	Q06407	THR	561			bud1	P13856	ARG	167		

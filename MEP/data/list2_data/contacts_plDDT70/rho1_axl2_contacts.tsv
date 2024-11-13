@@ -1,0 +1,30 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rho1	P06780	CG	1052	GLU	134	Small GTP-binding domain	IPR005225	axl2	P38928	O	1828	ALA	27	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CB	1051	GLU	134	Small GTP-binding domain	IPR005225	axl2	P38928	O	1828	ALA	27	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CG	1028	GLN	131	Small GTP-binding domain	IPR005225	axl2	P38928	CB	1829	ALA	27	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CG	1021	PRO	130	Small GTP-binding domain	IPR005225	axl2	P38928	CB	3115	ALA	189	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CB	1020	PRO	130	Small GTP-binding domain	IPR005225	axl2	P38928	CB	3115	ALA	189	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CB	1020	PRO	130	Small GTP-binding domain	IPR005225	axl2	P38928	CD	3122	PRO	190	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	OD1	1006	ASN	128	Small GTP-binding domain	IPR005225	axl2	P38928	CB	3135	PRO	192	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	ND2	1007	ASN	128	Small GTP-binding domain	IPR005225	axl2	P38928	CE1	3359	TYR	221	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	ND2	1007	ASN	128	Small GTP-binding domain	IPR005225	axl2	P38928	CD1	3357	TYR	221	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CD	1121	GLN	142	Small GTP-binding domain	IPR005225	axl2	P38928	CG	3143	ASN	193	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CG	1028	GLN	131	Small GTP-binding domain	IPR005225	axl2	P38928	CD	2051	LYS	54	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CG	1028	GLN	131	Small GTP-binding domain	IPR005225	axl2	P38928	CE	2052	LYS	54	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CD	1022	PRO	130	Small GTP-binding domain	IPR005225	axl2	P38928	CB	3115	ALA	189	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CB	1027	GLN	131	Small GTP-binding domain	IPR005225	axl2	P38928	CG	2023	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CG	1028	GLN	131	Small GTP-binding domain	IPR005225	axl2	P38928	CB	2022	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CB	1027	GLN	131	Small GTP-binding domain	IPR005225	axl2	P38928	CB	2022	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CB	1027	GLN	131	Small GTP-binding domain	IPR005225	axl2	P38928	OD2	2025	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	OD1	1014	ASP	129	Small GTP-binding domain	IPR005225	axl2	P38928	OD2	2025	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CG	1013	ASP	129	Small GTP-binding domain	IPR005225	axl2	P38928	OD2	2025	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CB	1149	SER	146	Small GTP-binding domain	IPR005225	axl2	P38928	O	3278	VAL	210	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CB	1149	SER	146	Small GTP-binding domain	IPR005225	axl2	P38928	N	3275	VAL	210	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CB	1149	SER	146	Small GTP-binding domain	IPR005225	axl2	P38928	CB	3279	VAL	210	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	OG	1150	SER	146	Small GTP-binding domain	IPR005225	axl2	P38928	O	3278	VAL	210	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	OG	1150	SER	146	Small GTP-binding domain	IPR005225	axl2	P38928	CB	3272	PRO	209	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CE1	1265	TYR	162	Small GTP-binding domain	IPR005225	axl2	P38928	CA	3299	SER	213	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	OH	1326	TYR	170			axl2	P38928	OG1	3343	THR	219	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CZ	1325	TYR	170			axl2	P38928	OG1	3343	THR	219	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CE2	1324	TYR	170			axl2	P38928	OG1	3343	THR	219	Dystroglycan-type cadherin-like	IPR006644
+rho1	P06780	CG	1354	GLU	174			axl2	P38928	CA	3318	ALA	216	Dystroglycan-type cadherin-like	IPR006644

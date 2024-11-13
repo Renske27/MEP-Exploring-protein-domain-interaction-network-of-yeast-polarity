@@ -1,0 +1,19 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+spa2	P23201	THR	782			rax1	Q08760	VAL	386		
+spa2	P23201	THR	782			rax1	Q08760	PHE	387		
+spa2	P23201	TYR	783			rax1	Q08760	PRO	288		
+spa2	P23201	TYR	783			rax1	Q08760	SER	287		
+spa2	P23201	THR	782			rax1	Q08760	PHE	289		
+spa2	P23201	PHE	781			rax1	Q08760	ALA	385		
+spa2	P23201	ASN	1426	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	rax1	Q08760	ASN	102	RGS domain	IPR016137
+spa2	P23201	ARG	1430	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	rax1	Q08760	ILE	105	RGS domain	IPR016137
+spa2	P23201	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	rax1	Q08760	ILE	105	RGS domain	IPR016137
+spa2	P23201	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	rax1	Q08760	GLY	108	RGS domain	IPR016137
+spa2	P23201	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	rax1	Q08760	GLU	106	RGS domain	IPR016137
+spa2	P23201	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	rax1	Q08760	GLU	106	RGS domain	IPR016137
+spa2	P23201	ARG	1430	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	rax1	Q08760	GLU	106	RGS domain	IPR016137
+spa2	P23201	GLU	442			rax1	Q08760	MET	207	RGS domain	IPR016137
+spa2	P23201	PHE	445			rax1	Q08760	GLU	208	RGS domain	IPR016137
+spa2	P23201	ARG	486			rax1	Q08760	MET	207	RGS domain	IPR016137
+spa2	P23201	ASP	1396	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	rax1	Q08760	SER	129	RGS domain	IPR016137
+spa2	P23201	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	rax1	Q08760	GLU	107	RGS domain	IPR016137

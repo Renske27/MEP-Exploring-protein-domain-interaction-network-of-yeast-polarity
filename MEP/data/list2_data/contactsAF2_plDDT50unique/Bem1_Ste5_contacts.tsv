@@ -1,0 +1,39 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bem1	P29366	TRP	108	SH3 domain	IPR001452	Ste5	P32917	ALA	157		
+Bem1	P29366	GLN	86	SH3 domain	IPR001452	Ste5	P32917	PRO	158		
+Bem1	P29366	GLU	90	SH3 domain	IPR001452	Ste5	P32917	PRO	158		
+Bem1	P29366	GLU	90	SH3 domain	IPR001452	Ste5	P32917	PHE	159		
+Bem1	P29366	THR	87	SH3 domain	IPR001452	Ste5	P32917	PHE	159		
+Bem1	P29366	VAL	121	SH3 domain	IPR001452	Ste5	P32917	PHE	159		
+Bem1	P29366	LYS	89	SH3 domain	IPR001452	Ste5	P32917	PHE	159		
+Bem1	P29366	GLU	105	SH3 domain	IPR001452	Ste5	P32917	PHE	159		
+Bem1	P29366	TRP	108	SH3 domain	IPR001452	Ste5	P32917	PRO	158		
+Bem1	P29366	TRP	108	SH3 domain	IPR001452	Ste5	P32917	PHE	159		
+Bem1	P29366	THR	87	SH3 domain	IPR001452	Ste5	P32917	PRO	158		
+Bem1	P29366	ASP	512	PB1 domain	IPR000270	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	LYS	368	Phox homology	IPR001683	Ste5	P32917	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	THR	362	Phox homology	IPR001683	Ste5	P32917	ILE	628	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	TYR	360	Phox homology	IPR001683	Ste5	P32917	ASN	632	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	PRO	359	Phox homology	IPR001683	Ste5	P32917	ASN	632	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	TYR	360	Phox homology	IPR001683	Ste5	P32917	ILE	628	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	ILE	365	Phox homology	IPR001683	Ste5	P32917	ASN	632	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	VAL	358	Phox homology	IPR001683	Ste5	P32917	ASN	632	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	ARG	349	Phox homology	IPR001683	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	GLN	325	Phox homology	IPR001683	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	PRO	357	Phox homology	IPR001683	Ste5	P32917	ALA	636	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	LEU	329	Phox homology	IPR001683	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	LEU	329	Phox homology	IPR001683	Ste5	P32917	GLU	777	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	TYR	322	Phox homology	IPR001683	Ste5	P32917	PHE	775	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	ILE	354	Phox homology	IPR001683	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	PRO	357	Phox homology	IPR001683	Ste5	P32917	PHE	775	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	TYR	353	Phox homology	IPR001683	Ste5	P32917	SER	774	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	ARG	349	Phox homology	IPR001683	Ste5	P32917	SER	774	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	LYS	338	Phox homology	IPR001683	Ste5	P32917	GLU	777	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	VAL	326	Phox homology	IPR001683	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	PRO	359	Phox homology	IPR001683	Ste5	P32917	LYS	635	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	PRO	359	Phox homology	IPR001683	Ste5	P32917	TYR	631	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	TYR	360	Phox homology	IPR001683	Ste5	P32917	TYR	631	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	LYS	368	Phox homology	IPR001683	Ste5	P32917	PHE	762	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	SER	364	Phox homology	IPR001683	Ste5	P32917	ASP	625	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	THR	362	Phox homology	IPR001683	Ste5	P32917	ASP	625	Protein Ste5, Fus3-binding domain	IPR021106
+Bem1	P29366	ILE	511	PB1 domain	IPR000270	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106

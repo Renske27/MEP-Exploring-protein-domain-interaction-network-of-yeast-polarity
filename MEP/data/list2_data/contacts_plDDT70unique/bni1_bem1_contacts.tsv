@@ -1,0 +1,5 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bni1	P41832	LYS	663	Formin, FH3 domain	IPR010472	bem1	P29366	GLY	96	SH3 domain	IPR001452
+bni1	P41832	ASN	606	Formin, FH3 domain	IPR010472	bem1	P29366	TYR	360	Phox homology	IPR001683
+bni1	P41832	VAL	614	Formin, FH3 domain	IPR010472	bem1	P29366	SER	364	Phox homology	IPR001683
+bni1	P41832	ASP	610	Formin, FH3 domain	IPR010472	bem1	P29366	THR	362	Phox homology	IPR001683

@@ -1,0 +1,68 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+spa2	P23201	CG1	10944	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	11559	ASP	15		
+spa2	P23201	CD1	10946	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	11559	ASP	15		
+spa2	P23201	CG1	10944	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	C	11558	ASP	15		
+spa2	P23201	CD1	10946	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	C	11558	ASP	15		
+spa2	P23201	CD	10908	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	OD1	11562	ASP	15		
+spa2	P23201	OD2	10889	ASP	1396	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	14011	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	CG	10887	ASP	1396	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	14011	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	CB	10861	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CA	13998	ARG	321	RNA recognition motif domain	IPR000504
+spa2	P23201	OG	10862	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	N	14008	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	OG	10862	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CA	13998	ARG	321	RNA recognition motif domain	IPR000504
+spa2	P23201	OG	10862	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CB	14001	ARG	321	RNA recognition motif domain	IPR000504
+spa2	P23201	OD1	11209	ASP	1437	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	ND2	13943	ASN	313	RNA recognition motif domain	IPR000504
+spa2	P23201	NZ	11231	LYS	1440	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CB	13956	ALA	315	RNA recognition motif domain	IPR000504
+spa2	P23201	OD1	11209	ASP	1437	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CB	13940	ASN	313	RNA recognition motif domain	IPR000504
+spa2	P23201	OD1	11209	ASP	1437	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CG	13941	ASN	313	RNA recognition motif domain	IPR000504
+spa2	P23201	CZ	10921	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CG1	14013	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	NH1	10922	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CG1	14013	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	NH1	10922	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CB	14012	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	NH1	10922	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CG2	14014	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	CG	11208	ASP	1437	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	ND2	13943	ASN	313	RNA recognition motif domain	IPR000504
+spa2	P23201	O	10823	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	13993	PRO	320	RNA recognition motif domain	IPR000504
+spa2	P23201	C	10822	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	13993	PRO	320	RNA recognition motif domain	IPR000504
+spa2	P23201	N	10834	VAL	1390	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	13993	PRO	320	RNA recognition motif domain	IPR000504
+spa2	P23201	CB	10861	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	13993	PRO	320	RNA recognition motif domain	IPR000504
+spa2	P23201	OG	10862	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	13993	PRO	320	RNA recognition motif domain	IPR000504
+spa2	P23201	OG	10862	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	C	13992	PRO	320	RNA recognition motif domain	IPR000504
+spa2	P23201	OD2	10889	ASP	1396	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CG1	14013	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	OD2	10889	ASP	1396	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CB	14012	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	OG	10862	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	C	13999	ARG	321	RNA recognition motif domain	IPR000504
+spa2	P23201	OG	10862	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	N	13997	ARG	321	RNA recognition motif domain	IPR000504
+spa2	P23201	NZ	11253	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CZ	14438	PHE	376	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	CD	11251	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CZ	14438	PHE	376	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	OD1	11378	ASN	1459			nrp1	P32770	O	16126	VAL	599	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	CG2	11370	ILE	1458			nrp1	P32770	CG2	16129	VAL	599	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	CG2	11370	ILE	1458			nrp1	P32770	CG2	16136	VAL	600	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	ND2	11407	ASN	1462			nrp1	P32770	CG2	16136	VAL	600	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	ND2	11407	ASN	1462			nrp1	P32770	CB	16134	VAL	600	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	ND2	11407	ASN	1462			nrp1	P32770	CG1	16135	VAL	600	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	OD1	11378	ASN	1459			nrp1	P32770	CG2	16136	VAL	600	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	CD	11344	LYS	1455			nrp1	P32770	CG1	16128	VAL	599	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	CG	11343	LYS	1455			nrp1	P32770	CG1	16128	VAL	599	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	CG2	10840	VAL	1390	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CG	13995	PRO	320	RNA recognition motif domain	IPR000504
+spa2	P23201	CG	11259	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CG	13995	PRO	320	RNA recognition motif domain	IPR000504
+spa2	P23201	OD2	638	ASP	79			nrp1	P32770	CE	16026	LYS	586	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	OD1	637	ASP	79			nrp1	P32770	NZ	16027	LYS	586	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	OD2	638	ASP	79			nrp1	P32770	NZ	16027	LYS	586	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	CG	636	ASP	79			nrp1	P32770	NZ	16027	LYS	586	Zinc finger, RanBP2-type	IPR001876
+spa2	P23201	OD1	815	ASN	100	GIT, Spa2 homology (SHD) domain	IPR013724	nrp1	P32770	C	15968	PHE	580		
+spa2	P23201	CB	10824	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	13993	PRO	320	RNA recognition motif domain	IPR000504
+spa2	P23201	CG	11119	ASN	1426	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	13424	GLN	248	RNA recognition motif domain	IPR000504
+spa2	P23201	OD1	11120	ASN	1426	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	13424	GLN	248	RNA recognition motif domain	IPR000504
+spa2	P23201	OD1	11120	ASN	1426	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	C	13423	GLN	248	RNA recognition motif domain	IPR000504
+spa2	P23201	OE1	11149	GLN	1429	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CA	13422	GLN	248	RNA recognition motif domain	IPR000504
+spa2	P23201	OE1	11149	GLN	1429	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CB	13425	GLN	248	RNA recognition motif domain	IPR000504
+spa2	P23201	OD1	11120	ASN	1426	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CA	13422	GLN	248	RNA recognition motif domain	IPR000504
+spa2	P23201	ND2	11121	ASN	1426	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	O	13424	GLN	248	RNA recognition motif domain	IPR000504
+spa2	P23201	CG	11156	ARG	1430	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	OE1	13428	GLN	248	RNA recognition motif domain	IPR000504
+spa2	P23201	OD1	3747	ASP	469			nrp1	P32770	OD2	14134	ASP	338		
+spa2	P23201	CG2	10945	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CD	11577	PRO	17		
+spa2	P23201	CG2	10945	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CG	11576	PRO	17		
+spa2	P23201	CD1	10946	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CA	11565	THR	16		
+spa2	P23201	CD1	10946	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	C	11566	THR	16		
+spa2	P23201	NH1	10911	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	OE2	14030	GLU	324		
+spa2	P23201	NH2	10912	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	OE2	14030	GLU	324		
+spa2	P23201	NE	10920	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CD1	13928	LEU	311	RNA recognition motif domain	IPR000504
+spa2	P23201	NH2	10923	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CD1	13928	LEU	311	RNA recognition motif domain	IPR000504
+spa2	P23201	CZ	10921	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	CD1	13928	LEU	311	RNA recognition motif domain	IPR000504

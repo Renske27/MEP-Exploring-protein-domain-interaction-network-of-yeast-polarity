@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rdi1	Q12434	CB	1094	ALA	133	Rho protein GDP-dissociation inhibitor	IPR000406	bem3	P32873	CG	5476	PRO	504		
+rdi1	Q12434	CB	1094	ALA	133	Rho protein GDP-dissociation inhibitor	IPR000406	bem3	P32873	CD	5477	PRO	504		

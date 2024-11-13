@@ -1,0 +1,29 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+nrp1	P32770	GLN	108			ste5	P32917	SER	591		
+nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	ste5	P32917	ILE	209		
+nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876	ste5	P32917	ILE	209		
+nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876	ste5	P32917	ILE	209		
+nrp1	P32770	HIS	593	Zinc finger, RanBP2-type	IPR001876	ste5	P32917	ILE	209		
+nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876	ste5	P32917	SER	210		
+nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876	ste5	P32917	ILE	209		
+nrp1	P32770	ILE	102			ste5	P32917	ASN	576		
+nrp1	P32770	ILE	102			ste5	P32917	VAL	592		
+nrp1	P32770	ILE	102			ste5	P32917	LEU	575		
+nrp1	P32770	PHE	101			ste5	P32917	THR	574		
+nrp1	P32770	GLY	100			ste5	P32917	THR	574		
+nrp1	P32770	GLY	100			ste5	P32917	GLY	572		
+nrp1	P32770	GLY	100			ste5	P32917	PHE	573		
+nrp1	P32770	ILE	102			ste5	P32917	THR	574		
+nrp1	P32770	GLU	58			ste5	P32917	THR	574		
+nrp1	P32770	GLY	250	RNA recognition motif domain	IPR000504	ste5	P32917	LYS	603	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	ASP	19			ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	GLN	20			ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	PRO	17			ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	PRO	17			ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	GLN	248	RNA recognition motif domain	IPR000504	ste5	P32917	ARG	604	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	GLN	248	RNA recognition motif domain	IPR000504	ste5	P32917	GLU	605	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	GLN	248	RNA recognition motif domain	IPR000504	ste5	P32917	LYS	603	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	GLN	20			ste5	P32917	THR	726	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	PRO	17			ste5	P32917	THR	726	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504	ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106
+nrp1	P32770	TYR	249	RNA recognition motif domain	IPR000504	ste5	P32917	LYS	603	Protein Ste5, Fus3-binding domain	IPR021106

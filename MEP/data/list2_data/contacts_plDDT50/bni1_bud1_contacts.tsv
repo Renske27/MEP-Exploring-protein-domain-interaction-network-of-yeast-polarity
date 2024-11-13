@@ -1,0 +1,86 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bni1	P41832	C	1459	LYS	192	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OE1	16110	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	O	1460	LYS	192	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OE1	16110	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	C	1459	LYS	192	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NE2	16111	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	C	1459	LYS	192	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CD	16109	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	O	1460	LYS	192	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NE2	16111	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	O	1460	LYS	192	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CD	16109	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	NH2	3205	ARG	415	Formin, GTPase-binding domain	IPR010473	bud1	P13856	C	15921	THR	65	Small GTP-binding domain	IPR005225
+bni1	P41832	NH2	3205	ARG	415	Formin, GTPase-binding domain	IPR010473	bud1	P13856	N	15926	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	NH2	3205	ARG	415	Formin, GTPase-binding domain	IPR010473	bud1	P13856	O	15922	THR	65	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	4258	GLU	548	Formin, FH3 domain	IPR010472	bud1	P13856	CA	15909	PHE	64	Small GTP-binding domain	IPR005225
+bni1	P41832	CB	1470	ARG	193	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OE1	16142	GLU	92	Small GTP-binding domain	IPR005225
+bni1	P41832	N	1466	ARG	193	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NE2	16111	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	CA	1467	ARG	193	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NE2	16111	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	CA	1467	ARG	193	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CD	16109	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	CG	1471	ARG	193	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NE2	16111	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	CB	1470	ARG	193	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NE2	16111	GLN	88	Small GTP-binding domain	IPR005225
+bni1	P41832	ND2	1742	ASN	225	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OE1	16167	GLU	95	Small GTP-binding domain	IPR005225
+bni1	P41832	CD2	3242	LEU	420	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CG	16226	ARG	102	Small GTP-binding domain	IPR005225
+bni1	P41832	CB	3247	SER	421	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OD1	16255	ASP	105	Small GTP-binding domain	IPR005225
+bni1	P41832	CB	3247	SER	421	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CB	16253	ASP	105	Small GTP-binding domain	IPR005225
+bni1	P41832	CB	3247	SER	421	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CG	16254	ASP	105	Small GTP-binding domain	IPR005225
+bni1	P41832	CB	3247	SER	421	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OD2	16256	ASP	105	Small GTP-binding domain	IPR005225
+bni1	P41832	OG	3248	SER	421	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CG	16254	ASP	105	Small GTP-binding domain	IPR005225
+bni1	P41832	OG	3248	SER	421	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OD2	16256	ASP	105	Small GTP-binding domain	IPR005225
+bni1	P41832	CD2	3242	LEU	420	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CD	16227	ARG	102	Small GTP-binding domain	IPR005225
+bni1	P41832	CD2	3242	LEU	420	Formin, GTPase-binding domain	IPR010473	bud1	P13856	O	16224	ARG	102	Small GTP-binding domain	IPR005225
+bni1	P41832	CE	3234	MET	419	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CD	15956	GLU	69	Small GTP-binding domain	IPR005225
+bni1	P41832	CE	3234	MET	419	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OE2	15958	GLU	69	Small GTP-binding domain	IPR005225
+bni1	P41832	O	3224	SER	418	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NZ	15995	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	OE2	3565	GLU	461			bud1	P13856	CG	15992	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	O	3538	CYS	458	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CE	15994	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	OE2	3565	GLU	461			bud1	P13856	CE	15994	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	OE2	3565	GLU	461			bud1	P13856	CB	15991	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	OE2	3565	GLU	461			bud1	P13856	CD	15993	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	O	3538	CYS	458	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NZ	15995	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	CD2	3269	LEU	424	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NZ	15995	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	CB	3539	CYS	458	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NZ	15995	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	CA	3536	CYS	458	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NZ	15995	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	C	3537	CYS	458	Formin, GTPase-binding domain	IPR010473	bud1	P13856	NZ	15995	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	O	3230	MET	419	Formin, GTPase-binding domain	IPR010473	bud1	P13856	O	16235	ILE	103	Small GTP-binding domain	IPR005225
+bni1	P41832	O	3230	MET	419	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CA	16233	ILE	103	Small GTP-binding domain	IPR005225
+bni1	P41832	CD	3506	GLU	454	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CB	15930	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	CE2	4296	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CB	15930	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ2	4298	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CB	15930	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ2	4298	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CA	15927	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ2	4298	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	N	15931	MET	67	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ2	4298	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	C	15928	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	CH2	4300	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	C	15928	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ2	4298	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	O	15929	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	CH2	4300	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	O	15929	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	NE1	4295	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CB	15930	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ2	4298	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CG	15936	MET	67	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ2	4298	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CA	15932	MET	67	Small GTP-binding domain	IPR005225
+bni1	P41832	CE2	4296	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	SD	15937	MET	67	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ2	4298	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	SD	15937	MET	67	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3564	GLU	461			bud1	P13856	O	15962	LEU	70	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3564	GLU	461			bud1	P13856	N	15996	SER	74	Small GTP-binding domain	IPR005225
+bni1	P41832	CD	3563	GLU	461			bud1	P13856	N	15996	SER	74	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3564	GLU	461			bud1	P13856	C	15989	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3564	GLU	461			bud1	P13856	CA	15997	SER	74	Small GTP-binding domain	IPR005225
+bni1	P41832	CG1	3533	VAL	457	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CD1	15965	LEU	70	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3564	GLU	461			bud1	P13856	OG	16001	SER	74	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3564	GLU	461			bud1	P13856	CB	16000	SER	74	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3564	GLU	461			bud1	P13856	O	15990	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	CH2	4300	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CB	15963	LEU	70	Small GTP-binding domain	IPR005225
+bni1	P41832	CH2	4300	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CD1	15965	LEU	70	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ3	4299	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CD1	15965	LEU	70	Small GTP-binding domain	IPR005225
+bni1	P41832	NZ	4659	LYS	596	Formin, FH3 domain	IPR010472	bud1	P13856	CG	15705	ASP	38	Small GTP-binding domain	IPR005225
+bni1	P41832	NZ	4659	LYS	596	Formin, FH3 domain	IPR010472	bud1	P13856	CB	15704	ASP	38	Small GTP-binding domain	IPR005225
+bni1	P41832	CE	3234	MET	419	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CB	15954	GLU	69	Small GTP-binding domain	IPR005225
+bni1	P41832	SD	3233	MET	419	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CB	15954	GLU	69	Small GTP-binding domain	IPR005225
+bni1	P41832	OE2	3508	GLU	454	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CB	15930	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3564	GLU	461			bud1	P13856	CB	15991	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	CD	3563	GLU	461			bud1	P13856	CB	15991	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	CD	3563	GLU	461			bud1	P13856	CD	15993	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3564	GLU	461			bud1	P13856	CG	15992	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	CD	3563	GLU	461			bud1	P13856	CG	15992	LYS	73	Small GTP-binding domain	IPR005225
+bni1	P41832	O	2785	GLU	365	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CZ	16229	ARG	102	Small GTP-binding domain	IPR005225
+bni1	P41832	NH2	3205	ARG	415	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CD	15956	GLU	69	Small GTP-binding domain	IPR005225
+bni1	P41832	CZ	3203	ARG	415	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OE2	15958	GLU	69	Small GTP-binding domain	IPR005225
+bni1	P41832	NH2	3205	ARG	415	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OE2	15958	GLU	69	Small GTP-binding domain	IPR005225
+bni1	P41832	NE	3202	ARG	415	Formin, GTPase-binding domain	IPR010473	bud1	P13856	OE2	15958	GLU	69	Small GTP-binding domain	IPR005225
+bni1	P41832	NH2	3205	ARG	415	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CB	15930	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	OE1	3507	GLU	454	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CB	15930	ALA	66	Small GTP-binding domain	IPR005225
+bni1	P41832	NH2	3205	ARG	415	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CA	15927	ALA	66	Small GTP-binding domain	IPR005225

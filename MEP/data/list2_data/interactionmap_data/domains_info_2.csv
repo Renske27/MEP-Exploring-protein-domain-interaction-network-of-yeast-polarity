@@ -1,0 +1,47 @@
+protein_input_name,protein fullname,protein_accession,protein_pI,protein_length,domain_name,domain_shortname,domain_accession,domain_pI,domain_start,domain_end
+Cdc42,Cell division control protein 42,P19073,6.3,191,Small GTP-binding domain,Small_GTP-bd,IPR005225,5.34,1,157
+Cdc24,Cell division control protein 24,P11433,8.6,854,Dbl homology (DH) domain,DH-domain,IPR000219,5.87,278,454
+Cdc24,Cell division control protein 24,P11433,8.6,854,PB1 domain,PB1_dom,IPR000270,4.53,761,854
+Cdc24,Cell division control protein 24,P11433,8.6,854,Calponin homology domain,CH_dom,IPR001715,4.58,135,246
+Cdc24,Cell division control protein 24,P11433,8.6,854,Pleckstrin homology domain,PH_domain,IPR001849,9.0,478,670
+Bem1,Bud emergence protein 1,P29366,8.71,551,PB1 domain,PB1_dom,IPR000270,8.89,478,551
+Bem1,Bud emergence protein 1,P29366,8.71,551,SH3 domain,SH3_domain,IPR001452,5.31,72,132
+Bem1,Bud emergence protein 1,P29366,8.71,551,SH3 domain,SH3_domain,IPR001452,5.01,155,217
+Bem1,Bud emergence protein 1,P29366,8.71,551,Phox homology,PX_dom,IPR001683,5.4,278,404
+Rga2,Rho-type GTPase-activating protein 2,Q06407,8.06,1009,Rho GTPase-activating protein domain,RhoGAP_dom,IPR000198,5.89,788,1006
+Rga2,Rho-type GTPase-activating protein 2,Q06407,8.06,1009,"Zinc finger, LIM-type",Znf_LIM,IPR001781,5.59,11,73
+Rga2,Rho-type GTPase-activating protein 2,Q06407,8.06,1009,"Zinc finger, LIM-type",Znf_LIM,IPR001781,8.75,69,125
+Bud1,Ras-related protein RSR1,P13856,9.22,272,Small GTP-binding domain,Small_GTP-bd,IPR005225,4.64,1,158
+Bud3,Bud site selection protein 3,P25558,5.84,1636,Dbl homology (DH) domain,DH-domain,IPR000219,9.48,265,443
+Bud3,Bud site selection protein 3,P25558,5.84,1636,"Bud3, N-terminal",Bud3_N,IPR021895,4.5,28,205
+Rho1,GTP-binding protein RHO1,P06780,5.97,209,Small GTP-binding domain,Small_GTP-bd,IPR005225,4.41,10,163
+Rdi1,Rho GDP-dissociation inhibitor,Q12434,5.77,202,Rho protein GDP-dissociation inhibitor,Rho_GDI,IPR000406,5.78,3,202
+Act1,Actin,P60010,5.44,375,Actin family,Actin,IPR004000,5.54,4,375
+Arp2,Actin-related protein 2,P32381,5.54,391,Actin family,Actin,IPR004000,5.55,2,391
+Arp3,Actin-related protein 3,P47117,5.57,449,Actin family,Actin,IPR004000,5.57,6,445
+Spa2,Protein SPA2,P23201,5.07,1466,"GIT, Spa2 homology (SHD) domain",GIT_SHD,IPR013724,5.0,44,74
+Spa2,Protein SPA2,P23201,5.07,1466,"GIT, Spa2 homology (SHD) domain",GIT_SHD,IPR013724,9.69,94,124
+Spa2,Protein SPA2,P23201,5.07,1466,"GIT, Spa2 homology (SHD) domain",GIT_SHD,IPR013724,4.95,292,321
+Spa2,Protein SPA2,P23201,5.07,1466,"GIT, Spa2 homology (SHD) domain",GIT_SHD,IPR013724,4.59,336,366
+Spa2,Protein SPA2,P23201,5.07,1466,"ARF GTPase-activating protein GIT1, C-terminal",GIT1_C,IPR022018,9.06,1324,1449
+Bni1,Protein BNI1,P41832,6.13,1953,"Formin, FH3 domain",FH3_dom,IPR010472,5.14,504,709
+Bni1,Protein BNI1,P41832,6.13,1953,"Formin, GTPase-binding domain",GTPase-bd,IPR010473,8.41,173,459
+Bni1,Protein BNI1,P41832,6.13,1953,Diaphanous autoregulatory (DAD) domain,DAD_dom,IPR014767,8.43,1792,1826
+Bni1,Protein BNI1,P41832,6.13,1953,"Formin, FH2 domain",FH2_Formin,IPR015425,5.71,1348,1824
+Bem3,GTPase-activating protein BEM3,P32873,6.38,1128,Rho GTPase-activating protein domain,RhoGAP_dom,IPR000198,5.61,913,1128
+Bem3,GTPase-activating protein BEM3,P32873,6.38,1128,Phox homology,PX_dom,IPR001683,8.15,513,624
+Bem3,GTPase-activating protein BEM3,P32873,6.38,1128,Pleckstrin homology domain,PH_domain,IPR001849,8.77,634,743
+Nrp1,Putative RNA-binding protein involved in heterochromatin assembly,P32770,6.4,719,RNA recognition motif domain,RRM_dom,IPR000504,4.57,226,322
+Nrp1,Putative RNA-binding protein involved in heterochromatin assembly,P32770,6.4,719,"Zinc finger, RanBP2-type",Znf_RanBP2,IPR001876,9.01,355,384
+Nrp1,Putative RNA-binding protein involved in heterochromatin assembly,P32770,6.4,719,"Zinc finger, RanBP2-type",Znf_RanBP2,IPR001876,9.21,581,610
+Cla4,Serine/threonine-protein kinase CLA4,P48562,9.18,842,CRIB domain,CRIB_dom,IPR000095,6.28,184,241
+Cla4,Serine/threonine-protein kinase CLA4,P48562,9.18,842,Protein kinase domain,Prot_kinase_dom,IPR000719,5.73,546,825
+Cla4,Serine/threonine-protein kinase CLA4,P48562,9.18,842,Pleckstrin homology domain,PH_domain,IPR001849,9.13,61,181
+Cdc28,Cyclin-dependent kinase 1,P00546,8.5,298,Protein kinase domain,Prot_kinase_dom,IPR000719,8.86,8,295
+Ste5,Protein STE5,P32917,5.26,917,"Protein Ste5, Fus3-binding domain",Ste5_Fus3-bd_dom,IPR021106,5.39,594,782
+Ste5,Protein STE5,P32917,5.26,917,"Scaffold protein Ste5, Fus3-binding domain",Ste5_Fus-binding,IPR021651,8.26,287,316
+Axl2,Axial budding pattern protein 2,P38928,4.82,823,Dystroglycan-type cadherin-like,Cadg,IPR006644,4.21,25,131
+Axl2,Axial budding pattern protein 2,P38928,4.82,823,Dystroglycan-type cadherin-like,Cadg,IPR006644,4.28,146,251
+Axl2,Axial budding pattern protein 2,P38928,4.82,823,Dystroglycan-type cadherin-like,Cadg,IPR006644,3.41,253,350
+Axl2,Axial budding pattern protein 2,P38928,4.82,823,Dystroglycan-type cadherin-like,Cadg,IPR006644,5.4,351,448
+Rax1,Bud site selection protein RAX1,Q08760,6.9,435,RGS domain,RGS,IPR016137,5.07,28,257

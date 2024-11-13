@@ -1,0 +1,7 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc42	P19073	VAL	36	Small GTP-binding domain	IPR005225	Spa2	P23201	ILE	1336	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Cdc42	P19073	VAL	36	Small GTP-binding domain	IPR005225	Spa2	P23201	LEU	1340	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Cdc42	P19073	VAL	36	Small GTP-binding domain	IPR005225	Spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Cdc42	P19073	ASN	39	Small GTP-binding domain	IPR005225	Spa2	P23201	GLN	1337	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Cdc42	P19073	ASP	38	Small GTP-binding domain	IPR005225	Spa2	P23201	GLN	1337	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Cdc42	P19073	VAL	36	Small GTP-binding domain	IPR005225	Spa2	P23201	ALA	1439	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

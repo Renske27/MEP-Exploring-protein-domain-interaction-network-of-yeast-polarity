@@ -1,0 +1,4 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Arp2	P32381	GLN	148	Actin family	IPR004000	Axl2	P38928	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	GLN	148	Actin family	IPR004000	Axl2	P38928	THR	207	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	ARG	348	Actin family	IPR004000	Axl2	P38928	PRO	192	Dystroglycan-type cadherin-like	IPR006644

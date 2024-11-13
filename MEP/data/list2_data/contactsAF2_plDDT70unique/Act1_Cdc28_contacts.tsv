@@ -1,0 +1,9 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Act1	P60010	LEU	349	Actin family	IPR004000	Cdc28	P00546	LEU	183	Protein kinase domain	IPR000719
+Act1	P60010	GLY	146	Actin family	IPR004000	Cdc28	P00546	PHE	222	Protein kinase domain	IPR000719
+Act1	P60010	ARG	147	Actin family	IPR004000	Cdc28	P00546	PHE	222	Protein kinase domain	IPR000719
+Act1	P60010	SER	145	Actin family	IPR004000	Cdc28	P00546	PRO	250	Protein kinase domain	IPR000719
+Act1	P60010	ARG	147	Actin family	IPR004000	Cdc28	P00546	PRO	250	Protein kinase domain	IPR000719
+Act1	P60010	SER	145	Actin family	IPR004000	Cdc28	P00546	PHE	222	Protein kinase domain	IPR000719
+Act1	P60010	ARG	147	Actin family	IPR004000	Cdc28	P00546	TRP	252	Protein kinase domain	IPR000719
+Act1	P60010	ASN	296	Actin family	IPR004000	Cdc28	P00546	ARG	226	Protein kinase domain	IPR000719

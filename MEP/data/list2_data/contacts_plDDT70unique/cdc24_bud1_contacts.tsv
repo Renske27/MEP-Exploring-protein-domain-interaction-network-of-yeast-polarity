@@ -1,0 +1,11 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc24	P11433	CYS	415	Dbl homology (DH) domain	IPR000219	bud1	P13856	GLY	60	Small GTP-binding domain	IPR005225
+cdc24	P11433	ASN	34			bud1	P13856	ARG	41	Small GTP-binding domain	IPR005225
+cdc24	P11433	ASN	452	Dbl homology (DH) domain	IPR000219	bud1	P13856	PHE	64	Small GTP-binding domain	IPR005225
+cdc24	P11433	ASN	452	Dbl homology (DH) domain	IPR000219	bud1	P13856	MET	67	Small GTP-binding domain	IPR005225
+cdc24	P11433	ASN	452	Dbl homology (DH) domain	IPR000219	bud1	P13856	ALA	66	Small GTP-binding domain	IPR005225
+cdc24	P11433	ASN	452	Dbl homology (DH) domain	IPR000219	bud1	P13856	THR	65	Small GTP-binding domain	IPR005225
+cdc24	P11433	ARG	456			bud1	P13856	ALA	66	Small GTP-binding domain	IPR005225
+cdc24	P11433	GLN	455			bud1	P13856	ALA	66	Small GTP-binding domain	IPR005225
+cdc24	P11433	SER	405	Dbl homology (DH) domain	IPR000219	bud1	P13856	GLU	54	Small GTP-binding domain	IPR005225
+cdc24	P11433	CYS	415	Dbl homology (DH) domain	IPR000219	bud1	P13856	PHE	64	Small GTP-binding domain	IPR005225

@@ -1,0 +1,2933 @@
+[
+    {
+        "input_name": "BUD19",
+        "accession_protein": "O94143",
+        "gene names": "{'geneName': {'value': 'BUD19'}, 'orderedLocusNames': [{'value': 'YJL188C'}]}",
+        "protein name": "Putative uncharacterized protein BUD19",
+        "sequence": "MTKSLKHKYVLRLDVHLGSSPVSSLSVVTDSVVGSQSDPLWQWSVLLLSLSHFLLDSERLLSLIKRETYRAHTKCTIVKNVSNNVQTHQYDAFTDPRQYHLT",
+        "length": "102",
+        "mass": "11666",
+        "domains": [],
+        "protein_pI": 9.21
+    },
+    {
+        "input_name": "RHO2",
+        "accession_protein": "P06781",
+        "gene names": "{'geneName': {'value': 'RHO2'}, 'orderedLocusNames': [{'value': 'YNL090W'}], 'orfNames': [{'value': 'N2237'}]}",
+        "protein name": "GTP-binding protein RHO2",
+        "sequence": "MSEKAVRRKLVIIGDGACGKTSLLYVFTLGKFPEQYHPTVFENYVTDCRVDGIKVSLTLWDTAGQEEYERLRPFSYSKADIILIGFAVDNFESLINARTKWADEALRYCPDAPIVLVGLKKDLRQEAHFKENATDEMVPIEDAKQVARAIGAKKYMECSALTGEGVDDVFEVATRTSLLMKKEPGANCCIIL",
+        "length": "192",
+        "mass": "21479",
+        "domains": [
+            {
+                "domain_name": "Small GTP-binding domain",
+                "domain_shortname": "Small_GTP-bd",
+                "domain_accession": "IPR005225",
+                "domain_start": "8",
+                "domain_end": "172",
+                "domain_pI": 4.92
+            }
+        ],
+        "protein_pI": 5.35
+    },
+    {
+        "input_name": "SNF1",
+        "accession_protein": "P06782",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '6366512'}], 'value': 'SNF1'}, 'synonyms': [{'value': 'CAT1'}, {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '1944227'}], 'value': 'CCR1'}, {'value': 'GLC2'}, {'value': 'PAS14'}], 'orderedLocusNames': [{'value': 'YDR477W'}], 'orfNames': [{'value': 'D8035.20'}]}",
+        "protein name": "Carbon catabolite-derepressing protein kinase",
+        "sequence": "MSSNNNTNTAPANANSSHHHHHHHHHHHHHGHGGSNSTLNNPKSSLADGAHIGNYQIVKTLGEGSFGKVKLAYHTTTGQKVALKIINKKVLAKSDMQGRIEREISYLRLLRHPHIIKLYDVIKSKDEIIMVIEYAGNELFDYIVQRDKMSEQEARRFFQQIISAVEYCHRHKIVHRDLKPENLLLDEHLNVKIADFGLSNIMTDGNFLKTSCGSPNYAAPEVISGKLYAGPEVDVWSCGVILYVMLCRRLPFDDESIPVLFKNISNGVYTLPKFLSPGAAGLIKRMLIVNPLNRISIHEIMQDDWFKVDLPEYLLPPDLKPHPEEENENNDSKKDGSSPDNDEIDDNLVNILSSTMGYEKDEIYESLESSEDTPAFNEIRDAYMLIKENKSLIKDMKANKSVSDELDTFLSQSPPTFQQQSKSHQKSQVDHETAKQHARRMASAITQQRTYHQSPFMDQYKEEDSTVSILPTSLPQIHRANMLAQGSPAASKISPLVTKKSKTRWHFGIRSRSYPLDVMGEIYIALKNLGAEWAKPSEEDLWTIKLRWKYDIGNKTNTNEKIPDLMKMVIQLFQIETNNYLVDFKFDGWESSYGDDTTVSNISEDEMSTFSAYPFLHLTTKLIMELAVNSQSN",
+        "length": "633",
+        "mass": "72045",
+        "domains": [
+            {
+                "domain_name": "Protein kinase domain",
+                "domain_shortname": "Prot_kinase_dom",
+                "domain_accession": "IPR000719",
+                "domain_start": "55",
+                "domain_end": "306",
+                "domain_pI": 8.74
+            },
+            {
+                "domain_name": "Carbon catabolite-derepressing protein kinase, ubiquitin-associated domain",
+                "domain_shortname": "SNF1_UBA",
+                "domain_accession": "IPR013896",
+                "domain_start": "344",
+                "domain_end": "395",
+                "domain_pI": 4.08
+            },
+            {
+                "domain_name": "AMPK, C-terminal adenylate sensor domain",
+                "domain_shortname": "AMPK_C",
+                "domain_accession": "IPR032270",
+                "domain_start": "504",
+                "domain_end": "626",
+                "domain_pI": 4.85
+            }
+        ],
+        "protein_pI": 6.18
+    },
+    {
+        "input_name": "CDC24",
+        "accession_protein": "P11433",
+        "gene names": "{'geneName': {'value': 'CDC24'}, 'synonyms': [{'value': 'CLS4'}], 'orderedLocusNames': [{'value': 'YAL041W'}]}",
+        "protein name": "Cell division control protein 24",
+        "sequence": "MAIQTRFASGTSLSDLKPKPSATSISIPMQNVMNKPVTEQDSLFHICANIRKRLEVLPQLKPFLQLAYQSSEVLSERQSLLLSQKQHQELLKSNGANRDSSDLAPTLRSSSISTATSLMSMEGISYTNSNPSATPNMEDTLLTFSMGILPITMDCDPVTQLSQLFQQGAPLCILFNSVKPQFKLPVIASDDLKVCKKSIYDFILGCKKHFAFNDEELFTISDVFANSTSQLVKVLEVVETLMNSSPTIFPSKSKTQQIMNAENQHRHQPQQSSKKHNEYVKIIKEFVATERKYVHDLEILDKYRQQLLDSNLITSEELYMLFPNLGDAIDFQRRFLISLEINALVEPSKQRIGALFMHSKHFFKLYEPWSIGQNAAIEFLSSTLHKMRVDESQRFIINNKLELQSFLYKPVQRLCRYPLLVKELLAESSDDNNTKELEAALDISKNIARSINENQRRTENHQVVKKLYGRVVNWKGYRISKFGELLYFDKVFISTTNSSSEPEREFEVYLFEKIIILFSEVVTKKSASSLILKKKSSTSASISASNITDNNGSPHHSYHKRHSNSSSSNNIHLSSSSAAAIIHSSTNSSDNNSNNSSSSSLFKLSANEPKLDLRGRIMIMNLNQIIPQNNRSLNITWESIKEQGNFLLKFKNEETRDNWSSCLQQLIHDLKNEQFKARHHSSTSTTSSTAKSSSMMSPTTTMNTPNHHNSRQTHDSMASFSSSHMKRVSDVLPKRRTTSSSFESEIKSISENFKNSIPESSILFRISYNNNSNNTSSSEIFTLLVEKVWNFDDLIMAINSKISNTHNNNISPITKIKYQDEDGDFVVLGSDEDWNVAKEMLAENNEKFLNIRLY",
+        "length": "854",
+        "mass": "96940",
+        "domains": [
+            {
+                "domain_name": "Dbl homology (DH) domain",
+                "domain_shortname": "DH-domain",
+                "domain_accession": "IPR000219",
+                "domain_start": "278",
+                "domain_end": "454",
+                "domain_pI": 5.87
+            },
+            {
+                "domain_name": "PB1 domain",
+                "domain_shortname": "PB1_dom",
+                "domain_accession": "IPR000270",
+                "domain_start": "761",
+                "domain_end": "854",
+                "domain_pI": 4.53
+            },
+            {
+                "domain_name": "Calponin homology domain",
+                "domain_shortname": "CH_dom",
+                "domain_accession": "IPR001715",
+                "domain_start": "135",
+                "domain_end": "246",
+                "domain_pI": 4.58
+            },
+            {
+                "domain_name": "Pleckstrin homology domain",
+                "domain_shortname": "PH_domain",
+                "domain_accession": "IPR001849",
+                "domain_start": "478",
+                "domain_end": "670",
+                "domain_pI": 9.0
+            }
+        ],
+        "protein_pI": 8.6
+    },
+    {
+        "input_name": "BIK1",
+        "accession_protein": "P11709",
+        "gene names": "{'geneName': {'value': 'BIK1'}, 'orderedLocusNames': [{'value': 'YCL029C'}], 'orfNames': [{'value': 'YCL29C'}]}",
+        "protein name": "Nuclear fusion protein BIK1",
+        "sequence": "MDRYQRKIGCFIQIPNLGRGQLKYVGPVDTKAGMFAGVDLLANIGKNDGSFMGKKYFQTEYPQSGLFIQLQKVASLIEKASISQTSRRTTMEPLSIPKNRSIVRLTNQFSPMDDPKSPTPMRSFRITSRHSGNQQSMDQEASDHHQQQEFGYDNREDRMEVDSILSSDRKANHNTTSDWKPDNGHMNDLNSSEVTIELREAQLTIEKLQRKQLHYKRLLDDQRMVLEEVQPTFDRYEATIQEREKEIDHLKQQLELERRQQAKQKQFFDAENEQLLAVVSQLHEEIKENEERNLSHNQPTGANEDVELLKKQLEQLRNIEDQFELHKTKWAKEREQLKMHNDSLSKEYQNLSKELFLTKPQDSSSEEVASLTKKLEEANEKIKQLEQAQAQTAVESLPIFDPPAPVDTTAGRQQWCEHCDTMGHNTAECPHHNPDNQQFF",
+        "length": "440",
+        "mass": "51092",
+        "domains": [
+            {
+                "domain_name": "CAP Gly-rich domain",
+                "domain_shortname": "CAP-Gly_domain",
+                "domain_accession": "IPR000938",
+                "domain_start": "8",
+                "domain_end": "74",
+                "domain_pI": 9.26
+            }
+        ],
+        "protein_pI": 5.62
+    },
+    {
+        "input_name": "RSR1",
+        "accession_protein": "P13856",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '2690082'}], 'value': 'RSR1'}, 'synonyms': [{'value': 'BUD1'}], 'orderedLocusNames': [{'evidences': [{'evidenceCode': 'ECO:0000312', 'source': 'SGD', 'id': 'S000003384'}], 'value': 'YGR152C'}], 'orfNames': [{'value': 'G6658'}]}",
+        "protein name": "Ras-related protein RSR1",
+        "sequence": "MRDYKLVVLGAGGVGKSCLTVQFVQGVYLDTYDPTIEDSYRKTIEIDNKVFDLEILDTAGIAQFTAMRELYIKSGMGFLLVYSVTDRQSLEELMELREQVLRIKDSDRVPMVLIGNKADLINERVISVEEGIEVSSKWGRVPFYETSALLRSNVDEVFVDLVRQIIRNEMESVAVKDARNQSQQFSKIESPSTRLPSSAKQDTKQSNNKQSSKGLYNKSSQGQAKVKQSTPVNEKHKPSHAVPKSGSSNRTGISATSQQKKKKKNASTCTIL",
+        "length": "272",
+        "mass": "30391",
+        "domains": [
+            {
+                "domain_name": "Small GTP-binding domain",
+                "domain_shortname": "Small_GTP-bd",
+                "domain_accession": "IPR005225",
+                "domain_start": "1",
+                "domain_end": "158",
+                "domain_pI": 4.64
+            }
+        ],
+        "protein_pI": 9.22
+    },
+    {
+        "input_name": "PHO85",
+        "accession_protein": "P17157",
+        "gene names": "{'geneName': {'value': 'PHO85'}, 'synonyms': [{'value': 'SSG3'}], 'orderedLocusNames': [{'value': 'YPL031C'}], 'orfNames': [{'value': 'P7102.18A'}]}",
+        "protein name": "Cyclin-dependent protein kinase PHO85",
+        "sequence": "MSSSSQFKQLEKLGNGTYATVYKGLNKTTGVYVALKEVKLDSEEGTPSTAIREISLMKELKHENIVRLYDVIHTENKLTLVFEFMDNDLKKYMDSRTVGNTPRGLELNLVKYFQWQLLQGLAFCHENKILHRDLKPQNLLINKRGQLKLGDFGLARAFGIPVNTFSSEVVTLWYRAPDVLMGSRTYSTSIDIWSCGCILAEMITGKPLFPGTNDEEQLKLIFDIMGTPNESLWPSVTKLPKYNPNIQQRPPRDLRQVLQPHTKEPLDGNLMDFLHGLLQLNPDMRLSAKQALHHPWFAEYYHHAS",
+        "length": "305",
+        "mass": "34906",
+        "domains": [
+            {
+                "domain_name": "Protein kinase domain",
+                "domain_shortname": "Prot_kinase_dom",
+                "domain_accession": "IPR000719",
+                "domain_start": "7",
+                "domain_end": "297",
+                "domain_pI": 8.61
+            }
+        ],
+        "protein_pI": 8.28
+    },
+    {
+        "input_name": "CDC42",
+        "accession_protein": "P19073",
+        "gene names": "{'geneName': {'value': 'CDC42'}, 'synonyms': [{'value': 'SRO2'}], 'orderedLocusNames': [{'value': 'YLR229C'}], 'orfNames': [{'value': 'L8083.13'}]}",
+        "protein name": "Cell division control protein 42",
+        "sequence": "MQTLKCVVVGDGAVGKTCLLISYTTNQFPADYVPTVFDNYAVTVMIGDEPYTLGLFDTAGQEDYDRLRPLSYPSTDVFLVCFSVISPPSFENVKEKWFPEVHHHCPGVPCLVVGTQIDLRDDKVIIEKLQRQRLRPITSEQGSRLARELKAVKYVECSALTQRGLKNVFDEAIVAALEPPVIKKSKKCAIL",
+        "length": "191",
+        "mass": "21323",
+        "domains": [
+            {
+                "domain_name": "Small GTP-binding domain",
+                "domain_shortname": "Small_GTP-bd",
+                "domain_accession": "IPR005225",
+                "domain_start": "1",
+                "domain_end": "157",
+                "domain_pI": 5.34
+            }
+        ],
+        "protein_pI": 6.3
+    },
+    {
+        "input_name": "MYO2",
+        "accession_protein": "P19524",
+        "gene names": "{'geneName': {'value': 'MYO2'}, 'synonyms': [{'value': 'CDC66'}], 'orderedLocusNames': [{'value': 'YOR326W'}], 'orfNames': [{'value': 'O6167'}]}",
+        "protein name": "Myosin-2",
+        "sequence": "MSFEVGTRCWYPHKELGWIGAEVIKNEFNDGKYHLELQLEDDEIVSVDTKDLNNDKDQSLPLLRNPPILEATEDLTSLSYLNEPAVLHAIKQRYSQLNIYTYSGIVLIATNPFDRVDQLYTQDMIQAYAGKRRGELEPHLFAIAEEAYRLMKNDKQNQTIVVSGESGAGKTVSAKYIMRYFASVEEENSATVQHQVEMSETEQKILATNPIMEAFGNAKTTRNDNSSRFGKYLEILFDKDTSIIGARIRTYLLERSRLVYQPPIERNYHIFYQLMAGLPAQTKEELHLTDASDYFYMNQGGDTKINGIDDAKEYKITVDALTLVGITKETQHQIFKILAALLHIGNIEIKKTRNDASLSADEPNLKLACELLGIDAYNFAKWVTKKQIITRSEKIVSNLNYSQALVAKDSVAKFIYSALFDWLVENINTVLCNPAVNDQISSFIGVLDIYGFEHFEKNSFEQFCINYANEKLQQEFNQHVFKLEQEEYVKEEIEWSFIEFNDNQPCIDLIENKLGILSLLDEESRLPAGSDESWTQKLYQTLDKSPTNKVFSKPRFGQTKFIVSHYALDVAYDVEGFIEKNRDTVSDGHLEVLKASTNETLINILEGLEKAAKKLEEAKKLELEQAGSKKPGPIRTVNRKPTLGSMFKQSLIELMNTINSTNVHYIRCIKPNADKEAWQFDNLMVLSQLRACGVLETIRISCAGFPSRWTFEEFVLRYYILIPHEQWDLIFKKKETTEEDIISVVKMILDATVKDKSKYQIGNTKIFFKAGMLAYLEKLRSNKMHNSIVMIQKKIRAKYYRKQYLQISQAIKYLQNNIKGFIIRQRVNDEMKVNCATLLQAAYRGHSIRANVFSVLRTITNLQKKIRKELKQRQLKQEHEYNAAVTIQSKVRTFEPRSRFLRTKKDTVVVQSLIRRRAAQRKLKQLKADAKSVNHLKEVSYKLENKVIELTQNLASKVKENKEMTERIKELQVQVEESAKLQETLENMKKEHLIDIDNQKSKDMELQKTIENNLQSTEQTLKDAQLELEDMVKQHDELKEESKKQLEELEQTKKTLVEYQTLNGDLQNEVKSLKEEIARLQTAMSLGTVTTSVLPQTPLKDVMGGGASNFNNMMLENSDLSPNDLNLKSRSTPSSGNNHIDSLSVDRENGVNATQINEELYRLLEDTEILNQEITEGLLKGFEVPDAGVAIQLSKRDVVYPARILIIVLSEMWRFGLTKQSESFLAQVLTTIQKVVTQLKGNDLIPSGVFWLANVRELYSFVVFALNSILTEETFKNGMTDEEYKEYVSLVTELKDDFEALSYNIYNIWLKKLQKQLQKKAINAVVISESLPGFSAGETSGFLNKIFANTEEYTMDDILTFFNSIYWCMKSFHIENEVFHAVVTTLLNYVDAICFNELIMKRNFLSWKRGLQLNYNVTRLEEWCKTHGLTDGTECLQHLIQTAKLLQVRKYTIEDIDILRGICYSLTPAQLQKLISQYQVADYESPIPQEILRYVADIVKKEAALSSSGNDSKGHEHSSSIFITPETGPFTDPFSLIKTRKFDQVEAYIPAWLSLPSTKRIVDLVAQQVVQDGH",
+        "length": "1574",
+        "mass": "180680",
+        "domains": [
+            {
+                "domain_name": "Myosin head, motor domain",
+                "domain_shortname": "Myosin_head_motor_dom",
+                "domain_accession": "IPR001609",
+                "domain_start": "64",
+                "domain_end": "782",
+                "domain_pI": 5.62
+            },
+            {
+                "domain_name": "Dilute domain",
+                "domain_shortname": "Dilute_dom",
+                "domain_accession": "IPR002710",
+                "domain_start": "1226",
+                "domain_end": "1501",
+                "domain_pI": 5.37
+            },
+            {
+                "domain_name": "Myosin, N-terminal, SH3-like",
+                "domain_shortname": "Myosin_N",
+                "domain_accession": "IPR004009",
+                "domain_start": "4",
+                "domain_end": "57",
+                "domain_pI": 4.39
+            },
+            {
+                "domain_name": "Myosin 2/2A, cargo-binding domain, fungi",
+                "domain_shortname": "Fungal_Myo2/2A_CBD",
+                "domain_accession": "IPR046943",
+                "domain_start": "1154",
+                "domain_end": "1564",
+                "domain_pI": 5.11
+            }
+        ],
+        "protein_pI": 5.95
+    },
+    {
+        "input_name": "MSB1",
+        "accession_protein": "P21339",
+        "gene names": "{'geneName': {'value': 'MSB1'}, 'orderedLocusNames': [{'value': 'YOR188W'}]}",
+        "protein name": "Morphogenesis-related protein MSB1",
+        "sequence": "MNDMAKPLPTPPTAEIRKSRSNSPKKAQKTNLSPNKNQNNEKNVPRSNGRTKNEHNSMDDEEFEFFHQFSREKVKGVIHVITAELKEKGPDVEFLMIPFRPEQTNDKLLTLLNQLFPLGNGQPVNEKKQLRIVSKADVWTLFQCLKYIWCRLPNSEIIGWKSYLEFKFREEDKKFPRKSFLEIMPQCLASPNHASIVYDFFDLIISISSNSRVNKMSARKISKMCAIWAFSKQIPNSDIQDYDFESAAMKSFAPNNSIQDGLDQWIPASDAMFHLLLAFLRSFVPQDLESAKLPRTLKSLLFNNQYPPRKSTAYTSETILTIPLVTLKTDVFSRKPWQLLERCNDLLDFSDHDAFEAREDYALLKSLFRKKNTVEGISRKMSQESRRLMKAMSTKHSTFQPGWAPRECIENISHLKECIEVKRLDIDDYFIWTWLSSLSFEQTSEKKKIFGRSIILEFEFDGFKKWVVFQECDITLDYNKKGQLKKKTSAQSPTTEKELPPDDFELEDPPLSKSPTLSQTYKKFQAEVPQQSTVRRDSAPDNQGIYHTVISKNALTKNKHNVNLHSFEHKISKWNPLNNLRKKSGSNSSSSSFEEKSKDAPIREEYHTNKNHKSKKEERVLSQFSTLNPDEYQLPVIETGSSNFKIEIPELMYEHDDDDSDKLKNSQKRATDSAIEELNGMVEEMMINEPDDVKISITEAETFESLTKFDQYKPSNITDDDLQSSHSSAVHSLKLSTNTNDSCADSSKYTADRKLAEPRKISEESKVNDDSSSYYSPNINNLPASRMPSQPTYSNSDSKKAFTNESRLNVLQGAVSPSQQVTPKPYKNAPGDCVSPVQQKYYQNDRRNEMSPASAPVPPSAYSPARSPQFSTNSAGFKQNTINVPVGYNDPAHVLANQPHMTYRDQHNYPSHQQKQRPFQNNIVPPELKSRNQRADASPIPQHMVPVKQGVPNLPSNVPLYQQMERMNPNHQHPVNTYKVTQPPYHNNTTNAYGNSRAGNAHMLDGKWSNNPPQMVPKGVRPNQYPQQHVNRYSPQAQPVVPAEYYNGPPPMRAPPMMSHMVPAQEPIRYTAGANRRSFPQGMQQNAYSVPAQPMGAVNSEFYLPEAPQGNKLHGNINKRQERKKLYDNIRSGNFGI",
+        "length": "1137",
+        "mass": "129971",
+        "domains": [
+            {
+                "domain_name": "Meiotically up-regulated protein Msb1/Mug8 domain",
+                "domain_shortname": "Msb1/Mug8_dom",
+                "domain_accession": "IPR012965",
+                "domain_start": "68",
+                "domain_end": "472",
+                "domain_pI": 8.83
+            }
+        ],
+        "protein_pI": 8.96
+    },
+    {
+        "input_name": "SPA2",
+        "accession_protein": "P23201",
+        "gene names": "{'geneName': {'value': 'SPA2'}, 'synonyms': [{'value': 'PEA1'}], 'orderedLocusNames': [{'value': 'YLL021W'}], 'orfNames': [{'value': 'L1209'}]}",
+        "protein name": "Protein SPA2",
+        "sequence": "MGTSSEVSLAHHRDIFHYYVSLKTFFEVTGENRDRSNSTRAQKARAKLLKLSSSQFYELSTDVSDELQRRIGEDANQPDYLLPKANFHMKRNQARQKLANLSQTRFNDLLDDILFEIKRRGFDKDLDAPRPPLPQPMKQEVSKDSDDTARTSTNSSSVTQVAPNVSVQPSLVIPKMASIDWSSEEEEEEQVKEKPNEPEGKQTSMDEKKEAKPALNPIVTDSDLPDSQVLARDITSMARTPTTTHKNYWDVNDSPIIKVDKDIDNEKGPEQLKSPEVQRAENNNPNSEMEDKVKELTDLNSDLHLQIEDLNAKLASLTSEKEKEKKEEKEEKEKEKNLKINYTIDESFQKELLSLNSQIGELSIENENLKQKISEFELHQKKNDNHNDLKITDGFISKYSSADGLIPAQYILNANNLIIQFTTRLSAVPIGDSTAISHQIGEELFQILSQLSNLISQLLLSADLLQYKDQVILLKASLSHAITSIRYFSVYGPVLIPKITVQAAVSEVCFAMCNLIDSAKIKSDSNGESTTSNEGNRQVLEYSSPTATTPMTPTFPSTSGINMKKGFINPRKPASFLNDVEEEESPVKPLKITQKAINSPIIRPSSSNGVPTTSRKPSGTGLFSLMIDSSIAKNSSHKEDNDKYVSPIKAVTSASNSASSNISEIPKLTLPPQAKIGTVIPPSENQVPNIKIENTEEDNKRSDITNEISVKPTSSIADKLKQFEQSSEKKSSPKENPIAKEEMDSKPKLSNKFITSMNDVSTDDSSSDGNENDDADDDDDFTYMALKQTMKREGSKIEKNNDSKLPANIVELDLHESPESVKIESPESIKEITSSEMSSEMPSSSLPKRLVEDVEPSEMPEKGASVESVRKKNFQEPLGNVESPDMTQKVKSLGMTGKAVGPESDSRVESPGMTGQIKSLNMAGKVVGPEADSRVESPGMKEQIKSLGMTGKITAQESIKSPEAARKLASSGEVDKIESPRMVRESESLEAVGNTIPSNMTVKMESPNLKGNTVSEPQEIRRDIASSEPIENVDPPKVLKKIVFPKAVNRTGSPKSVEKTPSSATLKKSGLPEPNSQIVSPELAKNSPLAPIKKNVELRETNKPHTETITSVEPTNKDANTSWRDADLNRTIKREEEDEDFDRVNHNIQITGAYTKTGKIDYHKIPVDRKAKSEAEVHTSEEDIDESNNVNGKRADAQIHITERKHAFVNPTENSQVKKTSHSPFLNSKPVQYENSESNGGINNHIKIKNTGETTAHDEKHYSDDDDSSYQFVPMKHEEQEQEQNRSEEEESEDDDEEEEDSDFDVDTFDIENPDNTLSELLLYLEHQTMDVISTIQSLLTSIKKPQVTKGNLRGESNAINQVIGQMVDATSISMEQSRNANLKKHGDWVVQSLRDCSRRMTILCQLTGDGILAKEKSDQDYADKNFKQRLAGIAFDVAKCTKELVKTVEEASLKDEINYLNSKLK",
+        "length": "1466",
+        "mass": "163143",
+        "domains": [
+            {
+                "domain_name": "GIT, Spa2 homology (SHD) domain",
+                "domain_shortname": "GIT_SHD",
+                "domain_accession": "IPR013724",
+                "domain_start": "44",
+                "domain_end": "74",
+                "domain_pI": 5.0
+            },
+            {
+                "domain_name": "GIT, Spa2 homology (SHD) domain",
+                "domain_shortname": "GIT_SHD",
+                "domain_accession": "IPR013724",
+                "domain_start": "94",
+                "domain_end": "124",
+                "domain_pI": 9.69
+            },
+            {
+                "domain_name": "GIT, Spa2 homology (SHD) domain",
+                "domain_shortname": "GIT_SHD",
+                "domain_accession": "IPR013724",
+                "domain_start": "292",
+                "domain_end": "321",
+                "domain_pI": 4.95
+            },
+            {
+                "domain_name": "GIT, Spa2 homology (SHD) domain",
+                "domain_shortname": "GIT_SHD",
+                "domain_accession": "IPR013724",
+                "domain_start": "336",
+                "domain_end": "366",
+                "domain_pI": 4.59
+            },
+            {
+                "domain_name": "ARF GTPase-activating protein GIT1, C-terminal",
+                "domain_shortname": "GIT1_C",
+                "domain_accession": "IPR022018",
+                "domain_start": "1324",
+                "domain_end": "1449",
+                "domain_pI": 9.06
+            }
+        ],
+        "protein_pI": 5.07
+    },
+    {
+        "input_name": "PCL1",
+        "accession_protein": "P24867",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '7973730'}], 'value': 'PCL1'}, 'synonyms': [{'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '1832336'}], 'value': 'HCS26'}], 'orderedLocusNames': [{'evidences': [{'evidenceCode': 'ECO:0000312', 'source': 'SGD', 'id': 'S000005233'}], 'value': 'YNL289W'}], 'orfNames': [{'value': 'N0536'}]}",
+        "protein name": "PHO85 cyclin-1",
+        "sequence": "MCEYSKALHILLKSPVTDDIIKFLTDTTLRVVPSSNYPTPPGSPGEKHLTRLPSLMTFITRLVRYTNVYTPTLLTAACYLNKLKRILPRDATGLPSTIHRIFLACLILSAKFHNDSSPLNKHWARYTDGLFTLEDINLMERQLLQLLNWDLRVNTEDLILDLQPLLEPIKQDLARSSDQRKRINMMMSMNRRTCAGTSPIRSNNRFKLYEKQRNVSIASDLSSATLVDSCNDLRRLKDVTNIANNTVANTNYVRTVEKWNDNVNRQSWDLEQIMSQHGF",
+        "length": "279",
+        "mass": "32095",
+        "domains": [
+            {
+                "domain_name": "Cyclin, N-terminal",
+                "domain_shortname": "Cyclin_N",
+                "domain_accession": "IPR006671",
+                "domain_start": "19",
+                "domain_end": "152",
+                "domain_pI": 9.64
+            }
+        ],
+        "protein_pI": 9.4
+    },
+    {
+        "input_name": "BUD5",
+        "accession_protein": "P25300",
+        "gene names": "{'geneName': {'value': 'BUD5'}, 'orderedLocusNames': [{'value': 'YCR038C'}], 'orfNames': [{'value': 'YCR38C'}, {'value': 'YCR526'}]}",
+        "protein name": "Bud site selection protein 5",
+        "sequence": "MSPKNKYVYICVEYIYIYFAKIHKQSTLSSDTTKMFVLIDNVLAYLLEQDDLFVTARFAIQGQIVSRRVNKIHISNITDVLLQQFISHTLPYNDNIVPKKILDSMRTAVRQLLEATACVSRECPLVKRSQDIKRARKRLLSDWYRLGADANMDAVLLVVNSAWRFLAVWRPFVNSIQHATQELYQNIAHYLLHGNVNIQRVTALIQLVMGQDDLLFSMDDVLQEVFRIQLYLNKMLPHNSHKWQKPSPFDSANLLLNFRDWTTDNALLQELLLSYPTINKNKHKNHSVPRLIQIWVESYWQDSETTLKDILNFWYSHLAEYYEYQELFADIVQLFINKKRTRQLKIHYIGLTDKEIEENKPPLDYENLFLQYEIDKTNANDELCGATDLSDLLFQWKQGELLEVEAFALNVSPWSLAKTLTLLESSLYLDIETIEFTRHFKHNDTTIDSVFTLSNQLSSYVLETTLQQTHTISYWLQVALSCLYLRNLNSLASIITSLQNHSIERLSLPIDVKSDHLFQRLKVVVHPNNNYNVYRRTIKHIFHSQLPCVPFTSLLIRDITFIRDGNDTFTKDGNNVNMQKFNQITKIVAFAQYLQQKQYEDIHCSNTTARSLLGAMIKVHTLYNDNKDRAYQVSIAKVPRLT",
+        "length": "642",
+        "mass": "75046",
+        "domains": [
+            {
+                "domain_name": "Ras-like guanine nucleotide exchange factor, N-terminal",
+                "domain_shortname": "Ras-like_Gua-exchang_fac_N",
+                "domain_accession": "IPR000651",
+                "domain_start": "223",
+                "domain_end": "339",
+                "domain_pI": 6.56
+            },
+            {
+                "domain_name": "Ras guanine-nucleotide exchange factors catalytic domain",
+                "domain_shortname": "RASGEF_cat_dom",
+                "domain_accession": "IPR001895",
+                "domain_start": "408",
+                "domain_end": "641",
+                "domain_pI": 9.08
+            }
+        ],
+        "protein_pI": 7.68
+    },
+    {
+        "input_name": "BUD31",
+        "accession_protein": "P25337",
+        "gene names": "{'geneName': {'value': 'BUD31'}, 'synonyms': [{'value': 'CWC14'}], 'orderedLocusNames': [{'value': 'YCR063W'}], 'orfNames': [{'value': 'YCR63W'}, {'value': 'YCR903'}]}",
+        "protein name": "Pre-mRNA-splicing factor BUD31",
+        "sequence": "MPRIKTRRSKPAPDGFEKIKPTLTDFEIQLRDAQKDKSSKLAAKSNEQLWEIMQLHHQRSRYIYTLYYKRKAISKDLYDWLIKEKYADKLLIAKWRKTGYEKLCCLRCIQKNETNNGSTCICRVPRAQLEEEARKKGTQVSFHQCVHCGCRGCASTD",
+        "length": "157",
+        "mass": "18447",
+        "domains": [
+            {
+                "domain_name": "Pre-mRNA-splicing factor BUD31",
+                "domain_shortname": "BUD31",
+                "domain_accession": "IPR001748",
+                "domain_start": "1",
+                "domain_end": "157",
+                "domain_pI": 9.54
+            }
+        ],
+        "protein_pI": 9.54
+    },
+    {
+        "input_name": "STE50",
+        "accession_protein": "P25344",
+        "gene names": "{'geneName': {'value': 'STE50'}, 'orderedLocusNames': [{'value': 'YCL032W'}], 'orfNames': [{'value': 'YCL32W'}]}",
+        "protein name": "Protein STE50",
+        "sequence": "MEDGKQAINEGSNDASPDLDVNGTILMNNEDFSQWSVDDVITWCISTLEVEETDPLCQRLRENDIVGDLLPELCLQDCQDLCDGDLNKAIKFKILINKMRDSKLEWKDDKTQEDMITVLKNLYTTTSAKLQEFQSQYTRLRMDVLDVMKTSSSSSPINTHGVSTTVPSSNNTIIPSSDGVSLSQTDYFDTVHNRQSPSRRESPVTVFRQPSLSHSKSLHKDSKNKVPQISTNQSHPSAVSTANTPGPSPNEALKQLRASKEDSCERILKNAMKRHNLADQDWRQYVLVICYGDQERLLELNEKPVIIFKNLKQQGLHPAIMLRRRGDFEEVAMMNGSDNVTPGGRL",
+        "length": "346",
+        "mass": "38971",
+        "domains": [
+            {
+                "domain_name": "Ras-associating domain",
+                "domain_shortname": "RA_dom",
+                "domain_accession": "IPR000159",
+                "domain_start": "233",
+                "domain_end": "327",
+                "domain_pI": 9.34
+            },
+            {
+                "domain_name": "Ste50, sterile alpha motif",
+                "domain_shortname": "SAM_Ste50",
+                "domain_accession": "IPR015316",
+                "domain_start": "30",
+                "domain_end": "104",
+                "domain_pI": 4.16
+            }
+        ],
+        "protein_pI": 5.29
+    },
+    {
+        "input_name": "BUD3",
+        "accession_protein": "P25558",
+        "gene names": "{'geneName': {'value': 'BUD3'}, 'orderedLocusNames': [{'value': 'YCL014W'}], 'orfNames': [{'value': 'YCL012W'}, {'value': 'YCL013W'}, {'value': 'YCL12W'}, {'value': 'YCL13W'}, {'value': 'YCL14W'}]}",
+        "protein name": "Bud site selection protein 3",
+        "sequence": "MEKDLSSLYSEKKDKENDETLFNIKLSKSVVETTPLNGHSLFDDDKSLSDWTDNVFTQSVFYHGSDDLIWGKFFVCVYKSPNSNKLNAIIFDKLGTSCFESVDISSNSQYYPAIENLSPSDQESNVKKCIAVILLQRYPLLSPSDLSQILSNKSENCDYDPPYAGDLASSCQLITAVPPEDLGKRFFTSGLLQNRFVSSTLLDVIYENNESTIELNNRLVFHLGEQLEQLFNPVTEYSPEQTEYGYKAPEDELPTESDDDLVKAICNELLQLQTNFTFNLVEFLQKFLIALRVRVLNEEINGLSTTKLNRLFPPTIDEVTRINCIFLDSLKTAIPYGSLEVLKACSITIPYFYKAYTRHEAATKNFSKDIKLFIRHFSNVIPEREVYTEMKIESIIKGPQEKLLKLKLIIERLWKSKKWRPKNQEMAKKCYNNIIDVIDSFGKLDSPLHSYSTRVFTPSGKILTELAKCWPVELQYKWLKRRVVGVYDVVDLNDENKRNLLVIFSDYVVFINILEAESYYTSDGSNRPLISDILMNSLINEVPLPSKIPKLKVERHCYIDEVLVSILDKSTLRFDRLKGKDSFSMVCKLSSAFISSSSVADLITKARILEKDTAFHLFKASRSHFTLYSTAHELCAYDSEKIKSKFALFLNIPPSKEILEVNNLHLAFFARFCSNDGRDNIVILDVLTKHDDKHIEVTSDNIVFTIINQLAIEIPICFSSLNSSMAKDLLCVNENLIKNLEHQLEEVKHPSTDEHRAVNSKLSGASDFDATHEKKRSYGTITTFRSYTSDLKDSPSGDNSNVTKETKEILPVKPTKKSSKKPREIQKKTKTNASKAEHIEKKKPNKGKGFFGVLKNVFGSKSKSKPSPVQRVPKKISQRHPKSPVKKPMTSEKKSSPKRAVVSSPKIKKKSTSFSTKESQTAKSSLRAVEFKSDDLIGKPPDVGNGAHPQENTRISSVVRDTKYVSYNPSQPVTENTSNEKNVEPKADQSTKQDNISNFADVEVSASSYPEKLDAETDDQIIGKATNSSSVHGNKELPDLAEVTTANRVSTTSAGDQRIDTQSEFLRAADVENLSDDDEHRQNESRVFNDDLFGDFIPKHYRNKQENINSSSNLFPEGKVPQEKGVSNENTNISLKTNEDASTLTQKLSPQASKVLTENSNELKDTNNEGKDAKDIKLGDDYSDKETAKEITKPKNFVEGITERKEIFPTIPRLAPPASKINFQRSPSYIELFQGMRVVLDKHDAHYNWKRLASQVSLSEGLKVNTEEDAAIINKSQDDAKAERMTQISEVIEYEMQQPIPTYLPKAHLDDSGIEKSDDKFFEIEEELKEELKGSKTGNEDVGNNNPSNSIPKIEKPPAFKVIRTSPVRIIGRTFEDTRKYENGSPSDISFTYDTHNNDEPDKRLMELKFPSQDEIPDDRFYTPAEEPTAEFPVEELPNTPRSINVTTSNNKSTDDKLSSGNIDQKPTELLDDLEFSSFNIAFGNTSMSTDNMKISSDLSSNKTVLGNAQKVQESPSGPLIYVLPQSSTKHEKEGFLRKKQKDEPIWVSPSKIDFADLSRRTKALTPERNTVPLKNNDSRKYKYTGEGSIGNMTNMLLTKDASYAYLKDFVALSDDEDEDGKQNCAVGGPEKLKFY",
+        "length": "1636",
+        "mass": "184719",
+        "domains": [
+            {
+                "domain_name": "Dbl homology (DH) domain",
+                "domain_shortname": "DH-domain",
+                "domain_accession": "IPR000219",
+                "domain_start": "265",
+                "domain_end": "443",
+                "domain_pI": 9.48
+            },
+            {
+                "domain_name": "Bud3, N-terminal",
+                "domain_shortname": "Bud3_N",
+                "domain_accession": "IPR021895",
+                "domain_start": "28",
+                "domain_end": "205",
+                "domain_pI": 4.5
+            }
+        ],
+        "protein_pI": 5.84
+    },
+    {
+        "input_name": "PWP2",
+        "accession_protein": "P25635",
+        "gene names": "{'geneName': {'value': 'PWP2'}, 'synonyms': [{'value': 'UTP1'}], 'orderedLocusNames': [{'value': 'YCR057C'}], 'orfNames': [{'value': 'YCR55C/YCR57C/YCR58C'}]}",
+        "protein name": "Periodic tryptophan protein 2",
+        "sequence": "MKSDFKFSNLLGTVYRQGNITFSDDGKQLLSPVGNRVSVFDLINNKSFTFEYEHRKNIAAIDLNKQGTLLISIDEDGRAILVNFKARNVLHHFNFKEKCSAVKFSPDGRLFALASGRFLQIWKTPDVNKDRQFAPFVRHRVHAGHFQDITSLTWSQDSRFILTTSKDLSAKIWSVDSEEKNLAATTFNGHRDYVMGAFFSHDQEKIYTVSKDGAVFVWEFTKRPSDDDDNESEDDDKQEEVDISKYSWRITKKHFFYANQAKVKCVTFHPATRLLAVGFTSGEFRLYDLPDFTLIQQLSMGQNPVNTVSVNQTGEWLAFGSSKLGQLLVYEWQSESYILKQQGHFDSTNSLAYSPDGSRVVTASEDGKIKVWDITSGFCLATFEEHTSSVTAVQFAKRGQVMFSSSLDGTVRAWDLIRYRNFRTFTGTERIQFNCLAVDPSGEVVCAGSLDNFDIHVWSVQTGQLLDALSGHEGPVSCLSFSQENSVLASASWDKTIRIWSIFGRSQQVEPIEVYSDVLALSMRPDGKEVAVSTLKGQISIFNIEDAKQVGNIDCRKDIISGRFNQDRFTAKNSERSKFFTTIHYSFDGMAIVAGGNNNSICLYDVPNEVLLKRFIVSRNMALNGTLEFLNSKKMTEAGSLDLIDDAGENSDLEDRIDNSLPGSQRGGDLSTRKMRPEVRVTSVQFSPTANAFAAASTEGLLIYSTNDTILFDPFDLDVDVTPHSTVEALREKQFLNALVMAFRLNEEYLINKVYEAIPIKEIPLVASNIPAIYLPRILKFIGDFAIESQHIEFNLIWIKALLSASGGYINEHKYLFSTAMRSIQRFIVRVAKEVVNTTTDNKYTYRFLVSTDGSMEDGAADDDEVLLKDDADEDNEENEENDVVMESDDEEGWIGFNGKDNKLPLSNENDSSDEEENEKELP",
+        "length": "923",
+        "mass": "103983",
+        "domains": [
+            {
+                "domain_name": "Small-subunit processome, Utp12",
+                "domain_shortname": "SSU_processome_Utp12",
+                "domain_accession": "IPR007148",
+                "domain_start": "746",
+                "domain_end": "850",
+                "domain_pI": 8.9
+            },
+            {
+                "domain_name": "Anaphase-promoting complex subunit 4-like, WD40 domain",
+                "domain_shortname": "Apc4-like_WD40_dom",
+                "domain_accession": "IPR024977",
+                "domain_start": "238",
+                "domain_end": "308",
+                "domain_pI": 8.9
+            }
+        ],
+        "protein_pI": 4.94
+    },
+    {
+        "input_name": "PCL2",
+        "accession_protein": "P25693",
+        "gene names": "{'geneName': {'value': 'PCL2'}, 'synonyms': [{'value': 'CLN4'}], 'orderedLocusNames': [{'value': 'YDL127W'}], 'orfNames': [{'value': 'D2223'}]}",
+        "protein name": "PHO85 cyclin-2",
+        "sequence": "MSNYEALLKFNRKAVSKEMVQYLASTTASIIKIKKTNSMIDIALPAPPLTKFINRLIKHSNVQTPTLMATSVYLAKLRSIIPSNVYGIETTRHRIFLGCLILAAKTLNDSSPLNKHWAEYTDGLLILREVNTIERELLEYFDWDVTISTDDLITCLSPFLKPIKEEQLYKSQRDCRTLKNFSAQEKDIVNKTSISHSRSSSNMSIPSLASTSTLSTLESRRSNLSNYSNRIRTLPELHESNNISDKFSPRTYNIDSKHDNKENRPIPTIKPFNFSKARPVILKTGLNKQIIKEDTKVKKSNWSNYFKS",
+        "length": "308",
+        "mass": "35207",
+        "domains": [
+            {
+                "domain_name": "Cyclin, N-terminal",
+                "domain_shortname": "Cyclin_N",
+                "domain_accession": "IPR006671",
+                "domain_start": "48",
+                "domain_end": "145",
+                "domain_pI": 8.44
+            }
+        ],
+        "protein_pI": 9.72
+    },
+    {
+        "input_name": "BUD14",
+        "accession_protein": "P27637",
+        "gene names": "{'geneName': {'value': 'BUD14'}, 'orderedLocusNames': [{'value': 'YAR014C'}], 'orfNames': [{'value': 'FUN2'}]}",
+        "protein name": "Bud site selection protein 14",
+        "sequence": "MSNKEEHVDETSASGVKEVSSIAARHDNGYAPSLITSTSGMDSFQSHALLNDPTLIEDYSDIINNRPTSGSKLTLGNEDSESMGGSVVVTPTSNKSSPFNSKLNILSNAAEKGHDVLRNRDDDKELEEENVEKHMHSNSKRDQRHYKENSSELPDSYDYSDSEFEDNLERRLQEIETDSVDSADKDEVHFSVNNTMNPDVDDFSDGLKYAISEDEDEEENYSDDDDFDRKFQDSGFQGEKDDLEEENDDYQPLSPPRELDPDKLYALYAFNGHDSSHCQLGQDEPCILLNDQDAYWWLVKRITDGKIGFAPAEILETFPERLARLNCWKNENMSSQSVASSDSKDDSISSGNKNQSDAESIIPTPALNGYGKGNKSVSFNDVVGYADRFIDDAIEDTSLDSNDDGGEGNGQSYDDDVDNDKETKVTHRDEYTEAKLNFGKFQDDDTSDVVSDVSFSTSLNTPLNVKKVRRQDNKNESEPKTSSSKDREDDYNANRYVGQEKSEPVDSDYDTDLKKVFEAPRMPFANGMAKSDSQNSLSTIGEFSPSSSEWTNESPSTPIVEESSSIPSSRAIKDISQYIHAKSKIEETTNVENTEGQIQASLGSSGGMANQTDAEQPKEELEKHHSTPEEEKQSTLSLHSSSEEDFYMDEQRAVSSASINSSLSGSRALSNTNMSDPASKPNSLVQHLYAPVFDRMDVLMKQLDEIIRK",
+        "length": "709",
+        "mass": "78981",
+        "domains": [
+            {
+                "domain_name": "SH3 domain",
+                "domain_shortname": "SH3_domain",
+                "domain_accession": "IPR001452",
+                "domain_start": "259",
+                "domain_end": "320",
+                "domain_pI": 4.3
+            }
+        ],
+        "protein_pI": 4.34
+    },
+    {
+        "input_name": "BEM1",
+        "accession_protein": "P29366",
+        "gene names": "{'geneName': {'value': 'BEM1'}, 'synonyms': [{'value': 'SRO1'}], 'orderedLocusNames': [{'value': 'YBR200W'}], 'orfNames': [{'value': 'YBR1412'}]}",
+        "protein name": "Bud emergence protein 1",
+        "sequence": "MLKNFKLSKRDSNGSKGRITSADISTPSHDNGSVIKHIKTVPVRYLSSSSTPVKSQRDSSPKNRHNSKDITSPEKVIKAKYSYQAQTSKELSFMEGEFFYVSGDEKDWYKASNPSTGKEGVVPKTYFEVFDRTKPSSVNGSNSSSRKVTNDSLNMGSLYAIVLYDFKAEKADELTTYVGENLFICAHHNCEWFIAKPIGRLGGPGLVPVGFVSIIDIATGYATGNDVIEDIKSVNLPTVQEWKSNIARYKASNISLGSVEQQQQQSITKPQNKSAKLVDGELLVKASVESFGLEDEKYWFLVCCELSNGKTRQLKRYYQDFYDLQVQLLDAFPAEAGKLRDAGGQWSKRIMPYIPGPVPYVTNSITKKRKEDLNIYVADLVNLPDYISRSEMVHSLFVVLNNGFDREFERDENQNNIKTLQENDTATFATASQTSNFASTNQDNTLTGEDLKLNKKLSDLSLSGSKQAPAQSTSGLKTTKIKFYYKDDIFALMLKGDTTYKELRSKIAPRIDTDNFKLQTKLFDGSGEEIKTDSQVSNIIQAKLKISVHDI",
+        "length": "551",
+        "mass": "61605",
+        "domains": [
+            {
+                "domain_name": "PB1 domain",
+                "domain_shortname": "PB1_dom",
+                "domain_accession": "IPR000270",
+                "domain_start": "478",
+                "domain_end": "551",
+                "domain_pI": 8.89
+            },
+            {
+                "domain_name": "SH3 domain",
+                "domain_shortname": "SH3_domain",
+                "domain_accession": "IPR001452",
+                "domain_start": "72",
+                "domain_end": "132",
+                "domain_pI": 5.31
+            },
+            {
+                "domain_name": "SH3 domain",
+                "domain_shortname": "SH3_domain",
+                "domain_accession": "IPR001452",
+                "domain_start": "155",
+                "domain_end": "217",
+                "domain_pI": 5.01
+            },
+            {
+                "domain_name": "Phox homology",
+                "domain_shortname": "PX_dom",
+                "domain_accession": "IPR001683",
+                "domain_start": "278",
+                "domain_end": "404",
+                "domain_pI": 5.4
+            }
+        ],
+        "protein_pI": 8.71
+    },
+    {
+        "input_name": "MLF3",
+        "accession_protein": "P32047",
+        "gene names": "{'geneName': {'value': 'MLF3'}, 'synonyms': [{'value': 'YMK1'}], 'orderedLocusNames': [{'value': 'YNL074C'}], 'orfNames': [{'value': 'N2359'}]}",
+        "protein name": "Protein MLF3",
+        "sequence": "MCVYKSNSNNSNPSFIFERTVQEASSNDLFLQPPVSASNTSHSSRSNSFYNLQTISPIPISGSEVRTPSLRKNSNNVSSPLDNVIPTSRSASNSTTSSLAHQEYILNPICNMQNHHHRRRTLENSVAPALDASCSIVNDENTDLSDVDMVYSRRPSSAVSLNMALLARTNSATLPSSESSPASPDLKLSRSHSHSAATRPTLNNINNTGMTTTTSNGEPNSRILRFYSYVDMLNDEKLAQANNTPTSRPPMKSQAYSCPFILKRSPPQAYSSSSATTTFSNPFIKTTELPATSPYVSPQQSARQYSNNANNNAKSPKNRSSSILFQRQSILSNVDPVANMHKNPKFQIESSDSEEEDLTMDMLDPSFPLSSSLRSSANLASNPELATQTPLSTSSSYTAIGKPMPLSTDPSYVSSSNTLSSEHELRVEKVSEVLKKKVSNGGFSTEFNSCDT",
+        "length": "452",
+        "mass": "49210",
+        "domains": [],
+        "protein_pI": 7.68
+    },
+    {
+        "input_name": "MSB2",
+        "accession_protein": "P32334",
+        "gene names": "{'geneName': {'value': 'MSB2'}, 'orderedLocusNames': [{'value': 'YGR014W'}]}",
+        "protein name": "Signaling mucin MSB2",
+        "sequence": "MQFPFACLLSTLVISGSLARASPFDFIFGNGTQQAQSQSESQGQVSFTNEASQDSSTTSLVTAYSQGVHSHQSATIVSATISSLPSTWYDASSTSQTSVSYASQESDYAVNQNSWSASTNQLPSTSTTSYYAPTFSTSADFAASSVNAASDVSTASVPIDTSANSIPFTTTSNIETTTSAPLTSDTPLISTSTMSAADNVFSSANPISASLTTTDSSESFDQTSTAGAIPVQSSADFSSSSEILVQSSADFSSPSSPTTTDISLSAAPLQTSESSSFTTASAALPVSSTDVDGSSASPVVSMSAAGQIASSSSTDNPTMSETFSLTSTEVDGSDVSSTVSALLSAPFLQTSTSNSFSIVSPSVSFVPSQSSSDVASSSTANVVSSSFSDIPPQTSTSGSVVSVAQSASALAFQSSTEVYGASASSTMSSLLSTTSLQSTTLDSSSLASSSASSSDLTDYGVSSTASIPLLSASEQASTSSSFSVVSPSVSFVPSQSSSDVASTSAPSVVSSSFSYTSLQAGGSSMTNPSSSTIVYSSSTGSSEESAASTASATLSGSSSTYMAGNLQSQPPSTSSLLSESQATSTSAVLASSSVSTTSPYTTAGGASTEASSLISSTSAETSQVSYSQSTTALQTSSFASSSTTEGSETSSQGFSTSSVLVQMPSSISSEFSPSQTTTQMNSASSSSQYTISSTGILSQVSDTSVSYTTSSSSVSQVSDTPVSYTTSSSSVSQVSDTPVSYTTSSSSVSQVSDTPVSYTTSSSSVSQVSDTPVSYTTSSSSVSQVSDTSVPSTSSRSSVSQVSDTPVPSTSSRSSVSQTSSSLQPTTTSSQRFTISTHGALSESSSVSQQASEITSSINATASEYHSIQTTAATQSTTLSFTDANSSSASAPLEVATSTPTPSSKASSLLLTPSTSSLSQVATNTNVQTSLTTESTTVLEPSTTNSSSTFSLVTSSDNNWWIPTELITQAPEAASTASSTVGGTQTMTLPHAIAAATQVPEPEGYTLITIGFKKALNYEFVVSEPKSSAQIFGYLPEALNTPFKNVFTNITVLQIVPLQDDSLNYLVSVAEVYFPTAEIEELSNLITNSSSAFYTDGMGTAKSMAAMVDSSIPLTGLLHDSNSNSGGSSDGSSSSNSNSGSSGSGSNSNSGVSSSSGNSYQDAGTLEYSSKSNSNVSTSSKSKKKIIGLVIGVVVGGCLYILFMIFAFKYIIRRRIQSQEIIKNPEISSISSSEFGGEKNYNNEKRMSVQESITQSMRIQNWMDDSYYGHGLTNNDSTPTRHNTSSSIPKISRPIASQNSLGWNEV",
+        "length": "1306",
+        "mass": "133115",
+        "domains": [
+            {
+                "domain_name": "Signaling mucin MSB2",
+                "domain_shortname": "MSB2",
+                "domain_accession": "IPR039295",
+                "domain_start": "1",
+                "domain_end": "1304",
+                "domain_pI": 4.07
+            }
+        ],
+        "protein_pI": 4.06
+    },
+    {
+        "input_name": "CDC12",
+        "accession_protein": "P32468",
+        "gene names": "{'geneName': {'value': 'CDC12'}, 'synonyms': [{'value': 'CLA10'}, {'value': 'PSL7'}], 'orderedLocusNames': [{'value': 'YHR107C'}]}",
+        "protein name": "Cell division control protein 12",
+        "sequence": "MSAATATAAPVPPPVGISNLPNQRYKIVNEEGGTFTVMLCGESGLGKTTFINTLFQTVLKRADGQQHRQEPIRKTVEIDITRALLEEKHFELRVNVIDTPGFGDNVNNNKAWQPLVDFIDDQHDSYMRQEQQPYRTKKFDLRVHAVLYFIRPTGHGLKPIDIETMKRLSTRANLIPVIAKADTLTAQELQQFKSRIRQVIEAQEIRIFTPPLDADSKEDAKSGSNPDSAAVEHARQLIEAMPFAIVGSEKKFDNGQGTQVVARKYPWGLVEIENDSHCDFRKLRALLLRTYLLDLISTTQEMHYETYRRLRLEGHENTGEGNEDFTLPAIAPARKLSHNPRYKEEENALKKYFTDQVKAEEQRFRQWEQNIVNERIRLNGDLEEIQGKVKKLEEQVKSLQVKKSHLK",
+        "length": "407",
+        "mass": "46668",
+        "domains": [
+            {
+                "domain_name": "Septin-type guanine nucleotide-binding (G) domain",
+                "domain_shortname": "G_SEPTIN_dom",
+                "domain_accession": "IPR030379",
+                "domain_start": "31",
+                "domain_end": "318",
+                "domain_pI": 6.56
+            }
+        ],
+        "protein_pI": 7.77
+    },
+    {
+        "input_name": "PAN1",
+        "accession_protein": "P32521",
+        "gene names": "{'geneName': {'value': 'PAN1'}, 'synonyms': [{'value': 'DIM2'}, {'value': 'MDP3'}, {'value': 'MIP3'}], 'orderedLocusNames': [{'value': 'YIR006C'}], 'orfNames': [{'value': 'YIB6C'}]}",
+        "protein name": "Actin cytoskeleton-regulatory complex protein PAN1",
+        "sequence": "MYNPYQQQGMGYQQQQQQQQQQPNGFYPQQQQGQSSNQPQGQPQPQQQMAFNQPQATGIGGMPQSFGNSFSSMPQQPQTGYNNNGNNGSVYGNGNFGQQPQQQQQQAKPQHTGYVPNSSMPMMNTTGTMPPPNPAQQPQLQSIQPQGTGYYQAANTANVHSVQPLQSQGTGYYVSTPNLISSNQTQQPLQAQGTGYYQSQPQQVPPPQQAQSLQPLKPQQTGFYLQPQNQAPLEPLKPTATGFVNSFANNGLNNDIKIPAIRLSFITAQDQAKFETLFRSIVTNGSNTVSGANCRKILMRSGLPPSQLARIWTLCDTSKAGELLFPEFALAMHLINDVLQGDTIPYELDSKTKNEVSSFIDAINLSIANQDSSANDAPKTPFDEFITAGVQNLQPQPTGYMPQTSFGIPLQSQITGGGVASALNPQSTGFMAPTTFNMSMNTGTPGLNPQITGGAPASMQPNITGNALQPQTTGMMPQTTGMMPQTTGMMPQTSFGVNLGPQLTGGALQSQYTGGYGSVMPQQSGPASMPNLSFNQQGLQSQLTGLQPQPTGFLPPSNFSATMPLTAQKTGFGNNEIYTKSNFNNNLIDNSSQDKISTEEKSLFYKIFETFDTQNKGLLDSPTAVEIFRKSGLNRADLEQIWNLCDINNTGQLNKQEFALGMHLVYGKLNGKPIPNVLPSSLIPSSTKLLDNLKNQLKTEPTTTKEKPSFGKIDALSYKNNDDDVLPNYRNRRKVYSAKNEEQSSFSSPSAKSVNHSSSTLQTDDISVDKTVEKKTAKPKYAGFSREINLKNIASLENEIKNISNPENCYDSSIPSDLTSRFDAIIAKLPNLFNEISTIDNEITNAKIQLYRKKNPSSIIGSGPNGEITENDRKKAKSRALLRARMSALTGKSTESEDSLSMEDEQQSAEIKRIQQENGKNQEIIKDIRSSISDISASLKSTMTGSNMISNQEFERWEFGIGLEDGVREFLDDLKSNSNKSVTESSPFVPSSTPTPVDDRSSSPSYSQFKTAEERAAYLKEQAKKRMKEKLAKFDKNRRNVTQSSRSISSENSREQPQQIAGSSNLVEPRATPFQEEKYVEVAQPTQPVQSTQPVQPTQPVQPTQPVQPTQPVQPTQPVQPTQPVQNVYNAKQESDDEDEDDEEKRLQEELKRLKLKKKADKEKRLAALRKQIEDAQNESDEEETNGKDNFGGHVNVPQAAPVAPSAAFSQNSTNAPRSVHAAVTPAAGKNSTGLPSTTMGHNPYFKDASASSTSTFDARAAEMQRRIQRGLDEDEDDGWSDEDESNNRVAVDNKVEEAKIGHPDHARAPPVTAAPLPSVTPVPPAVPVPQANTSNEKSSPIPIAPIPPSVTQEPPVPLAPPLPAVDGFQEPPIPSAPAIATAVQKSGSSTPALAGGVLPPPPPLPTQQASTSEPIIAHVDNYNGAEKGTGAYGSDSDDDVLSIPESVGTDEEEEGAQPVSTAGIPSIPPAGIPPPPPLP",
+        "length": "1480",
+        "mass": "160267",
+        "domains": [
+            {
+                "domain_name": "EH domain",
+                "domain_shortname": "EH_dom",
+                "domain_accession": "IPR000261",
+                "domain_start": "263",
+                "domain_end": "358",
+                "domain_pI": 5.72
+            },
+            {
+                "domain_name": "EH domain",
+                "domain_shortname": "EH_dom",
+                "domain_accession": "IPR000261",
+                "domain_start": "593",
+                "domain_end": "690",
+                "domain_pI": 6.78
+            },
+            {
+                "domain_name": "Domain of unknown function DUF1720",
+                "domain_shortname": "DUF1720",
+                "domain_accession": "IPR013182",
+                "domain_start": "165",
+                "domain_end": "243",
+                "domain_pI": 8.3
+            },
+            {
+                "domain_name": "Domain of unknown function DUF1720",
+                "domain_shortname": "DUF1720",
+                "domain_accession": "IPR013182",
+                "domain_start": "390",
+                "domain_end": "525",
+                "domain_pI": 5.49
+            }
+        ],
+        "protein_pI": 5.17
+    },
+    {
+        "input_name": "GLC7",
+        "accession_protein": "P32598",
+        "gene names": "{'geneName': {'value': 'GLC7'}, 'synonyms': [{'value': 'CID1'}, {'value': 'DIS2'}], 'orderedLocusNames': [{'value': 'YER133W'}]}",
+        "protein name": "Serine/threonine-protein phosphatase PP1-2",
+        "sequence": "MDSQPVDVDNIIDRLLEVRGSKPGQQVDLEENEIRYLCSKARSIFIKQPILLELEAPIKICGDIHGQYYDLLRLFEYGGFPPESNYLFLGDYVDRGKQSLETICLLLAYKIKYPENFFILRGNHECASINRIYGFYDECKRRYNIKLWKTFTDCFNCLPIAAIIDEKIFCMHGGLSPDLNSMEQIRRVMRPTDIPDVGLLCDLLWSDPDKDIVGWSENDRGVSFTFGPDVVNRFLQKQDMELICRAHQVVEDGYEFFSKRQLVTLFSAPNYCGEFDNAGAMMSVDESLLCSFQILKPAQKSLPRQAGGRKKK",
+        "length": "312",
+        "mass": "35907",
+        "domains": [
+            {
+                "domain_name": "Calcineurin-like phosphoesterase domain, ApaH type",
+                "domain_shortname": "Calcineurin-like_PHP_ApaH",
+                "domain_accession": "IPR004843",
+                "domain_start": "57",
+                "domain_end": "250",
+                "domain_pI": 5.38
+            },
+            {
+                "domain_name": "Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase",
+                "domain_shortname": "Ser/Thr-sp_prot-phosphatase",
+                "domain_accession": "IPR006186",
+                "domain_start": "29",
+                "domain_end": "299",
+                "domain_pI": 4.99
+            },
+            {
+                "domain_name": "Serine-threonine protein phosphatase, N-terminal",
+                "domain_shortname": "STPPase_N",
+                "domain_accession": "IPR031675",
+                "domain_start": "8",
+                "domain_end": "55",
+                "domain_pI": 4.9
+            }
+        ],
+        "protein_pI": 5.31
+    },
+    {
+        "input_name": "TOR2",
+        "accession_protein": "P32600",
+        "gene names": "{'geneName': {'value': 'TOR2'}, 'synonyms': [{'value': 'DRR2'}, {'value': 'TSC14'}], 'orderedLocusNames': [{'value': 'YKL203C'}]}",
+        "protein name": "Serine/threonine-protein kinase TOR2",
+        "sequence": "MNKYINKYTTPPNLLSLRQRAEGKHRTRKKLTHKSHSHDDEMSTTSNTDSNHNGPNDSGRVITGSAGHIGKISFVDSELDTTFSTLNLIFDKLKSDVPQERASGANELSTTLTSLAREVSAEQFQRFSNSLNNKIFELIHGFTSSEKIGGILAVDTLISFYLSTEELPNQTSRLANYLRVLIPSSDIEVMRLAANTLGRLTVPGGTLTSDFVEFEVRTCIDWLTLTADNNSSSSKLEYRRHAALLIIKALADNSPYLLYPYVNSILDNIWVPLRDAKLIIRLDAAVALGKCLTIIQDRDPALGKQWFQRLFQGCTHGLSLNTNDSVHATLLVFRELLSLKAPYLRDKYDDIYKSTMKYKEYKFDVIRREVYAILPLLAAFDPAIFTKKYLDRIMVHYLRYLKNIDMNAANNSDKPFILVSIGDIAFEVGSSISPYMTLILDNIREGLRTKFKVRKQFEKDLFYCIGKLACALGPAFAKHLNKDLLNLMLNCPMSDHMQETLMILNEKIPSLESTVNSRILNLLSISLSGEKFIQSNQYDFNNQFSIEKARKSRNQSFMKKTGESNDDITDAQILIQCFKMLQLIHHQYSLTEFVRLITISYIEHEDSSVRKLAALTSCDLFIKDDICKQTSVHALHSVSEVLSKLLMIAITDPVAEIRLEILQHLGSNFDPQLAQPDNLRLLFMALNDEIFGIQLEAIKIIGRLSSVNPAYVVPSLRKTLLELLTQLKFSNMPKKKEESATLLCTLINSSDEVAKPYIDPILDVILPKCQDASSAVASTALKVLGELSVVGGKEMTRYLKELMPLIINTFQDQSNSFKRDAALTTLGQLAASSGYVVGPLLDYPELLGILINILKTENNPHIRRGTVRLIGILGALDPYKHREIEVTSNSKSSVEQNAPSIDIALLMQGVSPSNDEYYPTVVIHNLMKILNDPSLSIHHTAAIQAIMHIFQNLGLRCVSFLDQIIPGIILVMRSCPPSQLDFYFQQLGSLISIVKQHIRPHVEKIYGVIREFFPIIKLQITIISVIESISKALEGEFKRFVPETLTFFLDILENDQSNKRIVPIRILKSLVTFGPNLEDYSHLIMPIVVRMTEYSAGSLKKISIITLGRLAKNINLSEMSSRIVQALVRILNNGDRELTKATMNTLSLLLLQLGTDFVVFVPVINKALLRNRIQHSVYDQLVNKLLNNECLPTNIIFDKENEVPERKNYEDEMQVTKLPVNQNILKNAWYCSQQKTKEDWQEWIRRLSIQLLKESPSACLRSCSSLVSVYYPLARELFNASFSSCWVELQTSYQEDLIQALCKALSSSENPPEIYQMLLNLVEFMEHDDKPLPIPIHTLGKYAQKCHAFAKALHYKEVEFLEEPKNSTIEALISINNQLHQTDSAIGILKHAQQHNELQLKETWYEKLQRWEDALAAYNEKEAAGEDSVEVMMGKLRSLYALGEWEELSKLASEKWGTAKPEVKKAMAPLAAGAAWGLEQWDEIAQYTSVMKSQSPDKEFYDAILCLHRNNFKKAEVHIFNARDLLVTELSALVNESYNRAYNVVVRAQIIAELEEIIKYKKLPQNSDKRLTMRETWNTRLLGCQKNIDVWQRILRVRSLVIKPKEDAQVRIKFANLCRKSGRMALAKKVLNTLLEETDDPDHPNTAKASPPVVYAQLKYLWATGLQDEALKQLINFTSRMAHDLGLDPNNMIAQSVPQQSKRVPRHVEDYTKLLARCFLKQGEWRVCLQPKWRLSNPDSILGSYLLATHFDNTWYKAWHNWALANFEVISMLTSVSKKKQEGSDASSVTDINEFDNGMIGVNTFDAKEVHYSSNLIHRHVIPAIKGFFHSISLSESSSLQDALRLLTLWFTFGGIPEATQAMHEGFNLIQIGTWLEVLPQLISRIHQPNQIVSRSLLSLLSDLGKAHPQALVYPLMVAIKSESLSRQKAALSIIEKMRIHSPVLVDQAELVSHELIRMAVLWHEQWYEGLDDASRQFFGEHNTEKMFAALEPLYEMLKRGPETLREISFQNSFGRDLNDAYEWLMNYKKSKDVSNLNQAWDIYYNVFRKIGKQLPQLQTLELQHVSPKLLSAHDLELAVPGTRASGGKPIVKISKFEPVFSVISSKQRPRKFCIKGSDGKDYKYVLKGHEDIRQDSLVMQLFGLVNTLLQNDAECFRRHLDIQQYPAIPLSPKSGLLGWVPNSDTFHVLIREHREAKKIPLNIEHWVMLQMAPDYDNLTLLQKVEVFTYALNNTEGQDLYKVLWLKSRSSETWLERRTTYTRSLAVMSMTGYILGLGDRHPSNLMLDRITGKVIHIDFGDCFEAAILREKFPEKVPFRLTRMLTYAMEVSGIEGSFRITCENVMKVLRDNKGSLMAILEAFAFDPLINWGFDLPTKKIEEETGIQLPVMNANELLSNGAITEEEVQRVENEHKNAIRNARAMLVLKRITDKLTGNDIRRFNDLDVPEQVDKLIQQATSVENLCQHYIGWCPFW",
+        "length": "2474",
+        "mass": "281568",
+        "domains": [
+            {
+                "domain_name": "Phosphatidylinositol 3-/4-kinase, catalytic domain",
+                "domain_shortname": "PI3/4_kinase_cat_dom",
+                "domain_accession": "IPR000403",
+                "domain_start": "2097",
+                "domain_end": "2423",
+                "domain_pI": 6.51
+            },
+            {
+                "domain_name": "PIK-related kinase, FAT",
+                "domain_shortname": "PIK-rel_kinase_FAT",
+                "domain_accession": "IPR003151",
+                "domain_start": "1468",
+                "domain_end": "1848",
+                "domain_pI": 9.0
+            },
+            {
+                "domain_name": "FATC domain",
+                "domain_shortname": "FATC_dom",
+                "domain_accession": "IPR003152",
+                "domain_start": "2442",
+                "domain_end": "2474",
+                "domain_pI": 4.1
+            },
+            {
+                "domain_name": "FKBP12-rapamycin binding domain",
+                "domain_shortname": "FRB_dom",
+                "domain_accession": "IPR009076",
+                "domain_start": "1955",
+                "domain_end": "2052",
+                "domain_pI": 5.12
+            },
+            {
+                "domain_name": "PIK-related kinase",
+                "domain_shortname": "PIK_FAT",
+                "domain_accession": "IPR014009",
+                "domain_start": "1338",
+                "domain_end": "1922",
+                "domain_pI": 8.28
+            },
+            {
+                "domain_name": "Serine/threonine-protein kinase mTOR domain",
+                "domain_shortname": "mTOR_dom",
+                "domain_accession": "IPR024585",
+                "domain_start": "836",
+                "domain_end": "995",
+                "domain_pI": 6.3
+            }
+        ],
+        "protein_pI": 7.25
+    },
+    {
+        "input_name": "DNF1",
+        "accession_protein": "P32660",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '12631737'}], 'value': 'DNF1'}, 'orderedLocusNames': [{'value': 'YER166W'}], 'orfNames': [{'value': 'SYGP-ORF7'}]}",
+        "protein name": "Phospholipid-transporting ATPase DNF1",
+        "sequence": "MSGTFHGDGHAPMSPFEDTFQFEDNSSNEDTHIAPTHFDDGATSNKYSRPQVSFNDETPKNKREDAEEFTFNDDTEYDNHSFQPTPKLNNGSGTFDDVELDNDSGEPHTNYDGMKRFRMGTKRNKKGNPIMGRSKTLKWARKNIPNPFEDFTKDDIDPGAINRAQELRTVYYNMPLPKDMIDEEGNPIMQYPRNKIRTTKYTPLTFLPKNILFQFHNFANVYFLVLIILGAFQIFGVTNPGLSAVPLVVIVIITAIKDAIEDSRRTVLDLEVNNTKTHILEGVENENVSTDNISLWRRFKKANSRLLFKFIQYCKEHLTEEGKKKRMQRKRHELRVQKTVGTSGPRSSLDSIDSYRVSADYGRPSLDYDNLEQGAGEANIVDRSLPPRTDCKFAKNYWKGVKVGDIVRIHNNDEIPADIILLSTSDTDGACYVETKNLDGETNLKVRQSLKCTNTIRTSKDIARTKFWIESEGPHSNLYTYQGNMKWRNLADGEIRNEPITINNVLLRGCTLRNTKWAMGVVMFTGGDTKIMLNSGITPTKKSRISRELNFSVVINFVLLFILCFVSGIANGVYYDKKGRSRFSYEFGTIAGSAATNGFVSFWVAVILYQSLVPISLYISVEIIKTAQAAFIYGDVLLYNAKLDYPCTPKSWNISDDLGQVEYIFSDKTGTLTQNVMEFKKCTINGVSYGRAYTEALAGLRKRQGIDVETEGRREKAEIAKDRDTMIDELRALSGNSQFYPEEVTFVSKEFVRDLKGASGEVQQRCCEHFMLALALCHSVLVEANPDNPKKLDLKAQSPDEAALVATARDVGFSFVGKTKKGLIIEMQGIQKEFEILNILEFNSSRKRMSCIVKIPGLNPGDEPRALLICKGADSIIYSRLSRQSGSNSEAILEKTALHLEQYATEGLRTLCIAQRELSWSEYEKWNEKYDIAAASLANREDELEVVADSIERELILLGGTAIEDRLQDGVPDCIELLAEAGIKLWVLTGDKVETAINIGFSCNLLNNEMELLVIKTTGDDVKEFGSEPSEIVDALLSKYLKEYFNLTGSEEEIFEAKKDHEFPKGNYAIVIDGDALKLALYGEDIRRKFLLLCKNCRAVLCCRVSPSQKAAVVKLVKDSLDVMTLAIGDGSNDVAMIQSADVGIGIAGEEGRQAVMCSDYAIGQFRYLARLVLVHGRWSYKRLAEMIPEFFYKNMIFALALFWYGIYNDFDGSYLYEYTYMMFYNLAFTSLPVIFLGILDQDVNDTISLVVPQLYRVGILRKEWNQRKFLWYMLDGLYQSIICFFFPYLVYHKNMIVTSNGLGLDHRYFVGVYVTTIAVISCNTYVLLHQYRWDWFSGLFIALSCLVVFAWTGIWSSAIASREFFKAAARIYGAPSFWAVFFVAVLFCLLPRFTYDSFQKFFYPTDVEIVREMWQHGHFDHYPPGYDPTDPNRPKVTKAGQHGEKIIEGIALSDNLGGSNYSRDSVVTEEIPMTFMHGEDGSPSGYQKQETWMTSPKETQDLLQSPQFQQAQTFGRGPSTNVRSSLDRTREQMIATNQLDNRYSVERARTSLDLPGVTNAASLIGTQQNN",
+        "length": "1571",
+        "mass": "177798",
+        "domains": [
+            {
+                "domain_name": "P-type ATPase, C-terminal",
+                "domain_shortname": "P_typ_ATPase_c",
+                "domain_accession": "IPR032630",
+                "domain_start": "1156",
+                "domain_end": "1406",
+                "domain_pI": 8.69
+            },
+            {
+                "domain_name": "P-type ATPase, N-terminal",
+                "domain_shortname": "P-type_ATPase_N",
+                "domain_accession": "IPR032631",
+                "domain_start": "185",
+                "domain_end": "241",
+                "domain_pI": 10.29
+            },
+            {
+                "domain_name": "P-type ATPase, haloacid dehalogenase domain",
+                "domain_shortname": "P_typ_ATPase_HD_dom",
+                "domain_accession": "IPR044492",
+                "domain_start": "647",
+                "domain_end": "1179",
+                "domain_pI": 4.97
+            }
+        ],
+        "protein_pI": 5.73
+    },
+    {
+        "input_name": "BEM3",
+        "accession_protein": "P32873",
+        "gene names": "{'geneName': {'value': 'BEM3'}, 'orderedLocusNames': [{'value': 'YPL115C'}], 'orfNames': [{'value': 'LPH12C'}]}",
+        "protein name": "GTPase-activating protein BEM3",
+        "sequence": "MTDNLTTTHGGSTTLELLAQYNDHRSKKDKSIEHIEKGTCSGKERNPSYDEIFTENIKLKLQVQEYETEIESLEKVIDMLQKNREASLEVVLEQVQNDSRDSYVNDQSFVLPPRSAERKAHIKSLNLPIPTLSPPLQQGSDVALETSVTPTVPQIGVTSNTSISRKHLQNMILNDEIEANSSFSSPKIINRSVSSPTKIHSEQLASPAASVTYTTSRITIKSPNKGSKSPLQERLRSPQNPNRMTAVINNHLHSPLKASTSNNLDELTESKSQQLTNDAIQKNDRVYSSITSSAYTTGTPTSAAKSPSSLLEVKEGENKALGFSPASKEKLDDFTQLLDSSFGEEDLVNTDSKDPLSIKSTINESLPPPPAPPTFFSPTSSGNIKNSTPLSSHLASPVILNKKDDNFGAQSAKNLKKPVLTSSLPNLSTKLSTTSQNASLPPNPPVESSSKQKQLGETASIHSTNTLNTFSSTPQGSLKTLRRPHASSVSTVKSVAQSLKSDIPLFVQPEDFGTIQIEVLSTLYRDNEDDLSILIAIIDRKSGKEMFKFSKSIHKVRELDVYMKSHVPDLPLPTLPDRQLFQTLSPTKVDTRKNILNQYYTSIFSVPEFPKNVGLKIAQFISTDTVMTPPMMDDNVKDGSLLLRRPKTLTGNSTWRVRYGILRDDVLQLFDKNQLTETIKLRQSSIELIPNLPEDRFGTRNGFLITEHKKSGLSTSTKYYICTETSKERELWLSAFSDYIDPSQSLSLSSSRNANDTDSASHLSAGTHHSKFGNATISATDTPSYVTDLTQEYNNNNNISNSSNNIANSDGIDSNPSSHSNFLASSSGNAEEEKDSRRAKMRSLFPFKKLTGPASAMNHIGITISNDSDSPTSPDSIIKSPSKKLMEVSSSSNSSTGPHVSTAIFGSSLETCLRLSSHKYQNVYDLPSVVYRCLEYLYKNRGIQEEGIFRLSGSSTVIKTLQERFDKEYDVDLCRYNESIEAKDDEASPSLYIGVNTVSGLLKLYLRKLPHLLFGDEQFLSFKRVVDENHNNPVQISLGFKELIESGLVPHANLSLMYALFELLVRINENSKFNKMNLRNLCIVFSPTLNIPISMLQPFITDFACIFQGGEPVKEEEREKVDIHIPQV",
+        "length": "1128",
+        "mass": "124913",
+        "domains": [
+            {
+                "domain_name": "Rho GTPase-activating protein domain",
+                "domain_shortname": "RhoGAP_dom",
+                "domain_accession": "IPR000198",
+                "domain_start": "913",
+                "domain_end": "1128",
+                "domain_pI": 5.61
+            },
+            {
+                "domain_name": "Phox homology",
+                "domain_shortname": "PX_dom",
+                "domain_accession": "IPR001683",
+                "domain_start": "513",
+                "domain_end": "624",
+                "domain_pI": 8.15
+            },
+            {
+                "domain_name": "Pleckstrin homology domain",
+                "domain_shortname": "PH_domain",
+                "domain_accession": "IPR001849",
+                "domain_start": "634",
+                "domain_end": "743",
+                "domain_pI": 8.77
+            }
+        ],
+        "protein_pI": 6.38
+    },
+    {
+        "input_name": "BUD2",
+        "accession_protein": "P33314",
+        "gene names": "{'geneName': {'value': 'BUD2'}, 'synonyms': [{'value': 'CLA2'}, {'value': 'ERC25'}], 'orderedLocusNames': [{'value': 'YKL092C'}], 'orfNames': [{'value': 'YKL424'}]}",
+        "protein name": "Inhibitory regulator protein BUD2/CLA2",
+        "sequence": "MSSNNEPAQSRTSYFKLNEFLSNVKHYKNTFKGEIQWCNNLSLNDWKTHYLQITSTGALTHSIDELTADSTNIQPIIKHLQQCRIEIIKDKHSSFKDINANCNFIIQVNTSGKDNKVYLRVKSWSDFKKLLTCLIWWSSMKTNGIFNKFQVSRPLEFKSKKMAKPESLLVYKLNVFGPIVKNIVLPPATNILESPDIINNDDNSVGWFSAMGVLKSNGMLDLLLQSDGSLIYSLNISQLLRSEIRILDSSVLQSENSLFLGELPLLRSQLGLEKFRIENIASAATNSSDISQEIIVEFPLRIDLEDCFIALQSFARSEYLSITGSDKSNDMKISNSFKISILEANFQSINLNDKNNTPWSIFTDITAWGHTWARTSMVSNSSNPFWREEFQFNELLRLTNSYLEIKQLFHDLNNKKRLRLIGKIKITQEIINDTRYNKETRLPIMDVDNKNFQIGTICIKISSNLNFILPSTNFVKLEKLLMNANLSMVSNLIYKSSSSMENDNKLTQTSIIFLDIFQSLSRIEEWFHVLIDKELAKIDGTVSRINQKNLDSKHVFNSLFRGNSILTKSIEQYFFRVGNEYLSKALSAILKEIIESNKSCELDPARVKEKDEVKKRKIIADNYKRLYSWVTKIWKRLYATSNDLPIEIRNVLKIFRQKLEIICIDDTLQIILNGISGLLFLRFFCPVILNPKLFKYVSQNLNETARRNLTLISKVLLNLSTLTQFANKEPWLMKMNNFIDKRHNDLLDYIDKMTQKKLDFNSKILNLSSTISRPKLAIEQTMLDDLPQIPYLLDKNLRETEFVNLIVNFSQEDMTKMEKYNHMDNGGKGELIEEEGLLSGSSLNLSVDKKDLDSPIEVKPEIGELEFEKITENNTEIFGDDLMNLLKSDDVGSRSRDLDNGANSGIKFNSIIPKAEEEKHAMKELEQESCLLYNRINHIRKRLSGYECASSTLFEDKKYSISLSHKIFYEEIKEGKEIVLKLLNKPTNENSSARLQKFFTKGVSSKSNNTVGDSYCKFLTIDVSDENPKSSNKTSVHGTSSENGAKDDYLTLPNSQGKGNLGNRFSPTKLSRIMRKPPNADVPKEQNSRKLTRWFKKKKETGGS",
+        "length": "1104",
+        "mass": "126663",
+        "domains": [
+            {
+                "domain_name": "C2 domain",
+                "domain_shortname": "C2_dom",
+                "domain_accession": "IPR000008",
+                "domain_start": "316",
+                "domain_end": "444",
+                "domain_pI": 9.47
+            },
+            {
+                "domain_name": "Ras GTPase-activating domain",
+                "domain_shortname": "RasGAP_dom",
+                "domain_accession": "IPR001936",
+                "domain_start": "449",
+                "domain_end": "823",
+                "domain_pI": 9.37
+            }
+        ],
+        "protein_pI": 8.9
+    },
+    {
+        "input_name": "NIP100",
+        "accession_protein": "P33420",
+        "gene names": "{'geneName': {'value': 'NIP100'}, 'synonyms': [{'value': 'NIP80'}], 'orderedLocusNames': [{'value': 'YPL174C'}]}",
+        "protein name": "Protein NIP100",
+        "sequence": "MRNAGVQVDTNMQKISLQDTVLVNEMKGRVKFIGETQFAKGIWYGIELDKPLGKNDGSANGIRYFDIDLKKANSNGGYYGLFCKKDTLQFYKPDDDEHSLLNGNAAQETIKNLQVKCESLASKLNKIKIENHELKTSVEKLSTNETVLLSKISRLDKLVKELKVENGNMKTHLDNFNHLLDASDSVMAPDLDKGTLLERSHLLQGLLDQTKLSYDKAMKVQEDLLEENTQLLEENAVLSKKISDLGLQLQQTNNTIGDLALQIEAQSKSSNIVDKLTNDNILLTSNIKALNNELEELQAKEKLDENLRITYEQLEQELRLQLSNLQSALENEKEIAGTYIEENSRLKATLESIEAKTSHKFQSLELKVNTLQEELYQNKLLKKFYQIYEPFAQPHLAALSSQLQYLAEVIESENFGKLENIEIHIILKVLSSISYALHIYTIKNTPDHLETTLQCFKVNIAPISMWLSEFLQRKFSSKQETAFSICQFLEDNKFLDKDVTLILKILHPILETTVPKLLAFLRTNSNFNDNDTLCLIGSLYERSLSLIARIDKLIGKEEISKQDNRLFLYPSCDITLSSILTILFSDALFLRQDYKRISSLKKLEVFFQGIESLLENITIFPEQPSQQTSDSESQCNIKEGNFSNSLLSDRLNEENIRLKEVLVQKENMLTELETKIKIIIGRDLERKTLEENIKTLKVELNNKNEENCGKTEILNKLKEENFNLVNRLKNMELKLYQIKDNNTLNKIYLDREKVDRVNLVSEIMELRETIRRQIKEQKRVSIDFSWLDELPAVENKQPFKEHINHSLDTLGIEMFNFVSTSRILDLKLDQPLAEDELWHERDHSYISYLKRKRKNIRLKSQNVVTYYK",
+        "length": "868",
+        "mass": "100290",
+        "domains": [
+            {
+                "domain_name": "CAP Gly-rich domain",
+                "domain_shortname": "CAP-Gly_domain",
+                "domain_accession": "IPR000938",
+                "domain_start": "17",
+                "domain_end": "89",
+                "domain_pI": 8.75
+            }
+        ],
+        "protein_pI": 5.62
+    },
+    {
+        "input_name": "HES1",
+        "accession_protein": "P35843",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '8017104'}], 'value': 'HES1'}, 'synonyms': [{'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '11238399'}], 'value': 'OSH5'}], 'orderedLocusNames': [{'value': 'YOR237W'}], 'orfNames': [{'value': 'O5234'}]}",
+        "protein name": "Oxysterol-binding protein homolog 5",
+        "sequence": "MSQHASSSSWTSFLKSISSFNGDLSSLSAPPFILSPTSLTEFSQYWAEHPALFLEPSLIDGENYKDHCPFDPNVESKEVAQMLAVVRWFISTLRSQYCSRSESMGSEKKPLNPFLGEVFVGKWKNDEHPEFGETVLLSEQVSHHPPMTAFSIFNEKNDVSVQGYNQIKTGFTKTLTLTVKPYGHVILKIKDETYLITTPPLHIEGILVASPFVELGGRSFIQSSNGMLCVIEFSGRGYFTGKKNSFKARIYRSPQEHSHKENALYLISGQWSGVSTIIKKDSQVSHQFYDSSETPTEHLLVKPIEEQHPLESRRAWKDVAEAIRQGNISMIKKTKEELENKQRALREQERVKGVEWQRRWFKQVDYMNENTSNDVEKASEDDAFRKLASKLQLSVKNVPSGTLIGGKDDKKDVSTALHWRFDKNLWMRENEITI",
+        "length": "434",
+        "mass": "49505",
+        "domains": [
+            {
+                "domain_name": "Oxysterol-binding protein",
+                "domain_shortname": "Oxysterol-bd",
+                "domain_accession": "IPR000648",
+                "domain_start": "8",
+                "domain_end": "364",
+                "domain_pI": 7.2
+            }
+        ],
+        "protein_pI": 6.72
+    },
+    {
+        "input_name": "KES1",
+        "accession_protein": "P35844",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '8017104'}], 'value': 'KES1'}, 'synonyms': [{'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '8978672'}], 'value': 'BSR3'}, {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '11238399'}], 'value': 'OSH4'}], 'orderedLocusNames': [{'evidences': [{'evidenceCode': 'ECO:0000312', 'source': 'SGD', 'id': 'S000006066'}], 'value': 'YPL145C'}], 'orfNames': [{'value': 'LPI3C'}, {'value': 'P2614'}]}",
+        "protein name": "Oxysterol-binding protein homolog 4",
+        "sequence": "MSQYASSSSWTSFLKSIASFNGDLSSLSAPPFILSPISLTEFSQYWAEHPELFLEPSFINDDNYKEHCLIDPEVESPELARMLAVTKWFISTLKSQYCSRNESLGSEKKPLNPFLGELFVGKWENKEHPEFGETVLLSEQVSHHPPVTAFSIFNDKNKVKLQGYNQIKASFTKSLMLTVKQFGHTMLDIKDESYLVTPPPLHIEGILVASPFVELEGKSYIQSSTGLLCVIEFSGRGYFSGKKNSFKARIYKDSKDSKDKEKALYTISGQWSGSSKIIKANKKEESRLFYDAARIPAEHLNVKPLEEQHPLESRKAWYDVAGAIKLGDFNLIAKTKTELEETQRELRKEEEAKGISWQRRWFKDFDYSVTPEEGALVPEKDDTFLKLASALNLSTKNAPSGTLVGDKEDRKEDLSSIHWRFQRELWDEEKEIVL",
+        "length": "434",
+        "mass": "49492",
+        "domains": [
+            {
+                "domain_name": "Oxysterol-binding protein",
+                "domain_shortname": "Oxysterol-bd",
+                "domain_accession": "IPR000648",
+                "domain_start": "8",
+                "domain_end": "366",
+                "domain_pI": 6.35
+            }
+        ],
+        "protein_pI": 5.73
+    },
+    {
+        "input_name": "SWH1",
+        "accession_protein": "P35845",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '8086466'}], 'value': 'SWH1'}, 'synonyms': [{'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '11238399'}], 'value': 'OSH1'}], 'orderedLocusNames': [{'value': 'YAR042W'}], 'orfNames': [{'value': 'YAR044W'}]}",
+        "protein name": "Oxysterol-binding protein homolog 1",
+        "sequence": "MEQPDLSSVAISKPLLKLKLLDALRQGSFPNLQDLLKKQFQPLDDPNVQQVLHLMLHYAVQVAPMAVIKEIVHHWVSTTNTTFLNIHLDLNERDSNGNTPLHIAAYQSRGDIVAFLLDQPTINDCVLNNSHLQAIEMCKNLNIAQMMQVKRSTYVAETAQEFRTAFNNRDFGHLESILSSPRNAELLDINGMDPETGDTVLHEFVKKRDVIMCRWLLEHGADPFKRDRKGKLPIELVRKVNENDTATNTKIAIDIELKKLLERATREQSVIDVTNNNLHEAPTYKGYLKKWTNFAQGYKLRWFILSSDGKLSYYIDQADTKNACRGSLNMSSCSLHLDSSEKLKFEIIGGNNGVIRWHLKGNHPIETNRWVWAIQGAIRYAKDREILLHNGPYSPSLALSHGLSSKVSNKENLHATSKRLTKSPHLSKSTLTQNDHDNDDDSTNNNNNKSNNDYDDNNNNNNNDDDDYDDDDESRPLIEPLPLISSRSQSLSEITPGPHSRKSTVSSTRAADIPSDDEGYSEDDSDDDGNSSYTMENGGENDGDEDLNAIYGPYIQKLHMLQRSISIELASLNELLQDKQQHDEYWNTVNTSIETVSEFFDKLNRLTSQREKRMIAQMTKQRDVNNVWIQSVKDLEMELVDKDEKLVALDKERKNLKKMLQKKLNNQPQVETEANEESDDANSMIKGSQESTNTLEEIVKFIEATKESDEDSDADEFFDAEEAASDKKANDSEDLTTNKETPANAKPQEEAPEDESLIVISSPQVEKKNQLLKEGSFVGYEDPVRTKLALDEDNRPKIGLWSVLKSMVGQDLTKLTLPVSFNEPTSLLQRVSEDIEYSHILDQAATFEDSSLRMLYVAAFTASMYASTTNRVSKPFNPLLGETFEYARTDGQYRFFTEQVSHHPPISATWTESPKWDFYGECNVDSSFNGRTFAVQHLGLWYITIRPDHNISVPEETYSWKKPNNTVIGILMGKPQVDNSGDVKVTNHTTGDYCMLHYKAHGWTSAGAYEVRGEVFNKDDKKLWVLGGHWNDSIYGKKVTARGGELTLDRIKTANSATGGPKLDGSKFLIWKANERPSVPFNLTSFALTLNALPPHLIPYLAPTDSRLRPDQRAMENGEYDKAAAEKHRVEVKQRAAKKEREQKGEEYRPKWFVQEEHPVTKSLYWKFNGEYWNKRKNHDFKDCADIF",
+        "length": "1188",
+        "mass": "135098",
+        "domains": [
+            {
+                "domain_name": "Pleckstrin homology domain",
+                "domain_shortname": "PH_domain",
+                "domain_accession": "IPR001849",
+                "domain_start": "281",
+                "domain_end": "381",
+                "domain_pI": 9.62
+            }
+        ],
+        "protein_pI": 5.35
+    },
+    {
+        "input_name": "MYO3",
+        "accession_protein": "P36006",
+        "gene names": "{'geneName': {'value': 'MYO3'}, 'orderedLocusNames': [{'value': 'YKL129C'}]}",
+        "protein name": "Myosin-3",
+        "sequence": "MAVIKKGARRKDVKEPKKRSAKIKKATFDANKKKEVGISDLTLLSKISDESINENLKKRFKNGIIYTYIGHVLISVNPFRDLGIYTNAVLESYKGKNRLEVPPHVFAIAESMYYNLKSYNENQCVIISGESGAGKTEAAKRIMQYIAAASNSHSESIGKIKDMVLATNPLLESFGCAKTLRNNNSSRHGKYLEIKFNSQFEPCAGNITNYLLEKQRVVGQIKNERNFHIFYQFTKGASDTYKQMFGVQMPEQYIYTAAAGCTTADTIDDVKDYEGTLEAMRTIGLVQEEQDQIFRMLAAILWIGNISFIENEEGNAQVGDTSVTDFVAYLLQVDASLLVKCLVERIMQTSHGMKRGSVYHVPLNPVQATAVRDALAKAIYNNLFDWIVDRVNVSLQAFPGADKSIGILDIYGFEIFEHNSFEQICINYVNEKLQQIFIQLTLKAEQETYEREKIKWTPIKYFDNKVVCDLIEAKNPPGILAAMNDSIATAHADSNAADQAFAQRLNLFNSNPYFELRANKFVIKHYAGDVTYDINGITDKNKDQLQKDLIELIGTTTNTFLSTIFPDDVDKDSKRRPPTAGDKIIKSANELVETLSKAEPSYIRTIKPNQTKSPNDYDDHQVLHQVKYLGLQENVRIRRAGFAYRQTFEKFVERFYLLSPDCSYAGDYTWDGDTLEAVKLILRDAMIPEKEFQLGVTSVFIKTPESLFALEDMRDKYWYNMAARIQRAWRRFLQRRIDAAIKIQRTIREKKGGNKYVKLRDYGTKLLAGKKERRSMSLLGYRAFMGDYLSCNESKTKGSYIRRQVGIKDKVVFSIKGECLHSKFGRSAQRLKKVFILTKKTFYIIGQTREQNAMKYTQDYKIDVGKIKQVSLTNLQDDWMGVILVNSTQSDPLINTPFKTELMTRLKKLNEKIMIKVGPTIEYHKQPNKLHTVRSKISDSAPKYGDIYKSSTIYVRRGHPANSKSNKKPKNPGGLSGKPIKSKKSKHKSTHKHTHSHRSHRDAAKKQPLPSQKPVNPLSLAATAAQAAYNPKPDKTVPIKSSAIPAAKVSSKHSSKPSSKEKVAVKKASSSHKSSSAKQNQVSMPPSKGVEKNKEPLKETTATATANIPIPPPPPPMGQPKDPKFEAAYDFPGSGSSSELPLKKGDIVFISRDEPSGWSLAKLLDGSKEGWVPTAYMTPYKDTRNTVPVAATGAVNDVTNQKSSQIDNTISSAQEGVQFGSATVGPTSDNQSNPVGTFSDGLASALAARANKMRAESADDDDNDDGDDDDDW",
+        "length": "1272",
+        "mass": "142451",
+        "domains": [
+            {
+                "domain_name": "SH3 domain",
+                "domain_shortname": "SH3_domain",
+                "domain_accession": "IPR001452",
+                "domain_start": "1120",
+                "domain_end": "1182",
+                "domain_pI": 4.85
+            },
+            {
+                "domain_name": "Myosin head, motor domain",
+                "domain_shortname": "Myosin_head_motor_dom",
+                "domain_accession": "IPR001609",
+                "domain_start": "30",
+                "domain_end": "716",
+                "domain_pI": 5.72
+            },
+            {
+                "domain_name": "Class I myosin tail homology domain",
+                "domain_shortname": "Myosin_TH1",
+                "domain_accession": "IPR010926",
+                "domain_start": "771",
+                "domain_end": "961",
+                "domain_pI": 10.03
+            }
+        ],
+        "protein_pI": 9.39
+    },
+    {
+        "input_name": "DYN1",
+        "accession_protein": "P36022",
+        "gene names": "{'geneName': {'value': 'DYN1'}, 'synonyms': [{'value': 'DHC1'}], 'orderedLocusNames': [{'value': 'YKR054C'}]}",
+        "protein name": "Dynein heavy chain, cytoplasmic",
+        "sequence": "MCKNEARLANELIEFVAATVTGIKNSPKENEQAFIDYLHCQYLERFQFFLGLLDGREFDTLFVFLFEELDRTIVTIDIGEEAIYDANLANKKYSTLLIIKSRSVIVDAEPIATQISAIYLPGPVNAGNLASIITHGVSSVFGQLIKSDTKTYSVETIDKTRRKLDDISKQFQQLHTSIETPDLLAMVPSIIKLAVSKGATSHDYANYLPSNDLESMRFLNILQSIANKWFLVLKQTLAIDRDIKNGSFLDEVEFWSNFYEVLKSLIEQTQSQEFQVCLSVLTNAKRFHNLTNLLNEGSLSDKFKLADKYNQFLSSIPIDEVRQASNLEDLQELFPVLASSLKKFRYSGYPVQRFVVLMDKISQEVMDAILSNLSDLFQLEYGSFLGLYEKSAGMIEEWDDIVQDVNLLIREDLRKRAPQELLIQKLTFTSASVKATLDEILSTRKRFFSLAETIKSISPSTYHEEIQRLYHPFEQIHDISVNFRLKLEQAESEFSKNMLDLEKKLQNTLASFMDSDHCPTEKLSYLVKFKPLMELCPRIKVKVLENQQILLLEIKKDIRQLETGLELLPKILHVEALNNIPPISARISYFLNVQSRIDNIVQYLEALFGSNWNDTLEGRSISTSIVQLRKETNPHDVFLHWLGNFPEKATANLLTTPILKLIRNNEDDYELKVNFDFALAAAYSELRSLTYMAFQVPSHIVRIARTYMYLYPRAINLVELIQTFFSLSKSLSYTFYTNIFLKRNVQTVWLLLQQILITPWESLQEESSEMSCSVHSLARLEKSIDGILSDYQILKNSEPQFAKEFSGLKSFDGTADDLHEVEEIISNIQAIFENLFTKGLTNVSDHISTFNNLIISIILEKVRLNLKKMHFPKHVLKLSFNEGRITSSPSLAAMKRSLLKDIEALLNKVVLINFLHDPDHPLSTTLTFNSLVIKLKDDIQNCIEQVQNLHCKINSYVKEWQKMEFLWQITEEAFLEVVDNSTQRCFGILKGLLDSQSKFDLIISRNNFSKNLVLHTEDAQRHIRSKMDSWILYVSKHLLTIYERDARKLHEDMNRDREAVEDMDINFTSLKNITVIIEAVNVNKRHLTERDIQIKLLGSVMRALTKLKVRFPSHFVYIDQLDNDFSSLRQSLSYVEQELQKHRVVIAKSLEEGVENINNLSQSLNESWSVRKPISPTLTPPEALKILEFFNESITKLKKKMHSVAAAAKMLLIPVVLNDQLTHVVEEVKTYDLVWRSIKNLWEDVQRTFETPWCRVDVLLLQSDLANFLRRADELPRAVKQFEMYKSLFSQVNMLTSVNKILVELKDGALKPRHWNMIFRDIGKRQIQKNLLDKLEFSLKDVMVLNLTLNEILLTKIIERAQKEFVIEKSLNRIKKFWKEAQYEVIEHSSGLKLVREWDVLEQACKEDLEELVSMKASNYYKIFEQDCLDLESKLTKLSEIQVNWVEVQFYWLDLYGILGENLDIQNFLPLETSKFKSLTSEYKMITTRAFQLDTTIEVIHIPNFDTTLKLTIDSLKMIKSSLSTFLERQRRQFPRFYFLGNDDLLKIIGSGKHHDQVSKFMKKMFGSIESIIFLEDFITGVRSVEGEVLNLNEKIELKDSIQAQEWLNILDTEIKLSVFTQFRDCLGQLKDGTDIEVVVSKYIFQAILLSAQVMWTELVEKCLQTNQFSKYWKEVDMKIKGLLDKLNKSSDNVKKKIEALLVEYLHFNNVIGQLKNCSTKEEARLLWAKVQKFYQKNDTLDDLNSVFISQSGYLLQYKFEYIGIPERLIYTPLLLIGFATLTDSLHQKYGGCFFGPAGTGKTETVKAFGQNLGRVVVVFNCDDSFDYQVLSRLLVGITQIGAWGCFDEFNRLDEKVLSAVSANIQQIQNGLQVGKSHITLLEEETPLSPHTAVFITLNPGYNGRSELPENLKKSFREFSMKSPQSGTIAEMILQIMGFEDSKSLASKIVHFLELLSSKCSSMNHYHFGLRTLKGVLRNCSPLISEFGEGEKTVVESLKRVILPSLGDTDELVFKDELSKIFDSAGTPLNSKAIVQCLKDAGQRSGFSMSEEFLKKCMQFYYMQKTQQALILVGKAGCGKTATWKTVIDAMAIFDGHANVVYVIDTKVLTKESLYGSMLKATLEWRDGLFTSILRRVNDDITGTFKNSRIWVVFDSDLDPEYVEAMNSVLDDNKILTLPNGERLPIPPNFRILFETDNLDHTTPATITRCGLLWFSTDVCSISSKIDHLLNKSYEALDNKLSMFELDKLKDLISDSFDMASLTNIFTCSNDLVHILGVRTFNKLETAVQLAVHLISSYRQWFQNLDDKSLKDVITLLIKRSLLYALAGDSTGESQRAFIQTINTYFGHDSQELSDYSTIVIANDKLSFSSFCSEIPSVSLEAHEVMRPDIVIPTIDTIKHEKIFYDLLNSKRGIILCGPPGSGKTMIMNNALRNSSLYDVVGINFSKDTTTEHILSALHRHTNYVTTSKGLTLLPKSDIKNLVLFCDEINLPKLDKYGSQNVVLFLRQLMEKQGFWKTPENKWVTIERIHIVGACNPPTDPGRIPMSERFTRHAAILYLGYPSGKSLSQIYEIYYKAIFKLVPEFRSYTEPFARASVHLYNECKARYSTGLQSHYLFSPRELTRLVRGVYTAINTGPRQTLRSLIRLWAYEAWRIFADRLVGVKEKNSFEQLLYETVDKYLPNQDLGNISSTSLLFSGLLSLDFKEVNKTDLVNFIEERFKTFCDEELEVPMVIHESMVDHILRIDRALKQVQGHMMLIGASRTGKTILTRFVAWLNGLKIVQPKIHRHSNLSDFDMILKKAISDCSLKESRTCLIIDESNILETAFLERMNTLLANADIPDLFQGEEYDKLLNNLRNKTRSLGLLLDTEQELYDWFVGEIAKNLHVVFTICDPTNNKSSAMISSPALFNRCIINWMGDWDTKTMSQVANNMVDVIPMEFTDFIVPEVNKELVFTEPIQTIRDAVVNILIHFDRNFYQKMKVGVNPRSPGYFIDGLRALVKLVTAKYQDLQENQRFVNVGLEKLNESVLKVNELNKTLSKKSTELTEKEKEARSTLDKMLMEQNESERKQEATEEIKKILKVQEEDIRKRKEVVMKSIQDIEPTILEAQRGVKNIKKQQLTEIRSMVNPPSGVKIVMEAVCAILGYQFSNWRDIQQFIRKDDFIHNIVHYDTTLHMKPQIRKYMEEEFLSDPNFTYETINRASKACGPLYQWVNAQINFSKVLENVDPLRQEMKRIEFESLKTKANLLAAEEMTQDLEASIEVSKRKYSLLIRDVEAIKTEMSNVQANLDRSISLVKSLTFEKERWLNTTKQFSKTSQELIGNCIISSIYETYFGHLNERERADMLVILKRLLGKFAVKYDVNYRFIDYLVTLDEKMKWLECGLDKNDYFLENMSIVMNSQDAVPFLLDPSSHMITVISNYYGNKTVLLSFLEEGFVKRLENAIRFGSVVIIQDGEFFDPIISRLISREFNHAGNRVTVEIGDHEVDVSGDFKLFIHSCDPSGDIPIFLRSRVRLVHFVTNKESIETRIFDITLTEENAEMQRKREDLIKLNTEYKLKLKNLEKRLLEELNNSQGNMLENDELMVTLNNLKKEAMNIEKKLSESEEFFPQFDNLVEEYSIIGKHSVKIFSMLEKFGQFHWFYGISIGQFLSCFKRVFIKKSRETRAARTRVDEILWLLYQEVYCQFSTALDKKFKMIMAMTMFCLYKFDIESEQYKEAVLTMIGVLSESSDGVPKLTVDTNNDLRYLWDYVTTKSYISALNWFKNEFFVDEWNIADVVANSENNYFTMASERDVDGTFKLIELAKASKESLKIIPLGSIENLNYAQEEISKSKIEGGWILLQNIQMSLSWVKTYLHKHVEETKAAEEHEKFKMFMTCHLTGDKLPAPLLQRTDRFVYEDIPGILDTVKDLWGSQFFTGKISGVWSVYCTFLLSWFHALITARTRLVPHGFSKKYYFNDCDFQFASVYLENVLATNSTNNIPWAQVRDHIATIVYGGKIDEEKDLEVVAKLCAHVFCGSDNLQIVPGVRIPQPLLQQSEEEERARLTAILSNTIEPADSLSSWLQLPRESILNYERLQAKEVASSTEQLLQEM",
+        "length": "4092",
+        "mass": "471348",
+        "domains": [
+            {
+                "domain_name": "AAA+ ATPase domain",
+                "domain_shortname": "AAA+_ATPase",
+                "domain_accession": "IPR003593",
+                "domain_start": "1788",
+                "domain_end": "2114",
+                "domain_pI": 7.13
+            },
+            {
+                "domain_name": "AAA+ ATPase domain",
+                "domain_shortname": "AAA+_ATPase",
+                "domain_accession": "IPR003593",
+                "domain_start": "2410",
+                "domain_end": "2560",
+                "domain_pI": 9.51
+            },
+            {
+                "domain_name": "AAA+ ATPase domain",
+                "domain_shortname": "AAA+_ATPase",
+                "domain_accession": "IPR003593",
+                "domain_start": "2752",
+                "domain_end": "2918",
+                "domain_pI": 6.47
+            },
+            {
+                "domain_name": "Dynein heavy chain region D6 P-loop domain",
+                "domain_shortname": "Dynein_heavy_D6_P-loop",
+                "domain_accession": "IPR004273",
+                "domain_start": "3792",
+                "domain_end": "3894",
+                "domain_pI": 7.1
+            },
+            {
+                "domain_name": "Dynein heavy chain, tail",
+                "domain_shortname": "Dynein_heavy_tail",
+                "domain_accession": "IPR013594",
+                "domain_start": "220",
+                "domain_end": "763",
+                "domain_pI": 5.76
+            },
+            {
+                "domain_name": "Dynein heavy chain, linker",
+                "domain_shortname": "Dynein_heavy_linker",
+                "domain_accession": "IPR013602",
+                "domain_start": "1221",
+                "domain_end": "1626",
+                "domain_pI": 5.75
+            },
+            {
+                "domain_name": "Dynein heavy chain, coiled coil stalk",
+                "domain_shortname": "Dynein_HC_stalk",
+                "domain_accession": "IPR024743",
+                "domain_start": "3018",
+                "domain_end": "3346",
+                "domain_pI": 6.58
+            },
+            {
+                "domain_name": "Dynein heavy chain, ATP-binding dynein motor region",
+                "domain_shortname": "AAA_9",
+                "domain_accession": "IPR035706",
+                "domain_start": "3378",
+                "domain_end": "3597",
+                "domain_pI": 5.07
+            },
+            {
+                "domain_name": "Dynein heavy chain AAA lid domain",
+                "domain_shortname": "AAA_lid_11",
+                "domain_accession": "IPR041658",
+                "domain_start": "3929",
+                "domain_end": "4016",
+                "domain_pI": 6.35
+            },
+            {
+                "domain_name": "DYN1, AAA+ ATPase lid domain",
+                "domain_shortname": "DYN1_lid",
+                "domain_accession": "IPR048404",
+                "domain_start": "2223",
+                "domain_end": "2358",
+                "domain_pI": 5.21
+            },
+            {
+                "domain_name": "Dynein 2 heavy chain 1, cytoplasmic, ATPase lid domain",
+                "domain_shortname": "DYNC2H1-like_lid",
+                "domain_accession": "IPR054354",
+                "domain_start": "2574",
+                "domain_end": "2666",
+                "domain_pI": 10.06
+            }
+        ],
+        "protein_pI": 5.9
+    },
+    {
+        "input_name": "PXL1",
+        "accession_protein": "P36166",
+        "gene names": "{'geneName': {'value': 'PXL1'}, 'orderedLocusNames': [{'value': 'YKR090W'}]}",
+        "protein name": "Paxillin-like protein 1",
+        "sequence": "MYNSIYGSPFPKINPKVRYKTALERAGFDTKPRNPFSSQRNASTGSLQASVKSPPITRQRNVSAAPSVPVTMKSAYTASSKSAYSSVKGESDIYPPPVLENSERRSVTPPKNSNFTSSRPSDISRSISRPSERASQEDPFRFERDLDRQAEQYAASRHTCKSPANKEFQAADNFPFNFEQEDAGNTEREQDLSPIERSFMMLTQNDTASVVNSMNQTDNRGVLDQKLGKEQQKEESSIEYESEGQQEDENDIESLNFEPDPKLQMNLENEPLQDDFPEAKQEEKNTEPKIPEINVTRESNTPSLTMNALDSKIYPDDNFSGLESSKEQKSPGVSSSSTKVEDLSLDGLNEKRLSITSSENVETPYTATNLQVEQLIAQLDDVSLSRNAKLDMNGNCLNAVDRKASRFKKSSAYLSGYPSMDIPVTQQTSIVQNSNTNLSRQTILVDKGDVDEDAPSESTTNGGTPIFYKFKQSNVEYSNNEGMGSQETFRTKLPTIEALQLQHKRNITDLREEIDNSKSNDSHVLPNGGTTRYSSDADYKETEPIEFKYPPGEGPCRACGLEVTGKRMFSKKENELSGQWHRECFKCIECGIKFNKHVPCYILGDEPYCQKHYHEENHSICKVCSNFIEGECLENDKVERFHVDCLNCFLCKTAITNDYYIFNGEIPLCGNHDMEALLKEGIDNATSSNDKNNTLSKRRTRLINFN",
+        "length": "706",
+        "mass": "79434",
+        "domains": [
+            {
+                "domain_name": "Zinc finger, LIM-type",
+                "domain_shortname": "Znf_LIM",
+                "domain_accession": "IPR001781",
+                "domain_start": "554",
+                "domain_end": "619",
+                "domain_pI": 7.76
+            },
+            {
+                "domain_name": "Zinc finger, LIM-type",
+                "domain_shortname": "Znf_LIM",
+                "domain_accession": "IPR001781",
+                "domain_start": "620",
+                "domain_end": "672",
+                "domain_pI": 4.78
+            }
+        ],
+        "protein_pI": 5.08
+    },
+    {
+        "input_name": "JNM1",
+        "accession_protein": "P36224",
+        "gene names": "{'geneName': {'value': 'JNM1'}, 'synonyms': [{'value': 'INS1'}], 'orderedLocusNames': [{'value': 'YMR294W'}]}",
+        "protein name": "Nuclear migration protein JNM1",
+        "sequence": "MNVIDLSDPAINVDYDSLIGIDNEESQEIFENEVKEDGQQEEQEEASSRKDGLIVEPGRDVESLRRAIRDQLLFKIHRQNQSDCADARKLSNDEEDESRQQKLERIREELEELKIENLTSEMQTEIKELCEIQSKLATESSSRLTNLRKKLLETYEGQDTVILPNIILDTSNIKRLQKLDQKISLMERFVGIPEALEAEEDRKSVHSKVNELYRSIQLLQGDDKAEGKLQKFRDRLVELNEEFENSLLGKKIQQDLRLKDDTVSKLVMPENKVKEINSMYSMFKQYQDSLPLLAERMKSLNKMNNRVIEVYETTKGLDSQITSIQEQGKVWLKALNELDKKFDEQEVKIRENMEQIRRKIDTLEDEALQRNSK",
+        "length": "373",
+        "mass": "43607",
+        "domains": [
+            {
+                "domain_name": "Dynamitin",
+                "domain_shortname": "Dynamitin",
+                "domain_accession": "IPR028133",
+                "domain_start": "171",
+                "domain_end": "367",
+                "domain_pI": 5.75
+            }
+        ],
+        "protein_pI": 4.84
+    },
+    {
+        "input_name": "VRP1",
+        "accession_protein": "P37370",
+        "gene names": "{'geneName': {'value': 'VRP1'}, 'synonyms': [{'value': 'END5'}, {'value': 'MDP2'}], 'orderedLocusNames': [{'value': 'YLR337C'}], 'orfNames': [{'value': 'L8300.13'}]}",
+        "protein name": "Verprolin",
+        "sequence": "MAGAPAPPPPPPPPALGGSAPKPAKSVMQGRDALLGDIRKGMKLKKAETNDRSAPIVGGGVVSSASGSSGTVSSKGPSMSAPPIPGMGAPQLGDILAGGIPKLKHINNNASTKPSPSASAPPIPGAVPSVAAPPIPNAPLSPAPAVPSIPSSSAPPIPDIPSSAAPPIPIVPSSPAPPLPLSGASAPKVPQNRPHMPSVRPAHRSHQRKSSNISLPSVSAPPLPSASLPTHVSNPPQAPPPPPTPTIGLDSKNIKPTDNAVSPPSSEVPAGGLPFLAEINARRSERGAVEGVSSTKIQTENHKSPSQPPLPSSAPPIPTSHAPPLPPTAPPPPSLPNVTSAPKKATSAPAPPPPPLPAAMSSASTNSVKATPVPPTLAPPLPNTTSVPPNKASSMPAPPPPPPPPPGAFSTSSALSASSIPLAPLPPPPPPSVATSVPSAPPPPPTLTTNKPSASSKQSKISSSSSSSAVTPGGPLPFLAEIQKKRDDRFVVGGDTGYTTQDKQEDVIGSSKDDNVRPSPISPSINPPKQSSQNGMSFLDEIESKLHKQTSSNAFNAPPPHTDAMAPPLPPSAPPPPITSLPTPTASGDDHTNDKSETVLGMKKAKAPALPGHVPPPPVPPVLSDDSKNNVPAASLLHDVLPSSNLEKPPSPPVAAAPPLPTFSAPSLPQQSVSTSIPSPPPVAPTLSVRTETESISKNPTKSPPPPPSPSTMDTGTSNSPSKNLKQRLFSTGGSTLQHKHNTHTNQPDVDVGRYTIGGSNSIVGAKSGNERIVIDDSRFKWTNVSQMPKPRPFQNKTKLYPSGKGSSVPLDLTLFT",
+        "length": "817",
+        "mass": "82594",
+        "domains": [
+            {
+                "domain_name": "WH2 domain",
+                "domain_shortname": "WH2_dom",
+                "domain_accession": "IPR003124",
+                "domain_start": "29",
+                "domain_end": "53",
+                "domain_pI": 9.99
+            },
+            {
+                "domain_name": "WH2 domain",
+                "domain_shortname": "WH2_dom",
+                "domain_accession": "IPR003124",
+                "domain_start": "85",
+                "domain_end": "111",
+                "domain_pI": 9.01
+            }
+        ],
+        "protein_pI": 9.89
+    },
+    {
+        "input_name": "ARP1",
+        "accession_protein": "Q02804",
+        "gene names": "{'geneName': {'value': 'ARL3'}, 'synonyms': [{'value': 'ARP1'}], 'orderedLocusNames': [{'value': 'YPL051W'}]}",
+        "protein name": "ADP-ribosylation factor-like protein 3",
+        "sequence": "MFHLVKGLYNNWNKKEQYSILILGLDNAGKTTFLETLKKEYSLAFKALEKIQPTVGQNVATIPVDSKQILKFWDVGGQESLRSMWSEYYSLCHGIIFIVDSSDRERLDECSTTLQSVVMDEEIEGVPILMLANKQDRQDRMEVQDIKEVFNKIAEHISARDSRVLPISALTGEGVKDAIEWMIVRLERNKKSRPPIYK",
+        "length": "198",
+        "mass": "22782",
+        "domains": [
+            {
+                "domain_name": "Small GTP-binding domain",
+                "domain_shortname": "Small_GTP-bd",
+                "domain_accession": "IPR005225",
+                "domain_start": "17",
+                "domain_end": "180",
+                "domain_pI": 4.75
+            }
+        ],
+        "protein_pI": 5.99
+    },
+    {
+        "input_name": "OSH3",
+        "accession_protein": "P38713",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '11238399'}], 'value': 'OSH3'}, 'orderedLocusNames': [{'value': 'YHR073W'}]}",
+        "protein name": "Oxysterol-binding protein homolog 3",
+        "sequence": "METIDIQNRSFVVRWVKCGRGDVINYQIKPLKKSIEVGIYKKLKSSVDDHASAVHIAPDTKTLLDYTTKSLLHKGSSSNIEEHHRRSSQHSHSSSNGSDNKRKERSYSSLSISGIQQQSQEIPLREKLSASGFTLVKRVGNVSGNTMVQGDLEVKDTDYYYAFILDNSSSKNAKKKILFNASVINGDNQSMISTRSTPPARPTALSRTSTQQDMLFRVGQGRYLQGYLLKKRRKRLQGFKKRFFTLDFRYGTLSYYLNDHNQTCRGEIVISLSSVSANKKDKIIIIDSGMEVWVLKATTKENWQSWVDALQTCFDDQFEDKDTSTLEENPDILDDDKEVINKSSPQDHDHLTPTATTKSALSHRQHTQKDMDDIYVPLPSESYATFSMNLRLIQQRLEQCKKDSLSYKPTTLHQRSEGLNGTHSSSSVFTNNRVSSFNHSSSGMTSSDSLASEEVPSNKTYIEHALYNQLADLEVFVSRFVTQGEVLFKDHQILCKKAKDTRVSLTSYLSENDEFFDAEEEISRGVIILPDTEDDINNIVEETPLLGKSDQNEFTKEVQLSGSEQIASSSVESYTTNDENHSRKHLKNRHKNRRRGHPHHQKTKSAQSSTETFTSKDLFALSYPKSVTRRNDIPEAAASPPSLLSFLRKNVGKDLSSIAMPVTSNEPISILQLISETFEYAPLLTKATQRPDPITFVSAFAISFLSIYRDKTRTLRKPFNPLLAETFELIREDMGFRLISEKVSHRPPVFAFFAEHLDWECSYTVTPSQKFWGKSIELNNEGILRLKFKTTGELFEWTQPTTILKNLIAGERYMEPVNEFEVHSSKGDKSHILFDKAGMFSGRSEGFKVSIIPPPSSNRKKETLAGKWTQSLANETTHETIWEVGDLVSNPKKKYGFTKFTANLNEITEIEKGNLPPTDSRLRPDIRAYEEGNVDKAEEWKLKLEQLQRERRNKGQDVEPKYFEKVSKNEWKYITGPKSYWERRKKHDWSDISQLW",
+        "length": "996",
+        "mass": "113760",
+        "domains": [
+            {
+                "domain_name": "Pleckstrin homology domain",
+                "domain_shortname": "PH_domain",
+                "domain_accession": "IPR001849",
+                "domain_start": "221",
+                "domain_end": "317",
+                "domain_pI": 9.61
+            }
+        ],
+        "protein_pI": 8.67
+    },
+    {
+        "input_name": "OSH7",
+        "accession_protein": "P38755",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '11238399'}], 'value': 'OSH7'}, 'orderedLocusNames': [{'value': 'YHR001W'}]}",
+        "protein name": "Oxysterol-binding protein homolog 7",
+        "sequence": "MALNKLKNIPSLTNSSHSSINGIASNAANSKPSGADTDDIDENDESGQSILLNIISQLKPGCDLSRITLPTFILEKKSMLERITNQLQFPDVLLEAHSNKDGLQRFVKVVAWYLAGWHIGPRAVKKPLNPILGEHFTAYWDLPNKQQAFYIAEQTSHHPPESAYFYMIPESNIRVDGVVVPKSKFLGNSSAAMMEGLTVLQFLDIKDANGKPEKYTLSQPNVYARGILFGKMRIELGDHMVIMGPKYQVDIEFKTKGFISGTYDAIEGTIKDYDGKEYYQISGKWNDIMYIKDLREKSSKKTVLFDTHQHFPLAPKVRPLEEQGEYESRRLWKKVTDALAVRDHEVATEEKFQIENRQRELAKKRAEDGVEFHSKLFRRAEPGEDLDYYIYKHIPEGTDKHEEQIRSILETAPILPGQTFTEKFSIPAYKKHGIQKN",
+        "length": "437",
+        "mass": "49805",
+        "domains": [
+            {
+                "domain_name": "Oxysterol-binding protein",
+                "domain_shortname": "Oxysterol-bd",
+                "domain_accession": "IPR000648",
+                "domain_start": "36",
+                "domain_end": "379",
+                "domain_pI": 6.61
+            }
+        ],
+        "protein_pI": 6.72
+    },
+    {
+        "input_name": "GIC1",
+        "accession_protein": "P38785",
+        "gene names": "{'geneName': {'value': 'GIC1'}, 'orderedLocusNames': [{'value': 'YHR061C'}]}",
+        "protein name": "GTPase-interacting component 1",
+        "sequence": "MTEGKRLQQMELPQMKSIWIDEDQEMEKLYGFQVRQRFMNGPSTDSDEDADEDLGIVLVDSKKLALPNKNNIKLPPLPNYMTINPNINSNHKSLTNKKKNFLGMFKKKDLLSRRHGSAKTAKQSSISTPFDFHHISHANGKREDNPLESHEEKHDVESLVKFTSLAPQPRPDSNVSSKYSNVVMNDSSRIVSSSTIATTMDSHHDGNETNNTPNGNKQLDSPTDLEMTLEDLRNYTFPSVLGDSVSEKTNPSSPSVSSFSGKFKPRELSALHTPELGNCFNVDQSLNSPGNRISVDDVLKFYYQCSETSTPRNT",
+        "length": "314",
+        "mass": "35238",
+        "domains": [
+            {
+                "domain_name": "CRIB domain",
+                "domain_shortname": "CRIB_dom",
+                "domain_accession": "IPR000095",
+                "domain_start": "126",
+                "domain_end": "163",
+                "domain_pI": 5.58
+            }
+        ],
+        "protein_pI": 6.08
+    },
+    {
+        "input_name": "DMA1",
+        "accession_protein": "P38823",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '15146058'}], 'value': 'DMA1'}, 'synonyms': [{'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '15319434'}], 'value': 'CHF1'}], 'orderedLocusNames': [{'evidences': [{'evidenceCode': 'ECO:0000312', 'source': 'SGD', 'id': 'S000001157'}], 'value': 'YHR115C'}]}",
+        "protein name": "E3 ubiquitin-protein ligase DMA1",
+        "sequence": "MSTNTVPSSPPNQTPPAASGIATSHDHTKFNNPIRLPISISLTINDTPNNNSNNNSVSNGLGILPSRTATSLVVANNGSANGNVGATAAAAATVETNTAPAVNTTKSIRHFIYPPNQVNQTEFSLDIHLPPNTSLPERIDQSTLKRRMDKHGLFSIRLTPFIDTSSTSVANQGLFFDPIIRTAGAGSQIIIGRYTERVREAISKIPDQYHPVVFKSKVISRTHGCFKVDDQGNWFLKDVKSSSGTFLNHQRLSSASTTSKDYLLHDGDIIQLGMDFRGGTEEIYRCVKMKIELNKSWKLKANAFNKEALSRIKNLQKLTTGLEQEDCSICLNKIKPCQAIFISPCAHSWHFHCVRRLVIMNYPQFMCPNCRTNCDLETTLESESESEFENEDEDEPDIEMDIDMEINNNLGVRLVD",
+        "length": "416",
+        "mass": "46098",
+        "domains": [
+            {
+                "domain_name": "Forkhead-associated (FHA) domain",
+                "domain_shortname": "FHA_dom",
+                "domain_accession": "IPR000253",
+                "domain_start": "188",
+                "domain_end": "273",
+                "domain_pI": 9.21
+            },
+            {
+                "domain_name": "Zinc finger, RING-type",
+                "domain_shortname": "Znf_RING",
+                "domain_accession": "IPR001841",
+                "domain_start": "326",
+                "domain_end": "371",
+                "domain_pI": 8.84
+            }
+        ],
+        "protein_pI": 6.32
+    },
+    {
+        "input_name": "KEL1",
+        "accession_protein": "P38853",
+        "gene names": "{'geneName': {'value': 'KEL1'}, 'orderedLocusNames': [{'value': 'YHR158C'}]}",
+        "protein name": "Kelch repeat-containing protein 1",
+        "sequence": "MAGFSFAKKFTHKKHGKTPSDASISDQSREASLSTPPNEKFFTKQETPQKGRQFSQGYHSNVNKTSSPPMFARKQVSESRIQPSAVPPQQRNVSGPSTTLHKQLSKQREYTVWNRIKLQNSPFPRYRHVASAYVTDKNQIYVIGGLHDQSVYGDTWILTAFDNATRFSTTTIDISEATPPPRVGHAAVLCGNAFVVFGGDTHKVNKEGLMDDDIYLLNINSYKWTVPAPVGPRPLGRYGHKISIIATTQMKTKLYVFGGQFDDTYFNDLAVYDLSSFRRPDSHWEFLKPRTFTPPPITNFTMISYDSKLWVFGGDTLQGLVNDVFMYDPAINDWFIIDTTGEKPPPVQEHATVVYNDLMCVVGGKDEHDAYLNSVYFLNLKSRKWFKLPVFTAGIPQGRSGHSLTLLKNDKILIMGGDKFDYARVEEYDLHTSDIDMQRGTIVYTLDLARIKDLCPGVMDVPTDTPTPRNGNLDLATPVTPTSHQTKNMNVPISAAPLASAPSPAPKDFSDADRLNREVHNRNVSTEHQNQSHPVNSESHLIAEPNILTPYVPSESSQTPVMKITSNKPFDTPTIQKEPDLSETMDPTVGNQRIPSSIYGDNLTPANQIKNNSPILETLPSNEIKTPQNGNIEEIKHLPDADEKIDSTTTFDQEINGDKLGTSSMSKVEEDGNVADEDDEIGVAQMASSPSKDQFKIKHYNESSELSQNNTEIDKLSEPVDITIKKSDTAGHDSANHVIDASDEKNVSPMGDVPTDTKNEEASVPINRDATTEVVDRALFEKLRSELQSLKELTHEKALEAGAHIKELETELWQLKSQKNSGTTKEIDELDSVRLQSKCEILEADNHSLEDKVNELEELVNSKFLDIENLNEVIQFQNEKIKSLELEPNYKEKLEELQIEHENLSRENERLKNESKQHNEDIINNVANYSSQLGSLISHWKENRANSSFLESSSSLISVSDENGEKTVGEPYGDQSRHHRVVINKLTNRLDDLLERSQELTISKEKLSSEYHALKMEHSSLSQDVLVKENEIKKIQNDYKESISSMDSASKALMVSQRELEKYKSLNKKLIDELDELKFKNGVCSENFENGLRSTEESSNNVKNSNSIRENQFNIKINDLKAELFITNQERDDLKSEVLELKKRLLNLENNTKQVNEDADSDLL",
+        "length": "1164",
+        "mass": "131094",
+        "domains": [],
+        "protein_pI": 5.21
+    },
+    {
+        "input_name": "YHR182W",
+        "accession_protein": "P38870",
+        "gene names": "{'orderedLocusNames': [{'value': 'YHR182W'}]}",
+        "protein name": "Uncharacterized protein YHR182W",
+        "sequence": "MSVKEHNEEDIIGDELQNSRQLSIDCDSVKISLRNTYWTKDYTTGIKLFIKHMKRENDLLIKDIKFYNDFVNKFWKPTLNNLQKMEATNSMNSRLLEVMSKQFNIISTEQVERDCKIPLQELRDLNESFLREAENDLSSRYSAYIKDLVAAKEALIGCEKRVQSIYKLKKANTPVENSSSVFDNGKDSAPLTRLNFVCEFPYTLDERLKFEDCDQFMSFLQTLKGKVILEKSVFSVPGLSNQSFQGRSLIKELKKLEPRLNLSLFNIDRIGNEFIQLGIIQEYSLSFYSSKVSQFDQEKYYYWNSEVLATQESNGNAGNRKKKSYGELTHSDNEHEEKSNVSSIKTSISDWIRKVSQHDNDDCDAAGSTDMNKNEWKSLKQQLESSQDIFFSKCCQLEYSKVQLEKTIYDYCKNYSKMEDGIKRALESSNMMFQQKCEKFTDSPVCSLQEAQLPQETANADVRGFFLRDNGIPFRRWNILEASDPVDACKEISIKSEKFFCGSEINNELAALDTLGAIKIILRQIEKEPNANKVIQSWHRDIDFVRVSNLKRDLLGEFKGSKTTENTNSIITAHFFENSHSYVTNDLVGLIKLWLLELPDSLIPSNHYDDLIKAEKSLTSLCEQFPTSSLRFLQELANHFQLINSKYSLPPQTIQDLFRDNSDIDIPLAHHFVRRTGLQNPIDIKILSPTLSTFFINERTVETLQTLIANRITTATTATLTEPPTIIIKDTTAPIHSTPKPPPNDKDGHFIPRPFKTSSTPTTPERPKRKSGLFLPINVNDVPST",
+        "length": "785",
+        "mass": "90109",
+        "domains": [
+            {
+                "domain_name": "Rho GTPase-activating protein domain",
+                "domain_shortname": "RhoGAP_dom",
+                "domain_accession": "IPR000198",
+                "domain_start": "492",
+                "domain_end": "725",
+                "domain_pI": 5.81
+            }
+        ],
+        "protein_pI": 5.99
+    },
+    {
+        "input_name": "AXL2",
+        "accession_protein": "P38928",
+        "gene names": "{'geneName': {'value': 'AXL2'}, 'synonyms': [{'value': 'BUD10'}, {'value': 'SRO4'}], 'orderedLocusNames': [{'value': 'YIL140W'}]}",
+        "protein name": "Axial budding pattern protein 2",
+        "sequence": "MTQLQISLLLTATISLLHLVVATPYEAYPIGKQYPPVARVNESFTFQISNDTYKSSVDKTAQITYNCFDLPSWLSFDSSSRTFSGEPSSDLLSDANTTLYFNVILEGTDSADSTSLNNTYQFVVTNRPSISLSSDFNLLALLKNYGYTNGKNALKLDPNEVFNVTFDRSMFTNEESIVSYYGRSQLYNAPLPNWLFFDSGELKFTGTAPVINSAIAPETSYSFVIIATDIEGFSAVEVEFELVIGAHQLTTSIQNSLIINVTDTGNVSYDLPLNYVYLDDDPISSDKLGSINLLDAPDWVALDNATISGSVPDELLGKNSNPANFSVSIYDTYGDVIYFNFEVVSTTDLFAISSLPNINATRGEWFSYYFLPSQFTDYVNTNVSLEFTNSSQDHDWVKFQSSNLTLAGEVPKNFDKLSLGLKANQGSQSQELYFNIIGMDSKITHSNHSANATSTRSSHHSTSTSSYTSSTYTAKISSTSAAATSSAPAALPAANKTSSHNKKAVAIACGVAIPLGVILVALICFLIFWRRRRENPDDENLPHAISGPDLNNPANKPNQENATPLNNPFDDDASSYDDTSIARRLAALNTLKLDNHSATESDISSVDEKRDSLSGMNTYNDQFQSQSKEELLAKPPVQPPESPFFDPQNRSSSVYMDSEPAVNKSWRYTGNLSPVSDIVRDSYGSQKTVDTEKLFDLEAPEKEKRTSRDVTMSSLDPWNSNISPSPVRKSVTPSPYNVTKHRNRHLQNIQDSQSGKNGITPTTMSTSSSDDFVPVKDGENFCWVHSMEPDRRPSKKRLVDFSNKSNVNVGQVKDIHGRIPEML",
+        "length": "823",
+        "mass": "90783",
+        "domains": [
+            {
+                "domain_name": "Dystroglycan-type cadherin-like",
+                "domain_shortname": "Cadg",
+                "domain_accession": "IPR006644",
+                "domain_start": "25",
+                "domain_end": "131",
+                "domain_pI": 4.21
+            },
+            {
+                "domain_name": "Dystroglycan-type cadherin-like",
+                "domain_shortname": "Cadg",
+                "domain_accession": "IPR006644",
+                "domain_start": "146",
+                "domain_end": "251",
+                "domain_pI": 4.28
+            },
+            {
+                "domain_name": "Dystroglycan-type cadherin-like",
+                "domain_shortname": "Cadg",
+                "domain_accession": "IPR006644",
+                "domain_start": "253",
+                "domain_end": "350",
+                "domain_pI": 3.41
+            },
+            {
+                "domain_name": "Dystroglycan-type cadherin-like",
+                "domain_shortname": "Cadg",
+                "domain_accession": "IPR006644",
+                "domain_start": "351",
+                "domain_end": "448",
+                "domain_pI": 5.4
+            }
+        ],
+        "protein_pI": 4.82
+    },
+    {
+        "input_name": "BEM4",
+        "accession_protein": "P39011",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '8754839'}], 'value': 'BEM4'}, 'synonyms': [{'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '8754840'}], 'value': 'ROM7'}], 'orderedLocusNames': [{'value': 'YPL161C'}], 'orfNames': [{'value': 'P2561'}]}",
+        "protein name": "GTPase-GDP dissociation stimulator BEM4",
+        "sequence": "MDYEEILFGLQPILNASSIKDVPMNDVYLGSYLAVMDQLAVSLREPSNRDIVGKTGLLLNLVRVLEQALDICFHDTSISINDKIAFYEISSEVIRCIANAIIDNDDNREILLDSGGKKLLNYYIGGVLQLDEISSDKSEDSLVDKLQMRSVVLLRNFCIGNLKYTENLAPFIRGPLFVLLKTTQYSYLSSPEKVVLGSDLLNDILKVNYSNVQISDLFFLSQYIKKISSNVQNKELQAMEDGAVEAYSNTETQKFAGQGNQEYIEKEEEDDEEDVNCELLLNLSTCLETIVAKDETINFTNEEQLVLSMQKNLILSLVCLESKTFNNKLIVMRRLISCAGNISANLTNSNKREQSLCIETIKSSASSYALAAALMILCNSVASKSDAVALLKLISLSELIQVGSLLQDPLQYQGFLDLLRKLLNLENTMWLDIKDLFTLFQIMRRCHEQTKYYNNLRSLLTNLLNKTLTVLPSSKIHNSISSDPTIISFIAEHGTLTSCIAMDKLLVSKKALPKEAITSLWDSIFKFQNLGQAEQLSISDLFHITKTVGIYLKDSSVTADVNPIENILFKDYIQKLTLILETILSFKENKDKGSESCFNNGKFIAGIILNIVKNTKCLTPEEQNLEALAKSFF",
+        "length": "633",
+        "mass": "70993",
+        "domains": [
+            {
+                "domain_name": "Rap1 GTPase-GDP dissociation stimulator 1",
+                "domain_shortname": "RAP1GDS1",
+                "domain_accession": "IPR040144",
+                "domain_start": "5",
+                "domain_end": "631",
+                "domain_pI": 4.98
+            }
+        ],
+        "protein_pI": 4.92
+    },
+    {
+        "input_name": "RGA1",
+        "accession_protein": "P39083",
+        "gene names": "{'geneName': {'value': 'RGA1'}, 'synonyms': [{'value': 'DBM1'}, {'value': 'THE1'}], 'orderedLocusNames': [{'value': 'YOR127W'}], 'orfNames': [{'value': 'O3290'}, {'value': 'YOR3290W'}]}",
+        "protein name": "Rho-type GTPase-activating protein 1",
+        "sequence": "MASTAPNEQFPSCVRCKEFITTGHAYELGCDRWHTHCFACYKCEKPLSCESDFLVLGTGALICFDCSDSCKNCGKKIDDLAIILSSSNEAYCSDCFKCCKCGENIADLRYAKTKRGLFCLSCHEKLLAKRKYYEEKKRRLKKNLPSLPTPVIDNGHTDEVSASAVLPEKTFSRPASLVNEIPSGSEPSKDIETNSSDIVPHFITGYNDSDDNSGSSKFGSNVSIDVIGPEENSTEHVNDDVKEEAEAPSANMSLNVATDPTLSCKEPPSHSRNLLNKTPLRNSSGQYLAKSPSSYRQGIIVNDSLEESDQIDPPNNSSRNASELLTSVLHSPVSVNMKNPKGSNTDIFNTGEISQMDPSLSRKVLNNIVEETNALQRPVVEVVKEDRSVPDLAGVQQEQAEKYSYSNNSGKGRKISRSLSRRSKDLMINLKSRATGKQDSNVKLSPASKVTSRRSQDLMRDNDSHTGLDTPNSNSTSLDILVNNQKSLNYKRFTDNGTLRVTSGKETALEEQKNHSFKSPSPIDHLLQSPATPSNVSMYRTPPLDSSLTFDRRNGSSYSNQNYSIPSWQKTPKTQLENSDNFEEQKETLYENSESRNDPSLDKEIVTAEHYLKQLKINLKELESQREELMKEITEMKSMKEALRRHIESYNSEKNKLYLDSNELSNNPPMINEISLGESPPVKHVATASSVARSSVKPKFWKFFSSAKPQTEQSIQGVSTNNTNSIVKSAPVLLSAPSSGSNSGRLEISPPVLQNPNEFSDVRLVPIENDANMGQSKDGEEYLDGSNLYGSSLVARCNYENNEIPMILSVCIDFIESDEENMRSEGIYRKSGSQLVIEEIEKQFSAWKVQQNTETPNILTEQDLNVVTGVLKRYLRKLPNPIFTFQIYEPLMRLVKSKKMMENLPFVGGKLSLEAKNSDTYMSSKSALKNILEDLPREHYRVLRVLSEHIEKVTRYSHWNRMTLYNLALVFAPGLIRDFSGEKDIIDMKERNYIVAFIFGNYKDILT",
+        "length": "1007",
+        "mass": "112832",
+        "domains": [
+            {
+                "domain_name": "Rho GTPase-activating protein domain",
+                "domain_shortname": "RhoGAP_dom",
+                "domain_accession": "IPR000198",
+                "domain_start": "791",
+                "domain_end": "1006",
+                "domain_pI": 6.83
+            },
+            {
+                "domain_name": "Zinc finger, LIM-type",
+                "domain_shortname": "Znf_LIM",
+                "domain_accession": "IPR001781",
+                "domain_start": "12",
+                "domain_end": "66",
+                "domain_pI": 5.78
+            },
+            {
+                "domain_name": "Zinc finger, LIM-type",
+                "domain_shortname": "Znf_LIM",
+                "domain_accession": "IPR001781",
+                "domain_start": "68",
+                "domain_end": "129",
+                "domain_pI": 8.41
+            }
+        ],
+        "protein_pI": 6.03
+    },
+    {
+        "input_name": "PAC1",
+        "accession_protein": "P39946",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000255', 'source': 'HAMAP-Rule', 'id': 'MF_03141'}], 'value': 'PAC1'}, 'synonyms': [{'evidences': [{'evidenceCode': 'ECO:0000255', 'source': 'HAMAP-Rule', 'id': 'MF_03141'}], 'value': 'LIS1'}], 'orderedLocusNames': [{'value': 'YOR269W'}]}",
+        "protein name": "Nuclear distribution protein PAC1",
+        "sequence": "MTNWQQQLPLTDTQKNELDKSVLRYLNWNYKQTVRHEHAQDYESVRHAIVTLSGFLLQESVDRQEFISNNDTSNESMVDIDELLLPKKWNSIVRLQKKIIELEQNTETLVSQIKDLNTQVSELAQFKPTTSNGTSAHNVLKWIPRNLPSCLINVESSVTSVKLHPNLPIVFVATDHGKLYAFDLFNYTIPLASLQSHTKAITSMDVLFTNYTNSSKKNYLVIVTASKDLQIHVFKWVSEECKFQQIRSLLGHEHIVSAVKIWQKNNDVHIASCSRDQTVKIWDFHNGWSLKTFQPHSQWVRSIDVLGDYIISGSHDTTLRLTHWPSGNGLSVGTGHEFPIEKVKFIHFIEDSPEIRFRTPSTDRYKNWGMQYCVSASRDRTIKIWEIPLPTLMAHRAPIPNPTDSNFRCVLTLKGHLSWVRDISIRGQYLFSCADDKSVRCWDLNTGQCLHVWEKLHTGFVNCLDLDVDFDSNVTPRQMMVTGGLDCKSNVFMR",
+        "length": "494",
+        "mass": "56901",
+        "domains": [
+            {
+                "domain_name": "Dynein regulator LIS1",
+                "domain_shortname": "Dynein_regulator_LIS1",
+                "domain_accession": "IPR017252",
+                "domain_start": "6",
+                "domain_end": "494",
+                "domain_pI": 7.4
+            }
+        ],
+        "protein_pI": 7.32
+    },
+    {
+        "input_name": "TSC11",
+        "accession_protein": "P40061",
+        "gene names": "{'geneName': {'value': 'TSC11'}, 'synonyms': [{'value': 'AVO3'}], 'orderedLocusNames': [{'value': 'YER093C'}]}",
+        "protein name": "Target of rapamycin complex 2 subunit TSC11",
+        "sequence": "MSIPHSAKQSSPLSSRRRSVTNTTPLLTPRHSRDNSSTQISSAKNITSSSPSTITNESSKRNKQNLVLSTSFISTKRLENSAPSPTSPLMARRTRSTMTKALLNLKAEINNQYQELARLRKKKDDIEHLRDSTISDIYSGSYSTNHLQKHSMRIRANTQLREIDNSIKRVEKHIFDLKQQFDKKRQRSLTTSSSIKADVGSIRNDDGQNNDSEELGDHDSLTDQVTLDDEYLTTPTSGTERNSQQNLNRNSTVNSRNNENHSTLSIPDLDGSNKVNLTGDTEKDLGDLENENQIFTSTTTEAATWLVSDYMQSFQEKNVNPDFIAQKANGLVTLLKEHSEIRKDLVLTSFMSSIQNLLLNGNKLIAASAYRVCRYLINSSIFIDELLELRLDAFIIISLAKDNSFQIEREQALKMVRRFIEYNNGVTQGIMQAIISCVEKPEDSLRHMALETLLELCFVAPEMVKECRGMRVIEGFLQDYTSFSLASVILDTILQLMATHKTRQHFLEDFNVSVLTTVFSDTNTKSNVNVEKMQNASTLISITLNSYNGFMLFSNNNFKPLKQLVSFFQIPICAQYLIDIFLDVLKIKPLPYKPRGRHSHSFKPIPSQYYKECMSVNQRLALIVLILENSEFVPHLLELLNEEDRDDHLVAKGRYLLTEYFNLRMNLVDKKYTSVSKPIYKENFTYVNETFQFKKIAYKMNRNRNTIGMSGIDYAQNIKSFSKNIKENTLLREVDDFRFRRMVYDSKVLQTKDFTRWNWNIINELLEGPLLNKKQLEELVKSTKFIRRLLVFYRPLRLRFSNVNKGAKLSQKYVQVGCQFFKTLTATPEGMKILMDDTKIIPQLASLMFRAMEGNISGNIFNKNKLREKIIFGYFKFIGILTQSKNGVHILTRWNFFTVIYKMFQFESKLGLEFLLLTIPELDLKYSSHCRVIIGKALVVANEKVRIEATKHIGDKLKELLSTKESDLKLKANKVKLQQFKMEMLTRQLYDLSPSVVAVADQALYECIVAGNGSEELGTSFRMFLNQMVFIRSPILFELLSRPYGFQLLNEINFVKEERDSWLSKKNIEYVHIVEEFLKKNESINAKSLTFQQKSRLPLHFYESLTKTEDGILLLSQTGDLVTFMNVIKKYVNGNNMATVENAKEILDLKAALWCVGFIGSTELGIGLLDNYSLVEDIIEVAYNASVTSVRFTAFYVLGLISMTREGCEILDEMGWNCCVSVQDEPIGIALPNRLDRFLSYNEHKWSAFGEYSDEMIVFNKSDGDLIEKCLPIEFDLDKLLKEKDTAENPLNEKIITNKYDNDITSQTITVSGENSSLFANEGLSSPYVTQYRNDDDSIESKVLHIVSQLGNHILSNHAVKEITEINNKYGPRLFENEKMFFKVFNMMSKYRFKPHVRKFLCGLFINNRALENVIRHDNKRDKRPANFTR",
+        "length": "1430",
+        "mass": "164368",
+        "domains": [
+            {
+                "domain_name": "Rapamycin-insensitive companion of mTOR, N-terminal domain",
+                "domain_shortname": "Pianissimo_N",
+                "domain_accession": "IPR028267",
+                "domain_start": "325",
+                "domain_end": "669",
+                "domain_pI": 6.5
+            },
+            {
+                "domain_name": "Rapamycin-insensitive companion of mTOR, middle domain",
+                "domain_shortname": "RICTOR_M",
+                "domain_accession": "IPR029451",
+                "domain_start": "734",
+                "domain_end": "959",
+                "domain_pI": 9.98
+            },
+            {
+                "domain_name": "Rapamycin-insensitive companion of mTOR, domain 5",
+                "domain_shortname": "RICTOR_V",
+                "domain_accession": "IPR029452",
+                "domain_start": "1146",
+                "domain_end": "1218",
+                "domain_pI": 3.96
+            },
+            {
+                "domain_name": "Rapamycin-insensitive companion of mTOR, domain 4",
+                "domain_shortname": "Rictor_IV",
+                "domain_accession": "IPR029453",
+                "domain_start": "977",
+                "domain_end": "1081",
+                "domain_pI": 5.14
+            }
+        ],
+        "protein_pI": 8.8
+    },
+    {
+        "input_name": "SHO1",
+        "accession_protein": "P40073",
+        "gene names": "{'geneName': {'value': 'SHO1'}, 'synonyms': [{'value': 'SSU81'}], 'orderedLocusNames': [{'value': 'YER118C'}]}",
+        "protein name": "High osmolarity signaling protein SHO1",
+        "sequence": "MSISSKIRPTPRKPSRMATDHSFKMKKFYADPFAISSISLAIVSWVIAIGGSISSASTNESFPRFTWWGIVYQFLIICSLMLFYCFDLVDHYRIFITTSIAVAFVYNTNSATNLVYADGPKKAAASAGVILLSIINLIWILYYGGDNASPTNRWIDSFSIKGIRPSPLENSLHRARRRGNRNTTPYQNNVYNDAIRDSGYATQFDGYPQQQPSHTNYVSSTALAGFENTQPNTSEAVNLHLNTLQQRINSASNAKETNDNSNNQTNTNIGNTFDTDFSNGNTETTMGDTLGLYSDIGDDNFIYKAKALYPYDADDDDAYEISFEQNEILQVSDIEGRWWKARRANGETGIIPSNYVQLIDGPEEMHR",
+        "length": "367",
+        "mass": "41126",
+        "domains": [
+            {
+                "domain_name": "SH3 domain",
+                "domain_shortname": "SH3_domain",
+                "domain_accession": "IPR001452",
+                "domain_start": "300",
+                "domain_end": "361",
+                "domain_pI": 4.24
+            }
+        ],
+        "protein_pI": 5.41
+    },
+    {
+        "input_name": "PEA2",
+        "accession_protein": "P40091",
+        "gene names": "{'geneName': {'value': 'PEA2'}, 'synonyms': [{'value': 'PPF2'}], 'orderedLocusNames': [{'value': 'YER149C'}]}",
+        "protein name": "Protein PEA2",
+        "sequence": "MHKFDLELSRRANPLLFSAERYEEYPLKYDELKQYLLSQNPSHPHHNSRPYTSIDYFDYLLYRSKNDESEIDLDKKLVSEFALYYVQKEHLNSDDLNPTLNELLKLQPKSADWYEMMLRILESINTTGIDQLTKENNNSFPNSKRARSSTNMGGTDKFNKGAYHTDKADDDKNEILQELTSFLMSNSIQKGIDIKPIPLDDPVKFLKNGINSILDTCVSLEKNTSSPPISPNAAAIQEEDSSKKLEELETAFSDLQLAHNFLTKQFENDRAEYVQDIEKLTRTNRELQDKLLNNHSNLSKTEKKLHELEQENKELEKANNKLNSSRHNFGMSSPASSPVTWDPSSPSSVGSPTSGSGSRSLSIMTSEFKKVLTSTQRKYEKELSDEREHRFKLERELALLKNAEANTSLALNRDDPPDML",
+        "length": "420",
+        "mass": "48165",
+        "domains": [],
+        "protein_pI": 5.39
+    },
+    {
+        "input_name": "TPM2",
+        "accession_protein": "P40414",
+        "gene names": "{'geneName': {'value': 'TPM2'}, 'orderedLocusNames': [{'value': 'YIL138C'}]}",
+        "protein name": "Tropomyosin-2",
+        "sequence": "MEKIKEKLNSLKLESESWQEKYEELREQLKELEQSNTEKENEIKSLSAKNEQLDSEVEKLESQLSDTKQLAEDSNNLRSNNENYTKKNQDLEQQLEDSEAKLKEAMDKLKEADLNSEQMGRRIVALEEERDEWEKKCEEFQSKYEEAQKELDEIANSLENL",
+        "length": "161",
+        "mass": "19093",
+        "domains": [
+            {
+                "domain_name": "Tropomyosin",
+                "domain_shortname": "Tropomyosin",
+                "domain_accession": "IPR000533",
+                "domain_start": "1",
+                "domain_end": "96",
+                "domain_pI": 4.58
+            }
+        ],
+        "protein_pI": 4.5
+    },
+    {
+        "input_name": "VHS2",
+        "accession_protein": "P40463",
+        "gene names": "{'geneName': {'value': 'VHS2'}, 'orderedLocusNames': [{'value': 'YIL135C'}]}",
+        "protein name": "Protein VHS2",
+        "sequence": "MDTSNHNQDHDSHVAAQRENDNNYMPPSPSMSESSMIFERNVEDPSYLYKTVSNNAANSLSRQSSRTSLFNHNNSSNRNFHNLSQRSSAVNLHLQPSRTNESIASYQTYNPDFVVQTPLDHRRTLENFVPPALDAGCSIVTDDTTGLDDVDMVYSRRPSTIGLDRALGRTRSLSSQSFDNETSPAHPRSPNDHGSRLLRFYSYADMLSDDNNNNVSNATSTSSTANPLRRPPMQGHYSFSSSLLNSPSHLPSPPSASASPPQHMNFTNPFIISRRYSNTTINNANGGTSAGSTTGAALSRSPSNQQYLLKQQRSPSGSARSRRNSNRPGSAANIMIGKPKSKFHMESSGSEGFSSEEEDNTMIERDKLNLKQKLQSQLAQPPSIANMVNDNHNNTNKHKNTINNNIKNSPAFTNSNPSSKSNSNSTITSMNPDTTK",
+        "length": "436",
+        "mass": "47961",
+        "domains": [],
+        "protein_pI": 9.21
+    },
+    {
+        "input_name": "SLM1",
+        "accession_protein": "P40485",
+        "gene names": "{'geneName': {'value': 'SLM1'}, 'synonyms': [{'value': 'LIT2'}], 'orderedLocusNames': [{'value': 'YIL105C'}]}",
+        "protein name": "Phosphatidylinositol 4,5-bisphosphate-binding protein SLM1",
+        "sequence": "MSKNNTMTSAVSDMLSQQQLNLQHLHNLQQHTRSMTSADHANVLQQQQQQQQQQQQQQQQQQQSASFQNGSLTSDINQQSYLNGQPVPSTSNSTFQNNRTLTMNSGGLQGIISNGSPNIDSNTNVTIAVPDPNNNNGKQLQGKNSLTNTSILSRARSSLQRQRLAQQQQQQQDPRSPLVILVPTAAQPTDILAARFSAWRNVIKSVIVYLTEIASIQDEIVRQQLRLSHAVQFPFFSIENQYQPSSQEDKSVQKFFLPLGNGSIQDLPTILNQYHESLASSASKASRELTNDVIPRLEDLRRDLIVKIKEIKSLQSDFKNSCSKELQQTKQAMKQFQESLKDARYSVPKQDPFLTKLALDRQIKKQLQEENFLHEAFDNLETSGAELEKIVVMEIQNSLTIYARLLGQEAQLVFDILISKLDSGFFNVDPQFEWDNFISRDPNFLLPNLPMRTFKEIVYKYQFDPLTYEIKSGFLERRSKFLKSYSKGYYVLTPNFLHEFKTADRKKDLVPVMSLALSECTVTEHSRKNSTSSPNSTGSDAKFVLHAKQNGIIRRGHNWVFKADSYESMMSWFDNLKILTSTSNIQDKYKFITQKLNLNSDGKPKLTNNHTSINKYQLSNANSTMVENDENDDINSNYVGSTVTPKLDNQTNTNTSMSSLPDTNDSELQDQVPNIYIQTPINDFKS",
+        "length": "686",
+        "mass": "77995",
+        "domains": [
+            {
+                "domain_name": "Pleckstrin homology domain",
+                "domain_shortname": "PH_domain",
+                "domain_accession": "IPR001849",
+                "domain_start": "468",
+                "domain_end": "583",
+                "domain_pI": 9.64
+            },
+            {
+                "domain_name": "SLM1/RGC1-like, BAR-like domain",
+                "domain_shortname": "BAR_4",
+                "domain_accession": "IPR046868",
+                "domain_start": "261",
+                "domain_end": "441",
+                "domain_pI": 5.06
+            }
+        ],
+        "protein_pI": 7.71
+    },
+    {
+        "input_name": "GVP36",
+        "accession_protein": "P40531",
+        "gene names": "{'geneName': {'value': 'GVP36'}, 'orderedLocusNames': [{'value': 'YIL041W'}]}",
+        "protein name": "Protein GVP36",
+        "sequence": "MSFNAFASSLSKKLQEISTSVSEKTQELPSLAQSTQRMVQERLGQVTDISQLPREYTELEDKVDTIKLIYNHFLGVTAIYENGSYDYPKYINESVNEFSRSVASKLTELTHATSASEAQNILVAPGPIKEPKTLNYALSKVALNSSECLNKMFPTEEQPLASALLQFSDVQAKIAQARIQQDTLIQTKFNKNLRERLSFEIGKADKCRKDVHSMRLRYDVARTNLANNKKPEKEASLRVQMETLEDQFAQVTEDATVCLQEVISHANFSEDLKELAKAQAEYFETSAGLMKEFLSNSFAEEPEAKPEVAEEEKPQTAISMNDEDDA",
+        "length": "326",
+        "mass": "36670",
+        "domains": [
+            {
+                "domain_name": "BAR domain-containing family",
+                "domain_shortname": "BAR_dom-cont",
+                "domain_accession": "IPR018859",
+                "domain_start": "28",
+                "domain_end": "297",
+                "domain_pI": 5.44
+            }
+        ],
+        "protein_pI": 4.91
+    },
+    {
+        "input_name": "AXL1",
+        "accession_protein": "P40851",
+        "gene names": "{'geneName': {'value': 'AXL1'}, 'orderedLocusNames': [{'value': 'YPR122W'}], 'orfNames': [{'value': 'P9642.4'}]}",
+        "protein name": "Putative protease AXL1",
+        "sequence": "MSLREVTNYEVSFYIPLSYSNRTHKVCKLPNGILALIISDPTDTSSSCSLTVCTGSHNDPKDIAGLAHLCEHMILSAGSKKYPDPGLFHTLIAKNNGSQNAFTTGEQTTFYFELPNTQNNGEFTFESILDVFASFFKEPLFNPLLISKEIYAIQSEHEGNISSTTKIFYHAARILANPDHPFSRFSTGNIHSLSSIPQLKKIKLKSSLNTYFENNFFGENITLCIRGPQSVNILTKLALSKFGDIKPKSAVKERSISIRTRSFRRSKSLKKRQDSSKNDYSDLKTFKILNTTWEKKYKNTMCFQQFPECNSIFINSNKVPIMRLLFPVSDKNTRFTKDDIKIYSHLWCELFGDESPGSLSYYLASKGWLTGCFAFTSEFAIGDIGLILELELTNSGWENIKRITTIVLNRLLPSFYVMNIDYLITFLKEQNLIDLVSFLYQSSEDLPMEECSKLSGILQDDLECLTPPNIFKGFKSLIEIDDPNIEKYENTKANIQWWTGQAIKFQNFLKSFMNHDNMRLLLLGNIKSGNIFDKMKNKSDICTDFFYEFEYYTANVHLASDNKFHSNSSYEFNFPTGNLFLPDCVSDPLKLQQLFLECSLKSKFATLRPQIYSEPTRTKPQLVSENQNYEMWILKEDPNFASDNKSVVSFEVLGLGIKPSPEATIHLEVLAQALFIITSSFLYPALRIGYTYEIASSSKGNVTLRFTISGFPEGVFTIVKTFVDTLKLIATDPTFLSKDTLRKARILVRNKYKNASSDNCVKLASVGLLIVLEKYIWTLEDRINALELTELESFEKFCFLFWRNPKHLVLFMQGSLEYADAINRYLNNNFTQHLKISNEGSKPTIRLYPPPSTKDLDQGTNAFISYNGHQDDPNNSIVYFIQTAQRDDIKNLTLTFLTEYLFSLTLVPDLRNKKQIGYIVLGGLRVLTDTVGIHITVMSGSSGHNLETRINEYLSYLQLQVLNRFTEFDFRRILLEPFLNLLKQNSTKQFEGSAGPVDLLNEIVANVQNGDNYTLNNKQMRQHRKVRNKIAEGRLNFQEDHEMIDISFLQKLTLKKYLAFFESKISIYSAQRSKLSIMITSPMAEKEIASRKMFLQLEAFLKINGFAIKNEDLKKIVEHSKGNPILLVKNLFTYFRRRNEVFKLGTVVLQEILKIIGMNLKQRYGSILGFSSQDGEGQEIEKFWNNDTSPIVPLQELPEPNFFRKAAF",
+        "length": "1208",
+        "mass": "138332",
+        "domains": [
+            {
+                "domain_name": "Peptidase M16, N-terminal",
+                "domain_shortname": "Pept_M16_N",
+                "domain_accession": "IPR011765",
+                "domain_start": "36",
+                "domain_end": "179",
+                "domain_pI": 5.02
+            }
+        ],
+        "protein_pI": 8.56
+    },
+    {
+        "input_name": "PAC11",
+        "accession_protein": "P40960",
+        "gene names": "{'geneName': {'value': 'PAC11'}, 'orderedLocusNames': [{'value': 'YDR488C'}]}",
+        "protein name": "WD repeat-containing protein PAC11",
+        "sequence": "MERLKQLEEKRRQLKELRERRKQASLFPGSETMGHHPTEVHAKATMVSVSVQTDMEEGSKIQEPQSAYLRRKEVITYDKGIQTDQIEEEQLQENENHTTTDAVAIETTAADENNKDKAENDQPRLELAKPFLVEEAAATLSNASFARLETEVSASGQQAPSNMQQDKDNLMQWNMVSENLQSETDCDCIAQEYDPGKGVLVVVYLRLPPADLQYASSEAAWSVVNVVKCDNASGRNGLLIDMVEFRGTRIMTATILRRYHPESNVISILLATLTGKIILYELRLKQKKPETPVVYVVQRNMVARHYFQHPVVAVIETSSVQDQERVLVAADNGNIMELSCLDLTVLRKPQQLRPVPLSQLLSLENDTCTYTERLQRLAKFDEVGIACMAYTSEDPQYVWIGGEDGGIYKVFWDQPGPLYLSLDNNGFQPAENHSTRVTGLEFHWDDARRLMLLLSCSTDWTVRLWDARAGKAIIGAPLLLGGPVLRARWLEKNNGGENSRTLRCQVWCADGRLVVVNWAFDAKTSLYTATVIS",
+        "length": "533",
+        "mass": "60074",
+        "domains": [
+            {
+                "domain_name": "Dynein Intermediate Chain",
+                "domain_shortname": "Dynein_IC",
+                "domain_accession": "IPR050687",
+                "domain_start": "46",
+                "domain_end": "494",
+                "domain_pI": 4.8
+            }
+        ],
+        "protein_pI": 5.22
+    },
+    {
+        "input_name": "ARF3",
+        "accession_protein": "P40994",
+        "gene names": "{'geneName': {'value': 'ARF3'}, 'orderedLocusNames': [{'value': 'YOR094W'}], 'orfNames': [{'value': 'YOR3172W'}]}",
+        "protein name": "ADP-ribosylation factor 3",
+        "sequence": "MGNSISKVLGKLFGSKEMKILMLGLDKAGKTTILYKLKLNKIKTSTPTVGFNVETVTYKNVKFNMWDVGGQQRLRPLWRHYFPATTALIFVIDSSARNRMEEAKEELYSIIGEKEMENVVLLVWANKQDLKDAMKPQEVSDFLELEKNLKNQPWCVIGSNALSGQGLVEGLSWISNNTNVPKK",
+        "length": "183",
+        "mass": "20696",
+        "domains": [
+            {
+                "domain_name": "Small GTP-binding domain",
+                "domain_shortname": "Small_GTP-bd",
+                "domain_accession": "IPR005225",
+                "domain_start": "16",
+                "domain_end": "169",
+                "domain_pI": 8.91
+            }
+        ],
+        "protein_pI": 9.43
+    },
+    {
+        "input_name": "LST8",
+        "accession_protein": "P41318",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000312', 'source': 'SGD', 'id': 'S000004951'}], 'value': 'LST8'}, 'orderedLocusNames': [{'value': 'YNL006W'}], 'orfNames': [{'value': 'N2005'}]}",
+        "protein name": "Target of rapamycin complex subunit LST8",
+        "sequence": "MSVILVSAGYDHTIRFWEALTGVCSRTIQHSDSQVNRLEITNDKKLLATAGHQNVRLYDIRTTNPNPVASFEGHRGNVTSVSFQQDNRWMVTSSEDGTIKVWDVRSPSIPRNYKHNAPVNEVVIHPNQGELISCDRDGNIRIWDLGENQCTHQLTPEDDTSLQSLSMASDGSMLAAANTKGNCYVWEMPNHTDASHLKPVTKFRAHSTYITRILLSSDVKHLATCSADHTARVWSIDDDFKLETTLDGHQRWVWDCAFSADSAYLVTASSDHYVRLWDLSTREIVRQYGGHHKGAVCVALNDV",
+        "length": "303",
+        "mass": "34034",
+        "domains": [
+            {
+                "domain_name": "Target of rapamycin complex subunit LST8",
+                "domain_shortname": "MLST8",
+                "domain_accession": "IPR037588",
+                "domain_start": "2",
+                "domain_end": "302",
+                "domain_pI": 6.03
+            }
+        ],
+        "protein_pI": 6.03
+    },
+    {
+        "input_name": "BUD6",
+        "accession_protein": "P41697",
+        "gene names": "{'geneName': {'value': 'BUD6'}, 'synonyms': [{'value': 'AIP3'}], 'orderedLocusNames': [{'value': 'YLR319C'}], 'orfNames': [{'value': 'L8543.5'}]}",
+        "protein name": "Bud site selection protein 6",
+        "sequence": "MKMAVDDPTYGTPKIKRTASSSSSIETTVTKLLMSTKHLLQVLTQWSKGTTSGRLVSDAYVQLGNDFKVVSKFFMHAKVDMSDVGDVPMALRRVLEVTLREPPSDETLNKHLPKIREIIVTLLDKLKVKQAILKNMQQEHRISVKSHHQQNPSFTSNLSLGSEGTREGTPLSSRKSSIVRDQRQSDSVENSYGEKVNSTSTGTPSAQSAEATLTKPRTNIKQNLKSNNAPNASDDDDALSQLKKGTNLQRRASKRYSAYHMAKLTNQSTTEAAAAAGLMTTPSPSMLHLEETVRKSKLYGNNNNDDDRNINSAENKGKSIDDVSKASPLAKTPLPIENVRASPRRLSSVVTTSPDKAMNGTCPVFLRIGDKTKKCHVQLPTTKNALRLLFIERFAYSPGANSFPDIYIMDPQYGVFYELEELNLLDIKEGFVIELKLEENPNNTIKEFIDTVKMEISNSQNDIIRHLKEMSFGSAISGKQTEVLPQPGLEANKHDLVGQNKKDDDKTIKDIQYELGKIKQVHNINRSNINETIFNILRKVDNFKSLSFSAKNSSNRMYMEKSQTELGDLSDTLLSKVDDLQDVIEIMRKDVAERRSQPAKKKLETVSKDLENAQADVLKLQEFIDTEKPHWKKTWEAELDKVCEEQQFLTLQEELILDLKEDLGKALETFDLIKLCCEEQEKNPSRSKSNPILPIMRPGTFNQVREQVMVAVQSLNPDHDSRVEAIDKAEKMWEMERKLKASNEFDDELENFVGNSNLKKSGGFEEVERIRKQKDEANLRAYFGPGFT",
+        "length": "788",
+        "mass": "88817",
+        "domains": [
+            {
+                "domain_name": "Actin interacting protein 3, C-terminal",
+                "domain_shortname": "AIP3_C",
+                "domain_accession": "IPR005613",
+                "domain_start": "365",
+                "domain_end": "776",
+                "domain_pI": 5.16
+            }
+        ],
+        "protein_pI": 7.62
+    },
+    {
+        "input_name": "BUD8",
+        "accession_protein": "P41698",
+        "gene names": "{'geneName': {'value': 'BUD8'}, 'orderedLocusNames': [{'value': 'YLR353W'}], 'orfNames': [{'value': 'L9638.3'}]}",
+        "protein name": "Bud site selection protein 8",
+        "sequence": "MIQSDEDNLDSSETTASTSYSGTSSVSSRLQLRTSLFFENLNGAHGNPDAETEMATVAYETTSRGQGFAVYINNERFSQIMGASTSSSSSSNSSSITQFHDTQDNNIPSNTTVRPTSLRRDNEDTVPLRNVTPSQNAAVRPERAVNSPSSQRLSCALTISTSVLMGEDVEGSPIEQEHSRVVSSLYSSLANRGNDESKNGTPPRPTSIEPNETTEHSFFSYHYDDTLEPDVEEAVRLTKNKTSNVNFISSTGSKGEGETEDEVIDQYEPVNESKFIPHKLKIPEKAGSIKSSTSDDSHSPGAPGTSARKIKIPQSPSLIGNILIPSHNSDSSNESSPKDHIGHNNEEKFSSKSTRKPSTSLEEEGPPIGLPSIPVLRSVSGPSKWTKTPLRLESGNSTKSDPFSRYEGHKTPSPLTKMNKKKNKTLPEHGQPLVLAPIKSQSSESDTGQNSIIEKPARSIRRKQQEKTDNRKEDRHDAENIDLEARMPIQHIDTASIHSFDSGQNGFRDVYSIENIIVILLCCSIVPPLFFIIGCSSRRKLVSDYRLMRLLMNKEHRAALLQGFIWDVDLRWFRMFCLILGAAETVIVMAGIAIGFGVGITRE",
+        "length": "603",
+        "mass": "66289",
+        "domains": [],
+        "protein_pI": 5.88
+    },
+    {
+        "input_name": "HKR1",
+        "accession_protein": "P41809",
+        "gene names": "{'geneName': {'value': 'HKR1'}, 'orderedLocusNames': [{'value': 'YDR420W'}]}",
+        "protein name": "Signaling mucin HKR1",
+        "sequence": "MVSLKIKKILLLVSLLNAIEAYSNDTIYSTSYNNGIESTPSYSTSAISSTGSSNKENAITSSSETTTMAGQYGESGSTTIMDEQETGTSSQYISVTTTTQTSDTMSSVKKSTEIATPSSSIVPTPLQSYSDESQISQTLSHNPKSVAESDSDTTSSESSSSVIISTSDSSAVPREISPIITTDSQISKEEGTLAQTSSISETTRIAQMVTRVSQISSITAASTIDGFSSESTQTDFSNTVSFENSVEEEYAMSKSQLSESYSSSSTVYSGGESTADKTSSSPITSFSSSYSQTTSTETSESSRVAVGVSRPSSITQTTSIDSFSMSEVELSTYYDLSAGNYPDQELIVDRPATSSTAETSSEASQGVSRESNTFAVSSISTTNFIVSSASDTVVSTSSTNTVPYSSVHSTFVHATSSSTYISSSLYSSPSLSASVSSHFGVAPFPSAYISFSSVPVAVSSTYTSSPSASVVVPSAYASSPSVPVAVSSTYTSSPSAPAAISSTYTSSPSAPVAVSSTYTSSPSAPAAISSTYTSSPSAPVAVSSTYTSSPSAPAAISSTYTSSPSAPVAVSSTYTSSPSAPVAISSTYTSSPSVPVAVSSTYTSSPSAPAAISSTYTSSPSAPVAVSSTYTSSPSAPAAISSTYTSSPSVPVAVSSTYTSSPSAPAAISSTYTSSPSVPVAVSSTYTSSPSAPAAISSTYTSSPSAPVAVSSTYTSSPSAPAAISSTYTSSPSAPVAVSSTYTSSPSAPAAISSTYTSSPSAPVAVSSTYTSSPSALVVLSSTSTSSPYDIVYSPSTFAAISSGYTPSPSASVAMSSTSSSSPYDIVYSLSSSASRSSIATYEFSPSPSTSLPTSSTYTYFSSAYAFEFSSERYSTTSTIAPTQIHSTLSRITDFLLQTSMAIQSIVSQQISTSSTLNDEIHSSALSVFNPSASNLVETSLIISSTQASITSPKNSAKISSLQSQLSSSTKNPYDTANKNTETSGRSTVVSNFLYTSSAAKPDNEKFSATPTEITTISSSSHAYSLSIPSSHNSVTGLSHNFVDSSKSATSFGYSSSSISSIKLSKETIPASKSVSNTQERITSFTSTLRANSQSEKSEGRNSVGSLQSSHISSNPSLSTNTKVDSKSLSRKVSKTMGENGEETGLTTTKTQYKSSSETSGSYSRSFTKISIGPATTAVQTQASTNSVFTAPALSTYPTTPYPSPNSYAWLPTAIIVESSETGPTTASFNPSITGSLPNAIEPAVAVSEPINHTLITIGFTAALNYVFLVQNPLSSAQIFNFLPLVLKYPFSNTSSELDNSIGELSTFILSYRSGSSTTTLSPKSISSLSVVKKKKNQQKKNATKSTEDLHPPQVDTSSIAVKKIVPMVDSSKAYIVSVAEVYFPTEAVTYLQQLILDENSTLYSNPQTPLRSLAGLIDSGIPLGGLTLYGSGDGGYVPSLTSSSVLDSSKGNSQNIDGTYKYGALDDFINSFTDSASAGKYAVKIIIFLIVLTIGVLLWLFVAFFAFRHRNILLKRHPRNCIGKSLNNERELESTELSRSSSGNQVYNEKPPESENESVYSAVDDHYIVTGENTVYNTIHRLHYTINDDGDLLYRDAIPLDFDQTNGDDGSGIDSIVRDCVYDKNQDATEAFLNDEESISGILDVDENGDIRLYDSYSDNEESNSFHLPDEVIENYNKNHLCETKLHGLGTESCTTDDPDTGNQITNEFSTGSQTCLPSTAYTTPLHTNSIKLHTLRYTESSLPKPNQTLFSNLEDLEIEDIDDNGSVSDVHIEELDALDEELYKRMSKVIKQQNHQTTKI",
+        "length": "1802",
+        "mass": "188948",
+        "domains": [
+            {
+                "domain_name": "Signaling mucin MSB2",
+                "domain_shortname": "MSB2",
+                "domain_accession": "IPR039295",
+                "domain_start": "1",
+                "domain_end": "1801",
+                "domain_pI": 4.7
+            }
+        ],
+        "protein_pI": 4.7
+    },
+    {
+        "input_name": "BNI1",
+        "accession_protein": "P41832",
+        "gene names": "{'geneName': {'value': 'BNI1'}, 'synonyms': [{'value': 'PPF3'}, {'value': 'SHE5'}], 'orderedLocusNames': [{'value': 'YNL271C'}], 'orfNames': [{'value': 'N0646'}]}",
+        "protein name": "Protein BNI1",
+        "sequence": "MLKNSGSKHSNSKESHSNSSSGIFQNLKRLANSNATNSNTGSPTYASQQQHSPVGNEVSTSPASSSSFRKLNAPSRSTSTEARPLNKKSTLNTQNLSQYMNGKLSGDVPVSSQHARSHSMQSKYSYSKRNSSQASNKLTRQHTGQSHSASSLLSQGSLTNLSKFTTPDGKIYLEMPSDPYEVEVLFEDIMYKRNIFQSLSEDKQEALMGYSIEKKWLIVKQDLQNELKKMRANTTSSSTASRTSMASDHHPILTANSSLSSPKSVLMTSASSPTSTVYSNSLNHSTTLSSVGTSTSKGKKLVSGSLKKQPSLNNIYRGGAENNTSASTLPGDRTNRPPIHYVQRILADKLTSDEMKDLWVTLRTEQLDWVDAFIDHQGHIAMANVLMNSIYKTAPRENLTKELLEKENSFFKCFRVLSMLSQGLYEFSTHRLMTDTVAEGLFSTKLATRKMATEIFVCMLEKKNKSRFEAVLTSLDKKFRIGQNLHMIQNFKKMPQYFSHLTLESHLKIIQAWLFAVEQTLDGRGKMGSLVGASDEFKNGGGENAILEYCQWTMVFINHLCSCSDNINQRMLLRTKLENCGILRIMNKIKLLDYDKVIDQIELYDNNKLDDFNVKLEANNKAFNVDLHDPLSLLKNLWDICKGTENEKLLVSLVQHLFLSSSKLIEENQNSSKLTKQLKLMDSLVTNVSVASTSDEETNMNMAIQRLYDAMQTDEVARRAILESRALTKKLEEIQAERDSLSEKLSKAEHGLVGQLEDELHERDRILAKNQRVMQQLEAELEELKKKHLLEKHQQEVELRKMLTILNSRPEESFNKNEGTRGMNSSLNSSEKANIQKVLQDGLSRAKKDYKDDSKKFGMTLQPNKRLKMLRMQMENIENEARQLEMTNFAEFEKDRLEPPIHIKKPKVKKMKNKDRKPLVKPQEADVNKLNDLRRALAEIQMESNDISKFNVEERVNELFNEKKSLALKRLKELETKYKGFGIDFNVDEIMDSPKKNTGDVETEEDANYASLDPKTYQKKLDEINRITDQLLDIQTQTEHEIQVEEDGESDLSSSSSDDESEEIYQDASPTQELRSEHSELSSGSGPGSFLDALSQKYGTGQNVTASAAFGENNNGSGIGPLHSKVEKTFMNRLRKSTVSSAPYLEELTQKVNKVEPYEQNEDEGLDKKSLPENSTASAASAFDKAEKDMRQHVENGKQGRVVNHEEDKTADFSAVSKLNNTDGAEDLSTQSSVLSSQPPPPPPPPPPVPAKLFGESLEKEKKSEDDTVKQETTGDSPAPPPPPPPPPPPPMALFGKPKGETPPPPPLPSVLSSSTDGVIPPAPPMMPASQIKSAVTSPLLPQSPSLFEKYPRPHKKLKQLHWEKLDCTDNSIWGTGKAEKFADDLYEKGVLADLEKAFAAREIKSLASKRKEDLQKITFLSRDISQQFGINLHMYSSLSVADLVKKILNCDRDFLQTPSVVEFLSKSEIIEVSVNLARNYAPYSTDWEGVRNLEDAKPPEKDPNDLQRADQIYLQLMVNLESYWGSRMRALTVVTSYEREYNELLAKLRKVDKAVSALQESDNLRNVFNVILAVGNFMNDTSKQAQGFKLSTLQRLTFIKDTTNSMTFLNYVEKIVRLNYPSFNDFLSELEPVLDVVKVSIEQLVNDCKDFSQSIVNVERSVEIGNLSDSSKFHPLDKVLIKTLPVLPEARKKGDLLEDEVKLTIMEFESLMHTYGEDSGDKFAKISFFKKFADFINEYKKAQAQNLAAEEEERLYIKHKKIVEEQQKRAQEKEKQKENSNSPSSEGNEEDEAEDRRAVMDKLLEQLKNAGPAKSDPSSARKRALVRKKYLSEKDNAPQLLNDLDTEEGSILYSPEAMDPTADTVIHAESPTPLATRGVMNTSEDLPSPSKTSALEDQEEISDRARMLLKELRGSDTPVKQNSILDEHLEKLRARKERSIGEASTGNRLSFK",
+        "length": "1953",
+        "mass": "219673",
+        "domains": [
+            {
+                "domain_name": "Formin, FH3 domain",
+                "domain_shortname": "FH3_dom",
+                "domain_accession": "IPR010472",
+                "domain_start": "504",
+                "domain_end": "709",
+                "domain_pI": 5.14
+            },
+            {
+                "domain_name": "Formin, GTPase-binding domain",
+                "domain_shortname": "GTPase-bd",
+                "domain_accession": "IPR010473",
+                "domain_start": "173",
+                "domain_end": "459",
+                "domain_pI": 8.41
+            },
+            {
+                "domain_name": "Diaphanous autoregulatory (DAD) domain",
+                "domain_shortname": "DAD_dom",
+                "domain_accession": "IPR014767",
+                "domain_start": "1792",
+                "domain_end": "1826",
+                "domain_pI": 8.43
+            },
+            {
+                "domain_name": "Formin, FH2 domain",
+                "domain_shortname": "FH2_Formin",
+                "domain_accession": "IPR015425",
+                "domain_start": "1348",
+                "domain_end": "1824",
+                "domain_pI": 5.71
+            }
+        ],
+        "protein_pI": 6.13
+    },
+    {
+        "input_name": "MOB2",
+        "accession_protein": "P43563",
+        "gene names": "{'geneName': {'value': 'MOB2'}, 'orderedLocusNames': [{'value': 'YFL034C-B'}], 'orfNames': [{'value': 'YFL035C'}, {'value': 'YFL035C-A'}]}",
+        "protein name": "CBK1 kinase activator protein MOB2",
+        "sequence": "MSFFNFKAFGRNSKKNKNQPLNVAQPPAMNTIYSSPHSSNSRLSLRNKHHSPKRHSQTSFPAQKSTPQSQQLTSTTPQSQQQEASERSESQQIMFLSEPFVRTALVKGSFKTIVQLPKYVDLGEWIALNVFEFFTNLNQFYGVVAEYVTPDAYPTMNAGPHTDYLWLDANNRQVSLPASQYIDLALTWINNKVNDKNLFPTKNGLPFPQQFSRDVQRIMVQMFRIFAHIYHHHFDKIVHLSLEAHWNSFFSHFISFAKEFKIIDRKEMAPLLPLIESFEKQGKIIYN",
+        "length": "287",
+        "mass": "33276",
+        "domains": [
+            {
+                "domain_name": "MOB kinase activator family",
+                "domain_shortname": "MOB_kinase_act_fam",
+                "domain_accession": "IPR005301",
+                "domain_start": "81",
+                "domain_end": "277",
+                "domain_pI": 6.24
+            }
+        ],
+        "protein_pI": 9.6
+    },
+    {
+        "input_name": "STU2",
+        "accession_protein": "P46675",
+        "gene names": "{'geneName': {'value': 'STU2'}, 'orderedLocusNames': [{'value': 'YLR045C'}], 'orfNames': [{'value': 'L2108'}]}",
+        "protein name": "Protein STU2",
+        "sequence": "MSGEEEVDYTTLPLEERLTYKLWKARLEAYKELNQLFRNSVGDISRDDNIQIYWRDPTLFAQYITDSNVVAQEQAIVALNSLIDAFASSSLKNAHNITLISTWTPLLVEKGLTSSRATTKTQSMSCILSLCGLDTSITQSVELVIPFFEKKLPKLIAAAANCVYELMAAFGLTNVNVQTFLPELLKHVPQLAGHGDRNVRSQTMNLIVEIYKVTGNNSDLLEEILFKKLKPIQVKDLHKLFAKVGDEPSSSKMLFEWEKRELEKKRSQEEEARKRKSILSNDEGEYQIDKDGDTLMGMETDMPPSKQQSGVQIDTFSMLPEETILDKLPKDFQERITSSKWKDRVEALEEFWDSVLSQTKKLKSTSQNYSNLLGIYGHIIQKDANIQAVALAAQSVELICDKLKTPGFSKDYVSLVFTPLLDRTKEKKPSVIEAIRKALLTICKYYDPLASSGRNEDMLKDILEHMKHKTPQIRMECTQLFNASMKEEKDGYSTLQRYLKDEVVPIVIQIVNDTQPAIRTIGFESFAILIKIFGMNTFVKTLEHLDNLKRKKIEETVKTLPNFSIASGSTHSTIETNKQTGPMENKFLLKKSSVLPSKRVASSPLRNDNKSKVNPIGSVASASKPSMVAANNKSRVLLTSKSLATPKNVVANSTDKNEKLIEEYKYRLQKLQNDEMIWTKERQSLLEKMNNTENYKIEMIKENEMLREQLKEAQSKLNEKNIQLRSKEIDVNKLSDRVLSLENELRNMEIELDRNKKRNDTNLQSMGTISSYSIPSSTVSSNYGVKSLSSALPFKEEEDVRRKEDVNYERRSSESIGDLPHRVNSLNIRPYRKNGTGVSSVSDDLDIDFNDSFASEESYKRAAAVTSTLKARIEKMKAKSRREGTTRT",
+        "length": "888",
+        "mass": "100918",
+        "domains": [
+            {
+                "domain_name": "TOG domain",
+                "domain_shortname": "TOG",
+                "domain_accession": "IPR034085",
+                "domain_start": "2",
+                "domain_end": "250",
+                "domain_pI": 5.65
+            },
+            {
+                "domain_name": "TOG domain",
+                "domain_shortname": "TOG",
+                "domain_accession": "IPR034085",
+                "domain_start": "317",
+                "domain_end": "566",
+                "domain_pI": 8.56
+            },
+            {
+                "domain_name": "Stu2, C-terminal segment",
+                "domain_shortname": "Stu2_CTS",
+                "domain_accession": "IPR048492",
+                "domain_start": "857",
+                "domain_end": "879",
+                "domain_pI": 10.29
+            }
+        ],
+        "protein_pI": 8.68
+    },
+    {
+        "input_name": "SFH5",
+        "accession_protein": "P47008",
+        "gene names": "{'geneName': {'value': 'SFH5'}, 'orderedLocusNames': [{'value': 'YJL145W'}], 'orfNames': [{'value': 'J0644'}]}",
+        "protein name": "Phosphatidylinositol transfer protein SFH5",
+        "sequence": "MKFDNDSEKQVFDKLKKAIPGIIKEKCAGYDELYGYKLNPEGLTQEEVDKYYDEKIADRLTYKLCKAYQFEYSTIVQNLIDILNWRREFNPLSCAYKEVHNTELQNVGILTFDANGDANKKAVTWNLYGQLVKKKELFQNVDKFVRYRIGLMEKGLSLLDFTSSDNNYMTQVHDYKGVSVWRMDSDIKNCSKTVIGIFQKYYPELLYAKYFVNVPTVFGWVYDLIKKFVDETTRKKFVVLTDGSKLGQYLKDCPYEGYGGKDKKNNLTKQNVTNVHPTEYGLYILQKQIIEDVE",
+        "length": "294",
+        "mass": "34388",
+        "domains": [
+            {
+                "domain_name": "CRAL-TRIO lipid binding domain",
+                "domain_shortname": "CRAL-TRIO_dom",
+                "domain_accession": "IPR001251",
+                "domain_start": "100",
+                "domain_end": "266",
+                "domain_pI": 9.12
+            }
+        ],
+        "protein_pI": 8.03
+    },
+    {
+        "input_name": "BIT61",
+        "accession_protein": "P47041",
+        "gene names": "{'geneName': {'value': 'BIT61'}, 'orderedLocusNames': [{'value': 'YJL058C'}], 'orfNames': [{'value': 'J1141'}]}",
+        "protein name": "Target of rapamycin complex 2 subunit BIT61",
+        "sequence": "MTAEDILLRERTSTTTQRPVNSEQYLNVQLATAPVKNFQTTSEISRQTLVDTSNDDVYSIKNLKGSRNPISPSVSNVGFQSIFHTVDHPRSKVSVASNHSLRSNDNASAATSKSGSSQIGESHSVDTVECSNNLSKKLSSDAISITQKSLHSTPSGRYMKGKASGFFNRRNRAHTTISSDPASFLTDSSTLHNSSHSFRNVIKNFFQNKSHRHIGQDAIEPAIPNSLSKFLHSSYGRHKSPSQFIHTNAGQLVDSGTSVYSLNVNPSGVNPNTIVEDPLSGTDPASPNPVSMLHDLLRNLPSLEANYKHFNSQELTTLTNNIWNIFCSNVAELFRTQRIWKLRAKIENFNEVLEFYCILKTDPRVTHSGMNRIISDLKEFLVSSLYNLENQIVFNYSNEDTINNALKRLGVIWRIFYQEVYYDLAAVLLPLDQSIREDGNSTVLKSGNESRTHINGNYSIGFLLLMCFRDSIVLPCYENFVNSNDGISKSFQLYIFNQEEESNVTETDKLTLLQCFGILSTIQSNDRNQRIIEELLAGIRMSI",
+        "length": "543",
+        "mass": "60841",
+        "domains": [
+            {
+                "domain_name": "TORC2 component Bit61/PRR5",
+                "domain_shortname": "Bit61/PRR5",
+                "domain_accession": "IPR013745",
+                "domain_start": "58",
+                "domain_end": "527",
+                "domain_pI": 8.17
+            }
+        ],
+        "protein_pI": 7.0
+    },
+    {
+        "input_name": "BUD4",
+        "accession_protein": "P47136",
+        "gene names": "{'geneName': {'value': 'BUD4'}, 'orderedLocusNames': [{'value': 'YJR092W'}], 'orfNames': [{'value': 'J1905'}]}",
+        "protein name": "Bud site selection protein 4",
+        "sequence": "MHDAESTVDSLLKEIDNEMEQTKSNITQNGSEDTPHNWKLPLQEIGDDTMEMLVKHNTRSNATENSRGRSPSKMSTISNESLNLGLLRVNSELEESPAAVHQERIKNSVANGALGHANSPKVLNNLKNMAQDIDKLARDEEKPVKLSSSPLKFTLKSTQPLLSYPESPIHRSSIEIETNYDDEDEEEEDAYTCLTQSPQILHSPSRIPITNAVSINKLNLDFTLNPNESDKSLVSDTSVDSTGRELDTKTIPELPFCMSSTPEMTPVDEKCNLPSKLLNTSNNSHSDSRSPTASVEDLNISTNLPGADSSQNNPVTTDADALIENDVVRDLQQNMEHIDDAFDEKKVLDEGCSNEPVTFLGENDTRSIVYSNKGTNANVQEFSQEDSLAHSEPKFKDLNATSDDVWNEDKETDANISTSTKSEESYIADYKVTRQEDWDTKKLHQESEHANEQPAIIPQKDSSEETFTELNNESEFQRNFKDGEEYRIVQHEESLYGQRTKSPEENIINGSEIGVDHGEAAEVNEPLAKTSAEEHDLSSSCEDQSVSEARNKDRIEEKEVETKDENIETEKDESEYHKVEENEEPEHVPLLPPLPRWEEIQFNEPFIDENDTSNDSIDLTRSMKPSDYISIWHIQEEEIKSNSPESIANSQFSQQSSITTASTVDSKKDNGSTSFKFKPRIVSRSRIYNPKSRVSSLNYYDNEDYILSNSEWNALDPMRRNTLISKRIQDNIRTQKGHAPLIRPSIMKLNGEDSGFQNHFLEVEQPQEHENIPLSTHLSEQDITTNVGLDEQKLPTNTQDEAEISIREIESAGDITFNRGDLLSLSFDEELGQDFANFLDALDHDSTSFNHGPDDSSSFQRDSSKKSFNSLWESSYELKPPPSIRKQPIAPDVLQKLLESDTKDDADLEKIREERITEPRTGLGIGMLKTPVKDVSIALAASIKGYEASFSDTDSRPEGMNNSDAITLNMFDDFEEDKMTPSTPVRSISPIKRHVSSPFKVVKAGNKQENNEINIKAEEEIEPMTQQETDGLKQDIPPLLAQTKDNVEAKEETITQLEEPQDVEQEFPDMGTLYLSIKAISTLALYGTKSHRATYAIVFDNGENVVQTPWESLPYDGNIRINKEFELPIDFKGKAETSSASSERDSYKKCVITLKCKYEKPRHELVEIVDKVPVGKSFFGKTKYKFEKKYVQKKPKQDEWDYLFAQDGSFARCEIEINEEFLKNVAFNTSHMHYNMINKWSRIADKIHGSKRLYELPRKAPHKVASLDVEACFLERTSAFEQFPKQFSLVNKIVSKYKLQQNIYKEGYLLQDGGDLKGKIENRFFKLHGSQLSGYHEISRKAKIDINLLKVTKVLRNEDIQADNGGQRNFTDWVLFNECFQLVFDDGERITFNAECSNEEKSDWYNKLQEVVELNVFHQPWVKKYCEKLAEEEKTRTTGHNLKQDFN",
+        "length": "1447",
+        "mass": "164486",
+        "domains": [
+            {
+                "domain_name": "Pleckstrin homology domain",
+                "domain_shortname": "PH_domain",
+                "domain_accession": "IPR001849",
+                "domain_start": "1302",
+                "domain_end": "1415",
+                "domain_pI": 5.03
+            }
+        ],
+        "protein_pI": 4.75
+    },
+    {
+        "input_name": "CLA4",
+        "accession_protein": "P48562",
+        "gene names": "{'geneName': {'value': 'CLA4'}, 'orderedLocusNames': [{'value': 'YNL298W'}], 'orfNames': [{'value': 'N0450'}]}",
+        "protein name": "Serine/threonine-protein kinase CLA4",
+        "sequence": "MSLSAAANKISDNDFQNIGPAPRPPSSNSQGRTCYNQTQPITKLMSQLDLTSASHLGTSTSKKKSGWVSYKDDGILSFIWQKRYLMLHDSYVALYKNDKQNDDAILKIPLTSIISVSRTQLKQYCFELVRCSDRNSVSSGSSSSLNVSSDSNSKKSIYIATKTESDLHSWLDAIFAKCPLLSGVSSPTNFTHKVHVGFDPETGSFVGMPTNWEKLLKHSRITGEDWNNNSAAVIQVLQFYQEYNGAGNPTNTLDKPQSGETSSSQKSLPNSYNDNKLRNNSVNSKSSSGVSSSMVSQRKTSQPPNTKSPVSLGSGSLPPINTKLPTSQSNIPRHLQNVPNQQYPKMRNGHSPTNGQFPRGPMHPNNSQRSLQQQQQQQQQQKQQHQQYPYHHQGPSPSPSPSPSPLNPYRPHHNMINPYSKQPQSPLSSQSTQNQAIPRYAQNSSPTAAHFQPQRTAPKPPISAPRAPYPSNQNATSNTHVQPVAPKNDQSTPQTMRQAPKRPDADVAQPGGVAKPKKPARPTMSTAEIMSKLKKVTVNADPSQCFKVIEKAGQGASGSVYLAERTHIPTESNMIELINNDIDEPHVGDKVAIKQMVLSKQPRKELIVNEILVMKDSRHKNIVNFLEAYLRTDDDLWVVMEFMEGGSLTDIIENSPTNDNSHSPLTEPQIAYIVRETCQGLKFLHDKHIIHRDIKSDNVLLDTRARVKITDFGFCARLTDKRSKRATMVGTPYWMAPEVVKQREYDEKIDVWSLGIMTIEMLEGEPPYLNEDPLKALYLIATNGTPKLKHPESLSLEIKRFLSVCLCVDVRYRASTEELLHHGFFNMACDPKDLTSLLEWKE",
+        "length": "842",
+        "mass": "93909",
+        "domains": [
+            {
+                "domain_name": "CRIB domain",
+                "domain_shortname": "CRIB_dom",
+                "domain_accession": "IPR000095",
+                "domain_start": "184",
+                "domain_end": "241",
+                "domain_pI": 6.28
+            },
+            {
+                "domain_name": "Protein kinase domain",
+                "domain_shortname": "Prot_kinase_dom",
+                "domain_accession": "IPR000719",
+                "domain_start": "546",
+                "domain_end": "825",
+                "domain_pI": 5.73
+            },
+            {
+                "domain_name": "Pleckstrin homology domain",
+                "domain_shortname": "PH_domain",
+                "domain_accession": "IPR001849",
+                "domain_start": "61",
+                "domain_end": "181",
+                "domain_pI": 9.13
+            }
+        ],
+        "protein_pI": 9.18
+    },
+    {
+        "input_name": "MSB3",
+        "accession_protein": "P48566",
+        "gene names": "{'geneName': {'value': 'MSB3'}, 'synonyms': [{'value': 'GYP3'}], 'orderedLocusNames': [{'value': 'YNL293W'}], 'orfNames': [{'value': 'N0470'}]}",
+        "protein name": "GTPase-activating protein GYP3",
+        "sequence": "MQNDQQRFSLQNRTVLAHPYKRLGGAFTVKSPSVPNFHDKMHSDHSSSDSALVNGSFRANDHRSVEPSCLGQASPSEHDGNLSVIDLYGDEVESQRAEGEDDDDNNGDNGNEDLEEVHSDDLDLVPDDDNRQRVELEGAASATSANSNGINNTHFDRYGFKKQNNYISEAEYDKWWVEYSQYCVRRKHKWQLLLEKSGLPVTDDSPSRFPSKSERLKRYVRKGIPAEWRGNAWWHFARGQEKLNKNKGVYSQLLRKMKQIKKQNPNEKQVQDLDIIERDLNRTFPDNIHFQSSLHNKEGPPIIKSLRRVLVAFSLYNPKIGYCQSMNFLAGLLLLFLDEERAFWMLVIITSRYLPGVHNINLEGVNIDQGVLMLCVKEYIPEVWSYIKPSIDHHQKNNKTFSPSNKKVLFNMQKNEFLYRLPPITLCTASWFMSCFVGVVPIETTLRIWDCLFYEESHFLFKVSLAVLKLSEHDLSKIKPRNNSLNYSWGSNLNQRGGSMGQEDSDMEIFQVIQTFPKTLLNPNEIFEKIIFKRRFNLNRLDQDEIDRCRKFVAAQRLKFKTYGELLGNSTSEADLPINDNTDNKGIHITSDAVNEALSSEVYGFKKSLAGVHWNNSIKEKVKQMRKKKDKGD",
+        "length": "633",
+        "mass": "72999",
+        "domains": [
+            {
+                "domain_name": "Rab-GAP-TBC domain",
+                "domain_shortname": "Rab-GAP-TBC_dom",
+                "domain_accession": "IPR000195",
+                "domain_start": "220",
+                "domain_end": "479",
+                "domain_pI": 9.41
+            }
+        ],
+        "protein_pI": 7.3
+    },
+    {
+        "input_name": "KEL2",
+        "accession_protein": "P50090",
+        "gene names": "{'geneName': {'value': 'KEL2'}, 'orderedLocusNames': [{'value': 'YGR238C'}], 'orfNames': [{'value': 'G8585'}]}",
+        "protein name": "Kelch repeat-containing protein 2",
+        "sequence": "MVPFKLTNKVPTDTGPSLISAQSVPRPIVFMDNRNNTRIVTPTLPPNQHRGISGASTALPWSPESKNTGKYIWNRVKLKNSPFPRYRHSSSFIVTNDNRIFVTGGLHDQSVYGDVWQIAANADGTSFTSKRIDIDQNTPPPRVGHASTICGNAYVVFGGDTHKLNKNGLLDDDLYLFNINSYKWTIPQPIGRRPLGRYGHKISIIASNPMQTKLYLFGGQVDETYFNDLVVFDLSSFRRPNSHWEFLEPVGDLPPPLTNHTMVAYDNKLWVFGGETPKTISNDTYRYDPAQSEWSKVKTTGEKPPPIQEHASVVYKHLMCVLGGKDTHNAYSNDVYFLNLLSLKWYKLPRMKEGIPQERSGHSLTLMKNEKLLIMGGDKTDYASPNIHDLQTSETDQGEGTLLYTLDLSSLNELCPGIMCESLHAGESFSNSLSGGFTPSKSTESENQEIINILTPRLPDSKVLSYNDIDEGAGSYSSALDDKAFERKSDREEKKPQSSKVDSSINKESPGTGIKVSKKNFPVLRGLTVDSEEYGSSSYKDTSCQKGIPKNLFDDLNLNLQTLRLEAQQKELETARHISQLEKEVQRLMVIKEASKDSNFQTARLKNLEIQKTFLESRINDLKNLLMVKLSQASKLCDQITIQNNGLKTCSEHVTIKRDIIDLENKCDVLKRQNEILVNNMQKITPELHTYLNESSCYLGKLLKSYPTSARPPSSEKDNQIYEKDSLNKIEKVINEMHETVRAKEKLHLETQKLNDERDSLRANLLDNNNKLDALRKLSDGSSKSMDLTKKAIHLSQSELEKYRKNNDDLQKEIDRIKTEQAEQDDKQEQRGAITHGNFDAFHRMKINNLKAELYMSKENRDSLKDELLALKKKLYTLEQKK",
+        "length": "882",
+        "mass": "99975",
+        "domains": [],
+        "protein_pI": 8.24
+    },
+    {
+        "input_name": "ZDS1",
+        "accession_protein": "P50111",
+        "gene names": "{'geneName': {'value': 'ZDS1'}, 'synonyms': [{'value': 'CES1'}, {'value': 'CKM1'}, {'value': 'HST1'}, {'value': 'NRC1'}, {'value': 'OSS1'}, {'value': 'STM2'}], 'orderedLocusNames': [{'value': 'YMR273C'}], 'orfNames': [{'value': 'YM8156.15C'}]}",
+        "protein name": "Protein ZDS1",
+        "sequence": "MSNRDNESMLRTTSSDKAIASQRDKRKSEVLIAAQSLDNEIRSVKNLKRLSIGSMDLLIDPELDIKFGGESSGRRSWSGTTSSSASMPSDTTTVNNTRYSDPTPLENLHGRGNSGIESSNKTKQGNYLGIKKGVHSPSRKLNANVLKKNLLWVPANQHPNVKPDNFLELVQDTLQNIQLSDNGEDNDGNSNENNDIEDNGEDKESQSYENKENNTINLNRGLSRHGNASLIRRPSTLRRSYTEFDDNEDDDNKGDSASETVNKVEERISKIKERPVSLRDITEELTKISNSAGLTDNDAITLARTLSMAGSYSDKKDQPQPEGHYDEGDIGFSTSQANTLDDGEFASNMPINNTMTWPERSSLRRSRFNTYRIRSQEQEKEVEQSVDEMKNDDEERLKLTKNTIKVEIDPHKSPFRQQDEDSENMSSPGSIGDFQDIYNHYRQSSGEWEQEMGIEKEAEEVPVKVRNDTVEQDLELREGTTDMVKPSATDDNKETKRHRRRNGWTWLNNKMSREDDNEENQGDDENEENVDSQRMELDNSKKHYISLFNGGEKTEVSNKEEMNNSSTSTATSQTRQKIEKTFANLFRRKPHHKHDASSSPSSSPSSSPSIPNNDAVHVRVRKSKKLGNKSGREPVEPIVLRNRPRPHRHHHSRHGSQKISVKTLKDSQPQQQIPLQPQLEGAIEIEKKEESDSESLPQLQPAVSVSSTKSNSRDREEEEAKKKNKKRSNTTEISNQQHSKHVQKENTDEQKAQLQAPAQEQVQTSVPVQASAPVQNSAPVQTSAPVEASAQTQAPAAPPLKHTSILPPRKLTFADVKKPDKPNSPVQFTDSAFGFPLPLLTVSTVIMFDHRLPINVERAIYRLSHLKLSNSKRGLREQVLLSNFMYAYLNLVNHTLYMEQVAHDKEQQQQQQQQP",
+        "length": "915",
+        "mass": "103358",
+        "domains": [
+            {
+                "domain_name": "Protein Zds1, C-terminal",
+                "domain_shortname": "ZDS1_C",
+                "domain_accession": "IPR013941",
+                "domain_start": "841",
+                "domain_end": "893",
+                "domain_pI": 10.15
+            }
+        ],
+        "protein_pI": 5.95
+    },
+    {
+        "input_name": "ROM2",
+        "accession_protein": "P51862",
+        "gene names": "{'geneName': {'value': 'ROM2'}, 'orderedLocusNames': [{'value': 'YLR371W'}], 'orfNames': [{'value': 'L8039.3'}]}",
+        "protein name": "RHO1 GDP-GTP exchange protein 2",
+        "sequence": "MSETNVDSLGDRNDIYSQIFGVERRPDSFATFDSDSHGDISSQLLPNRIENIQNLNVLLSEDIANDIIIAKQRRRSGVEAAIDDSDIPNNEMKGKSSNYILSQQTNIKEVPDTQSLSSADNTPVSSPKKARDATSSHPIVHAKSMSHIYSTSNSASRQAKHYNDHPLPPMSPRNEVYQKNKSTTAFVPKRKPSLPQLALAGLKKQSSFSTGSASTTPTQARKSPLQGFGFFSRPSSKDLHEQHQHHQHIQHNNINNHNNNNTNNNGAHYQVGSSNSNYPQHSHSISSRSMSLNSSTLKNIASSFQSKTSNSRKATQKYDITSNPFSDPHHHHHHHHSSNSHSSLNNVHGSGNSSSVMGSSSNIGLGLKTRVSSTSLALKRYTSVSGTSLSSPRRSSMTPLSASRPVMSASSKKPQVYPALLSRVATKFKSSIQLGEHKKDGLVYRDAFTGQQAVDVICAIIRTSDRNLALLFGRSLDAQKLFHDVVYEHRLRDSPHEVYEFTDNSRFTGTGSTNAHDPLMLLPNSSSFNSGNHSYPNSGMVPSSSTSSLNSDQATLTGSRLHMSSSLSQQKNPAAIHNVNGVFTLLAECYSPTCTRDALCYSISCPRRLEQQARLNLKPNGGLKRNISMALDDDDEEKPSWTSSVSKEDWENLPKKEIKRQEAIYEVYITEKNFVKSLEITRDTFMKTLAETNIISADIRKNFIKHVFAHINDIYSVNRRFLKALTDRQRSSPVVRGIGDIVLRFIPFFEPFVSYVASRPYAKYLIETQRSVNPYFARFDDDMMSSSLRHGIDSFLSQGVSRPGRYMLLVKEIMKSTDPEKDKSDYEDLSKAMDALRDFMKRIDQASGAAQDRHDVKLLKQKILFKNEYVNLGLNDERRKIKHEGILSRKELSKSDGTVVGDIQFYLLDNMLLFLKAKAVNKWHQHKVFQRPIPLPLLFACPGEDMPALRKYIGDHPDCSGTVIQPEYNTSNPKNAITFLYYGAKQRYQVTLYAAQYAGLQTLLEKIKQGQAAIISKTEMFNVTKMSDRFFDYTNKINSVTSCDGGRKLLIATNSGLYMSNIKRQQNKDHRHKSSAFFSTPIQLVQRNNITQIAVLEEFKSIILLIDKKLYSCPLSLIEAEGNGTSFFKKHHKELINHVSFFAEGDCNGKRLIVTAHSSSHSIKYFEHEHPLLAEKNGSGSGNKKSLKKKITEVIFDSEPVSISFLKANLCIGCKKGFQIVSISQNAHESLLDPADTSLEFALRDTLKPMAIYRVGNMFLLCYTEFAFFVNNQGWRKKESHIIHWEGEPQKFAIWYPYILAFDSNFIEIRKIETGELIRCVLADKIRLLQTSTQEILYCYEDYRGYDTVASLDFWG",
+        "length": "1356",
+        "mass": "152596",
+        "domains": [
+            {
+                "domain_name": "Dbl homology (DH) domain",
+                "domain_shortname": "DH-domain",
+                "domain_accession": "IPR000219",
+                "domain_start": "659",
+                "domain_end": "846",
+                "domain_pI": 9.32
+            },
+            {
+                "domain_name": "DEP domain",
+                "domain_shortname": "DEP_dom",
+                "domain_accession": "IPR000591",
+                "domain_start": "428",
+                "domain_end": "503",
+                "domain_pI": 6.04
+            },
+            {
+                "domain_name": "Citron homology (CNH) domain",
+                "domain_shortname": "CNH_dom",
+                "domain_accession": "IPR001180",
+                "domain_start": "1033",
+                "domain_end": "1342",
+                "domain_pI": 8.77
+            },
+            {
+                "domain_name": "Pleckstrin homology domain 5",
+                "domain_shortname": "PH_5",
+                "domain_accession": "IPR041675",
+                "domain_start": "881",
+                "domain_end": "1011",
+                "domain_pI": 9.21
+            }
+        ],
+        "protein_pI": 9.26
+    },
+    {
+        "input_name": "KIP3",
+        "accession_protein": "P53086",
+        "gene names": "{'geneName': {'value': 'KIP3'}, 'orderedLocusNames': [{'value': 'YGL216W'}]}",
+        "protein name": "Kinesin-like protein KIP3",
+        "sequence": "MNVPETRQSSIVVAIRVRPFTSMEKTRLVNEASGAEANFPGLGDSSLILPMSNNSDSDIDIDAEEGSTRSKRNSLLRRKVIRPEGIRKIVDCVDDRMLIFDPADRNPLNKVSDQVLNSMRARATKATASSINNSNATNKFSSQRRRHGGEIKFVFDKLFDETSSQARVYKETTSPLLDSVLDGFNSTVFAYGATGCGKTYTVSGTPSQPGIIFLAMEELFNKITDLKDEKDFEISLSYLEIYNERIRDLLKPETPSKRLVIREDTQNHIKVANLSYHHPNTVEDVMDLVVQGNINRTTSPTEANEVSSRSHAVLQIHIMQTNKLVDLTSQHTFATLSIIDLAGSERAAATRNRGIRLHEGANINRSLLALGNCINALCLNDGSRSCHIPYRDSKLTRLLKFSLGGNCKTVMIVCISPSSSHYDETLNTLKYANRAKEIKTKIIRNQQSLSRHVGSYLKMITEQKRQIEELREREEKMISLKLTKYKLNKEKIQLAINECVNRVQQTYAGVETYQVAKTLKSLILCKRRFLQMVKLEVDNLILLFEREESTAAEMQPVISNCRMISGQLYNKIHELEMKFDETDTLSSVIHQVHSIDLNKLREMEDWDETYDLVYLESCLNQISELQRNEILVNSSIMTEKLMSDPGLNSRFKFLSKWLMNRTPNIESIIQDLVHIDEEFESFARTFIANPDSNFTNTNINIINTTAADLAVPAETLQRQNFSQKKVKWTSPDLSPSPMIEPQPELEPELHQDQDAIASEVDVSMQDTTFNEQGPSTPSAPTTAVPRRKMRSSLLTHQSLLATARK",
+        "length": "805",
+        "mass": "91090",
+        "domains": [
+            {
+                "domain_name": "Kinesin motor domain",
+                "domain_shortname": "Kinesin_motor_dom",
+                "domain_accession": "IPR001752",
+                "domain_start": "8",
+                "domain_end": "446",
+                "domain_pI": 8.94
+            }
+        ],
+        "protein_pI": 6.66
+    },
+    {
+        "input_name": "ERV14",
+        "accession_protein": "P53173",
+        "gene names": "{'geneName': {'value': 'ERV14'}, 'orderedLocusNames': [{'value': 'YGL054C'}]}",
+        "protein name": "ER-derived vesicles protein ERV14",
+        "sequence": "MGAWLFILAVVVNCINLFGQVHFTILYADLEADYINPIELCSKVNKLITPEAALHGALSLLFLLNGYWFVFLLNLPVLAYNLNKIYNKVQLLDATEIFRTLGKHKRESFLKLGFHLLMFFFYLYRMIMALIAESGDDF",
+        "length": "138",
+        "mass": "15930",
+        "domains": [
+            {
+                "domain_name": "Cornichon",
+                "domain_shortname": "Cornichon",
+                "domain_accession": "IPR003377",
+                "domain_start": "3",
+                "domain_end": "124",
+                "domain_pI": 8.0
+            }
+        ],
+        "protein_pI": 6.39
+    },
+    {
+        "input_name": "BUD9",
+        "accession_protein": "P53226",
+        "gene names": "{'geneName': {'value': 'BUD9'}, 'orderedLocusNames': [{'value': 'YGR041W'}], 'orfNames': [{'value': 'G4152'}]}",
+        "protein name": "Bud site selection protein 9",
+        "sequence": "MTKITRDVSITTENSKSTSGSATASSASLPENDHPIFHQPRARIRSGSLFIEGSDSFPSSEVKSYNVYIDDSKYSEILKGDTNSSSTDGKQVFEDARDDNFHQESHRDLEDSILDLVRRDPEVAAFPLPPPNSNERNRNSSNGSSAETNLNGHSSSGTISTSVLLNMGSAEKHAGTTRGDHMESSSMKSFEKLGTRPSSLFYPPPEGTAPYQGPRATVSGNKSTRQTQGTYSFPSMRYGVDLVSPVEGAVDVAKSRVPNSTLNGTFPDKAFIPHEFQIPKKAWNRIPANKSTSLKTPRNHSLLIDILKPFEAADLANDQRSSSAVLKNTVHSNGQYNPTNETSGTRMQDQRQKNTNEIDLEKIPNPQVPLGIAMDTMRSPNQLHEKEYESNIEAGLASGVGKGDNSIKQHQYKKIPQEIDRDQQLSFQMETMPIQRIDSSSIRSFDSRIYGFSEIYSIPRVITTLCICLFVPPLFFFFSINGNNGVSNYRLMRMIMNYEHRIGLLKGFEWDIDVQWFRTLCFVLGCIEMLAIFASIGIGFGVGIIRE",
+        "length": "547",
+        "mass": "60751",
+        "domains": [],
+        "protein_pI": 6.26
+    },
+    {
+        "input_name": "PEF1",
+        "accession_protein": "P53238",
+        "gene names": "{'geneName': {'value': 'PEF1'}, 'orderedLocusNames': [{'value': 'YGR058W'}]}",
+        "protein name": "Peflin",
+        "sequence": "MCAKKLKYAAGDDFVRYATPKEAMEETRREFEKEKQRQQQIKVTQAQTPNTRVHSAPIPLQTQYNKNRAENGHHSYGSPQSYSPRHTKTPVDPRYNVIAQKPAGRPIPPAPTHYNNLNTSAQRIASSPPPLIHNQAVPAQLLKKVAPASFDSREDVRDMQVATQLFHNHDVKGKNRLTAEELQNLLQNDDNSHFCISSVDALINLFGASRFGTVNQAEFIALYKRVKSWRKVYVDNDINGSLTISVSEFHNSLQELGYLIPFEVSEKTFDQYAEFINRNGTGKELKFDKFVEALVWLMRLTKLFRKFDTNQEGIATIQYKDFIDATLYLGRFLPH",
+        "length": "335",
+        "mass": "38342",
+        "domains": [
+            {
+                "domain_name": "EF-hand domain",
+                "domain_shortname": "EF_hand_dom",
+                "domain_accession": "IPR002048",
+                "domain_start": "157",
+                "domain_end": "224",
+                "domain_pI": 5.8
+            },
+            {
+                "domain_name": "EF-hand domain",
+                "domain_shortname": "EF_hand_dom",
+                "domain_accession": "IPR002048",
+                "domain_start": "224",
+                "domain_end": "259",
+                "domain_pI": 8.39
+            }
+        ],
+        "protein_pI": 9.26
+    },
+    {
+        "input_name": "BUD32",
+        "accession_protein": "P53323",
+        "gene names": "{'geneName': {'value': 'BUD32'}, 'synonyms': [{'value': 'LDB14'}], 'orderedLocusNames': [{'value': 'YGR262C'}]}",
+        "protein name": "EKC/KEOPS complex subunit BUD32",
+        "sequence": "MTQEFIDKVSSYLTPDVDIAPISQGAEAIVFTTTTHPYLPRAKDSHQKYIIKYRPPKRYRHPQIDQALTKHRTLNESRLLAKLYLIPGLCVPQLIACDPYNGFIWLEFLGEDLPGGHGFSNLKNFLWMHDQDPYSDLVATTLRKVGRQIGLLHWNDYCHGDLTSSNIVLVRDGARWTPHLIDFGLGSVSNLVEDKGVDLYVLERAILSTHSKHAEKYNAWIMEGFEEVYREQGAKGAKKLKEVTKRFEEVRLRGRKRSMLG",
+        "length": "261",
+        "mass": "29936",
+        "domains": [
+            {
+                "domain_name": "Protein kinase domain",
+                "domain_shortname": "Prot_kinase_dom",
+                "domain_accession": "IPR000719",
+                "domain_start": "16",
+                "domain_end": "261",
+                "domain_pI": 9.0
+            }
+        ],
+        "protein_pI": 8.81
+    },
+    {
+        "input_name": "RHO5",
+        "accession_protein": "P53879",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '12118069'}], 'value': 'RHO5'}, 'orderedLocusNames': [{'value': 'YNL180C'}], 'orfNames': [{'value': 'N1644'}]}",
+        "protein name": "GTP-binding protein RHO5",
+        "sequence": "MRSIKCVIIGDGAVGKTSLLISYTTNSFPTDYVPTVFDNYSTTIAIPNGTASSPLELDNGNDKRGSLSSASSSPSTDRKLYKINLWDTAGQEDYDRLRPLCYPQTDIFLICFSVSEHASFANVTEKWLPELKQTSNIEGTSLYTKLGKYPILLVGTKSDLRDDPATQKKLQEANSDYVSQEEIDELVQRCGFMGYTECSAATQAGVREVFEQAVRYAIYEPESPNQKSANHTLTDELTTATTNTNGDKNIREQKQQPHHNNSTDSTLPKGSLQQEKEALNIKPTKKGQKDKIHEQSKSKGSKIASNNHHNKQAKPKTRNDKKKKKSKCVIL",
+        "length": "331",
+        "mass": "36818",
+        "domains": [
+            {
+                "domain_name": "Small GTP-binding domain",
+                "domain_shortname": "Small_GTP-bd",
+                "domain_accession": "IPR005225",
+                "domain_start": "1",
+                "domain_end": "198",
+                "domain_pI": 4.77
+            }
+        ],
+        "protein_pI": 8.68
+    },
+    {
+        "input_name": "CBK1",
+        "accession_protein": "P53894",
+        "gene names": "{'geneName': {'value': 'CBK1'}, 'orderedLocusNames': [{'value': 'YNL161W'}], 'orfNames': [{'value': 'N1727'}]}",
+        "protein name": "Serine/threonine-protein kinase CBK1",
+        "sequence": "MYNSSTNHHEGAPTSGHGYYMSQQQDQQHQQQQQYANEMNPYQQIPRPPAAGFSSNYMKEQGSHQSLQEHLQRETGNLGSGFTDVPALNYPATPPPHNNYAASNQMINTPPPSMGGLYRHNNNSQSMVQNGNGSGNAQLPQLSPGQYSIESEYNQNLNGSSSSSPFHQPQTLRSNGSYSSGLRSVKSFQRLQQEQENVQVQQQLSQAQQQNSRQQQQQLQYQQQQQQQQQQQHMQIQQQQQQQQQQQQSQSPVQSGFNNGTISNYMYFERRPDLLTKGTQDKAAAVKLKIENFYQSSVKYAIERNERRVELETELTSHNWSEERKSRQLSSLGKKESQFLRLRRTRLSLEDFHTVKVIGKGAFGEVRLVQKKDTGKIYAMKTLLKSEMYKKDQLAHVKAERDVLAGSDSPWVVSLYYSFQDAQYLYLIMEFLPGGDLMTMLIRWQLFTEDVTRFYMAECILAIETIHKLGFIHRDIKPDNILIDIRGHIKLSDFGLSTGFHKTHDSNYYKKLLQQDEATNGISKPGTYNANTTDTANKRQTMVVDSISLTMSNRQQIQTWRKSRRLMAYSTVGTPDYIAPEIFLYQGYGQECDWWSLGAIMYECLIGWPPFCSETPQETYRKIMNFEQTLQFPDDIHISYEAEDLIRRLLTHADQRLGRHGGADEIKSHPFFRGVDWNTIRQVEAPYIPKLSSITDTRFFPTDELENVPDSPAMAQAAKQREQMTKQGGSAPVKEDLPFIGYTYSRFDYLTRKNAL",
+        "length": "756",
+        "mass": "86946",
+        "domains": [
+            {
+                "domain_name": "Protein kinase domain",
+                "domain_shortname": "Prot_kinase_dom",
+                "domain_accession": "IPR000719",
+                "domain_start": "352",
+                "domain_end": "672",
+                "domain_pI": 6.64
+            },
+            {
+                "domain_name": "AGC-kinase, C-terminal",
+                "domain_shortname": "AGC-kinase_C",
+                "domain_accession": "IPR000961",
+                "domain_start": "673",
+                "domain_end": "754",
+                "domain_pI": 6.42
+            }
+        ],
+        "protein_pI": 7.72
+    },
+    {
+        "input_name": "DMA2",
+        "accession_protein": "P53924",
+        "gene names": "{'geneName': {'value': 'DMA2'}, 'synonyms': [{'value': 'CHF2'}], 'orderedLocusNames': [{'value': 'YNL116W'}], 'orfNames': [{'value': 'N1925'}]}",
+        "protein name": "E3 ubiquitin-protein ligase DMA2",
+        "sequence": "MYTPIPANTPAPTAPTSSMTSNSSSASNANTTSSSGINPRNRASGTPSNERARPASGISSFLNTFGIRQNSQTASSSAAPDQRLFGTTPSNSHMSVAMESIDTAPQQQEPRLHHPIQMPLSAQFHVHRNYQLPISISLTAPTTTDHQQSSAHNFEGNNVGNVQESLNQRQPNGTNNTTTSIISMAPAATTRNIVGGADGSTIVNNSQEMYKNLRHLIYAANQPNGTEILHLDLPATSAEESNNMFNVDEVTLKQRKDKHGLFSIRLTPFIDSSSTTNQGLFFEPIIRKAGPGSQLVIGRYTERVRDAISKIPEQYHPVVFKSKVVSRTHGCFKVDSQGNWYIKDVKSSSGTFLNHQRLSPASSLSKDTPLRDGDILQLGMDFRGGTEEIYRCVRMRIELNRSWKLKANSFNKEALQRLQNLQKLTTGIEEEDCSICLCKIKPCQAIFISPCAHSWHFRCVRRLVMLSYPQFVCPNCRSSCDLEASFESSDEEDESDVESEGDQLVDQLSVLMETSKDVDSHP",
+        "length": "522",
+        "mass": "57584",
+        "domains": [
+            {
+                "domain_name": "Forkhead-associated (FHA) domain",
+                "domain_shortname": "FHA_dom",
+                "domain_accession": "IPR000253",
+                "domain_start": "294",
+                "domain_end": "379",
+                "domain_pI": 9.66
+            },
+            {
+                "domain_name": "Zinc finger, RING-type",
+                "domain_shortname": "Znf_RING",
+                "domain_accession": "IPR001841",
+                "domain_start": "432",
+                "domain_end": "477",
+                "domain_pI": 8.95
+            }
+        ],
+        "protein_pI": 6.6
+    },
+    {
+        "input_name": "NIS1",
+        "accession_protein": "P53939",
+        "gene names": "{'geneName': {'value': 'NIS1'}, 'synonyms': [{'value': 'JIP1'}], 'orderedLocusNames': [{'value': 'YNL078W'}], 'orfNames': [{'value': 'N2337'}]}",
+        "protein name": "Protein NIS1",
+        "sequence": "METYETSIGTQSYPPTLFPPPLGTGGFTTSGYIHALVDSTSNSNSNSNTNSNTNSNTNSNSDTKIPIVQISDDSHITHDSFKPYMEYHDASHLRNRNISKADQVESTEVMEQFTQWSNYKMRSRSPTINAKPIRHTSQRRTDFTSKNELSKFSKNHNFIFHKGFLKRQHSIRREDRQAKVRSRFRSKKELTSVLNYIELEQMDIANVLASQPVNLHAIRNLTSRDPAVTPIPFLRSQMYATSSRPPYLRNRSISRKLPKSQPGSLPTTMPATATKTIKQNSTTPTTRSVYNKNVGRSNTSPSVLYHPKRRGKLNTKSHARKEQLLLELWREYLMLVITQRTQLRLTLLCSPGSASNESSVCSSNASDLDMSLLSTPSSLFQMAGETKSNPIIIPDSQDDSILSSDPF",
+        "length": "407",
+        "mass": "45908",
+        "domains": [],
+        "protein_pI": 9.92
+    },
+    {
+        "input_name": "SLM2",
+        "accession_protein": "Q06164",
+        "gene names": "{'geneName': {'value': 'MMS22'}, 'synonyms': [{'value': 'SLM2'}], 'orderedLocusNames': [{'value': 'YLR320W'}]}",
+        "protein name": "E3 ubiquitin-protein ligase substrate receptor MMS22",
+        "sequence": "MDVDEPNPIVISDSEATDEEISIIYEPEFNENYLWAEENVQEASRSQKIVTERLSLDSTAGESCTPSVVTDTQVTTGLRWSLRKRKAIQKMPYSLERIKHRQLLEGYDISSFDSISNQLTLPKNASTVIHSNDILLTKRTGKPLDEQKDVTIDSIKPENSSVQSQRYDSDEEIPKKRHRTFKDLDQDIVFQSGDSTEDEQDLASTNLQNTQNDEVIFRGRVLNVRTGYRGVLPRVAWEKSLQKQQSSKVTKRKTQLLNHKGVAKRKMNRSAHIEDEEQNLLNDLIAPDDELDIEENAPPDIYLGNLPEDREANEKELKELQEYYESKYSEDAQSAGTSGFNLNEEYRNEPVYELEYDGPGSCISHVSYKDQPIIYLNSRHSDSGFSEQYNISAEDNQSVISLDAAEEHNDGIIDKMLVKPKRIKATNDANFLNTKSKRVRRYKYKYRNSCLAPSTKAIKVGKRSAHKSHLAANNPVSFVSKKNHVIDDYFFEELESQSLEQDDSSSLKPQKKRRKKKAPIYSSFSADLESRRKPVFNTVVEVPTNRYAFTKPNVRNRDSINHDMEFEEEDSNQELGPIMVVLDSILLKKPFEPPNFFKIQLSDKSFLLSKLNPADIATSLQKIFRVIIDKGITDTELVHFNESLIAFLVHLDMPELFDLIGEFHREFRSKVNSLRKKAKPIHFFQIAACQLMFLEISRYNKISAAAKFDMDVKLLDHIVSFFKLLSVCYDSVMKNPMQYLYTSYYILSAVVDVIHKKEALWDLFQKHPFSPHISLLLVNIFPTKVCRWQVLRLDSEFQPLSSAFRFINYCIETCNWNVTNSLILSLDRIFKRRRFSDFEEESDLSQNNKIIYPPTNQLTSRLMFNRYLHLLTLCELSSSDTQRVIPMGDISMNDSLSVLKNRLNLLIVLATRFDLNLEKRFQELTRPLYSKEYLNLHTQNTVRTITTLIMQASLSFLEISRIKNHPFSGKFIASLFDKLVLQQPSISGVTENFLKEFTNLVSKMKRKSVSMLKFLYPSLVAMSQENIFESSFFLLLQVYLKSLDVLGPTWVQNYLFQFIKSKAQENERWIECYCQIGKFLVDSGIFTWWTFFTYNGLDAALHFQLAFHSLIIDFCDTDSFELLKKPLYSIASDLLLISKDDAFYHFLSNLLKRAHIIVADLKPVSDENELLRLAYIFSKALKKNAYQDLLAVFLSLAKKHYDEGDISRNFLAKYLEFLNKNCLTELRNNQLFISLRRELGISSDEDEKCAFWDSFNEAGDILSKAAFVETGIVQACCTGNEIDGYLDNLSTLFTSTMLESPFAFFSDLVIAHIFENRPFFDVNIKNFLLSHFIDLFNKVLKMKFEQVSPDEFAELCKVYRALCIECATDDTFNSNSDLIAAKDAFLVSVLRIADGFWEHDKLLQLRMLDSNMNIPNQIPHTTLQSSLSAIVIKIIESNIGKIEASEPFKTFKNT",
+        "length": "1454",
+        "mass": "167683",
+        "domains": [
+            {
+                "domain_name": "E3 ubiquitin-protein ligase substrate receptor Mms22, budding yeast",
+                "domain_shortname": "Mms22_budding_yeast",
+                "domain_accession": "IPR013220",
+                "domain_start": "1",
+                "domain_end": "1453",
+                "domain_pI": 5.84
+            }
+        ],
+        "protein_pI": 5.84
+    },
+    {
+        "input_name": "ZDS2",
+        "accession_protein": "P54786",
+        "gene names": "{'geneName': {'value': 'ZDS2'}, 'synonyms': [{'value': 'MCS1'}], 'orderedLocusNames': [{'value': 'YML109W'}], 'orfNames': [{'value': 'YM8339.10'}]}",
+        "protein name": "Protein ZDS2",
+        "sequence": "MVLMEDMQNKDGHNTVENSSGGTDSNNNIQMRRMRKTQLSKKELFEKRKSDVLIAAKSLDTEIQNVKNLKRLSIGSMDLVIDPELEFKVNSRNSYSSDSSKESLQESLHEENIIRSEQKEEQGSEDNDAYEEGDATNVDDSIDITQTEYLHDEETLEKEKIIRNASSSTSSSARVTSRNRRLSGVKTLAHDVVLDVENDHDSKMVDLTQNLLWVPADQHPNVKPENYLELIQDTLQNIQISTNQDIDENKLELGNNHVISNRKRTGSVVRRPSRLKTSYTKFDDEPPLADKPQEGEIQVDKRISSSDIKTIRSVSLKEITEELTKISNNAGLTDSDAVTLARSLSMSGSFTNESLHLNGNHTENDNEFASNMFNETGLTIPERSSLRRSKFNTYKIRLEGSSLPQAVKLNSLMNIQTNDNRRSASSPASYTQVPQEQASLNDFHEIFDHYRRTSTDWSTENEKYVDSTNYYSDEEDLTHASISQESSLLSTDSSNNSVLIKPHNTGSMISEKLDQHVSSSEKSNTNNSEANHGWSWLNSSNGSLNANEQTYQQLTDDEDDEECVDNEKADFVNLSVSRRAKSTKRASERINHSKNRHSPIFQIHSEEAKSVVITPSVVSSSESQPSKPTAPAVVEKKVELPTDTQASTHKKNSLEKRLAKLFKRKQHNGTCKSDVKVIKKSVKKELKKKASHSSLSKFRKSPKKKPQEAEVERPSSPTKTITTEDIDTASVIEPEVRSSNASTLLPDSHTSHSSEFVVETISELDGDDSFDISGGDVNYDVEVHSSISRDTTAGLEEDIGAEREDNTSPTAPQISTLPPRKLTFEDVVKPDYSNAPIKFTDSAFGFPLPMITNSTVIMFDHRLGINVERAIYRLSHLKLSDPGRELRQQVLLSNFMYSYLNLVNHTLYMEQVGTGDIAFNGDSALGMMDKNDSDGTILIPDI",
+        "length": "942",
+        "mass": "105496",
+        "domains": [
+            {
+                "domain_name": "Protein Zds1, C-terminal",
+                "domain_shortname": "ZDS1_C",
+                "domain_accession": "IPR013941",
+                "domain_start": "852",
+                "domain_end": "904",
+                "domain_pI": 9.51
+            }
+        ],
+        "protein_pI": 5.22
+    },
+    {
+        "input_name": "SLG1",
+        "accession_protein": "P54867",
+        "gene names": "{'geneName': {'value': 'SLG1'}, 'synonyms': [{'value': 'WSC1'}], 'orderedLocusNames': [{'value': 'YOR008C'}], 'orfNames': [{'value': 'UNF378'}]}",
+        "protein name": "Protein SLG1",
+        "sequence": "MRPNKTSLLLALLSILSQANAYEYVNCFSSLPSDFSKADSYNWQSSSHCNSECSAKGASYFALYNHSECYCGDTNPSGSESTSSSCNTYCFGYSSEMCGGEDAYSVYQLDSDTNSNSISSSDSSTESTSASSSTTSSTTSSTTSTTSSTTSSTTSSMASSSTVQNSPESTQAAASISTSQSSSTVTSESSLTSDTLATSSTSSQSQDATSIIYSTTFHTEGGSTIFVTNTITASAQNSGSATGTAGSDSTSGSKTHKKKANVGAIVGGVVGGVVGAVAIALCILLIVRHINMKREQDRMEKEYQEAIKPVEYPDKLYASSFSSNHGPSSGSFEEEHTKGQTDINPFDDSRRISNGTFINGGPGGKNNVLTVVNPDEAD",
+        "length": "378",
+        "mass": "39270",
+        "domains": [
+            {
+                "domain_name": "Carbohydrate-binding WSC",
+                "domain_shortname": "WSC_carb-bd",
+                "domain_accession": "IPR002889",
+                "domain_start": "21",
+                "domain_end": "110",
+                "domain_pI": 4.05
+            }
+        ],
+        "protein_pI": 4.68
+    },
+    {
+        "input_name": "ACT1",
+        "accession_protein": "P60010",
+        "gene names": "{'geneName': {'value': 'ACT1'}, 'synonyms': [{'value': 'ABY1'}, {'value': 'END7'}], 'orderedLocusNames': [{'value': 'YFL039C'}]}",
+        "protein name": "Actin",
+        "sequence": "MDSEVAALVIDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGIMVGMGQKDSYVGDEAQSKRGILTLRYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPMNPKSNREKMTQIMFETFNVPAFYVSIQAVLSLYSSGRTTGIVLDSGDGVTHVVPIYAGFSLPHAILRIDLAGRDLTDYLMKILSERGYSFSTTAEREIVRDIKEKLCYVALDFEQEMQTAAQSSSIEKSYELPDGQVITIGNERFRAPEALFHPSVLGLESAGIDQTTYNSIMKCDVDVRKELYGNIVMSGGTTMFPGIAERMQKEITALAPSSMKVKIIAPPERKYSVWIGGSILASLTTFQQMWISKQEYDESGPSIVHHKCF",
+        "length": "375",
+        "mass": "41690",
+        "domains": [
+            {
+                "domain_name": "Actin family",
+                "domain_shortname": "Actin",
+                "domain_accession": "IPR004000",
+                "domain_start": "4",
+                "domain_end": "375",
+                "domain_pI": 5.54
+            }
+        ],
+        "protein_pI": 5.44
+    },
+    {
+        "input_name": "BUD25",
+        "accession_protein": "P85052",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000312', 'source': 'SGD', 'id': 'S000007590'}], 'value': 'BUD25'}, 'orderedLocusNames': [{'value': 'YER014C-A'}]}",
+        "protein name": "Bud site selection protein 25",
+        "sequence": "MFCTWDSWDTGTSRKSHSPHRNCLAVRFLQLPFSSFLPCVITYMKSWQTSIGDSEFPLTSFQILVTDAEVVVQRIFDCINGYLPGWHYRNTVFIEHTTSYHRSHFCIFVEGVWVCGEFVKKWFEIPFDNRIENYTKQFPWILIGFGNQVSKAL",
+        "length": "153",
+        "mass": "18006",
+        "domains": [],
+        "protein_pI": 6.99
+    },
+    {
+        "input_name": "RHO3",
+        "accession_protein": "Q00245",
+        "gene names": "{'geneName': {'value': 'RHO3'}, 'orderedLocusNames': [{'value': 'YIL118W'}]}",
+        "protein name": "GTP-binding protein RHO3",
+        "sequence": "MSFLCGSASTSNKPIERKIVILGDGACGKTSLLNVFTRGYFPEVYEPTVFENYIHDIFVDSKHITLSLWDTAGQEEFDRLRSLSYSDTQCIMLCFSIDSRDSLENVQNKWVGEITDHCEGVKLVLVALKCDLRNNENESNAITPNNIQQDNSVSNDNGNNINSTSNGKNLISYEEGLAMAKKIGALRYLECSAKLNKGVNEAFTEAARVALTAGPVATEVKSDSGSSCTIM",
+        "length": "231",
+        "mass": "25312",
+        "domains": [
+            {
+                "domain_name": "Small GTP-binding domain",
+                "domain_shortname": "Small_GTP-bd",
+                "domain_accession": "IPR005225",
+                "domain_start": "16",
+                "domain_end": "151",
+                "domain_pI": 4.59
+            }
+        ],
+        "protein_pI": 4.89
+    },
+    {
+        "input_name": "RHO4",
+        "accession_protein": "Q00246",
+        "gene names": "{'geneName': {'value': 'RHO4'}, 'orderedLocusNames': [{'value': 'YKR055W'}]}",
+        "protein name": "GTP-binding protein RHO4",
+        "sequence": "MNTLLFKRKGGNCGNESNIVSQGSPSSSNLPESPGTLDEKNLPRLPTPFARSLSTIPSYEQMKRTNKLPDYHLKIVVVGDGAVGKTCLLISYVQGTFPTDYIPTIFENYVTNIEGPNGQIIELALWDTAGQEEYSRLRPLSYTNADVLMVCYSVGSKTSLKNVEDLWFPEVKHFCPSTPIMLVGLKSDLYEADNLSDLVEPSSAESLAKRLGAFAHIQCSARLKENIDEVFETAIHTLLSDSLYAPREPTHTIKNPFKRNTTRSDIDSSTGDTSVSISGTKRLRKNKCIIM",
+        "length": "291",
+        "mass": "32186",
+        "domains": [
+            {
+                "domain_name": "Small GTP-binding domain",
+                "domain_shortname": "Small_GTP-bd",
+                "domain_accession": "IPR005225",
+                "domain_start": "71",
+                "domain_end": "233",
+                "domain_pI": 4.63
+            }
+        ],
+        "protein_pI": 6.24
+    },
+    {
+        "input_name": "BCK1",
+        "accession_protein": "Q01389",
+        "gene names": "{'geneName': {'value': 'BCK1'}, 'synonyms': [{'value': 'LAS3'}, {'value': 'SLK1'}, {'value': 'SSP31'}], 'orderedLocusNames': [{'value': 'YJL095W'}], 'orfNames': [{'value': 'J0906'}]}",
+        "protein name": "Serine/threonine-protein kinase BCK1/SLK1/SSP31",
+        "sequence": "MPFLRKIAGTAHTHSRSDSNSSVKFGHQPTSSVASTKSSSKSPRATSRKSIYDDIRSQFPNLTPNSTSSQFYESTPVIEQSFNWTTDDHISAGTLENPTSFTNSSYKNDNGPSSLSDSRKSSGGNSVNSLSFDKLILSWDPTDPDEWTMHRVTSWFKFHDFPESWILFFKKHQLFGHRFIKLLAYDNFAVYEKYLPQTKTASYTRFQQLLKKTMTKNVTNSHIRQKSASKLKSSRSSSESIKSKLKNSKSQEDISNSRSTSESALSPTKSGPSKTDEKNFLHSTSTHQKTKSASSLYRRSFISLRGSSSSNASSAKSPSNIKLSIPARPHSIIESNSTLTKSASPPASPSYPSIFRRHHKSSSSESSLLNSLFGSGIGEEAPTKPNPQGHSLSSENLAKGKSKHYETNVSSPLKQSSLPTSDDKGNLWNKFKRKSQIGVPSPNTVAYVTSQETPSLKSNSSTATLTVQTADVNIPSPSSSPPPIPKTANRSLEVISTEDTPKISSTTASFKETYPDCINPDKTVPVPVNNQKYSVKNFLLDQKFYPLKKTGLNDSENKYILVTKDNVSFVPLNLKSVAKLSSFKESALTKLGINHKNVTFHMTDFDCDIGAAIPDDTLEFLKKSLFLNTSGKIYIKDQMKLQQKPKPAPLTSENNVPLKSVKSKSSMRSGTSSLIASTDDVSIVTSSSDITSFDEHASGSGRRYPQTPSYYYDRVSNTNPTEELNYWNIKEVLSHEENAPKMVFKTSPKLELNLPDKGSKLNIPTPITENESKSSFQVLRKDEGTEIDFNHRRESPYTKPELAPKREAPKPPANTSPQRTLSTSKQNKPIRLVRASTKISRSKRSKPLPPQLLSSPIEASSSSPDSLTSSYTPASTHVLIPQPYKGANDVMRRLKTDQDSTSTSPSLKMKQKVNRSNSTVSTSNSIFYSPSPLLKRGNSKRVVSSTSAADIFEENDITFADAPPMFDSDDSDDDSSSSDDIIWSKKKTAPETNNENKKDEKSDNSSTHSDEIFYDSQTQDKMERKMTFRPSPEVVYQNLEKFFPRANLDKPITEGIASPTSPKSLDSLLSPKNVASSRTEPSTPSRPVPPDSSYEFIQDGLNGKNKPLNQAKTPKRTKTIRTIAHEASLARKNSVKLKRQNTKMWGTRMVEVTENHMVSINKAKNSKGEYKEFAWMKGEMIGKGSFGAVYLCLNVTTGEMMAVKQVEVPKYSSQNEAILSTVEALRSEVSTLKDLDHLNIVQYLGFENKNNIYSLFLEYVAGGSVGSLIRMYGRFDEPLIKHLTTQVLKGLAYLHSKGILHRDMKADNLLLDQDGICKISDFGISRKSKDIYSNSDMTMRGTVFWMAPEMVDTKQGYSAKVDIWSLGCIVLEMFAGKRPWSNLEVVAAMFKIGKSKSAPPIPEDTLPLISQIGRNFLDACFEINPEKRPTANELLSHPFSEVNETFNFKSTRLAKFIKSNDKLNSSKLRITSQENKTE",
+        "length": "1478",
+        "mass": "164195",
+        "domains": [
+            {
+                "domain_name": "Protein kinase domain",
+                "domain_shortname": "Prot_kinase_dom",
+                "domain_accession": "IPR000719",
+                "domain_start": "1175",
+                "domain_end": "1440",
+                "domain_pI": 6.59
+            }
+        ],
+        "protein_pI": 9.5
+    },
+    {
+        "input_name": "OSH6",
+        "accession_protein": "Q02201",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '11238399'}], 'value': 'OSH6'}, 'orderedLocusNames': [{'value': 'YKR003W'}], 'orfNames': [{'value': 'YK102'}]}",
+        "protein name": "Oxysterol-binding protein homolog 6",
+        "sequence": "MGSKKLTVGSDSHRLSKSSFSSNKSSHSATKDQPIDTDDIDEDDESGHNIILNIISQLRPGCDLTRITLPTFILEKKSMLERVTNQLQFPEFLLQAHSEKDPLKRFLYVMKWYLAGWHIAPKAVKKPLNPVLGEYFTAYWDLPNKQQAYYISEQTSHHPPECAYFYMIPESSIRVDGVVIPKSRFLGNSSAAMMDGSTVLQFLDIKDGNGKPEKYVLTQPNVYVRGILFGKMRIELGDHMIIKSPNFQADIEFKTKGYVFGTYDAIEGTVKDYDGNAYYEISGKWNDVMYLKDLKQPRSSPKVFLDTHKESPLRPKVRPLSEQGEYESRKLWKKVTDALAVRNHPVATEEKFQIEDHQRQLAKKRIEDGVEFHPKLFRRSKPGEDLDYCIYKNIPVDEDPEKQIRSILQIAPILPGQQFTDKFFIPAFEKIKSQKKMIENEKQNPAKQ",
+        "length": "448",
+        "mass": "51588",
+        "domains": [
+            {
+                "domain_name": "Oxysterol-binding protein",
+                "domain_shortname": "Oxysterol-bd",
+                "domain_accession": "IPR000648",
+                "domain_start": "21",
+                "domain_end": "381",
+                "domain_pI": 8.22
+            }
+        ],
+        "protein_pI": 8.56
+    },
+    {
+        "input_name": "DYN2",
+        "accession_protein": "Q02647",
+        "gene names": "{'geneName': {'value': 'DYN2'}, 'synonyms': [{'value': 'SLC1'}], 'orderedLocusNames': [{'value': 'YDR424C'}]}",
+        "protein name": "Dynein light chain 1, cytoplasmic",
+        "sequence": "MSDENKSTPIVKASDITDKLKEDILTISKDALDKYQLERDIAGTVKKQLDVKYGNTWHVIVGKNFGSYVTHEKGHFVYFYIGPLAFLVFKTA",
+        "length": "92",
+        "mass": "10441",
+        "domains": [
+            {
+                "domain_name": "Dynein light chain, type 1/2",
+                "domain_shortname": "Dynein_light_chain_typ-1/2",
+                "domain_accession": "IPR001372",
+                "domain_start": "4",
+                "domain_end": "92",
+                "domain_pI": 8.83
+            }
+        ],
+        "protein_pI": 7.93
+    },
+    {
+        "input_name": "MUB1",
+        "accession_protein": "Q03162",
+        "gene names": "{'geneName': {'value': 'MUB1'}, 'orderedLocusNames': [{'value': 'YMR100W'}], 'orfNames': [{'value': 'YM6543.07'}]}",
+        "protein name": "MYND-type zinc finger protein MUB1",
+        "sequence": "MRDSNHRSLTSNKPIVTITSTVYDRRALDINSSIPLINSLNYLTYLTSNSSKVRETVANDGALERLVSILRSCHLSLFELLDLDLENFNEHENIKDLWKEKRLALCAWKWTLTFQCLVLTGTRGTEQIRKKVVMSGVLSVLVTVLDNYLLYHKNYDFIKDQTMTFDFKGITTETMYKFMRKDENETYQQYIEFITGQDKLKLSTDKNFLNERLVAPSMTIPTDFSDIWGRFADLASNFEPDQERHDDDIDIDSEVESENFDAHKNFFSQPDINRPTISTPREFFLGRIVPKQDDVIWSLQLLAFVSKYTYMKSTLQNVELVESLSFRSMAYKIKQRISEENDLEEQERDVTVKLSSLYPYLSKNPENNSKVKALDTSKMDPFFKELEELSNRCQQEEQNEICNNHCPVLNLFERYRVPKPSDDNAYGKDKERINLRKKISDNFERRWSYDKMKKELTNIVYKNKVLTNVVNIFPLVEKYTVSAENTHDVIYWSSVIMRNSCRKNEILGVRQCANFSCGKWEDFPRQFAKCRRCKRTKYCSRKCQLKAWGYHRYWCHEVGSSHMRSTNTTTGVNTPNEPSSLNATATTAADVSNSTSTFTPNISTTVPDEISNRDENSIPE",
+        "length": "620",
+        "mass": "72251",
+        "domains": [
+            {
+                "domain_name": "Zinc finger, MYND-type",
+                "domain_shortname": "Znf_MYND",
+                "domain_accession": "IPR002893",
+                "domain_start": "514",
+                "domain_end": "555",
+                "domain_pI": 9.85
+            }
+        ],
+        "protein_pI": 6.47
+    },
+    {
+        "input_name": "STE20",
+        "accession_protein": "Q03497",
+        "gene names": "{'geneName': {'value': 'STE20'}, 'orderedLocusNames': [{'value': 'YHL007C'}]}",
+        "protein name": "Serine/threonine-protein kinase STE20",
+        "sequence": "MSNDPSAVSELPDKDSLDNGISNDNERAMGGNGDGGDGLRLPRTTGTLNVNALQKGTNAAHEAGGYKSMDPAKNAETTNDDDNNVVSLDDPIQFTRVSSSSVISGMSSSMSPHSNIDETKSLEAVTPNINTSNITPDHSADNTFSTINASESDHQFNDTLLSKLSLTDSTETIENNATVKHQQPVASSTVNSNKSSTDIRRATPVSTPVISKPSMTTTPRQINSASHSLSNPKHKQHKPKVKPSKPEAKSKPVSVKKSFPSKNPLKNSSPPKKQTEKSYYSSSSKKRKSGSNSGTLRMKDVFTSFVQNIKRNSQDDKRASSSSNNSSSSSITTALRISTPYNAKHIHHVGVDSKTGEYTGLPEEWEKLLTSSGISKREQQQNMQAVMDIVKFYQDVTETNGEDKMFKTFNTTTGLPGSPQVSTPPANSFNKFPPSTSDSHNYGSRTGTPMSNHVMSPTLNTDSSSANGKFIPSRPAPKPPSSASASAPIIKSPVMNSAANVSPLKQTHAPTTPNRTSPNRSSISRNATLKKEEQPLPPIPPTKSKTSPIISTAHTPQQVAQSPKAPAQETVTTPTSKPAQARSLSKELNEKKREERERRKKQLYAKLNEICSDGDPSTKYANLVKIGQGASGGVYTAYEIGTNVSVAIKQMNLEKQPKKELIINEILVMKGSKHPNIVNFIDSYVLKGDLWVIMEYMEGGSLTDVVTHCILTEGQIGAVCRETLSGLEFLHSKGVLHRDIKSDNILLSMEGDIKLTDFGFCAQINELNLKRTTMVGTPYWMAPEVVSRKEYGPKVDIWSLGIMIIEMIEGEPPYLNETPLRALYLIATNGTPKLKEPENLSSSLKKFLDWCLCVEPEDRASATELLHDEYITEIAEANSSLAPLVKLARLKKVAENMDADEDNDDDNDNEHINKTNNCDDNNDSKETVNLDVTEDDKQK",
+        "length": "939",
+        "mass": "102362",
+        "domains": [
+            {
+                "domain_name": "CRIB domain",
+                "domain_shortname": "CRIB_dom",
+                "domain_accession": "IPR000095",
+                "domain_start": "336",
+                "domain_end": "394",
+                "domain_pI": 7.03
+            },
+            {
+                "domain_name": "Protein kinase domain",
+                "domain_shortname": "Prot_kinase_dom",
+                "domain_accession": "IPR000719",
+                "domain_start": "620",
+                "domain_end": "871",
+                "domain_pI": 5.06
+            }
+        ],
+        "protein_pI": 6.89
+    },
+    {
+        "input_name": "ROT1",
+        "accession_protein": "Q03691",
+        "gene names": "{'geneName': {'value': 'ROT1'}, 'orderedLocusNames': [{'value': 'YMR200W'}], 'orfNames': [{'value': 'YM8325.01'}]}",
+        "protein name": "Protein ROT1",
+        "sequence": "MWSKKFTLKKLILGGYLFAQKVYCEDESNSIYGTWSSKSNQVFTGPGFYDPVDELLIEPSLPGLSYSFTEDGWYEEATYQVSGNPRNPTCPMASLIYQHGTYNISENGTLVLNPIEVDGRQLFSDPCNDDGVSTYSRYNQTETFKEYAVGIDPYHGIYTLQLYQYDGTPMQPLYLAYRPPMMLPTETLNPTSSATSTDDPSSNKKRSLRSLVRRSLENRHKTNAIKRQNTSFLTSNAIWYISAGMLGVGSLLFLAF",
+        "length": "256",
+        "mass": "28908",
+        "domains": [
+            {
+                "domain_name": "Protein Rot1",
+                "domain_shortname": "Rot1",
+                "domain_accession": "IPR019623",
+                "domain_start": "1",
+                "domain_end": "256",
+                "domain_pI": 5.44
+            }
+        ],
+        "protein_pI": 5.44
+    },
+    {
+        "input_name": "BUD26",
+        "accession_protein": "Q03783",
+        "gene names": "{'geneName': {'value': 'BUD26'}, 'orderedLocusNames': [{'value': 'YDR241W'}]}",
+        "protein name": "Putative uncharacterized protein BUD26",
+        "sequence": "MILIFFAYISRRETVSQRQTSTIVYNITLMFSTLRCALKILAQIKKRLQQTSSNHENKKYEEVIKDHVGVKIQNIICLLAFVLVVYYQMRCKKMT",
+        "length": "95",
+        "mass": "11234",
+        "domains": [],
+        "protein_pI": 9.91
+    },
+    {
+        "input_name": "ATC1",
+        "accession_protein": "Q04005",
+        "gene names": "{'geneName': {'value': 'ATC1'}, 'synonyms': [{'value': 'LIC4'}], 'orderedLocusNames': [{'value': 'YDR184C'}], 'orfNames': [{'value': 'YD9395.18c'}]}",
+        "protein name": "Protein ATC1/LIC4",
+        "sequence": "MNTNQSNPNTDLTDDANIEHTLHRLLTQANNHFDDTVKIDGQSLDLGKDLEQVMMDNLDCTDIFDSDIASQKHLTLESLFNDEHNTDSSTLLEMQRSANDSLVGIDLDRHKKGYTGKASLDKSTNQNNVHKPDKEQKNYKIDKPTIKKKKSLLKTTNEPMLSPASLSPSSSLASSDANESHLKIESMITDITSKIDSARQDIVSATKPAKFTNEFTISQISEMKARIINTHKLLLNFNFIKEGYARSCIQLKKSMDSLKDSEIHRAHLLVENDDLKQQILELTQKLNEKSSKES",
+        "length": "294",
+        "mass": "33114",
+        "domains": [],
+        "protein_pI": 5.78
+    },
+    {
+        "input_name": "MYO5",
+        "accession_protein": "Q04439",
+        "gene names": "{'geneName': {'value': 'MYO5'}, 'orderedLocusNames': [{'value': 'YMR109W'}], 'orfNames': [{'value': 'YM9718.08'}]}",
+        "protein name": "Myosin-5",
+        "sequence": "MAILKRGARKKVHQEPAKRSANIKKATFDSSKKKEVGVSDLTLLSKISDEAINENLKKRFLNATIYTYIGHVLISVNPFRDLGIYTDAVMNEYKGKNRLEVPPHVFAIAESMYYNMKSYNENQCVIISGESGAGKTEAAKRIMQYIAAASSTHTESIGKIKDMVLATNPLLESFGCAKTLRNNNSSRHGKYLEIKFNNQFEPCAGNITNYLLEKQRVVSQIKNERNFHIFYQFTKGASDAYRQTFGVQKPEQYVYTAAAGCISAETIDDLQDYQETLKAMRVIGLGQEEQDQIFRMLAAILWIGNVSFIENEEGNAQVRDTSVTDFVAYLLQIDSQLLIKSLVERIMETNHGMKRGSVYHVPLNIVQADAVRDALAKAIYNNLFDWIVSRVNKSLQAFPGAEKSIGILDIYGFEIFEHNSFEQICINYVNEKLQQIFIQLTLKSEQETYEREKIQWTPIKYFDNKVVCDLIEARRPPGIFAAMNDSVATAHADSNAADQAFAQRLNLFTTNPHFDLRSNKFVIKHYAGDVTYDIDGITDKNKDQLQKDLVELIGTTTNTFLATIFPDTVDRESKRRPPTAGDKIIKSANDLVETLSKAQPSYIRTIKPNETKSPNDYDDRQVLHQIKYLGLQENVRIRRAGFAYRQVFEKFVERFYLLSPHCSYAGDYTWQGDTLDAVKYILQDSSIPQQEYQLGVTSVFIKTPETLFALEHMRDRYWHNMAARIQRAWRRFLQRRIDAATKIQRTIRERKEGNKYEKLRDYGTKVLGGRKERRSMSLLGYRAFMGDYLSCNESKSKGAYIKRQVSIKEKVIFSIHGEALHTKFGRSAQRLKKTFLLTPTTLYIVGQTLVQNAMTYTQDYKIDVRNIQAVSLTNLQDDWVAIKLASSGQPDPLINTYFKTELITHLKRLNDKIQIKIGSAIEYQKKPGKLHSVKCQINESAPKYGDIYKSSTISVRRGNPPNSQVHKKPRKKSSISSGYHASSSQATRRPVSIAAAQHVPTAPASRHSKKPAPPPPGMQNKAATRRSVPNPASTLTASQSNARPSPPTAATRATPAATPAAAAMGSGRQANIPPPPPPPPPSSKPKEPMFEAAYDFPGSGSPSELPLKKGDVIYITREEPSGWSLGKLLDGSKEGWVPTAYMKPHSGNNNIPTPPQNRDVPKPVLNSVQHDNTSANVIPAAAQASLGDGLANALAARANKMRLESDDEEANEDEEEDDW",
+        "length": "1219",
+        "mass": "136899",
+        "domains": [
+            {
+                "domain_name": "SH3 domain",
+                "domain_shortname": "SH3_domain",
+                "domain_accession": "IPR001452",
+                "domain_start": "1085",
+                "domain_end": "1147",
+                "domain_pI": 5.19
+            },
+            {
+                "domain_name": "Myosin head, motor domain",
+                "domain_shortname": "Myosin_head_motor_dom",
+                "domain_accession": "IPR001609",
+                "domain_start": "30",
+                "domain_end": "716",
+                "domain_pI": 6.12
+            },
+            {
+                "domain_name": "Class I myosin tail homology domain",
+                "domain_shortname": "Myosin_TH1",
+                "domain_accession": "IPR010926",
+                "domain_start": "771",
+                "domain_end": "961",
+                "domain_pI": 9.87
+            }
+        ],
+        "protein_pI": 9.32
+    },
+    {
+        "input_name": "ARP10",
+        "accession_protein": "Q04549",
+        "gene names": "{'geneName': {'value': 'ARP10'}, 'orderedLocusNames': [{'value': 'YDR106W'}], 'orfNames': [{'value': 'YD8557.15'}, {'value': 'YD9727.02'}]}",
+        "protein name": "Actin-like protein ARP10",
+        "sequence": "MSNTIVIVYLGANRIEIGRSADACPQEIIAWKTGSINEKNREELKKIFEHYFQICNILGNREVQVLILEDIFISVVEKRIICSILFKEFDCAHVSFVPRAIVHCLSCNTRNAIVIDIGTNYTTCVPIFDLRPLQQFIKYSKRGKRQVESRIPLPGSLYMPIFFDEEYNSKNCEVDETPVINLVKNIVESLPIDLRRPLRENIIIVNIEEAYETVIRNLFKLKMDTSKIQFPKNYWQAGSACAKILLHYKGSNIVGIERDEFYNNPHIAPDWFDYYFRTGVKRLQ",
+        "length": "284",
+        "mass": "33018",
+        "domains": [
+            {
+                "domain_name": "Actin family",
+                "domain_shortname": "Actin",
+                "domain_accession": "IPR004000",
+                "domain_start": "39",
+                "domain_end": "149",
+                "domain_pI": 8.82
+            }
+        ],
+        "protein_pI": 8.01
+    },
+    {
+        "input_name": "SWF1",
+        "accession_protein": "Q04629",
+        "gene names": "{'geneName': {'value': 'SWF1'}, 'synonyms': [{'value': 'PSL10'}], 'orderedLocusNames': [{'value': 'YDR126W'}], 'orfNames': [{'value': 'YD9302.01'}, {'value': 'YD9727.21'}]}",
+        "protein name": "Palmitoyltransferase SWF1",
+        "sequence": "MSWNLLFVLLIGFVVLILLSPVFKSTWPFSTFYRNVFQPFLVDDQKYRWKLHLVPLFYTSIYLYLVYTYHMRVESTIKNELFLLERILIVPIIILPPVALGILAMVSRAEDSKDHKSGSTEEYPYDYLLYYPAIKCSTCRIVKPARSKHCSICNRCVLVADHHCIWINNCIGKGNYLQFYLFLISNIFSMCYAFLRLWYISLNSTSTLPRAVLTLTILCGCFTIICAIFTYLQLAIVKEGMTTNEQDKWYTIQEYMREGKLVRSLDDDCPSWFFKCTEQKDDAAEPLQDQHVTFYSTNAYDHKHYNLTHYITIKDASEIPNIYDKGTFLANLTDLI",
+        "length": "336",
+        "mass": "39312",
+        "domains": [
+            {
+                "domain_name": "Palmitoyltransferase, DHHC domain",
+                "domain_shortname": "Palmitoyltrfase_DHHC",
+                "domain_accession": "IPR001594",
+                "domain_start": "135",
+                "domain_end": "249",
+                "domain_pI": 8.94
+            }
+        ],
+        "protein_pI": 7.09
+    },
+    {
+        "input_name": "AVO2",
+        "accession_protein": "Q04749",
+        "gene names": "{'geneName': {'value': 'AVO2'}, 'orderedLocusNames': [{'value': 'YMR068W'}], 'orfNames': [{'value': 'YM9916.07'}]}",
+        "protein name": "Target of rapamycin complex 2 subunit AVO2",
+        "sequence": "MLKEPSVRLREAIIEGNLLIVKRLLRRNPDLLTNIDSENGWSSLHYASYHGRYLICVYLIQLGHDKHELIKTFKGNTCVHLALMKGHEQTLHLLLQQFPRFINHRGENGRAPIHIACMNDYYQCLSLLIGVGADLWVMDTNGDTPLHVCLEYGSISCMKMLLNEGEVSLDDNVRDKGNWKPIDVAQTFEVGNIYSKVLKEVKKKGPPLGAGKKPSSFRTPILNAKATFEDGPSPVLSMNSPYSLYSNNSPLPVLPRRISTHTTSGNGGNRRSSITNPVFNPRKPTLSTDSFSSSSNSSSRLRVNSINVKTPVGVSPKKELVSESVRHSATPTSPHNNIALINRYLLPNKSNDNVRGDSQTATINDDGGGGNGGDATIGMGLRKDPDDENENKYKIKVNNGEPRRRVSLLNIPISKLRNSNNTRAED",
+        "length": "426",
+        "mass": "47139",
+        "domains": [],
+        "protein_pI": 9.39
+    },
+    {
+        "input_name": "DYN3",
+        "accession_protein": "Q04949",
+        "gene names": "{'geneName': {'value': 'DYN3'}, 'orderedLocusNames': [{'value': 'YMR299C'}], 'orfNames': [{'value': 'YM9952.01C'}]}",
+        "protein name": "Cytoplasmic dynein intermediate light chain DYN3",
+        "sequence": "MDNCNAWDKLLSQNESTINSTETATITAIIYSPSSKTLHQFINICFPEGSNSILDTTLINYATIGWTNDLKENYSVDVYTLIRNTDDALDLLKPFLQEHSSKVRWLILLDWTLNDQKLWLNELSYAFNKIKQLNDDNEFSVWCLNSGEILNLQRHTTVWQSVHIDFILQTLRSFCYFNDSSLFYICEDHTEEKREEAQRLKYQELLKHFCEDRDMKDHIEMVKRSEILIPKGCDSIGLIKTVDERFEPTEVKEQHFLARYMDFIPTIDKIREDRKTTSGIDLDKLYPLEVFKVNIQEELGKMFAKYRENSRI",
+        "length": "312",
+        "mass": "36825",
+        "domains": [
+            {
+                "domain_name": "Dynein family light intermediate chain",
+                "domain_shortname": "Dynein_light_int_chain",
+                "domain_accession": "IPR022780",
+                "domain_start": "159",
+                "domain_end": "251",
+                "domain_pI": 5.01
+            }
+        ],
+        "protein_pI": 5.03
+    },
+    {
+        "input_name": "SPH1",
+        "accession_protein": "Q06160",
+        "gene names": "{'geneName': {'value': 'SPH1'}, 'orderedLocusNames': [{'value': 'YLR313C'}]}",
+        "protein name": "Protein SPH1",
+        "sequence": "MISSELTNDQIIDLISDYKNFKRIIEASVPEDDRRRNQNRQNRNKDLTKLSNVQFWQLTTDVNDELMKRLTDSGADASLNDLDLKRGKAQSKLSRLKDAKFHKLILDIFTEIERRNLHHLDMGTHNNGLDEGDLNFYLNDTLFESFKINDDFMSVNGIISIEVFRELKTQFTLYFQNTLHRIDPVDTTTTRLPILLETIIKIAKLIGDLLPVLSSVSLQSSLENEIVYLKSALSHAITSTRYFLTYGDLIPRIVAQSSISEVIFAFCNIAQIVKIKSTSRDDISRNEGELSDIEAGMKPLKIIEKVKNEKNGKDISSLGDSGSTAVSFPSSGKPITKKSDMPVVVASPSISIIEKSESSIRESGKVRNNTSGETNLASVSPLKNTKNSSRITSEPSPREGLPLKVVSNSRSPSPQGNTLPLIGKFRQDYQASPPKKVITKPVAETAKPYANIPPAADVLYSPTVTKMRKFREKVQKFAPNSGLGLRISTSEENLNNSDVNSTTHNANINNLVEFVESKSMVVLPMAQGILNDVQASKSKLFKSARSVSRLCQNSIEIIPILESVIDMTTKAMVQKSFKLDLGEHCKEIIERLTDCSQKLSELCTYGCDSTKLGKKRFYQKLADILMEVTKRTRELVECVKMANRQTLSQDLSSFFNYRSVQ",
+        "length": "661",
+        "mass": "74007",
+        "domains": [
+            {
+                "domain_name": "GIT, Spa2 homology (SHD) domain",
+                "domain_shortname": "GIT_SHD",
+                "domain_accession": "IPR013724",
+                "domain_start": "43",
+                "domain_end": "73",
+                "domain_pI": 6.2
+            },
+            {
+                "domain_name": "GIT, Spa2 homology (SHD) domain",
+                "domain_shortname": "GIT_SHD",
+                "domain_accession": "IPR013724",
+                "domain_start": "89",
+                "domain_end": "119",
+                "domain_pI": 9.99
+            }
+        ],
+        "protein_pI": 9.02
+    },
+    {
+        "input_name": "GIC2",
+        "accession_protein": "Q06648",
+        "gene names": "{'geneName': {'value': 'GIC2'}, 'orderedLocusNames': [{'value': 'YDR309C'}], 'orfNames': [{'value': 'D9740.18'}]}",
+        "protein name": "GTPase-interacting component 2",
+        "sequence": "MTSASITNTGNETMNLPQMRSIWLDEDEEAEKLYGLQAQQFMGSDDEENLGITFINSDKPVLSNKKNIELPPLSPNSHPSCHHRRSNSNSAKSKESSSSSSSANKTNHKKVFLKLNLLKKKLLGAQPDIRGKGISTPFDFQHISHADTRNGFQDEQLQEPSSLSTEIKDDYTSSSSKRDSKSLNKAFVTERIPANRESKLISRSHENKTSRLSVARSISVTSSNYSKNTQGNNHSINGRVVSTSTMATSIFEYSPNASPKQFKNKSHALGHRYTNSTDSSESSLDFLKNYNFPTLLEDKPILDFLPRSQRSSAYRSLLETPNSNKDSAKAFFPSRQSPLPKRRNSIATPSPQSKFSYSDSPVNHRKSFDDVLYSFNQLEPLQT",
+        "length": "383",
+        "mass": "42852",
+        "domains": [
+            {
+                "domain_name": "CRIB domain",
+                "domain_shortname": "CRIB_dom",
+                "domain_accession": "IPR000095",
+                "domain_start": "134",
+                "domain_end": "166",
+                "domain_pI": 4.29
+            }
+        ],
+        "protein_pI": 9.48
+    },
+    {
+        "input_name": "LDB18",
+        "accession_protein": "Q07887",
+        "gene names": "{'geneName': {'value': 'LDB18'}, 'orderedLocusNames': [{'value': 'YLL049W'}]}",
+        "protein name": "Protein LDB18",
+        "sequence": "MPGLKLVEALEYRCDRLERLIGAGYSANSDVSVQLDELYNQLHRLYFQGLKYSQDLLQLFNTFMAEDIENVGAPDDICIFASCFDDIYTLYSAFDELNSQYMEFCQISKSSLDQISFKDANIETKQLKKLPELVDNCNIMILRSIAILNRFIDWNIEVNGFFQFQKKRLLNLQKVIYST",
+        "length": "179",
+        "mass": "20847",
+        "domains": [],
+        "protein_pI": 4.66
+    },
+    {
+        "input_name": "BUD28",
+        "accession_protein": "Q07992",
+        "gene names": "{'geneName': {'value': 'BUD28'}, 'orderedLocusNames': [{'value': 'YLR062C'}]}",
+        "protein name": "Putative uncharacterized protein BUD28",
+        "sequence": "MNLFFVFFFVFFWSDLVEGQSVFVGLGRDKSDPVSQLVLLQVLLCQVLQVLTRELGSGNNSNNGTIFSDSDSVTQVTDSTFDLDVVDQVLSVGSWVEDTVFSWRRDIDGKGLGNLLLSGSLYQKN",
+        "length": "125",
+        "mass": "13880",
+        "domains": [],
+        "protein_pI": 4.09
+    },
+    {
+        "input_name": "NBA1",
+        "accession_protein": "Q08229",
+        "gene names": "{'geneName': {'value': 'NBA1'}, 'orderedLocusNames': [{'value': 'YOL070C'}]}",
+        "protein name": "Protein NBA1",
+        "sequence": "MSEEREENGISRATLNTQRLSAMIDSLNNEKDDRLFPSPTTTRTMITEEKADQSDVFKPPSRLLRSPAGDVSLPPGDNRSSMISNYSGIIQEGVEVSYVVKNRQQTQERRTSKDSNSLYSLKEPVSKNELPSLPMLPSEATLTKHLSDNQSTKSNTNADEIVIKPVTNAKPVGRFNSNTSKKVEGRGSLKLLSSPLRQEKVMRSSIGSGNLASESGSSTYNTKFHQSIQEQLEEEEEGNVSDKLSIVSSVIPELYTTTNEAPKAINPIRSETNDYNPTIPPRSKDRPRSRLFIEEGDGEGDLLTEEILPTPVQPGGHYKNSSQISTVSEQKSESYYSAATSMPPEEETYLTRPLPSTPNEDSRVTSNLKRDDTLKAIHDRANHTSTSTNKQDDDMYEDIIEETPKKTKLKKDTKKKLNKKKSVKELRSFDIDTLNQLLSVTKGTLIGSEFAQLGMKIEEKRALERLVDSLSRLTADMVLDPDRYEEGLKRLDKATKALEGF",
+        "length": "501",
+        "mass": "55923",
+        "domains": [],
+        "protein_pI": 5.65
+    },
+    {
+        "input_name": "THP1",
+        "accession_protein": "Q08231",
+        "gene names": "{'geneName': {'value': 'THP1'}, 'synonyms': [{'value': 'BUD29'}], 'orderedLocusNames': [{'value': 'YOL072W'}], 'orfNames': [{'value': 'O1140'}]}",
+        "protein name": "Nuclear mRNA export protein THP1",
+        "sequence": "MDMANQLLDELAHGNFSHLTLNLSQNGREIAILQKQLTGFDDKQLETFVEQHPAMPNDTRFKIMCTSFLNYARDVDPWSAWSSSDLIFEFYQCLINCLINDNAPHIEMLIPVATRETEFIINLAGKLDSFHLQLHTRSHQFLSHISSILSRLFNSIKPPRGNASSTNIPGKQRILLYLVNKLNNIYFRIESPQLCSNIFKNFQPKSMLAHFNEYQLDQQIEYRYLLGRYYLLNSQVHNAFVQFNEAFQSLLNLPLTNQAITRNGTRILNYMIPTGLILGKMVKWGPLRPFLSQETIDNWSVLYKHVRYGNIQGVSLWLRQNERHLCARQLLIVLLEKLPMVTYRNLIKTVIKSWTTEWGQNKLPYSLIERVLQLSIGPTFEDPGAQEITIYNGIHSPKNVENVLVTLINLGLLRANCFPQLQLCVVKKTTMIQEIVPPVNERITKMFPAHSHVLW",
+        "length": "455",
+        "mass": "52678",
+        "domains": [
+            {
+                "domain_name": "Proteasome component (PCI) domain",
+                "domain_shortname": "PCI_dom",
+                "domain_accession": "IPR000717",
+                "domain_start": "220",
+                "domain_end": "431",
+                "domain_pI": 9.68
+            }
+        ],
+        "protein_pI": 8.93
+    },
+    {
+        "input_name": "AVO1",
+        "accession_protein": "Q08236",
+        "gene names": "{'geneName': {'value': 'AVO1'}, 'orderedLocusNames': [{'value': 'YOL078W'}], 'orfNames': [{'value': 'O1110'}]}",
+        "protein name": "Target of rapamycin complex 2 subunit AVO1",
+        "sequence": "MDTVTVLNELRAQFLRVCPEKDQMKRIIKPYIPVDEFNTEQCLDSSIRELYMNSDGVSLLPELESPPVSKDFMENYASLGKMRIMRENEGQKGKANQNLIGAEKTERDEEETRNLQDKSAKNTLIVEENGTLRYNPLNSSASNSLLNDDDHTSGKHHKTSSKEDSYLNSSMEMQKKSSKRSSLPFVRIFKSRRDHSNTSGNKNVMNTTNTRAKSSTLHPPGARHNKKGSKFDMNFDFDENLEEEDDDDDDDEEGDDIHSQFFQLDDDFDAKGSGASPAHKGINGMSNNKNNTYTNNRNSISILDDRESSNGNIGSASRLKSHFPTSQKGKIFLTDNKNDGQKSDSLNANKGIHGDGSSASGNGSVSRDGLTETESNNISDMESYINEKDLDDLNFDTVTSNINKTVSDLGGHESTNDGTAVMNRDSKDSRSNSNEFNAQNRDRITPGSSYGKSLLGSEYSEERYSNNDSSTMESGEMSLDSDMQTNTIPSHSIPMSMQKYGIYHGDDDSTLNNVFDKAVLTMNSSRHPKERRDTVISGKEPTSLTSSNRKFSVSSNLTSTRSPLLRGHGRTSSTASSEHMKAPKVSDSVLHRARKSTLTLKQDHSQPSVPSSVHKSSKEGNILIEKTTDYLVSKPKASQLSNMFNKKKKRTNTNSVDVLEYFSFVCGDKVPNYESMGLEIYIQASKKYKRNSFTTKVRKSSTIFEVIGFALFLYSTEKKPDNFEEDGLTVEDISNPNNFSLKIVDEDGEPFEDNFGKLDRKSTIQSISDSEVVLCKVDDAEKSQNEIETPLPFETGGGLMDASTLDANSSHDTTDGTINQLSFYKPIIGNEDDIDKTNGSKIIDVTVYLYPNVNPKFNYTTISVLVTSHINDILVKYCKMKNMDPNEYALKVLGKNYILDLNDTVLRLDGINKVELISKKDARELHLEKMKPDLKKPVLPTIQSNDLTPLTLEPLNSYLKADAGGAVAAIPENTKVTSKAKKISTKYKLGLAKQHSSSSVASGSVSTAGGLANGNGFFKNKNSSKSSLHGTLQFHNINRSQSTMEHTPDTPNGVGDNFQDLFTGAYHKYKVWRRQQMSFINKHERTLAIDGDYIYIVPPEGRIHWHDNVKTKSLHISQVVLVKKSKRVPEHFKIFVRREGQDDIKRYYFEAVSGQECTEIVTRLQNLLSAYRMNHK",
+        "length": "1176",
+        "mass": "131379",
+        "domains": [
+            {
+                "domain_name": "SAPK-interacting protein 1, Pleckstrin-homology domain",
+                "domain_shortname": "Sin1_PH_dom",
+                "domain_accession": "IPR031313",
+                "domain_start": "1065",
+                "domain_end": "1169",
+                "domain_pI": 9.68
+            },
+            {
+                "domain_name": "Sin1, middle CRIM domain",
+                "domain_shortname": "CRIM_dom",
+                "domain_accession": "IPR031567",
+                "domain_start": "638",
+                "domain_end": "786",
+                "domain_pI": 4.92
+            }
+        ],
+        "protein_pI": 6.25
+    },
+    {
+        "input_name": "BUD7",
+        "accession_protein": "Q08754",
+        "gene names": "{'geneName': {'value': 'BUD7'}, 'orderedLocusNames': [{'value': 'YOR299W'}]}",
+        "protein name": "Bud site selection protein 7",
+        "sequence": "MITQNSIPEVKEDFIGYALHERRIRLPQFQDLGPADLVTLTKYLPTSSNTNAINSTSRNGAAIIQSPAAVVADDSAASMATNGDASDTAVTTNYTNASIYSSSRNANDGAPMVAELHPLDKLKDEVGTFFYSMGVDTSGPTSIAIFLKEISEVISEKPQVWFGRKKTFNVARISFSTWNAFRRCDINVVVHIPGSIQNFIVDCNGESQNIEMCADYDLIWAETFVSGVVRSIMLMKENAEEGELQNLVETLILNPFTAGQIDDVPEMFIDLFPIVYHKGPLLGAPYYITNVTNTNNYLVETLVEIVKLTRNVSRAEIMLKNLATDNPEAIIILIKIFLVCDQELDAIKLTYDMLSQDKIINNTNNRMDYKSELLCLQAQFLIDKRQDYSLAQNIAQEAVNCSPSEFRPWYLLSKVYVKLNDIENALLILNSCPMSPLKEKYVLKRVAPLPSNNSLHLPLPIDVVLDEVTSLNPQDVQNEHRSADPMLVNLAASNLKSTFQLAYRLLTEIVQITGWENLLKYRSNIFVMEEEYQKSSSSLPKDVNKQEEQPLRAKRLCERWLDNLFMLLYEDLKMYTLWQTEQLYMDAQNNNHNKLTFEWELFGLCARRLGHFPEAAKAFQNGLSQRFSSRCARKLLEYCINERQRVKNFINSPNSHDMVPEIVSSRIRELDNSIIDLCVKICCWNHRWYTEFSISLLDCLSVVIQDMSLTKVSNEISSRYPETVLNLVQENLLNFFTTCTIGCYDA",
+        "length": "746",
+        "mass": "84830",
+        "domains": [
+            {
+                "domain_name": "Chs5p-Arf1p binding",
+                "domain_shortname": "ChAPs",
+                "domain_accession": "IPR015374",
+                "domain_start": "1",
+                "domain_end": "745",
+                "domain_pI": 5.04
+            }
+        ],
+        "protein_pI": 5.04
+    },
+    {
+        "input_name": "YOR300W",
+        "accession_protein": "Q08756",
+        "gene names": "{'orderedLocusNames': [{'value': 'YOR300W'}], 'orfNames': [{'value': 'O5639'}]}",
+        "protein name": "Putative uncharacterized protein YOR300W",
+        "sequence": "MKSRQDIQKLFSTWCRRICSISSLLAPLDATMHKYDKKTLIRIYNPKKIGDTLQRCVKLLGHFKENPAYINTEQCWLCNFAARRHSRKNIRVSRMRAKRKYQ",
+        "length": "102",
+        "mass": "12216",
+        "domains": [],
+        "protein_pI": 10.45
+    },
+    {
+        "input_name": "RAX1",
+        "accession_protein": "Q08760",
+        "gene names": "{'geneName': {'value': 'RAX1'}, 'orderedLocusNames': [{'value': 'YOR301W'}]}",
+        "protein name": "Bud site selection protein RAX1",
+        "sequence": "MKEELSKVSSMQNFEMIQRERLPTLYEVLIQRTSQPVDLWTFYTFLSQFPYAINYLDFWVDLMTHTRLCKNYIELVRKSLINFPQEQQQNGSTSTATFDLLNALIEEGHLDPEAPDKLLENSGPDVPFSPKLNELLGDWKHQSGIGQEALRNEDVALIVDEIMKRRSQQDGKPQITTKQLLHSAVGLCNTYLVSPEQSERYLSNIPMETRNRIIESVQIERKYDIEIFDDLKNLTYQFLEMDCFPKFLSRVALHNIHDEISDWRFHSVGVTNEKSNRSRGQTHISRSPFSNHTSISRIGFGLLWLGIGFWIGYVLIFLAYSRAIRVVTVVPFTLGCYCIVCGMYQVDIVYSWFGVTQRLLHRHKNAGNDEGDASSDTDHVPMILAVFGGRRRLTRIEHPFTRQLLRKRGLWCLLLVVGATAAFTVIFSCVPGRRV",
+        "length": "435",
+        "mass": "50161",
+        "domains": [
+            {
+                "domain_name": "RGS domain",
+                "domain_shortname": "RGS",
+                "domain_accession": "IPR016137",
+                "domain_start": "28",
+                "domain_end": "257",
+                "domain_pI": 5.07
+            }
+        ],
+        "protein_pI": 6.9
+    },
+    {
+        "input_name": "SRO7",
+        "accession_protein": "Q12038",
+        "gene names": "{'geneName': {'value': 'SRO7'}, 'synonyms': [{'value': 'SNI1'}, {'value': 'SOP1'}], 'orderedLocusNames': [{'value': 'YPR032W'}], 'orfNames': [{'value': 'YP9367.12'}]}",
+        "protein name": "Lethal(2) giant larvae protein homolog SRO7",
+        "sequence": "MFGSKRLKNVKEAFKSLKGQNSETPIENSKASFKSKNSKTSTISKDAKSSSSLKIPISSNNKNKIFSLAETNKYGMSSKPIAAAFDFTQNLLAIATVTGEVHIYGQQQVEVVIKLEDRSAIKEMRFVKGIYLVVINAKDTVYVLSLYSQKVLTTVFVPGKITSIDTDASLDWMLIGLQNGSMIVYDIDRDQLSSFKLDNLQKSSFFPAARLSPIVSIQWNPRDIGTVLISYEYVTLTYSLVENEIKQSFIYELPPFAPGGDFSEKTNEKRTPKVIQSLYHPNSLHIITIHEDNSLVFWDANSGHMIMARTVFETEINVPQPDYIRDSSTNAAKISKVYWMCENNPEYTSLLISHKSISRGDNQSLTMIDLGYTPRYSITSYEGMKNYYANPKQMKIFPLPTNVPIVNILPIPRQSPYFAGCHNPGLILLILGNGEIETMLYPSGIFTDKASLFPQNLSWLRPLATTSMAASVPNKLWLGALSAAQNKDYLLKGGVRTKRQKLPAEYGTAFITGHSNGSVRIYDASHGDIQDNASFEVNLSRTLNKAKELAVDKISFAAETLELAVSIETGDVVLFKYEVNQFYSVENRPESGDLEMNFRRFSLNNTNGVLVDVRDRAPTGVRQGFMPSTAVHANKGKTSAINNSNIGFVGIAYAAGSLMLIDRRGPAIIYMENIREISGAQSACVTCIEFVIMEYGDDGYSSILMVCGTDMGEVITYKILPASGGKFDVQLMDITNVTSKGPIHKIDAFSKETKSSCLATIPKMQNLSKGLCIPGIVLITGFDDIRLITLGKSKSTHKGFKYPLAATGLSYISTVEKNNDRKNLTVIITLEINGHLRVFTIPDFKEQMSEHIPFPIAAKYITESSVLRNGDIAIRVSEFQASLFSTVKEQDTLAPVSDTLYINGIRIPYRPQVNSLQWARGTVYCTPAQLNELLGGVNRPASKYKESIIAEGSFSERSSDDNNANHPEHQYTKPTRKGRNSSYGVLRNVSRAVETRWDAVEDRFNDYATAMGETMNEAVEQTGKDVMKGALGF",
+        "length": "1033",
+        "mass": "114513",
+        "domains": [
+            {
+                "domain_name": "Lethal giant larvae (Lgl)-like, C-terminal domain",
+                "domain_shortname": "Lgl_C_dom",
+                "domain_accession": "IPR013905",
+                "domain_start": "549",
+                "domain_end": "943",
+                "domain_pI": 7.11
+            }
+        ],
+        "protein_pI": 8.57
+    },
+    {
+        "input_name": "CHS5",
+        "accession_protein": "Q12114",
+        "gene names": "{'geneName': {'value': 'CHS5'}, 'synonyms': [{'value': 'CAL3'}], 'orderedLocusNames': [{'value': 'YLR330W'}], 'orfNames': [{'value': 'L8543.18'}]}",
+        "protein name": "Chitin biosynthesis protein CHS5",
+        "sequence": "MSSVDVLLTVGKLDASLALLTTQDHHVIEFPTVLLPENVKAGSIIKMQVSQNLEEEKKQRNHFKSIQAKILEKYGTHKPESPVLKIVNVTQTSCVLAWDPLKLGSAKLKSLILYRKGIRSMVIPNPFKVTTTKISGLSVDTPYEFQLKLITTSGTLWSEKVILRTHKMTDMSGITVCLGPLDPLKEISDLQISQCLSHIGARPLQRHVAIDTTHFVCNDLDNEESNEELIRAKHNNIPIVRPEWVRACEVEKRIVGVRGFYLDADQSILKNYTFPPVNEEELSYSKENEPVAEVADENKMPEDTTDVEQVASPNDNESNPSEAKEQGEKSGHETAPVSPVEDPLHASTALENETTIETVNPSVRSLKSEPVGTPNIEENKADSSAEAVVEEPNEAVAESSPNEEATGQKSEDTDTHSNEQADNGFVQTEEVAENNITTESAGENNEPADDAAMEFGRPEAEIETPEVNESIEDANEPAEDSNEPVEDSNKPVKDSNKPVEDSNKPVEDSNKPVEDSNKPVEDANEPVEDTSEPVEDAGEPVQETNEFTTDIASPRHQEEDIELEAEPKDATESVAVEPSNEDVKPEEKGSEAEDDINNVSKEAASGESTTHQKTEASASLESSAVTEEQETTEAEVNTDDVLSTKEAKKNTGNSNSNKKKNKKNKKKGKKK",
+        "length": "671",
+        "mass": "73639",
+        "domains": [
+            {
+                "domain_name": "BRCT domain",
+                "domain_shortname": "BRCT_dom",
+                "domain_accession": "IPR001357",
+                "domain_start": "166",
+                "domain_end": "262",
+                "domain_pI": 5.92
+            },
+            {
+                "domain_name": "Fibronectin type III",
+                "domain_shortname": "FN3_dom",
+                "domain_accession": "IPR003961",
+                "domain_start": "78",
+                "domain_end": "168",
+                "domain_pI": 10.07
+            },
+            {
+                "domain_name": "Chitin biosynthesis protein Chs5, N-terminal",
+                "domain_shortname": "Chs5_N",
+                "domain_accession": "IPR031673",
+                "domain_start": "4",
+                "domain_end": "76",
+                "domain_pI": 7.01
+            }
+        ],
+        "protein_pI": 4.5
+    },
+    {
+        "input_name": "MSB4",
+        "accession_protein": "Q12317",
+        "gene names": "{'geneName': {'value': 'MSB4'}, 'orderedLocusNames': [{'value': 'YOL112W'}], 'orfNames': [{'value': 'HRC492'}]}",
+        "protein name": "GTPase-activating protein MSB4",
+        "sequence": "MIMSSTMSTEAALVPNESVFDTVSSFNEDDANYSVLDLYDDDDEGDDSSTVERKEILTTRELEKAKAFTSLIMADPENFDRYGFSKKGYFISQEEYDKWWTEYNRYTERRKKKWENFLLKNKIELHNDNPLVYPARTDELSKFVRKGIPAEWRGNAWWYFAGGQRQLDANVGVYDRLKSDCREGAVSGKDMEAIERDLYRTFPDNIHFHKESFQNGEPAIIRSLRRVLMAFSVYDKTIGYCQSMNFLVGLLLLFMEEEKAFWMLVIITGKYLPGVYESDLEGANVDQGVLVLCIKEYLPEIWSHIESSYMNGNGSTDQISGPASGEEYLCRLPTLTLCTASWFMSCFVGVVPIETTLRIWDCLFYEESHFLFKVALGILKLSESEFLESKSQKLFRQYSSYTFGGSNDSDSTFKRLKNKIKTQEEADMEILQVIQNFPKRLLNPNDIFEKVLMKKKVALNGITQEKIDRGREYVAMARNRQRASSRPKERRK",
+        "length": "492",
+        "mass": "57093",
+        "domains": [
+            {
+                "domain_name": "Rab-GAP-TBC domain",
+                "domain_shortname": "Rab-GAP-TBC_dom",
+                "domain_accession": "IPR000195",
+                "domain_start": "144",
+                "domain_end": "390",
+                "domain_pI": 4.97
+            }
+        ],
+        "protein_pI": 5.39
+    },
+    {
+        "input_name": "OSH2",
+        "accession_protein": "Q12451",
+        "gene names": "{'geneName': {'evidences': [{'evidenceCode': 'ECO:0000303', 'source': 'PubMed', 'id': '11238399'}], 'value': 'OSH2'}, 'orderedLocusNames': [{'value': 'YDL019C'}], 'orfNames': [{'value': 'D2845'}]}",
+        "protein name": "Oxysterol-binding protein homolog 2",
+        "sequence": "MSREDLSIAEDLNQVSKPLLKVKLLEVLGQGDFKHLKALVDNEFQPKDDPSVQQVLNLILHYAVQVAPILLIKEIVAHWVDQVGDEKSSSKSDDGIHLDLNYQDENGNTPLHLAAAQSRSDVISFLLSQKSINDCVKNKAHQQPLDMCKDLNVAQMIQLKRDDYFLETVHSLRAAMNKRDFSKLDSIWKNPRNLNLLDINGIDPETGTTLLYEYSQKKDIEMCQWLLKHGAEATVKDGKGRSPLDLVKNIKLPAKPSNNVTPEIKLKNLLEKNLREQAIVHEDVASSKPPTYKGFLKKWTNFAHGYKLRWFILSGDGNLSYYKDQSHVDRPRGTLKVSTCRLHIDSSEKLNFELLGGITGTTRWRLKGNHPIETTRWVNAIQSAIRFAKDKEILNKKKAVPPSLALKNKSPALISHSKTQGSLPEASQYYQHTLHKEVIQPSSVSLYRRPSNNLSVVSSEIQLNDNLTESGKRFVSKMIENRLDGSKTPVGVHTGSALQRVRSSNTLKSNRSMQSGSGVASPIDKVPNGANLSQSNTTTGSTASLSDNNYIDNFEGDEANSDDEEEDLGINFDRDEEYIKAQYGPYKEKLDMYEQAISIELSSLIELIEQEEPSPEVWLTIKKSLINTSTIFGKLKDLTYKRDKRLVDMVSKQGDVNNVWVQSVKELEMELSNKTERLASIDKERRGLKKILHKKLLESHATAGNKESLENDKEQESDTTASTLGQIAKFISATKEEDEASDADEFYDAAELVDEVTELTEAHPEISTAAAPKHAPPPVPNETDNDSQYVQDEKSKIESNVEKTSQKFEKQNNLVTEDEPKTDQSLKNFKAEDKESQVKEKTKEIASSVIGEKTIVAVTTVQKRKEEYLLKEGSYLGYEDGIRKRLSMDKDDRPKISLWAVLKSMVGKDMTRMTLPVTFNEPTSLLQRVAEDLEYSELLDQAATFEDSTLRTLYVAAFTASSYASTTKRVAKPFNPLLGETFEYSRPDKQYRFFTEQVSHHPPISATWTESPRWDFWGESFVDTKFNGRSFNVKHLGLWHIKLRPNDNEKEELYTWKKPNNTVIGILIGNPQVDNHGEVNVVNHTTGDHCKLYFKARGWRSSGAYEITGEVYNKKKQKVWILGGHWNEAIFAKKVVKDGDLSLEKTRTAASAGNGPTDDGTKFLIWKANDRPEEPFNLTPFAITLNAPQPHLLPWLPPTDTRLRPDQRAMEDGRYDEAGDEKFRVEEKQRAARRKREENNLEYHPQWFVRDTHPITKAKYWRYTGKYWVKRRDHDLKDCGDIF",
+        "length": "1283",
+        "mass": "145796",
+        "domains": [
+            {
+                "domain_name": "Pleckstrin homology domain",
+                "domain_shortname": "PH_domain",
+                "domain_accession": "IPR001849",
+                "domain_start": "289",
+                "domain_end": "388",
+                "domain_pI": 10.14
+            }
+        ],
+        "protein_pI": 6.37
+    },
+    {
+        "input_name": "RAX2",
+        "accession_protein": "Q12465",
+        "gene names": "{'geneName': {'value': 'RAX2'}, 'orderedLocusNames': [{'value': 'YLR084C'}], 'orfNames': [{'value': 'L2389'}, {'value': 'L9449.12'}]}",
+        "protein name": "Bud site selection protein RAX2",
+        "sequence": "MFVHRLWTLAFPFLVEISKASQLENIKSLLDIEDNVLPNLNISQNNSNAVQILGGVDALSFYEYTGQQNFTKEIGPETSSHGLVYYSNNTYIQLEDASDDTRIDKITPFGVDSFILSGSGTINNISVGNQILYNLSTLSMTPIFNQSLGAVQAVLADNSSIYFGGNFSYNNGSMTGYSALIWDSISNTTQLLPFGGFGENSSVNSIVKLNNDNILFAGQFYTLDDPSALISSSNNGTNSTSSLNATTLELGQRIPLRYASWDSQGSTTFASDSLVCPNTNEDAWLYPDTSGSLVCNLPYEVSPTKIRLYNSQRSDSEISVFQILTDPSSSIMNLTYLDPLSGELKNCGEFCPLYSRATLLSASQNVSSSMDMITFIDNNKTDVKWTSDFQDFAFVNELPVSSLKFVALNSYGGSVGLSGLELYQDTFSTYANDSLNEYGCSALTNDSSSSTLSSNDWYNGLTGESYIAAKYVPDQNEPIPRVKFYPNIIHPGHYTINMYTPGCLQDNTCSARGIVNVTMWNQQNNTIMKTYLIYQNNDNLKYDQIYSGYLDFSPEIVLEYVSGIYTTNTATVVVADQVNVITVSLDAFNTLSDSSNAKKETLLNGILQYQKSNFTSTRLNETKVGNTTLNLFPVKNYPKNSSLYADIYDNKLVIGGVSNRISIVDLNDDFEVTSSKNQTIQGDVHGITKTNQGLLIFGDILSSNNQSAVFLFNGSFENVFNQSRTVNSALNISLANNDFIVLDNDYVVNASSNALIRNSSSFSLSLWAAGNNGDGDVLFSGAVSHMQYGNLNGSVRFLNENEIEPLNLEGGIVPYLGAYLNESATAYAYEVDSLNKIYFSNEVYPSWNWSSGITQMLYADNQTLLAVSAGSSTTAELSIFDLRNLTMIANETLGSNARINALVNFEKNCSMLVGGDFQMTEPNCTGLCLYNYESKTWSTFLNNTIFGEITQLSFTNSSELIISGLFETKEYQSIRLGSFNLTNSTMIPLLSGSEGKLNSFTVTEDSIVAWNDTSLFIYRNQEWNITSLPGNASSISSVSAIYTDIESNTLNKRGINNVNNGSILLLNGNFNISQYGYLQSLLFDFQKWTPYFISETTNTSNYNPIIFINRDVSTEFNSQSPLANVNITVTSPQSTSSQPPSSSASSESKSKSKKKKIGRGFVVLIGLALALGTVSVLGIAGVILAYVFKDPEGDYKPIKPRIDENEMLDTVPPEKLMKFV",
+        "length": "1220",
+        "mass": "133959",
+        "domains": [
+            {
+                "domain_name": "Rax2-like, C-terminal domain",
+                "domain_shortname": "Rax2-like_C",
+                "domain_accession": "IPR024982",
+                "domain_start": "877",
+                "domain_end": "1118",
+                "domain_pI": 4.46
+            },
+            {
+                "domain_name": "Rax2-like, third domain",
+                "domain_shortname": "Rax2-like_third",
+                "domain_accession": "IPR048265",
+                "domain_start": "429",
+                "domain_end": "581",
+                "domain_pI": 4.33
+            },
+            {
+                "domain_name": "Rax2-like, second domain",
+                "domain_shortname": "Rax2-like_second",
+                "domain_accession": "IPR048266",
+                "domain_start": "250",
+                "domain_end": "417",
+                "domain_pI": 4.3
+            }
+        ],
+        "protein_pI": 4.43
+    },
+    {
+        "input_name": "PCL9",
+        "accession_protein": "Q12477",
+        "gene names": "{'geneName': {'value': 'PCL9'}, 'orderedLocusNames': [{'value': 'YDL179W'}], 'orfNames': [{'value': 'D1408'}]}",
+        "protein name": "PHO85 cyclin-9",
+        "sequence": "MISDYDALLQFNKKPVSQEMIQFLATSTASIIKIRENNNPIQGCRPPDLSIFIKNVVIQSNVQTPTLMATSVYLNKLKSVIPKNVYGINTTRHRIFLGCLILAAKTLNDSSPWNKHWTTYTEGLLRIREVNTIERELLEYLNWDVRITTPDLIDSLSYFLGPIKEQLFLQRRQEMLLFNAPSPGQLKEYINHRRPVSHSRTSSAISVPSLTSMATVSTTDSRSSLLAKYQPSLPLVESDNFNKKNHVPLRNNNDICNNFRAEENIHSVNHIDVTMGSSPVMSHKPTIHQRLNFTRRGWSSFFKQ",
+        "length": "304",
+        "mass": "34798",
+        "domains": [
+            {
+                "domain_name": "Cyclin, N-terminal",
+                "domain_shortname": "Cyclin_N",
+                "domain_accession": "IPR006671",
+                "domain_start": "48",
+                "domain_end": "145",
+                "domain_pI": 9.21
+            }
+        ],
+        "protein_pI": 9.65
+    },
+    {
+        "input_name": "DNF2",
+        "accession_protein": "Q12675",
+        "gene names": "{'geneName': {'value': 'DNF2'}, 'orderedLocusNames': [{'value': 'YDR093W'}], 'orfNames': [{'value': 'YD8557.01'}]}",
+        "protein name": "Phospholipid-transporting ATPase DNF2",
+        "sequence": "MSSPSKPTSPFVDDIEHESGSASNGLSSMSPFDDSFQFEKPSSAHGNIEVAKTGGSVLKRQSKPMKDISTPDLSKVTFDGIDDYSNDNDINDDDELNGKKTEIHEHENEVDDDLHSFQATPMPNTGGFEDVELDNNEGSNNDSQADHKLKRVRFGTRRNKSGRIDINRSKTLKWAKKNFHNAIDEFSTKEDSLENSALQNRSDELRTVYYNLPLPEDMLDEDGLPLAVYPRNKIRTTKYTPLTFFPKNILFQFHNFANIYFLILLILGAFQIFGVTNPGFASVPLIVIVIITAIKDGIEDSRRTVLDLEVNNTRTHILSGVKNENVAVDNVSLWRRFKKANTRALIKIFEYFSENLTAAGREKKLQKKREELRRKRNSRSFGPRGSLDSIGSYRMSADFGRPSLDYENLNQTMSQANRYNDGENLVDRTLQPNPECRFAKDYWKNVKVGDIVRVHNNDEIPADMILLSTSDVDGACYVETKNLDGETNLKVRQSLKCSKIIKSSRDITRTKFWVESEGPHANLYSYQGNFKWQDTQNGNIRNEPVNINNLLLRGCTLRNTKWAMGMVIFTGDDTKIMINAGVTPTKKSRISRELNFSVILNFVLLFILCFTAGIVNGVYYKQKPRSRDYFEFGTIGGSASTNGFVSFWVAVILYQSLVPISLYISVEIIKTAQAIFIYTDVLLYNAKLDYPCTPKSWNISDDLGQIEYIFSDKTGTLTQNVMEFKKCTINGVSYGRAYTEALAGLRKRQGVDVESEGRREKEEIAKDRETMIDELRSMSDNTQFCPEDLTFVSKEIVEDLKGSSGDHQQKCCEHFLLALALCHSVLVEPNKDDPKKLDIKAQSPDESALVSTARQLGYSFVGSSKSGLIVEIQGVQKEFQVLNVLEFNSSRKRMSCIIKIPGSTPKDEPKALLICKGADSVIYSRLDRTQNDATLLEKTALHLEEYATEGLRTLCLAQRELTWSEYERWVKTYDVAAASVTNREEELDKVTDVIERELILLGGTAIEDRLQDGVPDSIALLAEAGIKLWVLTGDKVETAINIGFSCNVLNNDMELLVVKASGEDVEEFGSDPIQVVNNLVTKYLREKFGMSGSEEELKEAKREHGLPQGNFAVIIDGDALKVALNGEEMRRKFLLLCKNCKAVLCCRVSPAQKAAVVKLVKKTLDVMTLAIGDGSNDVAMIQSADVGVGIAGEEGRQAVMCSDYAIGQFRYVTRLVLVHGKWCYKRLAEMIPQFFYKNVIFTLSLFWYGIYNNFDGSYLFEYTYLTFYNLAFTSVPVILLAVLDQDVSDTVSMLVPQLYRVGILRKEWNQTKFLWYMLDGVYQSVICFFFPYLAYHKNMVVTENGLGLDHRYFVGVFVTAIAVTSCNFYVFMEQYRWDWFCGLFICLSLAVFYGWTGIWTSSSSSNEFYKGAARVFAQPAYWAVLFVGVLFCLLPRFTIDCIRKIFYPKDIEIVREMWLRGDFDLYPQGYDPTDPSRPRINEIRPLTDFKEPISLDTHFDGVSHSQETIVTEEIPMSILNGEQGSRKGYRVSTTLERRDQLSPVTTTNNLPRRSMASARGNKLRTSLDRTREEMLANHQLDTRYSVERARASLDLPGINHAETLLSQRSRDR",
+        "length": "1612",
+        "mass": "182619",
+        "domains": [
+            {
+                "domain_name": "P-type ATPase, C-terminal",
+                "domain_shortname": "P_typ_ATPase_c",
+                "domain_accession": "IPR032630",
+                "domain_start": "1199",
+                "domain_end": "1449",
+                "domain_pI": 8.54
+            },
+            {
+                "domain_name": "P-type ATPase, N-terminal",
+                "domain_shortname": "P-type_ATPase_N",
+                "domain_accession": "IPR032631",
+                "domain_start": "228",
+                "domain_end": "278",
+                "domain_pI": 10.29
+            },
+            {
+                "domain_name": "P-type ATPase, haloacid dehalogenase domain",
+                "domain_shortname": "P_typ_ATPase_HD_dom",
+                "domain_accession": "IPR044492",
+                "domain_start": "692",
+                "domain_end": "1222",
+                "domain_pI": 5.07
+            }
+        ],
+        "protein_pI": 5.84
+    },
+    {
+        "input_name": "AFI1",
+        "accession_protein": "Q99222",
+        "gene names": "{'geneName': {'value': 'AFI1'}, 'orderedLocusNames': [{'value': 'YOR129C'}], 'orfNames': [{'value': 'YOR3296C'}]}",
+        "protein name": "ARF3-interacting protein 1",
+        "sequence": "MLRRELNNSISNRSIENESFPFERPNVSYIISAEFDNKLGPILKHQYPKDIPGFNQFSHEQRNGNTSVSMNLASLMIPSSIERNPGKQDITVFTLYYNKFTQNYQLFPVPKDPRFSFNLHHREQSDGSVTNSIYYDAENHQDAKNNRYTIVLEDDELECQEVQNNQKAIDNEPLFFINVANTVLDTTNDRGAVIKSIAIGTPLKTFFAFKNIIVLVLDLYMKAPTQAAATDILLDCFNMLNSIDLTLINDIHSKSSIQEVLHSIHDESIITKVFLDPDSTLKKLFCINGFDTKDKYGNIVTFHDQLIQYHFTRFQPKTLPPFLLKIPLQFNMIRREPIYIENDYNELVLKFLDKFVPYLLKAGQKVNAWKLVINSTKLSKEDLCAFILSLANITATYASDPQSYFKGNAALIFPYMDISLVDGLRAYVASNSDFVGCFAIIGTANPIFRYQLDIWDYYYDVDEGVFYENNSPEKEKPDTVAEVKIGPNPLRKIFNRPHFSTNAVNESQVNLGQKLFSLLIDEYHDSDTIMSVLRRLNVLQLENLLDALKRREIPPNIALKDEYIMFYKDFFIFPEFFDYFTLHSIELLSNLDNCLFSLGNTCQLFSTEQIYSQLSQILDIVKELFRMVSVSRTNIEKFLNACLNYSPFKILPTAQLHGDNISRWSFESEVRQGFDNFNSYMGIEKDPHGVIVSAIDLFTQIYSFDILAFFLTFITKESGQDLPFTKSLSRRRTYLTRIAQSSSLRQFLQLSTRPNIRILGGNGQGTGNSNYPEFTNASSVISPKLRASPLLERRASKICYAITKLLYRLECHPIGMALLKKYLHNQLREAYLESKRHFISKKGDSTNTSSTIASSSFAGASVPLSSNESGMLNGLKQINEQQESTLETTQKED",
+        "length": "893",
+        "mass": "102250",
+        "domains": [
+            {
+                "domain_name": "Arf3-interacting protein 1, N-terminal domain",
+                "domain_shortname": "Afi1_N",
+                "domain_accession": "IPR012860",
+                "domain_start": "29",
+                "domain_end": "188",
+                "domain_pI": 4.98
+            },
+            {
+                "domain_name": "Tripartite DENN domain",
+                "domain_shortname": "Tripartite_DENN",
+                "domain_accession": "IPR037516",
+                "domain_start": "28",
+                "domain_end": "640",
+                "domain_pI": 5.24
+            }
+        ],
+        "protein_pI": 5.97
+    }
+]

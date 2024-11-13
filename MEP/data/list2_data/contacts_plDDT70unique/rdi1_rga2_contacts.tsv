@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rdi1	Q12434	HIS	143	Rho protein GDP-dissociation inhibitor	IPR000406	rga2	Q06407	LEU	961	Rho GTPase-activating protein domain	IPR000198
+rdi1	Q12434	PRO	162	Rho protein GDP-dissociation inhibitor	IPR000406	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rdi1	Q12434	PRO	162	Rho protein GDP-dissociation inhibitor	IPR000406	rga2	Q06407	LYS	827	Rho GTPase-activating protein domain	IPR000198
+rdi1	Q12434	GLU	163	Rho protein GDP-dissociation inhibitor	IPR000406	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+rdi1	Q12434	GLU	163	Rho protein GDP-dissociation inhibitor	IPR000406	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198

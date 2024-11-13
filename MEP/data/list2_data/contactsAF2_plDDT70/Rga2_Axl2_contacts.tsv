@@ -1,0 +1,10 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rga2	Q06407	CE	7756	MET	988	Rho GTPase-activating protein domain	IPR000198	Axl2	P38928	OD2	9167	ASP	157	Dystroglycan-type cadherin-like	IPR006644
+Rga2	Q06407	CE	7764	LYS	989	Rho GTPase-activating protein domain	IPR000198	Axl2	P38928	OD2	10137	ASP	280	Dystroglycan-type cadherin-like	IPR006644
+Rga2	Q06407	NZ	7765	LYS	989	Rho GTPase-activating protein domain	IPR000198	Axl2	P38928	OD2	10137	ASP	280	Dystroglycan-type cadherin-like	IPR006644
+Rga2	Q06407	NZ	7765	LYS	989	Rho GTPase-activating protein domain	IPR000198	Axl2	P38928	CG	10135	ASP	280	Dystroglycan-type cadherin-like	IPR006644
+Rga2	Q06407	NZ	7765	LYS	989	Rho GTPase-activating protein domain	IPR000198	Axl2	P38928	OD1	10136	ASP	280	Dystroglycan-type cadherin-like	IPR006644
+Rga2	Q06407	CE	7764	LYS	989	Rho GTPase-activating protein domain	IPR000198	Axl2	P38928	OD2	9167	ASP	157	Dystroglycan-type cadherin-like	IPR006644
+Rga2	Q06407	SD	7755	MET	988	Rho GTPase-activating protein domain	IPR000198	Axl2	P38928	O	9172	PRO	158	Dystroglycan-type cadherin-like	IPR006644
+Rga2	Q06407	CE	7756	MET	988	Rho GTPase-activating protein domain	IPR000198	Axl2	P38928	O	9172	PRO	158	Dystroglycan-type cadherin-like	IPR006644
+Rga2	Q06407	CE	7756	MET	988	Rho GTPase-activating protein domain	IPR000198	Axl2	P38928	CB	9163	ASP	157	Dystroglycan-type cadherin-like	IPR006644

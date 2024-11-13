@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bud3	P25558	LEU	479			Rdi1	Q12434	LYS	187	Rho protein GDP-dissociation inhibitor	IPR000406
+Bud3	P25558	LEU	479			Rdi1	Q12434	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406
+Bud3	P25558	LEU	479			Rdi1	Q12434	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bud3	P25558	ARG	482			Rdi1	Q12434	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bud3	P25558	LYS	480			Rdi1	Q12434	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406

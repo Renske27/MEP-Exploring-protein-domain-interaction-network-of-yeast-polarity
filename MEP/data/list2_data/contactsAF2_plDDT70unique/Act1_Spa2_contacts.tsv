@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Act1	P60010	LYS	215	Actin family	IPR004000	Spa2	P23201	ARG	1430	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	ASP	56	Actin family	IPR004000	Spa2	P23201	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	GLU	57	Actin family	IPR004000	Spa2	P23201	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	ASN	92	Actin family	IPR004000	Spa2	P23201	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	ARG	95	Actin family	IPR004000	Spa2	P23201	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	ARG	95	Actin family	IPR004000	Spa2	P23201	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	TYR	91	Actin family	IPR004000	Spa2	P23201	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

@@ -1,0 +1,11 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp2	P32381	CG	177	ASN	24	Actin family	IPR004000	nrp1	P32770	O	5047	SER	244	RNA recognition motif domain	IPR000504
+arp2	P32381	CG	177	ASN	24	Actin family	IPR004000	nrp1	P32770	C	5046	SER	244	RNA recognition motif domain	IPR000504
+arp2	P32381	O	162	GLY	22	Actin family	IPR004000	nrp1	P32770	O	5078	THR	247	RNA recognition motif domain	IPR000504
+arp2	P32381	O	162	GLY	22	Actin family	IPR004000	nrp1	P32770	CA	5076	THR	247	RNA recognition motif domain	IPR000504
+arp2	P32381	O	162	GLY	22	Actin family	IPR004000	nrp1	P32770	CB	5079	THR	247	RNA recognition motif domain	IPR000504
+arp2	P32381	O	162	GLY	22	Actin family	IPR004000	nrp1	P32770	C	5077	THR	247	RNA recognition motif domain	IPR000504
+arp2	P32381	O	162	GLY	22	Actin family	IPR004000	nrp1	P32770	N	5082	GLN	248	RNA recognition motif domain	IPR000504
+arp2	P32381	CA	160	GLY	22	Actin family	IPR004000	nrp1	P32770	CB	5079	THR	247	RNA recognition motif domain	IPR000504
+arp2	P32381	C	161	GLY	22	Actin family	IPR004000	nrp1	P32770	CB	5079	THR	247	RNA recognition motif domain	IPR000504
+arp2	P32381	N	172	ASN	24	Actin family	IPR004000	nrp1	P32770	CA	5083	GLN	248	RNA recognition motif domain	IPR000504

@@ -1,0 +1,52 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rdi1	Q12434	ASN	175	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ASN	770	Protein kinase domain	IPR000719
+Rdi1	Q12434	LYS	132	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	HIS	218	CRIB domain	IPR000095
+Rdi1	Q12434	GLY	134	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	HIS	218	CRIB domain	IPR000095
+Rdi1	Q12434	ALA	133	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	HIS	218	CRIB domain	IPR000095
+Rdi1	Q12434	LYS	132	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	PRO	773	Protein kinase domain	IPR000719
+Rdi1	Q12434	ALA	133	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ASP	772	Protein kinase domain	IPR000719
+Rdi1	Q12434	ILE	135	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	HIS	218	CRIB domain	IPR000095
+Rdi1	Q12434	ILE	135	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	LYS	214	CRIB domain	IPR000095
+Rdi1	Q12434	ILE	135	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	LEU	774	Protein kinase domain	IPR000719
+Rdi1	Q12434	ALA	136	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	HIS	218	CRIB domain	IPR000095
+Rdi1	Q12434	VAL	137	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	PHE	78	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	ILE	135	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	SER	219	CRIB domain	IPR000095
+Rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	PRO	773	Protein kinase domain	IPR000719
+Rdi1	Q12434	ILE	135	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ASP	772	Protein kinase domain	IPR000719
+Rdi1	Q12434	LYS	202	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ASN	654	Protein kinase domain	IPR000719
+Rdi1	Q12434	LYS	202	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	GLU	653	Protein kinase domain	IPR000719
+Rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	TYR	733	Protein kinase domain	IPR000719
+Rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	LEU	769	Protein kinase domain	IPR000719
+Rdi1	Q12434	TYR	108	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ILE	79	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	PRO	167	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	PHE	78	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	GLU	165	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ILE	79	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	PRO	732	Protein kinase domain	IPR000719
+Rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	THR	731	Protein kinase domain	IPR000719
+Rdi1	Q12434	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	THR	649	Protein kinase domain	IPR000719
+Rdi1	Q12434	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ASP	697	Protein kinase domain	IPR000719
+Rdi1	Q12434	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	GLU	653	Protein kinase domain	IPR000719
+Rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ALA	776	Protein kinase domain	IPR000719
+Rdi1	Q12434	ILE	130	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ILE	79	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	TYR	176	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	PHE	78	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	PRO	732	Protein kinase domain	IPR000719
+Rdi1	Q12434	ASP	138	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ILE	79	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	ASP	138	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	PHE	78	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	ASP	138	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	SER	77	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	ASP	138	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	GLN	81	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	LYS	139	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	GLN	81	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	ILE	140	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	GLN	81	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	HIS	143	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	LYS	96	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	ASP	141	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ARG	83	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	ASP	142	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	LYS	96	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	ASP	142	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ARG	83	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	VAL	137	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	SER	77	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	PRO	162	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	LYS	82	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	GLU	163	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	LYS	82	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	SER	164	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	TRP	80	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	GLU	165	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	TRP	80	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	GLU	163	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	GLN	81	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	GLU	165	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	LYS	122	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	PRO	162	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ARG	83	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	SER	164	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ILE	79	Pleckstrin homology domain	IPR001849
+Rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	TYR	243		
+Rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Cla4	P48562	ASN	244		

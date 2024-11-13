@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bem1	P29366	TYR	164	SH3 domain	IPR001452	Nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876
+Bem1	P29366	TYR	360	Phox homology	IPR001683	Nrp1	P32770	GLN	20		

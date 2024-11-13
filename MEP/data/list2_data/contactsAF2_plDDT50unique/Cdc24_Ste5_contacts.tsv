@@ -1,0 +1,31 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	GLN	393	Dbl homology (DH) domain	IPR000219	Ste5	P32917	ASP	749	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	PHE	210	Calponin homology domain	IPR001715	Ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	ALA	211	Calponin homology domain	IPR001715	Ste5	P32917	GLU	605	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	PHE	210	Calponin homology domain	IPR001715	Ste5	P32917	GLU	605	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	ASN	213	Calponin homology domain	IPR001715	Ste5	P32917	GLU	753	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	GLU	216	Calponin homology domain	IPR001715	Ste5	P32917	ARG	732	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	ASN	213	Calponin homology domain	IPR001715	Ste5	P32917	ARG	732	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	ALA	211	Calponin homology domain	IPR001715	Ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	GLU	215	Calponin homology domain	IPR001715	Ste5	P32917	ARG	571		
+Cdc24	P11433	GLU	215	Calponin homology domain	IPR001715	Ste5	P32917	ARG	732	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	GLU	215	Calponin homology domain	IPR001715	Ste5	P32917	PHE	573		
+Cdc24	P11433	ASN	311	Dbl homology (DH) domain	IPR000219	Ste5	P32917	LYS	554		
+Cdc24	P11433	LEU	308	Dbl homology (DH) domain	IPR000219	Ste5	P32917	THR	574		
+Cdc24	P11433	ASP	309	Dbl homology (DH) domain	IPR000219	Ste5	P32917	THR	574		
+Cdc24	P11433	THR	240	Calponin homology domain	IPR001715	Ste5	P32917	GLY	729	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	GLU	236	Calponin homology domain	IPR001715	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	THR	240	Calponin homology domain	IPR001715	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	PHE	212	Calponin homology domain	IPR001715	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	SER	244	Calponin homology domain	IPR001715	Ste5	P32917	GLY	729	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	PRO	246	Calponin homology domain	IPR001715	Ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	ASN	243	Calponin homology domain	IPR001715	Ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	GLN	305	Dbl homology (DH) domain	IPR000219	Ste5	P32917	ASN	576		
+Cdc24	P11433	GLU	216	Calponin homology domain	IPR001715	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Cdc24	P11433	LEU	308	Dbl homology (DH) domain	IPR000219	Ste5	P32917	LEU	575		
+Cdc24	P11433	LEU	312	Dbl homology (DH) domain	IPR000219	Ste5	P32917	GLN	391		
+Cdc24	P11433	ASN	311	Dbl homology (DH) domain	IPR000219	Ste5	P32917	ASN	551		
+Cdc24	P11433	ASN	311	Dbl homology (DH) domain	IPR000219	Ste5	P32917	ASN	553		
+Cdc24	P11433	LEU	308	Dbl homology (DH) domain	IPR000219	Ste5	P32917	ASN	553		
+Cdc24	P11433	ILE	313	Dbl homology (DH) domain	IPR000219	Ste5	P32917	ASN	553		
+Cdc24	P11433	SER	315	Dbl homology (DH) domain	IPR000219	Ste5	P32917	ASN	553		

@@ -1,0 +1,7 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+act1	P60010	CG	1327	PRO	172	Actin family	IPR004000	rax1	Q08760	CG	4937	PRO	245	RGS domain	IPR016137
+act1	P60010	CD	1328	PRO	172	Actin family	IPR004000	rax1	Q08760	CG	4937	PRO	245	RGS domain	IPR016137
+act1	P60010	CB	1292	ALA	167	Actin family	IPR004000	rax1	Q08760	N	3105	LEU	22		
+act1	P60010	O	1291	ALA	167	Actin family	IPR004000	rax1	Q08760	N	3105	LEU	22		
+act1	P60010	CB	1292	ALA	167	Actin family	IPR004000	rax1	Q08760	CA	3095	ARG	21		
+act1	P60010	O	1291	ALA	167	Actin family	IPR004000	rax1	Q08760	CA	3095	ARG	21		

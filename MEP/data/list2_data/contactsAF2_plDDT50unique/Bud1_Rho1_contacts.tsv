@@ -1,0 +1,40 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bud1	P13856	ASN	153	Small GTP-binding domain	IPR005225	Rho1	P06780	ASP	70	Small GTP-binding domain	IPR005225
+Bud1	P13856	SER	152	Small GTP-binding domain	IPR005225	Rho1	P06780	ASP	70	Small GTP-binding domain	IPR005225
+Bud1	P13856	ASN	153	Small GTP-binding domain	IPR005225	Rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225
+Bud1	P13856	GLU	145	Small GTP-binding domain	IPR005225	Rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	140	Small GTP-binding domain	IPR005225	Rho1	P06780	VAL	48	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	140	Small GTP-binding domain	IPR005225	Rho1	P06780	ASN	46	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	140	Small GTP-binding domain	IPR005225	Rho1	P06780	GLU	59	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	140	Small GTP-binding domain	IPR005225	Rho1	P06780	ARG	10	Small GTP-binding domain	IPR005225
+Bud1	P13856	PHE	143	Small GTP-binding domain	IPR005225	Rho1	P06780	PHE	44	Small GTP-binding domain	IPR005225
+Bud1	P13856	SER	135	Small GTP-binding domain	IPR005225	Rho1	P06780	ASN	46	Small GTP-binding domain	IPR005225
+Bud1	P13856	PRO	142	Small GTP-binding domain	IPR005225	Rho1	P06780	PHE	44	Small GTP-binding domain	IPR005225
+Bud1	P13856	ILE	132	Small GTP-binding domain	IPR005225	Rho1	P06780	PHE	44	Small GTP-binding domain	IPR005225
+Bud1	P13856	ASN	153	Small GTP-binding domain	IPR005225	Rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225
+Bud1	P13856	ILE	132	Small GTP-binding domain	IPR005225	Rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	140	Small GTP-binding domain	IPR005225	Rho1	P06780	ALA	61	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	140	Small GTP-binding domain	IPR005225	Rho1	P06780	TYR	47	Small GTP-binding domain	IPR005225
+Bud1	P13856	VAL	128	Small GTP-binding domain	IPR005225	Rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225
+Bud1	P13856	ASN	153	Small GTP-binding domain	IPR005225	Rho1	P06780	VAL	43	Small GTP-binding domain	IPR005225
+Bud1	P13856	TYR	144	Small GTP-binding domain	IPR005225	Rho1	P06780	VAL	43	Small GTP-binding domain	IPR005225
+Bud1	P13856	LEU	150	Small GTP-binding domain	IPR005225	Rho1	P06780	ARG	73	Small GTP-binding domain	IPR005225
+Bud1	P13856	PRO	142	Small GTP-binding domain	IPR005225	Rho1	P06780	GLU	45	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	167			Rho1	P06780	TYR	47	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	167			Rho1	P06780	ILE	28	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	167			Rho1	P06780	GLU	45	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	167			Rho1	P06780	THR	24	Small GTP-binding domain	IPR005225
+Bud1	P13856	TYR	144	Small GTP-binding domain	IPR005225	Rho1	P06780	THR	42	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	163			Rho1	P06780	TYR	39	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	163			Rho1	P06780	VAL	40	Small GTP-binding domain	IPR005225
+Bud1	P13856	ASP	47	Small GTP-binding domain	IPR005225	Rho1	P06780	VAL	38	Small GTP-binding domain	IPR005225
+Bud1	P13856	ASP	47	Small GTP-binding domain	IPR005225	Rho1	P06780	TYR	39	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	163			Rho1	P06780	VAL	38	Small GTP-binding domain	IPR005225
+Bud1	P13856	ILE	46	Small GTP-binding domain	IPR005225	Rho1	P06780	VAL	38	Small GTP-binding domain	IPR005225
+Bud1	P13856	LYS	49	Small GTP-binding domain	IPR005225	Rho1	P06780	GLU	37	Small GTP-binding domain	IPR005225
+Bud1	P13856	LYS	49	Small GTP-binding domain	IPR005225	Rho1	P06780	VAL	38	Small GTP-binding domain	IPR005225
+Bud1	P13856	ASP	160			Rho1	P06780	GLU	45	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	167			Rho1	P06780	VAL	40	Small GTP-binding domain	IPR005225
+Bud1	P13856	MET	170			Rho1	P06780	GLU	37	Small GTP-binding domain	IPR005225
+Bud1	P13856	GLU	156	Small GTP-binding domain	IPR005225	Rho1	P06780	VAL	43	Small GTP-binding domain	IPR005225
+Bud1	P13856	GLU	156	Small GTP-binding domain	IPR005225	Rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225

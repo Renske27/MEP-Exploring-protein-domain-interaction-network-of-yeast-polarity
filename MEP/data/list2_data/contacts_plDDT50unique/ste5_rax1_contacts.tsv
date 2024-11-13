@@ -1,0 +1,19 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	LYS	232	RGS domain	IPR016137
+ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	TYR	236	RGS domain	IPR016137
+ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	ASN	233	RGS domain	IPR016137
+ste5	P32917	THR	574			rax1	Q08760	GLU	208	RGS domain	IPR016137
+ste5	P32917	LEU	575			rax1	Q08760	GLU	208	RGS domain	IPR016137
+ste5	P32917	SER	591			rax1	Q08760	MET	207	RGS domain	IPR016137
+ste5	P32917	SER	591			rax1	Q08760	PRO	206	RGS domain	IPR016137
+ste5	P32917	GLY	729	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	THR	24		
+ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	TYR	26		
+ste5	P32917	GLY	729	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	TYR	26		
+ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	ASN	13		
+ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	PHE	14		
+ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	ILE	17		
+ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	SER	10		
+ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	ARG	21		
+ste5	P32917	GLY	729	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	GLU	27		
+ste5	P32917	LYS	603	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	MET	241	RGS domain	IPR016137
+ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	TYR	26		

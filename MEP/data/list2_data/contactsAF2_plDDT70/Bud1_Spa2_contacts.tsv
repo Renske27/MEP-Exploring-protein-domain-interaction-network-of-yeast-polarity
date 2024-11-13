@@ -1,0 +1,10 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bud1	P13856	OE1	725	GLU	92	Small GTP-binding domain	IPR005225	Spa2	P23201	NZ	12620	LYS	1344	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Bud1	P13856	OD1	289	ASP	38	Small GTP-binding domain	IPR005225	Spa2	P23201	NZ	13385	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Bud1	P13856	OD1	289	ASP	38	Small GTP-binding domain	IPR005225	Spa2	P23201	CE	13384	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Bud1	P13856	OE2	282	GLU	37	Small GTP-binding domain	IPR005225	Spa2	P23201	NZ	13363	LYS	1440	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Bud1	P13856	OE2	282	GLU	37	Small GTP-binding domain	IPR005225	Spa2	P23201	CE	13362	LYS	1440	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Bud1	P13856	CD	280	GLU	37	Small GTP-binding domain	IPR005225	Spa2	P23201	NZ	13363	LYS	1440	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Bud1	P13856	OE1	281	GLU	37	Small GTP-binding domain	IPR005225	Spa2	P23201	NZ	13363	LYS	1440	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Bud1	P13856	CG	288	ASP	38	Small GTP-binding domain	IPR005225	Spa2	P23201	NZ	13385	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Bud1	P13856	OD2	290	ASP	38	Small GTP-binding domain	IPR005225	Spa2	P23201	NZ	13385	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

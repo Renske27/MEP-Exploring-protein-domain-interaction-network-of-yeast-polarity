@@ -1,0 +1,218 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+nrp1	P32770	O	4714	ARG	603	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	NH1	11825	ARG	800	Protein kinase domain	IPR000719
+nrp1	P32770	CE2	4629	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11990	HIS	821	Protein kinase domain	IPR000719
+nrp1	P32770	CZ	4630	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11990	HIS	821	Protein kinase domain	IPR000719
+nrp1	P32770	OH	4631	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11992	HIS	821	Protein kinase domain	IPR000719
+nrp1	P32770	OH	4631	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CB	11991	HIS	821	Protein kinase domain	IPR000719
+nrp1	P32770	OH	4631	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CA	11988	HIS	821	Protein kinase domain	IPR000719
+nrp1	P32770	OH	4631	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11990	HIS	821	Protein kinase domain	IPR000719
+nrp1	P32770	OH	4631	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	C	11989	HIS	821	Protein kinase domain	IPR000719
+nrp1	P32770	OH	4631	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	N	11997	HIS	822	Protein kinase domain	IPR000719
+nrp1	P32770	CE2	4629	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CB	11991	HIS	821	Protein kinase domain	IPR000719
+nrp1	P32770	CZ	4630	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CB	11991	HIS	821	Protein kinase domain	IPR000719
+nrp1	P32770	O	4706	LEU	602	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD2	12004	HIS	822	Protein kinase domain	IPR000719
+nrp1	P32770	O	4706	LEU	602	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	NE2	12006	HIS	822	Protein kinase domain	IPR000719
+nrp1	P32770	CE2	4659	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	N	11962	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CE2	4659	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CA	11963	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD1	4709	LEU	602	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CB	11966	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	OD1	4681	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11969	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	OD1	4681	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD	11968	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	OD1	4681	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE2	11970	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CG	4680	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11969	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	ND2	4682	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11969	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CG	4680	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD	11968	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	ND2	4682	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD	11968	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	ND2	4682	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11967	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD1	4709	LEU	602	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11967	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CG	4680	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE2	11970	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	ND2	4682	ASN	598	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE2	11970	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD1	4709	LEU	602	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CA	11963	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD1	4709	LEU	602	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11965	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD1	4709	LEU	602	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	C	11964	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	4657	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CB	11966	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CB	4654	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11969	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CB	4654	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD	11968	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CG	4655	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11969	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CG	4655	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11967	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	4657	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11969	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	4657	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD	11968	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	4657	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11967	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CE2	4659	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11967	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CZ	4660	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11958	GLU	817	Protein kinase domain	IPR000719
+nrp1	P32770	CE2	4659	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11958	GLU	817	Protein kinase domain	IPR000719
+nrp1	P32770	CG	4671	LYS	597	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11969	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CD	4672	LYS	597	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11969	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CE1	4658	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11960	GLU	817	Protein kinase domain	IPR000719
+nrp1	P32770	CE1	4658	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD	11959	GLU	817	Protein kinase domain	IPR000719
+nrp1	P32770	CZ	4660	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11960	GLU	817	Protein kinase domain	IPR000719
+nrp1	P32770	CZ	4660	PHE	595	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD	11959	GLU	817	Protein kinase domain	IPR000719
+nrp1	P32770	OH	4631	TYR	592	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11965	GLU	818	Protein kinase domain	IPR000719
+nrp1	P32770	CB	4687	VAL	599	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CE1	11920	TYR	812	Protein kinase domain	IPR000719
+nrp1	P32770	CG2	4689	VAL	599	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CZ	11922	TYR	812	Protein kinase domain	IPR000719
+nrp1	P32770	CG2	4689	VAL	599	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CE1	11920	TYR	812	Protein kinase domain	IPR000719
+nrp1	P32770	CG2	4689	VAL	599	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD1	11918	TYR	812	Protein kinase domain	IPR000719
+nrp1	P32770	CG2	4689	VAL	599	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11917	TYR	812	Protein kinase domain	IPR000719
+nrp1	P32770	O	4725	CYS	604	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	NH2	11826	ARG	800	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	4710	LEU	602	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG1	11857	VAL	804	Protein kinase domain	IPR000719
+nrp1	P32770	O	4669	LYS	597	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11904	ARG	811	Protein kinase domain	IPR000719
+nrp1	P32770	CD	2954	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	11546	GLU	765	Protein kinase domain	IPR000719
+nrp1	P32770	CD	2954	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD	11545	GLU	765	Protein kinase domain	IPR000719
+nrp1	P32770	CB	2932	PHE	369	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD2	11581	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	2935	PHE	369	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD1	11580	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	2935	PHE	369	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD2	11581	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	CB	2952	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11587	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	O	2951	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11587	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	C	2950	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11587	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	CB	2952	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD1	11588	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	O	2951	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD1	11588	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	C	2950	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD1	11588	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	O	2951	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CA	11583	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	CB	2952	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE2	11547	GLU	765	Protein kinase domain	IPR000719
+nrp1	P32770	CG	2953	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE2	11547	GLU	765	Protein kinase domain	IPR000719
+nrp1	P32770	O	2951	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	ND2	11589	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	NE	2966	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CZ	11280	TYR	733	Protein kinase domain	IPR000719
+nrp1	P32770	NE	2966	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CE2	11279	TYR	733	Protein kinase domain	IPR000719
+nrp1	P32770	NE	2966	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OH	11281	TYR	733	Protein kinase domain	IPR000719
+nrp1	P32770	CD	2965	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OH	11281	TYR	733	Protein kinase domain	IPR000719
+nrp1	P32770	NE	2966	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11577	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	CD	2965	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11577	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	CG	2964	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11577	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	CB	2963	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11577	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	CA	2960	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11577	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	CA	2960	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD1	11588	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	NE	2966	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD1	11580	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	CG	2964	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11579	LEU	769	Protein kinase domain	IPR000719
+nrp1	P32770	O	2836	PRO	356	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	10638	GLU	653	Protein kinase domain	IPR000719
+nrp1	P32770	N	2959	ARG	372	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD1	11588	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	CA	2949	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD1	11588	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	CG	3004	ARG	377	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD1	7478	ASN	244		
+nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CZ	11280	TYR	733	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CE2	11279	TYR	733	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OH	11281	TYR	733	Protein kinase domain	IPR000719
+nrp1	P32770	OG1	2975	THR	373	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	O	11585	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	OG	3021	SER	379	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OH	7441	TYR	240	CRIB domain	IPR000095
+nrp1	P32770	O	2985	CYS	375	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11612	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	C	2984	CYS	375	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11612	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	N	3016	SER	379	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OH	7441	TYR	240	CRIB domain	IPR000095
+nrp1	P32770	O	3002	ARG	377	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CZ	7440	TYR	240	CRIB domain	IPR000095
+nrp1	P32770	O	3002	ARG	377	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OH	7441	TYR	240	CRIB domain	IPR000095
+nrp1	P32770	C	3001	ARG	377	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OH	7441	TYR	240	CRIB domain	IPR000095
+nrp1	P32770	N	3010	CYS	378	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OH	7441	TYR	240	CRIB domain	IPR000095
+nrp1	P32770	OG	3021	SER	379	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11604	ASP	772	Protein kinase domain	IPR000719
+nrp1	P32770	OG	3021	SER	379	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD2	11606	ASP	772	Protein kinase domain	IPR000719
+nrp1	P32770	O	2985	CYS	375	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CD	11613	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	CA	3017	SER	379	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD2	11606	ASP	772	Protein kinase domain	IPR000719
+nrp1	P32770	CB	3020	SER	379	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD2	11606	ASP	772	Protein kinase domain	IPR000719
+nrp1	P32770	O	2951	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CB	11586	ASN	770	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CB	11611	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	O	2991	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CB	11611	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	C	2990	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CB	11611	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	2995	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11612	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	O	2991	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11612	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	C	2990	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11612	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	CA	2989	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11612	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	N	2988	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	11612	PRO	773	Protein kinase domain	IPR000719
+nrp1	P32770	O	2991	PHE	376	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OH	7441	TYR	240	CRIB domain	IPR000095
+nrp1	P32770	O	3002	ARG	377	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	CG	7477	ASN	244		
+nrp1	P32770	O	3002	ARG	377	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OD1	7478	ASN	244		
+nrp1	P32770	CD	2954	ARG	371	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE2	11547	GLU	765	Protein kinase domain	IPR000719
+nrp1	P32770	OE1	2946	GLN	370	Zinc finger, RanBP2-type	IPR001876	cla4	P48562	OE1	10638	GLU	653	Protein kinase domain	IPR000719
+nrp1	P32770	O	2571	VAL	322	RNA recognition motif domain	IPR000504	cla4	P48562	NZ	10154	LYS	594	Protein kinase domain	IPR000719
+nrp1	P32770	CA	2583	GLU	324			cla4	P48562	N	9856	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	C	2584	GLU	324			cla4	P48562	N	9856	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	CB	2586	GLU	324			cla4	P48562	N	9856	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	N	2582	GLU	324			cla4	P48562	N	9856	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	CA	117	ASP	15			cla4	P48562	O	10214	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	CA	117	ASP	15			cla4	P48562	C	10213	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	CB	120	ASP	15			cla4	P48562	O	10214	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	CB	120	ASP	15			cla4	P48562	C	10213	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	CB	113	PRO	14			cla4	P48562	O	10190	SER	599	Protein kinase domain	IPR000719
+nrp1	P32770	CA	110	PRO	14			cla4	P48562	O	10190	SER	599	Protein kinase domain	IPR000719
+nrp1	P32770	CB	113	PRO	14			cla4	P48562	C	10189	SER	599	Protein kinase domain	IPR000719
+nrp1	P32770	CG	114	PRO	14			cla4	P48562	O	10190	SER	599	Protein kinase domain	IPR000719
+nrp1	P32770	CD	115	PRO	14			cla4	P48562	O	10190	SER	599	Protein kinase domain	IPR000719
+nrp1	P32770	N	109	PRO	14			cla4	P48562	O	10190	SER	599	Protein kinase domain	IPR000719
+nrp1	P32770	CG	114	PRO	14			cla4	P48562	C	10189	SER	599	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	O	10205	GLN	601	Protein kinase domain	IPR000719
+nrp1	P32770	C	111	PRO	14			cla4	P48562	O	10205	GLN	601	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	N	10202	GLN	601	Protein kinase domain	IPR000719
+nrp1	P32770	C	111	PRO	14			cla4	P48562	N	10202	GLN	601	Protein kinase domain	IPR000719
+nrp1	P32770	CB	113	PRO	14			cla4	P48562	N	10202	GLN	601	Protein kinase domain	IPR000719
+nrp1	P32770	CB	113	PRO	14			cla4	P48562	N	10193	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	CB	113	PRO	14			cla4	P48562	CA	10194	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	CA	110	PRO	14			cla4	P48562	CA	10194	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	CA	117	ASP	15			cla4	P48562	CB	10215	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	CA	117	ASP	15			cla4	P48562	CA	10212	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	N	116	ASP	15			cla4	P48562	CA	10212	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	CA	117	ASP	15			cla4	P48562	N	10211	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	N	116	ASP	15			cla4	P48562	N	10211	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	CB	10215	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	CA	10212	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	C	111	PRO	14			cla4	P48562	CA	10212	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	CG	10216	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	N	10211	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	C	10204	GLN	601	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	CD	10217	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	CA	10203	GLN	601	Protein kinase domain	IPR000719
+nrp1	P32770	C	111	PRO	14			cla4	P48562	N	10211	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	C	111	PRO	14			cla4	P48562	C	10204	GLN	601	Protein kinase domain	IPR000719
+nrp1	P32770	CB	120	ASP	15			cla4	P48562	CB	10215	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	CB	120	ASP	15			cla4	P48562	CA	10212	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	C	10195	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	O	112	PRO	14			cla4	P48562	O	10196	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	C	111	PRO	14			cla4	P48562	C	10195	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	C	111	PRO	14			cla4	P48562	O	10196	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	CB	113	PRO	14			cla4	P48562	C	10195	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	CB	113	PRO	14			cla4	P48562	O	10196	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	CA	110	PRO	14			cla4	P48562	C	10195	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	CA	110	PRO	14			cla4	P48562	O	10196	LYS	600	Protein kinase domain	IPR000719
+nrp1	P32770	O	119	ASP	15			cla4	P48562	CB	10215	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	O	119	ASP	15			cla4	P48562	CA	10212	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	C	118	ASP	15			cla4	P48562	CB	10215	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	C	118	ASP	15			cla4	P48562	CA	10212	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	N	124	THR	16			cla4	P48562	CB	10215	PRO	602	Protein kinase domain	IPR000719
+nrp1	P32770	O	1993	TYR	249	RNA recognition motif domain	IPR000504	cla4	P48562	N	6166	TRP	80	Pleckstrin homology domain	IPR001849
+nrp1	P32770	CB	2412	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CG	6152	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	CG	2413	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CD1	6153	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	CB	2412	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CD1	6153	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	C	1992	TYR	249	RNA recognition motif domain	IPR000504	cla4	P48562	O	6150	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	O	1993	TYR	249	RNA recognition motif domain	IPR000504	cla4	P48562	CA	6159	ILE	79	Pleckstrin homology domain	IPR001849
+nrp1	P32770	O	1993	TYR	249	RNA recognition motif domain	IPR000504	cla4	P48562	N	6158	ILE	79	Pleckstrin homology domain	IPR001849
+nrp1	P32770	O	1993	TYR	249	RNA recognition motif domain	IPR000504	cla4	P48562	O	6150	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	O	1993	TYR	249	RNA recognition motif domain	IPR000504	cla4	P48562	C	6149	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	O	1984	GLN	248	RNA recognition motif domain	IPR000504	cla4	P48562	O	6169	TRP	80	Pleckstrin homology domain	IPR001849
+nrp1	P32770	CA	2003	GLY	250	RNA recognition motif domain	IPR000504	cla4	P48562	CD1	6172	TRP	80	Pleckstrin homology domain	IPR001849
+nrp1	P32770	CA	2003	GLY	250	RNA recognition motif domain	IPR000504	cla4	P48562	O	6150	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	O	2005	GLY	250	RNA recognition motif domain	IPR000504	cla4	P48562	O	6150	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	C	2004	GLY	250	RNA recognition motif domain	IPR000504	cla4	P48562	O	6150	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	OG	6146	SER	77	Pleckstrin homology domain	IPR001849
+nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CA	6148	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CB	6151	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CG	6152	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CB	6151	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CG	6152	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	OE2	2416	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CD1	6153	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	OE1	2415	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CD1	6153	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	CD	2414	GLU	301	RNA recognition motif domain	IPR000504	cla4	P48562	CD1	6153	PHE	78	Pleckstrin homology domain	IPR001849
+nrp1	P32770	OD2	2291	ASP	285	RNA recognition motif domain	IPR000504	cla4	P48562	CE	9832	LYS	551	Protein kinase domain	IPR000719
+nrp1	P32770	OD2	2291	ASP	285	RNA recognition motif domain	IPR000504	cla4	P48562	NZ	9833	LYS	551	Protein kinase domain	IPR000719
+nrp1	P32770	OD2	2291	ASP	285	RNA recognition motif domain	IPR000504	cla4	P48562	CA	9840	GLY	553	Protein kinase domain	IPR000719
+nrp1	P32770	NZ	146	LYS	18			cla4	P48562	C	9854	GLY	555	Protein kinase domain	IPR000719
+nrp1	P32770	OD1	2273	ASP	283	RNA recognition motif domain	IPR000504	cla4	P48562	O	9846	GLN	554	Protein kinase domain	IPR000719
+nrp1	P32770	OD1	2273	ASP	283	RNA recognition motif domain	IPR000504	cla4	P48562	CG	9848	GLN	554	Protein kinase domain	IPR000719
+nrp1	P32770	NE2	2600	HIS	325			cla4	P48562	C	9845	GLN	554	Protein kinase domain	IPR000719
+nrp1	P32770	CD2	2598	HIS	325			cla4	P48562	O	9846	GLN	554	Protein kinase domain	IPR000719
+nrp1	P32770	NE2	2600	HIS	325			cla4	P48562	O	9846	GLN	554	Protein kinase domain	IPR000719
+nrp1	P32770	CE1	2599	HIS	325			cla4	P48562	O	9846	GLN	554	Protein kinase domain	IPR000719
+nrp1	P32770	O	2585	GLU	324			cla4	P48562	C	9854	GLY	555	Protein kinase domain	IPR000719
+nrp1	P32770	O	2585	GLU	324			cla4	P48562	CA	9853	GLY	555	Protein kinase domain	IPR000719
+nrp1	P32770	CG1	2580	VAL	323			cla4	P48562	CA	9853	GLY	555	Protein kinase domain	IPR000719
+nrp1	P32770	CB	2579	VAL	323			cla4	P48562	CA	9853	GLY	555	Protein kinase domain	IPR000719
+nrp1	P32770	CE	145	LYS	18			cla4	P48562	CA	9857	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	CE	145	LYS	18			cla4	P48562	N	9856	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	NZ	146	LYS	18			cla4	P48562	CA	9857	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	NZ	146	LYS	18			cla4	P48562	N	9856	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	O	2585	GLU	324			cla4	P48562	CA	9857	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	O	2585	GLU	324			cla4	P48562	N	9856	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	CD	144	LYS	18			cla4	P48562	CA	9857	ALA	556	Protein kinase domain	IPR000719
+nrp1	P32770	OD2	2291	ASP	285	RNA recognition motif domain	IPR000504	cla4	P48562	O	9828	LYS	551	Protein kinase domain	IPR000719

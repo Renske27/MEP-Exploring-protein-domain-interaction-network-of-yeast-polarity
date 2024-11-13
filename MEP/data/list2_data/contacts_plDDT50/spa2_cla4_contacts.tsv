@@ -1,0 +1,89 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+spa2	P23201	CD	2608	GLU	327			cla4	P48562	CD1	12836	LEU	180	Pleckstrin homology domain	IPR001849
+spa2	P23201	CD	2608	GLU	327			cla4	P48562	CD2	12837	LEU	180	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE2	2610	GLU	327			cla4	P48562	CD2	12837	LEU	180	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE1	2582	GLU	324			cla4	P48562	O	12305	THR	111	Pleckstrin homology domain	IPR001849
+spa2	P23201	CG	2580	GLU	324			cla4	P48562	SG	12472	CYS	131	Pleckstrin homology domain	IPR001849
+spa2	P23201	CD	2581	GLU	324			cla4	P48562	O	12305	THR	111	Pleckstrin homology domain	IPR001849
+spa2	P23201	CD	2581	GLU	324			cla4	P48562	CD1	12330	ILE	114	Pleckstrin homology domain	IPR001849
+spa2	P23201	CG	2580	GLU	324			cla4	P48562	CD1	12330	ILE	114	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE2	2547	GLU	320	GIT, Spa2 homology (SHD) domain	IPR013724	cla4	P48562	CG2	12329	ILE	114	Pleckstrin homology domain	IPR001849
+spa2	P23201	CD2	2525	LEU	317	GIT, Spa2 homology (SHD) domain	IPR013724	cla4	P48562	CB	12620	SER	153	Pleckstrin homology domain	IPR001849
+spa2	P23201	CD2	2525	LEU	317	GIT, Spa2 homology (SHD) domain	IPR013724	cla4	P48562	OG	12621	SER	153	Pleckstrin homology domain	IPR001849
+spa2	P23201	CD1	2524	LEU	317	GIT, Spa2 homology (SHD) domain	IPR013724	cla4	P48562	CE	12629	LYS	154	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE2	2583	GLU	324			cla4	P48562	CD1	12330	ILE	114	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE2	2547	GLU	320	GIT, Spa2 homology (SHD) domain	IPR013724	cla4	P48562	CD1	12330	ILE	114	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE1	2582	GLU	324			cla4	P48562	CD1	12836	LEU	180	Pleckstrin homology domain	IPR001849
+spa2	P23201	CD	2581	GLU	324			cla4	P48562	CD1	12836	LEU	180	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE2	2583	GLU	324			cla4	P48562	CD1	12836	LEU	180	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE2	2583	GLU	324			cla4	P48562	CB	12834	LEU	180	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE1	2582	GLU	324			cla4	P48562	N	12309	SER	112	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE1	2582	GLU	324			cla4	P48562	CA	12310	SER	112	Pleckstrin homology domain	IPR001849
+spa2	P23201	OE1	2582	GLU	324			cla4	P48562	C	12304	THR	111	Pleckstrin homology domain	IPR001849
+spa2	P23201	CE2	11201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	NZ	12630	LYS	154	Pleckstrin homology domain	IPR001849
+spa2	P23201	CE	10796	LYS	1385	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CG	13213	ASN	228	CRIB domain	IPR000095
+spa2	P23201	CE	10796	LYS	1385	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	ND2	13215	ASN	228	CRIB domain	IPR000095
+spa2	P23201	CB	10763	ALA	1381	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	OD1	17559	ASN	783	Protein kinase domain	IPR000719
+spa2	P23201	CA	10735	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17556	ASN	783	Protein kinase domain	IPR000719
+spa2	P23201	CE	10787	LYS	1384	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	C	17548	THR	782	Protein kinase domain	IPR000719
+spa2	P23201	CE	10787	LYS	1384	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17549	THR	782	Protein kinase domain	IPR000719
+spa2	P23201	NZ	10788	LYS	1384	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CA	17547	THR	782	Protein kinase domain	IPR000719
+spa2	P23201	NZ	10788	LYS	1384	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17544	ALA	781	Protein kinase domain	IPR000719
+spa2	P23201	NZ	10788	LYS	1384	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	C	17548	THR	782	Protein kinase domain	IPR000719
+spa2	P23201	NZ	10788	LYS	1384	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17549	THR	782	Protein kinase domain	IPR000719
+spa2	P23201	CD	10786	LYS	1384	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17549	THR	782	Protein kinase domain	IPR000719
+spa2	P23201	OD1	10674	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	NH2	17780	ARG	811	Protein kinase domain	IPR000719
+spa2	P23201	OD1	10674	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CZ	17778	ARG	811	Protein kinase domain	IPR000719
+spa2	P23201	OD1	10674	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	NH1	17779	ARG	811	Protein kinase domain	IPR000719
+spa2	P23201	CD1	10701	ILE	1373	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CE2	17790	TYR	812	Protein kinase domain	IPR000719
+spa2	P23201	CG	10673	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	NH2	17780	ARG	811	Protein kinase domain	IPR000719
+spa2	P23201	OD2	10675	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	NH2	17780	ARG	811	Protein kinase domain	IPR000719
+spa2	P23201	CG	10673	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CZ	17778	ARG	811	Protein kinase domain	IPR000719
+spa2	P23201	OD2	10675	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CZ	17778	ARG	811	Protein kinase domain	IPR000719
+spa2	P23201	CG	10673	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	NH1	17779	ARG	811	Protein kinase domain	IPR000719
+spa2	P23201	OD2	10675	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	NH1	17779	ARG	811	Protein kinase domain	IPR000719
+spa2	P23201	OE2	10724	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	N	17755	ASP	809	Protein kinase domain	IPR000719
+spa2	P23201	CD	10722	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	N	17755	ASP	809	Protein kinase domain	IPR000719
+spa2	P23201	OE1	10723	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	N	17755	ASP	809	Protein kinase domain	IPR000719
+spa2	P23201	OE1	10723	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CB	17759	ASP	809	Protein kinase domain	IPR000719
+spa2	P23201	CD1	10701	ILE	1373	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CD2	17788	TYR	812	Protein kinase domain	IPR000719
+spa2	P23201	CD1	10701	ILE	1373	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CZ	17791	TYR	812	Protein kinase domain	IPR000719
+spa2	P23201	CG	10673	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	OH	17792	TYR	812	Protein kinase domain	IPR000719
+spa2	P23201	CB	10672	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	OH	17792	TYR	812	Protein kinase domain	IPR000719
+spa2	P23201	OD2	10675	ASP	1369	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	OH	17792	TYR	812	Protein kinase domain	IPR000719
+spa2	P23201	OE1	10723	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	N	17748	VAL	808	Protein kinase domain	IPR000719
+spa2	P23201	O	10719	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CA	17566	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	OE1	10732	GLN	1377	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CB	17569	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	O	10719	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CB	17569	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	OG	10739	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CA	17573	PRO	786	Protein kinase domain	IPR000719
+spa2	P23201	OG	10739	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17568	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	OG	10739	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	N	17579	LYS	787	Protein kinase domain	IPR000719
+spa2	P23201	OG	10739	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	C	17574	PRO	786	Protein kinase domain	IPR000719
+spa2	P23201	OG	10739	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CB	17583	LYS	787	Protein kinase domain	IPR000719
+spa2	P23201	OG	10739	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CA	17580	LYS	787	Protein kinase domain	IPR000719
+spa2	P23201	N	10734	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17568	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	C	10727	GLN	1377	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17568	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	OE1	10732	GLN	1377	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CG2	17571	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	O	10719	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	OG1	17570	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	NE2	10733	GLN	1377	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	OG1	17570	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	OE2	10724	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CG1	17753	VAL	808	Protein kinase domain	IPR000719
+spa2	P23201	CD	10722	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CG1	17753	VAL	808	Protein kinase domain	IPR000719
+spa2	P23201	OE2	10724	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CB	17752	VAL	808	Protein kinase domain	IPR000719
+spa2	P23201	CG	10721	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CB	17752	VAL	808	Protein kinase domain	IPR000719
+spa2	P23201	CD	10722	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CB	17752	VAL	808	Protein kinase domain	IPR000719
+spa2	P23201	OE1	10723	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CB	17752	VAL	808	Protein kinase domain	IPR000719
+spa2	P23201	CB	10720	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CB	17752	VAL	808	Protein kinase domain	IPR000719
+spa2	P23201	CB	10720	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CG2	17754	VAL	808	Protein kinase domain	IPR000719
+spa2	P23201	O	10728	GLN	1377	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17556	ASN	783	Protein kinase domain	IPR000719
+spa2	P23201	O	10719	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	C	17555	ASN	783	Protein kinase domain	IPR000719
+spa2	P23201	O	10719	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	CA	17562	GLY	784	Protein kinase domain	IPR000719
+spa2	P23201	O	10719	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17556	ASN	783	Protein kinase domain	IPR000719
+spa2	P23201	O	10719	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	C	17563	GLY	784	Protein kinase domain	IPR000719
+spa2	P23201	O	10719	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	N	17565	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	N	10734	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17556	ASN	783	Protein kinase domain	IPR000719
+spa2	P23201	C	10718	GLU	1376	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17556	ASN	783	Protein kinase domain	IPR000719
+spa2	P23201	C	10727	GLN	1377	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17556	ASN	783	Protein kinase domain	IPR000719
+spa2	P23201	CB	10738	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17568	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	CA	10735	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	O	17568	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	CB	10738	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	C	17567	THR	785	Protein kinase domain	IPR000719
+spa2	P23201	CB	10738	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cla4	P48562	N	17579	LYS	787	Protein kinase domain	IPR000719

@@ -1,0 +1,36 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+act1	P60010	ASP	56	Actin family	IPR004000	cdc24	P11433	ASN	804	PB1 domain	IPR000270
+act1	P60010	VAL	30	Actin family	IPR004000	cdc24	P11433	LYS	801	PB1 domain	IPR000270
+act1	P60010	ASP	56	Actin family	IPR004000	cdc24	P11433	LYS	801	PB1 domain	IPR000270
+act1	P60010	ARG	28	Actin family	IPR004000	cdc24	P11433	PRO	758		
+act1	P60010	ARG	28	Actin family	IPR004000	cdc24	P11433	ILE	757		
+act1	P60010	ARG	28	Actin family	IPR004000	cdc24	P11433	SER	756		
+act1	P60010	ARG	28	Actin family	IPR004000	cdc24	P11433	PHE	753		
+act1	P60010	ARG	95	Actin family	IPR004000	cdc24	P11433	GLU	786	PB1 domain	IPR000270
+act1	P60010	ARG	28	Actin family	IPR004000	cdc24	P11433	LEU	763	PB1 domain	IPR000270
+act1	P60010	ASP	24	Actin family	IPR004000	cdc24	P11433	PHE	753		
+act1	P60010	GLY	23	Actin family	IPR004000	cdc24	P11433	PHE	753		
+act1	P60010	ASP	25	Actin family	IPR004000	cdc24	P11433	ARG	765	PB1 domain	IPR000270
+act1	P60010	ALA	26	Actin family	IPR004000	cdc24	P11433	THR	782	PB1 domain	IPR000270
+act1	P60010	TYR	337	Actin family	IPR004000	cdc24	P11433	ILE	780	PB1 domain	IPR000270
+act1	P60010	PRO	27	Actin family	IPR004000	cdc24	P11433	THR	782	PB1 domain	IPR000270
+act1	P60010	ARG	28	Actin family	IPR004000	cdc24	P11433	THR	782	PB1 domain	IPR000270
+act1	P60010	GLU	93	Actin family	IPR004000	cdc24	P11433	LYS	801	PB1 domain	IPR000270
+act1	P60010	GLN	59	Actin family	IPR004000	cdc24	P11433	ASN	804	PB1 domain	IPR000270
+act1	P60010	GLN	276	Actin family	IPR004000	cdc24	P11433	SER	315	Dbl homology (DH) domain	IPR000219
+act1	P60010	LEU	320	Actin family	IPR004000	cdc24	P11433	GLU	316	Dbl homology (DH) domain	IPR000219
+act1	P60010	LYS	284	Actin family	IPR004000	cdc24	P11433	LEU	308	Dbl homology (DH) domain	IPR000219
+act1	P60010	TYR	279	Actin family	IPR004000	cdc24	P11433	SER	315	Dbl homology (DH) domain	IPR000219
+act1	P60010	ASN	280	Actin family	IPR004000	cdc24	P11433	SER	315	Dbl homology (DH) domain	IPR000219
+act1	P60010	GLN	276	Actin family	IPR004000	cdc24	P11433	GLU	316	Dbl homology (DH) domain	IPR000219
+act1	P60010	LYS	284	Actin family	IPR004000	cdc24	P11433	ASP	309	Dbl homology (DH) domain	IPR000219
+act1	P60010	TYR	166	Actin family	IPR004000	cdc24	P11433	SER	221	Calponin homology domain	IPR001715
+act1	P60010	PHE	375	Actin family	IPR004000	cdc24	P11433	TYR	200	Calponin homology domain	IPR001715
+act1	P60010	PRO	172	Actin family	IPR004000	cdc24	P11433	ASP	214	Calponin homology domain	IPR001715
+act1	P60010	HIS	372	Actin family	IPR004000	cdc24	P11433	LYS	208	Calponin homology domain	IPR001715
+act1	P60010	HIS	173	Actin family	IPR004000	cdc24	P11433	LYS	233	Calponin homology domain	IPR001715
+act1	P60010	ASP	286	Actin family	IPR004000	cdc24	P11433	SER	227	Calponin homology domain	IPR001715
+act1	P60010	ASP	286	Actin family	IPR004000	cdc24	P11433	GLN	230	Calponin homology domain	IPR001715
+act1	P60010	HIS	372	Actin family	IPR004000	cdc24	P11433	LEU	204	Calponin homology domain	IPR001715
+act1	P60010	ASP	288	Actin family	IPR004000	cdc24	P11433	ALA	225	Calponin homology domain	IPR001715
+act1	P60010	VAL	287	Actin family	IPR004000	cdc24	P11433	ASP	327	Dbl homology (DH) domain	IPR000219

@@ -1,0 +1,57 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	LEU	479			cdc28	P00546	GLU	49	Protein kinase domain	IPR000719
+bud3	P25558	ARG	482			cdc28	P00546	GLU	49	Protein kinase domain	IPR000719
+bud3	P25558	ASN	301	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+bud3	P25558	ASN	301	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ASP	219	Protein kinase domain	IPR000719
+bud3	P25558	GLY	302	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+bud3	P25558	GLY	302	Dbl homology (DH) domain	IPR000219	cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+bud3	P25558	PRO	1545			cdc28	P00546	TRP	252	Protein kinase domain	IPR000719
+bud3	P25558	ILE	300	Dbl homology (DH) domain	IPR000219	cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+bud3	P25558	LEU	303	Dbl homology (DH) domain	IPR000219	cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+bud3	P25558	SER	304	Dbl homology (DH) domain	IPR000219	cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+bud3	P25558	SER	304	Dbl homology (DH) domain	IPR000219	cdc28	P00546	GLU	217	Protein kinase domain	IPR000719
+bud3	P25558	SER	304	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ILE	218	Protein kinase domain	IPR000719
+bud3	P25558	GLU	298	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ASP	219	Protein kinase domain	IPR000719
+bud3	P25558	GLU	298	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ILE	218	Protein kinase domain	IPR000719
+bud3	P25558	VAL	295	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ILE	218	Protein kinase domain	IPR000719
+bud3	P25558	GLU	298	Dbl homology (DH) domain	IPR000219	cdc28	P00546	PHE	222	Protein kinase domain	IPR000719
+bud3	P25558	GLU	298	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ILE	221	Protein kinase domain	IPR000719
+bud3	P25558	LEU	303	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ILE	218	Protein kinase domain	IPR000719
+bud3	P25558	LEU	296	Dbl homology (DH) domain	IPR000219	cdc28	P00546	LYS	246	Protein kinase domain	IPR000719
+bud3	P25558	THR	305	Dbl homology (DH) domain	IPR000219	cdc28	P00546	ASP	244	Protein kinase domain	IPR000719
+bud3	P25558	THR	306	Dbl homology (DH) domain	IPR000219	cdc28	P00546	GLU	217	Protein kinase domain	IPR000719
+bud3	P25558	LEU	296	Dbl homology (DH) domain	IPR000219	cdc28	P00546	PHE	249	Protein kinase domain	IPR000719
+bud3	P25558	ASN	301	Dbl homology (DH) domain	IPR000219	cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+bud3	P25558	PRO	1545			cdc28	P00546	GLN	251	Protein kinase domain	IPR000719
+bud3	P25558	ASN	297	Dbl homology (DH) domain	IPR000219	cdc28	P00546	PHE	222	Protein kinase domain	IPR000719
+bud3	P25558	ASP	612			cdc28	P00546	ARG	57	Protein kinase domain	IPR000719
+bud3	P25558	THR	613			cdc28	P00546	ARG	57	Protein kinase domain	IPR000719
+bud3	P25558	PHE	615			cdc28	P00546	LEU	61	Protein kinase domain	IPR000719
+bud3	P25558	ALA	614			cdc28	P00546	LEU	61	Protein kinase domain	IPR000719
+bud3	P25558	ALA	614			cdc28	P00546	ARG	57	Protein kinase domain	IPR000719
+bud3	P25558	ALA	614			cdc28	P00546	SER	60	Protein kinase domain	IPR000719
+bud3	P25558	LYS	611			cdc28	P00546	ARG	57	Protein kinase domain	IPR000719
+bud3	P25558	PHE	615			cdc28	P00546	ARG	57	Protein kinase domain	IPR000719
+bud3	P25558	ASN	208			cdc28	P00546	GLU	64	Protein kinase domain	IPR000719
+bud3	P25558	TYR	206			cdc28	P00546	GLU	64	Protein kinase domain	IPR000719
+bud3	P25558	GLU	633			cdc28	P00546	GLU	64	Protein kinase domain	IPR000719
+bud3	P25558	GLU	228			cdc28	P00546	ARG	135	Protein kinase domain	IPR000719
+bud3	P25558	GLU	228			cdc28	P00546	ARG	159	Protein kinase domain	IPR000719
+bud3	P25558	GLU	228			cdc28	P00546	LEU	133	Protein kinase domain	IPR000719
+bud3	P25558	GLN	226			cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+bud3	P25558	HIS	616			cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+bud3	P25558	ILE	213			cdc28	P00546	HIS	130	Protein kinase domain	IPR000719
+bud3	P25558	ILE	213			cdc28	P00546	SER	129	Protein kinase domain	IPR000719
+bud3	P25558	ASN	217			cdc28	P00546	SER	129	Protein kinase domain	IPR000719
+bud3	P25558	ASN	217			cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+bud3	P25558	VAL	220			cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+bud3	P25558	HIS	616			cdc28	P00546	HIS	130	Protein kinase domain	IPR000719
+bud3	P25558	GLU	214			cdc28	P00546	ARG	287	Protein kinase domain	IPR000719
+bud3	P25558	PHE	618			cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+bud3	P25558	GLU	228			cdc28	P00546	GLU	58	Protein kinase domain	IPR000719
+bud3	P25558	HIS	616			cdc28	P00546	LEU	61	Protein kinase domain	IPR000719
+bud3	P25558	LEU	609			cdc28	P00546	SER	53	Protein kinase domain	IPR000719
+bud3	P25558	LEU	609			cdc28	P00546	ARG	57	Protein kinase domain	IPR000719
+bud3	P25558	LEU	609			cdc28	P00546	THR	54	Protein kinase domain	IPR000719
+bud3	P25558	ILE	608			cdc28	P00546	ARG	57	Protein kinase domain	IPR000719
+bud3	P25558	GLN	229			cdc28	P00546	ARG	159	Protein kinase domain	IPR000719

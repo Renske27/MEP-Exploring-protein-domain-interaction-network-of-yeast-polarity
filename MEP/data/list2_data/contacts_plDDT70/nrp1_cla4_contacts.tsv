@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+nrp1	P32770	O	1993	TYR	249	RNA recognition motif domain	IPR000504	cla4	P48562	N	6166	TRP	80	Pleckstrin homology domain	IPR001849
+nrp1	P32770	O	1993	TYR	249	RNA recognition motif domain	IPR000504	cla4	P48562	CA	6159	ILE	79	Pleckstrin homology domain	IPR001849
+nrp1	P32770	O	1993	TYR	249	RNA recognition motif domain	IPR000504	cla4	P48562	N	6158	ILE	79	Pleckstrin homology domain	IPR001849
+nrp1	P32770	O	1984	GLN	248	RNA recognition motif domain	IPR000504	cla4	P48562	O	6169	TRP	80	Pleckstrin homology domain	IPR001849
+nrp1	P32770	CA	2003	GLY	250	RNA recognition motif domain	IPR000504	cla4	P48562	CD1	6172	TRP	80	Pleckstrin homology domain	IPR001849

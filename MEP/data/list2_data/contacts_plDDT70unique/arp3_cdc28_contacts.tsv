@@ -1,0 +1,5 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp3	P47117	TYR	435	Actin family	IPR004000	cdc28	P00546	ILE	291	Protein kinase domain	IPR000719
+arp3	P47117	TYR	435	Actin family	IPR004000	cdc28	P00546	ARG	288	Protein kinase domain	IPR000719
+arp3	P47117	ARG	441	Actin family	IPR004000	cdc28	P00546	SER	129	Protein kinase domain	IPR000719
+arp3	P47117	GLU	421	Actin family	IPR004000	cdc28	P00546	ASP	238	Protein kinase domain	IPR000719

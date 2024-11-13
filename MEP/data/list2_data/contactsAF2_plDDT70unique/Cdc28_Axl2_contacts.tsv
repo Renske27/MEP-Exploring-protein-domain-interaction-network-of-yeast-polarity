@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc28	P00546	PRO	243	Protein kinase domain	IPR000719	Axl2	P38928	LYS	54	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	ASP	244	Protein kinase domain	IPR000719	Axl2	P38928	LYS	54	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	LYS	246	Protein kinase domain	IPR000719	Axl2	P38928	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	LYS	246	Protein kinase domain	IPR000719	Axl2	P38928	LYS	54	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	PRO	243	Protein kinase domain	IPR000719	Axl2	P38928	TYR	25	Dystroglycan-type cadherin-like	IPR006644

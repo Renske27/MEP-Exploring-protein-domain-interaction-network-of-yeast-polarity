@@ -1,0 +1,18 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc42	P19073	O	429	ASP	57	Small GTP-binding domain	IPR005225	axl2	P38928	CG	3017	ASN	193	Dystroglycan-type cadherin-like	IPR006644
+cdc42	P19073	CB	563	PRO	73	Small GTP-binding domain	IPR005225	axl2	P38928	CB	3153	VAL	210	Dystroglycan-type cadherin-like	IPR006644
+cdc42	P19073	CG	564	PRO	73	Small GTP-binding domain	IPR005225	axl2	P38928	CB	3153	VAL	210	Dystroglycan-type cadherin-like	IPR006644
+cdc42	P19073	OD1	1342	ASP	170			axl2	P38928	CB	5717	ILE	545		
+cdc42	P19073	CE2	162	TYR	23	Small GTP-binding domain	IPR005225	axl2	P38928	CD	5737	PRO	548		
+cdc42	P19073	CZ	163	TYR	23	Small GTP-binding domain	IPR005225	axl2	P38928	CD	5737	PRO	548		
+cdc42	P19073	OH	164	TYR	23	Small GTP-binding domain	IPR005225	axl2	P38928	CD	5737	PRO	548		
+cdc42	P19073	O	335	MET	45	Small GTP-binding domain	IPR005225	axl2	P38928	CA	5714	ILE	545		
+cdc42	P19073	CB	336	MET	45	Small GTP-binding domain	IPR005225	axl2	P38928	CB	5725	SER	546		
+cdc42	P19073	O	335	MET	45	Small GTP-binding domain	IPR005225	axl2	P38928	C	5715	ILE	545		
+cdc42	P19073	O	335	MET	45	Small GTP-binding domain	IPR005225	axl2	P38928	CA	5722	SER	546		
+cdc42	P19073	O	335	MET	45	Small GTP-binding domain	IPR005225	axl2	P38928	N	5721	SER	546		
+cdc42	P19073	C	334	MET	45	Small GTP-binding domain	IPR005225	axl2	P38928	N	5721	SER	546		
+cdc42	P19073	O	335	MET	45	Small GTP-binding domain	IPR005225	axl2	P38928	CB	5725	SER	546		
+cdc42	P19073	N	332	MET	45	Small GTP-binding domain	IPR005225	axl2	P38928	CB	5725	SER	546		
+cdc42	P19073	O	321	THR	43	Small GTP-binding domain	IPR005225	axl2	P38928	CA	5732	PRO	548		
+cdc42	P19073	O	321	THR	43	Small GTP-binding domain	IPR005225	axl2	P38928	C	5733	PRO	548		

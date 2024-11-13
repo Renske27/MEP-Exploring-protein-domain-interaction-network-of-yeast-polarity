@@ -1,0 +1,34 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504	Cdc28	P00546	GLY	185	Protein kinase domain	IPR000719
+Nrp1	P32770	GLU	243	RNA recognition motif domain	IPR000504	Cdc28	P00546	GLU	217	Protein kinase domain	IPR000719
+Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504	Cdc28	P00546	VAL	182	Protein kinase domain	IPR000719
+Nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504	Cdc28	P00546	ARG	178	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	294	RNA recognition motif domain	IPR000504	Cdc28	P00546	PRO	243	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	294	RNA recognition motif domain	IPR000504	Cdc28	P00546	ASP	244	Protein kinase domain	IPR000719
+Nrp1	P32770	VAL	254	RNA recognition motif domain	IPR000504	Cdc28	P00546	ASP	244	Protein kinase domain	IPR000719
+Nrp1	P32770	VAL	254	RNA recognition motif domain	IPR000504	Cdc28	P00546	LYS	246	Protein kinase domain	IPR000719
+Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504	Cdc28	P00546	ASP	244	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	239	RNA recognition motif domain	IPR000504	Cdc28	P00546	GLU	217	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	239	RNA recognition motif domain	IPR000504	Cdc28	P00546	ILE	218	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	239	RNA recognition motif domain	IPR000504	Cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	349			Cdc28	P00546	ASP	219	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	349			Cdc28	P00546	ILE	218	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	349			Cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	349			Cdc28	P00546	SER	213	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	349			Cdc28	P00546	LYS	223	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	349			Cdc28	P00546	GLY	214	Protein kinase domain	IPR000719
+Nrp1	P32770	GLU	243	RNA recognition motif domain	IPR000504	Cdc28	P00546	LEU	175	Protein kinase domain	IPR000719
+Nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504	Cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+Nrp1	P32770	GLU	243	RNA recognition motif domain	IPR000504	Cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+Nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504	Cdc28	P00546	LEU	175	Protein kinase domain	IPR000719
+Nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504	Cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+Nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504	Cdc28	P00546	GLY	214	Protein kinase domain	IPR000719
+Nrp1	P32770	THR	238	RNA recognition motif domain	IPR000504	Cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	239	RNA recognition motif domain	IPR000504	Cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+Nrp1	P32770	GLN	349			Cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+Nrp1	P32770	SER	350			Cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+Nrp1	P32770	LYS	351			Cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+Nrp1	P32770	PRO	348			Cdc28	P00546	ASP	215	Protein kinase domain	IPR000719
+Nrp1	P32770	PRO	348			Cdc28	P00546	SER	216	Protein kinase domain	IPR000719
+Nrp1	P32770	SER	350			Cdc28	P00546	SER	213	Protein kinase domain	IPR000719
+Nrp1	P32770	SER	350			Cdc28	P00546	LYS	223	Protein kinase domain	IPR000719

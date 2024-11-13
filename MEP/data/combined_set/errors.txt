@@ -1,0 +1,70 @@
+Protein Act1 gives error: Accession number protein: P60010 No domain information found, used family instead.
+Protein Aim44 gives error: ('Accession number protein: Q99299', 'No domain and no family information found.', [])
+Protein Arp10 gives error: Accession number protein: Q04549 No domain information found, used family instead.
+Protein Arp2 gives error: Accession number protein: P32381 No domain information found, used family instead.
+Protein Arp3 gives error: Accession number protein: P47117 No domain information found, used family instead.
+Protein Arp9 gives error: Accession number protein: Q05123 No domain information found, used family instead.
+Protein Atc1 gives error: ('Accession number protein: Q04005', 'No domain and no family information found.', [])
+Protein Avo2 gives error: ('Accession number protein: Q04749', 'No domain and no family information found.', [])
+Protein Bem4 gives error: Accession number protein: P39011 No domain information found, used family instead.
+Protein Bfr1 gives error: Accession number protein: P38934 No domain information found, used family instead.
+Protein Bit61 gives error: Accession number protein: P47041 No domain information found, used family instead.
+Protein Bud19 gives error: ('Accession number protein: O94143', 'No domain and no family information found.', [])
+Protein Bud25 gives error: ('Accession number protein: P85052', 'No domain and no family information found.', [])
+Protein Bud26 gives error: ('Accession number protein: Q03783', 'No domain and no family information found.', [])
+Protein Bud28 gives error: ('Accession number protein: Q07992', 'No domain and no family information found.', [])
+Protein Bud31 gives error: Accession number protein: P25337 No domain information found, used family instead.
+Protein Bud7 gives error: Accession number protein: Q08754 No domain information found, used family instead.
+Protein Bud8 gives error: ('Accession number protein: P41698', 'No domain and no family information found.', [])
+Protein Bud9 gives error: ('Accession number protein: P53226', 'No domain and no family information found.', [])
+Protein Caf130 gives error: ('Accession number protein: P53280', 'No domain and no family information found.', [])
+Protein Cap1 gives error: Accession number protein: P28495 No domain information found, used family instead.
+Protein Cap2 gives error: Accession number protein: P13517 No domain information found, used family instead.
+Protein Cct2 gives error: Accession number protein: P39076 No domain information found, used family instead.
+Protein Cct6 gives error: Accession number protein: P39079 No domain information found, used family instead.
+Protein Cct7 gives error: Accession number protein: P42943 No domain information found, used family instead.
+Protein Cdc43 gives error: Accession number protein: P18898 No domain information found, used family instead.
+Protein Die2 gives error: Accession number protein: P50076 No domain information found, used family instead.
+Protein Dyn2 gives error: Accession number protein: Q02647 No domain information found, used family instead.
+Protein Dyn3 gives error: Accession number protein: Q04949 No domain information found, used family instead.
+Protein Elp2 gives error: Accession number protein: P42935 No domain information found, used family instead.
+Protein Elp4 gives error: Accession number protein: Q02884 No domain information found, used family instead.
+Protein Elp6 gives error: Accession number protein: Q04868 No domain information found, used family instead.
+Protein Erv14 gives error: Accession number protein: P53173 No domain information found, used family instead.
+Protein Gpa2 gives error: Accession number protein: P10823 No domain information found, used family instead.
+Protein Gvp36 gives error: Accession number protein: P40531 No domain information found, used family instead.
+Protein Hes1 gives error: Accession number protein: P35843 No domain information found, used family instead.
+Protein Hkr1 gives error: Accession number protein: P41809 No domain information found, used family instead.
+Protein Hur1 gives error: ('Accession number protein: P45820', 'No domain and no family information found.', [])
+Protein Jnm1 gives error: Accession number protein: P36224 No domain information found, used family instead.
+Protein Kel1 gives error: ('Accession number protein: P38853', 'No domain and no family information found.', [])
+Protein Kel2 gives error: ('Accession number protein: P50090', 'No domain and no family information found.', [])
+Protein Kes1 gives error: Accession number protein: P35844 No domain information found, used family instead.
+Protein Ldb18 gives error: ('Accession number protein: Q07887', 'No domain and no family information found.', [])
+Protein Lst8 gives error: Accession number protein: P41318 No domain information found, used family instead.
+Protein Mlf3 gives error: ('Accession number protein: P32047', 'No domain and no family information found.', [])
+Protein Mob2 gives error: Accession number protein: P43563 No domain information found, used family instead.
+Protein Msb2 gives error: Accession number protein: P32334 No domain information found, used family instead.
+Protein Nba1 gives error: ('Accession number protein: Q08229', 'No domain and no family information found.', [])
+Protein Nis1 gives error: ('Accession number protein: P53939', 'No domain and no family information found.', [])
+Protein Osh6 gives error: Accession number protein: Q02201 No domain information found, used family instead.
+Protein Osh7 gives error: Accession number protein: P38755 No domain information found, used family instead.
+Protein Pac1 gives error: Accession number protein: P39946 No domain information found, used family instead.
+Protein Pac11 gives error: Accession number protein: P40960 No domain information found, used family instead.
+Protein Pea2 gives error: ('Accession number protein: P40091', 'No domain and no family information found.', [])
+Protein Ram2 gives error: ('Accession number protein: P29703', 'No domain and no family information found.', [])
+Protein Rdi1 gives error: Accession number protein: Q12434 No domain information found, used family instead.
+Protein Rot1 gives error: Accession number protein: Q03691 No domain information found, used family instead.
+Protein Rtt10 gives error: Accession number protein: Q08924 No domain information found, used family instead.
+Protein Sec66 gives error: Accession number protein: P33754 No domain information found, used family instead.
+Protein Slm2 gives error: Accession number protein: Q06164 No domain information found, used family instead.
+Protein Ste2 gives error: Accession number protein: D6VTK4 No domain information found, used family instead.
+Protein Ste3 gives error: Accession number protein: P06783 No domain information found, used family instead.
+Protein Sum1 gives error: ('Accession number protein: P46676', 'No domain and no family information found.', [])
+Protein Sur7 gives error: Accession number protein: P54003 No domain information found, used family instead.
+Protein Tos2 gives error: Accession number protein: P50078 No domain information found, used family instead.
+Protein Tpm1 gives error: Accession number protein: P17536 No domain information found, used family instead.
+Protein Tpm2 gives error: Accession number protein: P40414 No domain information found, used family instead.
+Protein Vhs2 gives error: ('Accession number protein: P40463', 'No domain and no family information found.', [])
+Protein Whi5 gives error: Accession number protein: Q12416 No domain information found, used family instead.
+Protein Yor300w gives error: ('Accession number protein: Q08756', 'No domain and no family information found.', [])

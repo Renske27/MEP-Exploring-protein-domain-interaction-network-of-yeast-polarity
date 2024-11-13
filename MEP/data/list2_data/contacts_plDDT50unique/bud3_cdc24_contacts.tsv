@@ -1,0 +1,7 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	ARG	375	Dbl homology (DH) domain	IPR000219	cdc24	P11433	ASP	191	Calponin homology domain	IPR001715
+bud3	P25558	PRO	458			cdc24	P11433	GLU	76		
+bud3	P25558	SER	459			cdc24	P11433	GLU	76		
+bud3	P25558	THR	457			cdc24	P11433	GLU	76		
+bud3	P25558	PRO	458			cdc24	P11433	GLU	72		
+bud3	P25558	LEU	479			cdc24	P11433	LEU	80		

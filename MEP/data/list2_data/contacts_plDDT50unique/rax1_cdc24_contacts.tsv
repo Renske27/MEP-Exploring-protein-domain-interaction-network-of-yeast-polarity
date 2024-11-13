@@ -1,0 +1,10 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rax1	Q08760	PRO	127	RGS domain	IPR016137	cdc24	P11433	LYS	193	Calponin homology domain	IPR001715
+rax1	Q08760	GLU	107	RGS domain	IPR016137	cdc24	P11433	TYR	200	Calponin homology domain	IPR001715
+rax1	Q08760	GLU	106	RGS domain	IPR016137	cdc24	P11433	TYR	200	Calponin homology domain	IPR001715
+rax1	Q08760	LEU	39	RGS domain	IPR016137	cdc24	P11433	SER	756		
+rax1	Q08760	GLN	31	RGS domain	IPR016137	cdc24	P11433	ASN	755		
+rax1	Q08760	GLN	31	RGS domain	IPR016137	cdc24	P11433	SER	756		
+rax1	Q08760	TRP	40	RGS domain	IPR016137	cdc24	P11433	SER	756		
+rax1	Q08760	TRP	40	RGS domain	IPR016137	cdc24	P11433	PRO	758		
+rax1	Q08760	TRP	40	RGS domain	IPR016137	cdc24	P11433	ILE	757		

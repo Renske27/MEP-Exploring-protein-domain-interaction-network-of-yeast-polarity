@@ -1,0 +1,33 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	LEU	991	Rho GTPase-activating protein domain	IPR000198	bem3	P32873	ASN	97		
+bem3	P32873	SER	990	Rho GTPase-activating protein domain	IPR000198	bem3	P32873	ASN	97		
+bem3	P32873	LEU	80			bem3	P32873	LEU	88		
+bem3	P32873	GLN	81			bem3	P32873	LEU	92		
+bem3	P32873	ILE	77			bem3	P32873	LEU	92		
+bem3	P32873	LEU	80			bem3	P32873	LEU	80		
+bem3	P32873	LEU	88			bem3	P32873	LEU	80		
+bem3	P32873	LEU	73			bem3	P32873	ILE	77		
+bem3	P32873	LEU	73			bem3	P32873	LEU	73		
+bem3	P32873	LEU	92			bem3	P32873	ILE	77		
+bem3	P32873	ILE	77			bem3	P32873	LEU	73		
+bem3	P32873	ILE	70			bem3	P32873	TYR	66		
+bem3	P32873	LYS	959	Rho GTPase-activating protein domain	IPR000198	bem3	P32873	GLU	69		
+bem3	P32873	GLU	74			bem3	P32873	GLU	69		
+bem3	P32873	ASN	97			bem3	P32873	SER	988	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	ASN	97			bem3	P32873	ALA	987	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	ASN	97			bem3	P32873	SER	990	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	GLU	67			bem3	P32873	TYR	66		
+bem3	P32873	TYR	66			bem3	P32873	GLU	67		
+bem3	P32873	GLU	69			bem3	P32873	ILE	70		
+bem3	P32873	TYR	66			bem3	P32873	ILE	70		
+bem3	P32873	GLU	69			bem3	P32873	GLU	74		
+bem3	P32873	GLU	69			bem3	P32873	LYS	959	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	GLU	65			bem3	P32873	SER	955	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	PRO	504			bem3	P32873	PHE	547	Phox homology	IPR001683
+bem3	P32873	ASP	502			bem3	P32873	MET	546	Phox homology	IPR001683
+bem3	P32873	PHE	506			bem3	P32873	PHE	506		
+bem3	P32873	PHE	506			bem3	P32873	PRO	504		
+bem3	P32873	PRO	504			bem3	P32873	PHE	506		
+bem3	P32873	ILE	70			bem3	P32873	ILE	70		
+bem3	P32873	ASN	97			bem3	P32873	LEU	991	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	PHE	547	Phox homology	IPR001683	bem3	P32873	PRO	504		

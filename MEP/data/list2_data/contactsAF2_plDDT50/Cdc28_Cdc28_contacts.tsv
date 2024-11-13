@@ -1,0 +1,149 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc28	P00546	NH1	1049	ARG	131	Protein kinase domain	IPR000719	Cdc28	P00546	ND2	2451	ASN	7		
+Cdc28	P00546	CA	1292	GLY	162	Protein kinase domain	IPR000719	Cdc28	P00546	CG	2428	GLU	4		
+Cdc28	P00546	CA	1292	GLY	162	Protein kinase domain	IPR000719	Cdc28	P00546	CD	2429	GLU	4		
+Cdc28	P00546	CA	1292	GLY	162	Protein kinase domain	IPR000719	Cdc28	P00546	OE1	2430	GLU	4		
+Cdc28	P00546	O	1332	ALA	167	Protein kinase domain	IPR000719	Cdc28	P00546	CB	3031	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	NH1	1272	ARG	159	Protein kinase domain	IPR000719	Cdc28	P00546	OD1	3034	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	NH1	1272	ARG	159	Protein kinase domain	IPR000719	Cdc28	P00546	CG	3033	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	1339	TYR	168	Protein kinase domain	IPR000719	Cdc28	P00546	OD1	3034	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	1339	TYR	168	Protein kinase domain	IPR000719	Cdc28	P00546	CG	3033	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	NH2	1273	ARG	159	Protein kinase domain	IPR000719	Cdc28	P00546	OD1	3034	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	NH2	1273	ARG	159	Protein kinase domain	IPR000719	Cdc28	P00546	CG	3033	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	CZ	1274	ARG	159	Protein kinase domain	IPR000719	Cdc28	P00546	OD1	3034	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	CE1	1341	TYR	168	Protein kinase domain	IPR000719	Cdc28	P00546	OD1	3034	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	CE1	1341	TYR	168	Protein kinase domain	IPR000719	Cdc28	P00546	CG	3033	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	NH2	1273	ARG	159	Protein kinase domain	IPR000719	Cdc28	P00546	OD2	3035	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	CE1	1341	TYR	168	Protein kinase domain	IPR000719	Cdc28	P00546	OD2	3035	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	1339	TYR	168	Protein kinase domain	IPR000719	Cdc28	P00546	OD2	3035	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	O	1332	ALA	167	Protein kinase domain	IPR000719	Cdc28	P00546	OD1	3034	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	O	1332	ALA	167	Protein kinase domain	IPR000719	Cdc28	P00546	CG	3033	ASP	80	Protein kinase domain	IPR000719
+Cdc28	P00546	O	462	SER	60	Protein kinase domain	IPR000719	Cdc28	P00546	NZ	2892	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	C	460	SER	60	Protein kinase domain	IPR000719	Cdc28	P00546	NZ	2892	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	CA	459	SER	60	Protein kinase domain	IPR000719	Cdc28	P00546	NZ	2892	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	CG2	428	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	2861	ILE	59	Protein kinase domain	IPR000719
+Cdc28	P00546	OE1	496	GLU	64	Protein kinase domain	IPR000719	Cdc28	P00546	CE	2891	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	461	SER	60	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	3004	ILE	76	Protein kinase domain	IPR000719
+Cdc28	P00546	CG	494	GLU	64	Protein kinase domain	IPR000719	Cdc28	P00546	NZ	2892	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	CD	495	GLU	64	Protein kinase domain	IPR000719	Cdc28	P00546	NZ	2892	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	OE1	496	GLU	64	Protein kinase domain	IPR000719	Cdc28	P00546	NZ	2892	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	NE	437	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	CG	3017	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	NE	437	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	ND1	3019	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	NH2	439	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	ND1	3019	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	NE	437	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	CD2	3018	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	NE	437	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	NE2	3021	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	NE	437	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	CE1	3020	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	CZ	440	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	NE2	3021	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	CZ	440	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	CE1	3020	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	NH2	439	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	CD2	3018	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	NH2	439	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	NE2	3021	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	NH2	439	ARG	57	Protein kinase domain	IPR000719	Cdc28	P00546	CE1	3020	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	CA	405	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	CG2	2800	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CA	405	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	N	2794	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CA	405	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2791	GLY	50	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	407	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	CG2	2800	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	407	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	N	2794	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	407	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	C	2792	GLY	50	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	407	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2791	GLY	50	Protein kinase domain	IPR000719
+Cdc28	P00546	N	404	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	N	2794	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	N	404	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	C	2792	GLY	50	Protein kinase domain	IPR000719
+Cdc28	P00546	N	404	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2791	GLY	50	Protein kinase domain	IPR000719
+Cdc28	P00546	OG	409	SER	53	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2791	GLY	50	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	429	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CG1	2799	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	429	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CB	2797	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CG1	427	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CB	2797	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	429	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CG2	2800	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	429	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	C	2823	ALA	55	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	429	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	N	2826	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	NH2	1273	ARG	159	Protein kinase domain	IPR000719	Cdc28	P00546	ND1	3019	HIS	78	Protein kinase domain	IPR000719
+Cdc28	P00546	C	1293	GLY	162	Protein kinase domain	IPR000719	Cdc28	P00546	CG	2428	GLU	4		
+Cdc28	P00546	C	1293	GLY	162	Protein kinase domain	IPR000719	Cdc28	P00546	CD	2429	GLU	4		
+Cdc28	P00546	C	1293	GLY	162	Protein kinase domain	IPR000719	Cdc28	P00546	OE1	2430	GLU	4		
+Cdc28	P00546	O	1294	GLY	162	Protein kinase domain	IPR000719	Cdc28	P00546	OE1	2430	GLU	4		
+Cdc28	P00546	OD2	631	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	CE1	3745	TYR	168	Protein kinase domain	IPR000719
+Cdc28	P00546	OD2	631	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	3743	TYR	168	Protein kinase domain	IPR000719
+Cdc28	P00546	OD2	631	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	NH2	3677	ARG	159	Protein kinase domain	IPR000719
+Cdc28	P00546	OD1	630	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	O	3736	ALA	167	Protein kinase domain	IPR000719
+Cdc28	P00546	CG	629	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	O	3736	ALA	167	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	627	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	O	3736	ALA	167	Protein kinase domain	IPR000719
+Cdc28	P00546	OD1	630	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	CE1	3745	TYR	168	Protein kinase domain	IPR000719
+Cdc28	P00546	CG	629	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	CE1	3745	TYR	168	Protein kinase domain	IPR000719
+Cdc28	P00546	OD1	630	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	3743	TYR	168	Protein kinase domain	IPR000719
+Cdc28	P00546	CG	629	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	3743	TYR	168	Protein kinase domain	IPR000719
+Cdc28	P00546	OD1	630	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	NH2	3677	ARG	159	Protein kinase domain	IPR000719
+Cdc28	P00546	CG	629	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	NH2	3677	ARG	159	Protein kinase domain	IPR000719
+Cdc28	P00546	OD2	631	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	O	3736	ALA	167	Protein kinase domain	IPR000719
+Cdc28	P00546	OD1	630	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	CZ	3678	ARG	159	Protein kinase domain	IPR000719
+Cdc28	P00546	OD1	630	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	NH1	3676	ARG	159	Protein kinase domain	IPR000719
+Cdc28	P00546	CG	629	ASP	80	Protein kinase domain	IPR000719	Cdc28	P00546	NH1	3676	ARG	159	Protein kinase domain	IPR000719
+Cdc28	P00546	NZ	488	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	O	2866	SER	60	Protein kinase domain	IPR000719
+Cdc28	P00546	CE	487	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	O	2866	SER	60	Protein kinase domain	IPR000719
+Cdc28	P00546	NZ	488	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	CG	2898	GLU	64	Protein kinase domain	IPR000719
+Cdc28	P00546	NZ	488	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	CD	2899	GLU	64	Protein kinase domain	IPR000719
+Cdc28	P00546	NZ	488	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	OE1	2900	GLU	64	Protein kinase domain	IPR000719
+Cdc28	P00546	CE	487	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	OE1	2900	GLU	64	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	457	ILE	59	Protein kinase domain	IPR000719	Cdc28	P00546	CG2	2832	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CG	613	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NE	2841	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	600	ILE	76	Protein kinase domain	IPR000719	Cdc28	P00546	CB	2865	SER	60	Protein kinase domain	IPR000719
+Cdc28	P00546	NZ	488	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	C	2864	SER	60	Protein kinase domain	IPR000719
+Cdc28	P00546	NZ	488	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2863	SER	60	Protein kinase domain	IPR000719
+Cdc28	P00546	OD1	48	ASN	7			Cdc28	P00546	NH1	3453	ARG	131	Protein kinase domain	IPR000719
+Cdc28	P00546	ND2	47	ASN	7			Cdc28	P00546	NH1	3453	ARG	131	Protein kinase domain	IPR000719
+Cdc28	P00546	CG	24	GLU	4			Cdc28	P00546	CA	3696	GLY	162	Protein kinase domain	IPR000719
+Cdc28	P00546	CG	24	GLU	4			Cdc28	P00546	C	3697	GLY	162	Protein kinase domain	IPR000719
+Cdc28	P00546	OE2	27	GLU	4			Cdc28	P00546	CA	3696	GLY	162	Protein kinase domain	IPR000719
+Cdc28	P00546	CD	25	GLU	4			Cdc28	P00546	CA	3696	GLY	162	Protein kinase domain	IPR000719
+Cdc28	P00546	OE1	26	GLU	4			Cdc28	P00546	CA	3696	GLY	162	Protein kinase domain	IPR000719
+Cdc28	P00546	OE2	27	GLU	4			Cdc28	P00546	C	3697	GLY	162	Protein kinase domain	IPR000719
+Cdc28	P00546	CD	25	GLU	4			Cdc28	P00546	C	3697	GLY	162	Protein kinase domain	IPR000719
+Cdc28	P00546	OE1	26	GLU	4			Cdc28	P00546	C	3697	GLY	162	Protein kinase domain	IPR000719
+Cdc28	P00546	N	422	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	2833	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	393	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CG1	2831	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	393	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	2833	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	N	390	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2809	SER	53	Protein kinase domain	IPR000719
+Cdc28	P00546	N	390	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CB	2811	SER	53	Protein kinase domain	IPR000719
+Cdc28	P00546	C	388	GLY	50	Protein kinase domain	IPR000719	Cdc28	P00546	CB	2811	SER	53	Protein kinase domain	IPR000719
+Cdc28	P00546	N	390	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	N	2808	SER	53	Protein kinase domain	IPR000719
+Cdc28	P00546	C	388	GLY	50	Protein kinase domain	IPR000719	Cdc28	P00546	N	2808	SER	53	Protein kinase domain	IPR000719
+Cdc28	P00546	CG2	396	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CG1	2831	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CG1	395	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CG1	2831	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CG2	396	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	2833	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CG1	395	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	2833	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CG2	396	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2809	SER	53	Protein kinase domain	IPR000719
+Cdc28	P00546	CG2	396	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CB	2811	SER	53	Protein kinase domain	IPR000719
+Cdc28	P00546	CA	387	GLY	50	Protein kinase domain	IPR000719	Cdc28	P00546	CB	2811	SER	53	Protein kinase domain	IPR000719
+Cdc28	P00546	CA	387	GLY	50	Protein kinase domain	IPR000719	Cdc28	P00546	N	2808	SER	53	Protein kinase domain	IPR000719
+Cdc28	P00546	CD2	614	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NE	2841	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	NE2	617	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NE	2841	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	ND1	615	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NE	2841	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	CE1	616	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NE	2841	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	O	612	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NH2	3677	ARG	159	Protein kinase domain	IPR000719
+Cdc28	P00546	NE2	617	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	CZ	2844	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	CD2	614	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NH2	2843	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	NE2	617	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NH2	2843	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	ND1	615	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	CZ	2844	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	CE1	616	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	CZ	2844	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	ND1	615	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NH2	2843	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	CE1	616	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NH2	2843	ARG	57	Protein kinase domain	IPR000719
+Cdc28	P00546	ND1	615	HIS	78	Protein kinase domain	IPR000719	Cdc28	P00546	NH2	3677	ARG	159	Protein kinase domain	IPR000719
+Cdc28	P00546	CD	486	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	CB	2887	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	CD	486	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	CD	2890	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	429	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2827	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CG1	427	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2827	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CG1	427	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CB	2829	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	483	LYS	63	Protein kinase domain	IPR000719	Cdc28	P00546	CD	2890	LYS	63	Protein kinase domain	IPR000719
+Cdc28	P00546	CB	393	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	O	2798	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CA	391	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	O	2798	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	N	390	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	O	2798	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	O	394	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	O	2798	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	C	392	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	O	2798	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	O	394	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	C	2796	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	429	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CG1	2831	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CD1	429	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	2833	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CA	423	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	2833	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CG1	427	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CG1	2831	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	CG1	427	ILE	56	Protein kinase domain	IPR000719	Cdc28	P00546	CD1	2833	ILE	56	Protein kinase domain	IPR000719
+Cdc28	P00546	O	394	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	CA	2795	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	O	394	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	N	2794	VAL	51	Protein kinase domain	IPR000719
+Cdc28	P00546	O	394	VAL	51	Protein kinase domain	IPR000719	Cdc28	P00546	C	2792	GLY	50	Protein kinase domain	IPR000719
+Cdc28	P00546	C	399	PRO	52	Protein kinase domain	IPR000719	Cdc28	P00546	N	2794	VAL	51	Protein kinase domain	IPR000719

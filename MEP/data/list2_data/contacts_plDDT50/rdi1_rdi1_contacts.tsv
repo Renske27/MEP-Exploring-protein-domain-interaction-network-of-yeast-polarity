@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rdi1	Q12434	OD2	1502	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406	rdi1	Q12434	OE2	2612	GLU	119	Rho protein GDP-dissociation inhibitor	IPR000406
+rdi1	Q12434	CB	357	TRP	44	Rho protein GDP-dissociation inhibitor	IPR000406	rdi1	Q12434	CG	1993	TRP	44	Rho protein GDP-dissociation inhibitor	IPR000406
+rdi1	Q12434	CD2	360	TRP	44	Rho protein GDP-dissociation inhibitor	IPR000406	rdi1	Q12434	CG	1993	TRP	44	Rho protein GDP-dissociation inhibitor	IPR000406
+rdi1	Q12434	CG	358	TRP	44	Rho protein GDP-dissociation inhibitor	IPR000406	rdi1	Q12434	CG	1993	TRP	44	Rho protein GDP-dissociation inhibitor	IPR000406
+rdi1	Q12434	CG	358	TRP	44	Rho protein GDP-dissociation inhibitor	IPR000406	rdi1	Q12434	CB	1992	TRP	44	Rho protein GDP-dissociation inhibitor	IPR000406
+rdi1	Q12434	CE2	362	TRP	44	Rho protein GDP-dissociation inhibitor	IPR000406	rdi1	Q12434	CA	1967	LEU	41	Rho protein GDP-dissociation inhibitor	IPR000406
+rdi1	Q12434	OE2	977	GLU	119	Rho protein GDP-dissociation inhibitor	IPR000406	rdi1	Q12434	OD2	3137	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406

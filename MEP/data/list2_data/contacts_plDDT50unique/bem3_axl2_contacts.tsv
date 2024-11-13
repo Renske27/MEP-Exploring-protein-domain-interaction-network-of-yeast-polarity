@@ -1,0 +1,31 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	TYR	920	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	PRO	568		
+bem3	P32873	TYR	931	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	PHE	569		
+bem3	P32873	LYS	939	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	PHE	569		
+bem3	P32873	GLU	935	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	PHE	569		
+bem3	P32873	TYR	938	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	ASN	567		
+bem3	P32873	TYR	920	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	PHE	569		
+bem3	P32873	TYR	938	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	PHE	569		
+bem3	P32873	LEU	934	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	PHE	569		
+bem3	P32873	TYR	938	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	PRO	568		
+bem3	P32873	LYS	1075	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	ASN	212	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	GLU	946	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	ASN	212	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	ASP	50			axl2	P38928	SER	213	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	HIS	24			axl2	P38928	TRP	783		
+bem3	P32873	HIS	24			axl2	P38928	PHE	772		
+bem3	P32873	GLN	20			axl2	P38928	PHE	781		
+bem3	P32873	ASP	50			axl2	P38928	ILE	215	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	THR	54			axl2	P38928	TYR	333	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	PHE	53			axl2	P38928	ILE	215	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	LYS	58			axl2	P38928	ASP	286	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	LYS	1072	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	ASP	50			axl2	P38928	ALA	214	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	HIS	1030	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	SER	56	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	ASN	1031	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	TYR	25	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	HIS	1030	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	SER	55	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	SER	565	Phox homology	IPR001683	axl2	P38928	PRO	217	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	ILE	57			axl2	P38928	THR	332	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	LEU	61			axl2	P38928	THR	332	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	LEU	61			axl2	P38928	ASP	286	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	SER	565	Phox homology	IPR001683	axl2	P38928	ILE	215	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	VAL	561	Phox homology	IPR001683	axl2	P38928	ILE	215	Dystroglycan-type cadherin-like	IPR006644

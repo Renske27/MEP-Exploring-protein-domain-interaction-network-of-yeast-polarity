@@ -1,0 +1,5 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bud1	P13856	ILE	132	Small GTP-binding domain	IPR005225	Rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	167			Rho1	P06780	TYR	47	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	167			Rho1	P06780	ILE	28	Small GTP-binding domain	IPR005225
+Bud1	P13856	ARG	167			Rho1	P06780	THR	24	Small GTP-binding domain	IPR005225

@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+axl2	P38928	CG	2922	GLN	374	Dystroglycan-type cadherin-like	IPR006644	axl2	P38928	O	7515	LYS	143		
+axl2	P38928	O	1110	LYS	143			axl2	P38928	CG	9327	GLN	374	Dystroglycan-type cadherin-like	IPR006644

@@ -1,0 +1,14 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+axl2	P38928	GLU	201	Dystroglycan-type cadherin-like	IPR006644	rga2	Q06407	ASP	850	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	ASP	157	Dystroglycan-type cadherin-like	IPR006644	rga2	Q06407	ARG	1003	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	ASN	159	Dystroglycan-type cadherin-like	IPR006644	rga2	Q06407	LYS	1007		
+axl2	P38928	ASP	280	Dystroglycan-type cadherin-like	IPR006644	rga2	Q06407	ARG	955	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	TYR	147	Dystroglycan-type cadherin-like	IPR006644	rga2	Q06407	ARG	955	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	TYR	145			rga2	Q06407	LYS	952	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	ASN	163	Dystroglycan-type cadherin-like	IPR006644	rga2	Q06407	ASP	810	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	ASN	144			rga2	Q06407	GLU	813	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	LYS	203	Dystroglycan-type cadherin-like	IPR006644	rga2	Q06407	ASP	810	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	GLN	254	Dystroglycan-type cadherin-like	IPR006644	rga2	Q06407	ASP	816	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	LYS	143			rga2	Q06407	ASP	816	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	ASN	144			rga2	Q06407	LYS	814	Rho GTPase-activating protein domain	IPR000198
+axl2	P38928	LYS	203	Dystroglycan-type cadherin-like	IPR006644	rga2	Q06407	ARG	806	Rho GTPase-activating protein domain	IPR000198

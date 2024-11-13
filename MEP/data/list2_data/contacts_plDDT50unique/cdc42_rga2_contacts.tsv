@@ -1,0 +1,106 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc42	P19073	LEU	70	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	LEU	67	Small GTP-binding domain	IPR005225	rga2	Q06407	ASP	984	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	LEU	67	Small GTP-binding domain	IPR005225	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ARG	66	Small GTP-binding domain	IPR005225	rga2	Q06407	ASP	984	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	PRO	106	Small GTP-binding domain	IPR005225	rga2	Q06407	TYR	41	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	PRO	106	Small GTP-binding domain	IPR005225	rga2	Q06407	THR	60	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	GLY	107	Small GTP-binding domain	IPR005225	rga2	Q06407	LEU	56	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	HIS	104	Small GTP-binding domain	IPR005225	rga2	Q06407	TYR	41	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	HIS	103	Small GTP-binding domain	IPR005225	rga2	Q06407	TYR	41	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	LYS	183			rga2	Q06407	LEU	54	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	LYS	183			rga2	Q06407	VAL	55	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	VAL	181			rga2	Q06407	ALA	81	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	LYS	183			rga2	Q06407	ASP	79	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	PRO	180			rga2	Q06407	ALA	81	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	SER	74	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	ASP	76	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	ASP	76	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	85	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	SER	74	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	85	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	THR	75	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	85	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	GLU	49	Small GTP-binding domain	IPR005225	rga2	Q06407	LEU	127		
+cdc42	P19073	ALA	41	Small GTP-binding domain	IPR005225	rga2	Q06407	LEU	754		
+cdc42	P19073	ALA	41	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	755		
+cdc42	P19073	THR	43	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	755		
+cdc42	P19073	THR	43	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	753		
+cdc42	P19073	VAL	42	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	753		
+cdc42	P19073	ASP	48	Small GTP-binding domain	IPR005225	rga2	Q06407	GLN	131		
+cdc42	P19073	VAL	42	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	755		
+cdc42	P19073	ASP	48	Small GTP-binding domain	IPR005225	rga2	Q06407	LEU	127		
+cdc42	P19073	THR	52	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	755		
+cdc42	P19073	PRO	179			rga2	Q06407	PHE	96	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	PRO	179			rga2	Q06407	ILE	82	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	PRO	179			rga2	Q06407	ILE	83	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	PRO	180			rga2	Q06407	ILE	83	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	LEU	177			rga2	Q06407	TYR	110	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	LEU	177			rga2	Q06407	LEU	108	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	LEU	177			rga2	Q06407	LYS	109	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	PRO	179			rga2	Q06407	TYR	110	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	PRO	179			rga2	Q06407	LEU	108	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	PRO	179			rga2	Q06407	LEU	84	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	GLN	2	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	112	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	GLN	2	Small GTP-binding domain	IPR005225	rga2	Q06407	ALA	111	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	TYR	51	Small GTP-binding domain	IPR005225	rga2	Q06407	ALA	111	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	GLU	49	Small GTP-binding domain	IPR005225	rga2	Q06407	HIS	123	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	PRO	180			rga2	Q06407	ILE	82	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	rga2	Q06407	VAL	970	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	872	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ASP	63	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	974	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	TYR	64	Small GTP-binding domain	IPR005225	rga2	Q06407	ASN	992	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	TYR	64	Small GTP-binding domain	IPR005225	rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLN	61	Small GTP-binding domain	IPR005225	rga2	Q06407	VAL	970	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	rga2	Q06407	GLY	823	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	PRO	34	Small GTP-binding domain	IPR005225	rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	PRO	34	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	VAL	33	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	VAL	33	Small GTP-binding domain	IPR005225	rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	rga2	Q06407	LEU	961	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	LYS	128	Small GTP-binding domain	IPR005225	rga2	Q06407	GLU	822	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	TYR	64	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLU	62	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLU	62	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLY	12	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	HIS	102	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	58	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	LYS	150	Small GTP-binding domain	IPR005225	rga2	Q06407	ASP	57	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	LYS	150	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	31	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	ASN	92	Small GTP-binding domain	IPR005225	rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ASN	92	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	PRO	88	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ASN	92	Small GTP-binding domain	IPR005225	rga2	Q06407	GLY	829	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	PRO	88	Small GTP-binding domain	IPR005225	rga2	Q06407	GLY	829	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ASP	11	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ASN	92	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	PRO	88	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLU	95	Small GTP-binding domain	IPR005225	rga2	Q06407	THR	832	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLU	91	Small GTP-binding domain	IPR005225	rga2	Q06407	THR	832	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLU	91	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLU	62	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	869	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	VAL	42	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	752		
+cdc42	P19073	TYR	23	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	752		
+cdc42	P19073	GLU	178			rga2	Q06407	LYS	109	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	ILE	46	Small GTP-binding domain	IPR005225	rga2	Q06407	GLU	748		
+cdc42	P19073	MET	45	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	750		
+cdc42	P19073	MET	45	Small GTP-binding domain	IPR005225	rga2	Q06407	GLU	748		
+cdc42	P19073	MET	45	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	749		
+cdc42	P19073	VAL	44	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	750		
+cdc42	P19073	VAL	44	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	749		
+cdc42	P19073	ILE	173			rga2	Q06407	ILE	749		
+cdc42	P19073	GLY	47	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	747		
+cdc42	P19073	GLY	47	Small GTP-binding domain	IPR005225	rga2	Q06407	GLU	748		
+cdc42	P19073	ASP	170			rga2	Q06407	ILE	749		
+cdc42	P19073	LYS	166			rga2	Q06407	ILE	749		
+cdc42	P19073	LYS	166			rga2	Q06407	SER	750		
+cdc42	P19073	GLU	62	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	872	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLN	61	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	ALA	13	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	TYR	32	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	827	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	GLN	132	Small GTP-binding domain	IPR005225	rga2	Q06407	MET	821	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	VAL	36	Small GTP-binding domain	IPR005225	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+cdc42	P19073	THR	24	Small GTP-binding domain	IPR005225	rga2	Q06407	LEU	754		
+cdc42	P19073	PRO	106	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	58	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	GLY	107	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	58	Zinc finger, LIM-type	IPR001781
+cdc42	P19073	THR	43	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	752		

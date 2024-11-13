@@ -1,0 +1,15 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	PHE	221			bem1	P29366	GLY	343	Phox homology	IPR001683
+bud3	P25558	PHE	221			bem1	P29366	ALA	342	Phox homology	IPR001683
+bud3	P25558	VAL	542			bem1	P29366	ALA	218		
+bud3	P25558	PRO	543			bem1	P29366	ALA	218		
+bud3	P25558	PRO	545			bem1	P29366	TYR	221		
+bud3	P25558	PRO	545			bem1	P29366	THR	219		
+bud3	P25558	VAL	542			bem1	P29366	ILE	217	SH3 domain	IPR001452
+bud3	P25558	ASN	536			bem1	P29366	GLY	220		
+bud3	P25558	ASN	526			bem1	P29366	LEU	163	SH3 domain	IPR001452
+bud3	P25558	ILE	533			bem1	P29366	TYR	221		
+bud3	P25558	TYR	519			bem1	P29366	TYR	221		
+bud3	P25558	PRO	528			bem1	P29366	GLY	220		
+bud3	P25558	PRO	528			bem1	P29366	TYR	221		
+bud3	P25558	PHE	593			bem1	P29366	VAL	178	SH3 domain	IPR001452

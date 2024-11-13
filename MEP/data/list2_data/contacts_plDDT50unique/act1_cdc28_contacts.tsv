@@ -1,0 +1,15 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+act1	P60010	GLU	361	Actin family	IPR004000	cdc28	P00546	ARG	287	Protein kinase domain	IPR000719
+act1	P60010	LYS	373	Actin family	IPR004000	cdc28	P00546	ARG	287	Protein kinase domain	IPR000719
+act1	P60010	PHE	375	Actin family	IPR004000	cdc28	P00546	HIS	130	Protein kinase domain	IPR000719
+act1	P60010	HIS	372	Actin family	IPR004000	cdc28	P00546	SER	129	Protein kinase domain	IPR000719
+act1	P60010	GLN	354	Actin family	IPR004000	cdc28	P00546	SER	285	Protein kinase domain	IPR000719
+act1	P60010	PHE	169	Actin family	IPR004000	cdc28	P00546	GLU	64	Protein kinase domain	IPR000719
+act1	P60010	VAL	289	Actin family	IPR004000	cdc28	P00546	ILE	56	Protein kinase domain	IPR000719
+act1	P60010	ASP	288	Actin family	IPR004000	cdc28	P00546	VAL	51	Protein kinase domain	IPR000719
+act1	P60010	ASP	288	Actin family	IPR004000	cdc28	P00546	ILE	56	Protein kinase domain	IPR000719
+act1	P60010	THR	351	Actin family	IPR004000	cdc28	P00546	SER	190	Protein kinase domain	IPR000719
+act1	P60010	TYR	166	Actin family	IPR004000	cdc28	P00546	SER	53	Protein kinase domain	IPR000719
+act1	P60010	MET	355	Actin family	IPR004000	cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+act1	P60010	TYR	133	Actin family	IPR004000	cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+act1	P60010	LYS	373	Actin family	IPR004000	cdc28	P00546	SER	129	Protein kinase domain	IPR000719

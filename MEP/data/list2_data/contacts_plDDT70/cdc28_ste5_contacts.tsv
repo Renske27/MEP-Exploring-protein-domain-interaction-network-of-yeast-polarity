@@ -1,0 +1,10 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc28	P00546	CB	1720	SER	216	Protein kinase domain	IPR000719	ste5	P32917	CG	6429	PHE	512		
+cdc28	P00546	CB	1735	ILE	218	Protein kinase domain	IPR000719	ste5	P32917	CB	6377	SER	505		
+cdc28	P00546	CZ	1774	PHE	222	Protein kinase domain	IPR000719	ste5	P32917	CG2	6371	ILE	504		
+cdc28	P00546	CE2	1773	PHE	222	Protein kinase domain	IPR000719	ste5	P32917	CG2	6371	ILE	504		
+cdc28	P00546	CE2	1773	PHE	222	Protein kinase domain	IPR000719	ste5	P32917	CB	6369	ILE	504		
+cdc28	P00546	CD2	1771	PHE	222	Protein kinase domain	IPR000719	ste5	P32917	O	6336	GLN	501		
+cdc28	P00546	CE2	1773	PHE	222	Protein kinase domain	IPR000719	ste5	P32917	O	6336	GLN	501		
+cdc28	P00546	CE2	1773	PHE	222	Protein kinase domain	IPR000719	ste5	P32917	N	6373	SER	505		
+cdc28	P00546	N	1739	ASP	219	Protein kinase domain	IPR000719	ste5	P32917	CB	6377	SER	505		

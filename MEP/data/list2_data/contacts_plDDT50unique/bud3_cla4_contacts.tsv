@@ -1,0 +1,21 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	SER	440	Dbl homology (DH) domain	IPR000219	cla4	P48562	ARG	800	Protein kinase domain	IPR000719
+bud3	P25558	VAL	542			cla4	P48562	ASP	686	Protein kinase domain	IPR000719
+bud3	P25558	PRO	543			cla4	P48562	GLU	817	Protein kinase domain	IPR000719
+bud3	P25558	ARG	358	Dbl homology (DH) domain	IPR000219	cla4	P48562	GLU	818	Protein kinase domain	IPR000719
+bud3	P25558	GLU	541			cla4	P48562	SER	815	Protein kinase domain	IPR000719
+bud3	P25558	ASN	540			cla4	P48562	LYS	748	Protein kinase domain	IPR000719
+bud3	P25558	ASN	540			cla4	P48562	SER	815	Protein kinase domain	IPR000719
+bud3	P25558	ASN	540			cla4	P48562	GLU	747	Protein kinase domain	IPR000719
+bud3	P25558	ASN	540			cla4	P48562	ASP	746	Protein kinase domain	IPR000719
+bud3	P25558	ILE	539			cla4	P48562	ASP	746	Protein kinase domain	IPR000719
+bud3	P25558	GLU	541			cla4	P48562	LYS	748	Protein kinase domain	IPR000719
+bud3	P25558	ILE	539			cla4	P48562	LYS	748	Protein kinase domain	IPR000719
+bud3	P25558	TYR	351	Dbl homology (DH) domain	IPR000219	cla4	P48562	TYR	812	Protein kinase domain	IPR000719
+bud3	P25558	VAL	234			cla4	P48562	ARG	743	Protein kinase domain	IPR000719
+bud3	P25558	THR	235			cla4	P48562	GLU	744	Protein kinase domain	IPR000719
+bud3	P25558	ASN	536			cla4	P48562	HIS	685	Protein kinase domain	IPR000719
+bud3	P25558	ASN	536			cla4	P48562	HIS	688	Protein kinase domain	IPR000719
+bud3	P25558	ILE	533			cla4	P48562	HIS	688	Protein kinase domain	IPR000719
+bud3	P25558	ASN	536			cla4	P48562	GLU	747	Protein kinase domain	IPR000719
+bud3	P25558	VAL	234			cla4	P48562	GLU	744	Protein kinase domain	IPR000719

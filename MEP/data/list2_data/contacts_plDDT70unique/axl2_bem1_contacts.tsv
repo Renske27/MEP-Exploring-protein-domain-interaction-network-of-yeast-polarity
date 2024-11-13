@@ -1,0 +1,19 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+axl2	P38928	PHE	162	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	GLN	240		
+axl2	P38928	VAL	161	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	GLN	240		
+axl2	P38928	ASN	163	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	SER	244		
+axl2	P38928	VAL	161	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	LYS	243		
+axl2	P38928	TYR	145			bem1	P29366	ALA	247		
+axl2	P38928	ASN	144			bem1	P29366	ARG	248		
+axl2	P38928	PRO	356	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	SER	82	SH3 domain	IPR001452
+axl2	P38928	ASN	357	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	SER	82	SH3 domain	IPR001452
+axl2	P38928	ILE	358	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	TYR	126	SH3 domain	IPR001452
+axl2	P38928	ASN	359	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	TYR	126	SH3 domain	IPR001452
+axl2	P38928	ASN	359	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	TYR	83	SH3 domain	IPR001452
+axl2	P38928	ASN	357	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	TYR	126	SH3 domain	IPR001452
+axl2	P38928	ASN	359	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	PRO	123	SH3 domain	IPR001452
+axl2	P38928	MET	439	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	TRP	108	SH3 domain	IPR001452
+axl2	P38928	ASP	440	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	TRP	108	SH3 domain	IPR001452
+axl2	P38928	ASN	359	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	GLN	86	SH3 domain	IPR001452
+axl2	P38928	TYR	368	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	GLN	84	SH3 domain	IPR001452
+axl2	P38928	THR	361	Dystroglycan-type cadherin-like	IPR006644	bem1	P29366	GLU	90	SH3 domain	IPR001452

@@ -1,0 +1,13 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLU	100	Protein kinase domain	IPR000719
+Rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	24	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	PHE	90	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	24	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	24	Protein kinase domain	IPR000719
+Rga2	Q06407	GLU	822	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	TYR	23	Protein kinase domain	IPR000719
+Rga2	Q06407	HIS	965	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	24	Protein kinase domain	IPR000719
+Rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	146	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	989	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	146	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	989	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ASP	147	Protein kinase domain	IPR000719
+Rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ASN	145	Protein kinase domain	IPR000719
+Rga2	Q06407	HIS	965	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	146	Protein kinase domain	IPR000719

@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+nrp1	P32770	THR	247	RNA recognition motif domain	IPR000504	rga2	Q06407	VAL	937	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504	rga2	Q06407	VAL	937	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	TYR	211			rga2	Q06407	ASP	230		
+nrp1	P32770	ASN	277	RNA recognition motif domain	IPR000504	rga2	Q06407	ASP	230		
+nrp1	P32770	SER	278	RNA recognition motif domain	IPR000504	rga2	Q06407	ASP	230		

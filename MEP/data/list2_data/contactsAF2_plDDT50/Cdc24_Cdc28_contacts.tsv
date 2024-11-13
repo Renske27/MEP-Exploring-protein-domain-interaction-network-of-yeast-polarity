@@ -1,0 +1,1025 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	CB	4906	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8707	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4908	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8707	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4909	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8709	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4909	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8710	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8709	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8705	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8710	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4906	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8705	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4909	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8707	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8707	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4924	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8674	GLU	233	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4925	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8674	GLU	233	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4924	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8675	GLU	233	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4925	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8675	GLU	233	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4925	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8671	GLU	233	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4925	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8673	GLU	233	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4925	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8668	GLU	233	Protein kinase domain	IPR000719
+Cdc24	P11433	N	4919	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	C	4905	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4904	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4904	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	N	4911	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4126	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4907	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4924	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4922	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4925	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4925	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8706	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8706	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4925	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8669	GLU	233	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	4934	ASN	621	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8707	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8705	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4906	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8708	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4906	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8706	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4906	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4908	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8706	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	4136	ILE	514	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4132	ILE	514	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	4138	ILE	514	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4134	ILE	514	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	C	4124	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	8717	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8730	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	5347	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8730	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	5319	ILE	667	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OH	8744	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4915	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OH	8744	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4915	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	8745	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4915	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE1	8742	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	4917	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OH	8744	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	4917	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	8745	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	4917	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE1	8742	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4914	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	8745	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4914	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE1	8742	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4117	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	8740	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4117	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8739	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4117	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8737	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4915	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8743	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	4917	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	8740	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4914	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8743	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4914	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	8740	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4914	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD2	8741	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4914	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8739	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	5317	ILE	667	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OH	8744	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	5315	ILE	667	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OH	8744	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	N	5314	ILE	667	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE1	8742	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	C	5308	LEU	666	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE1	8742	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	O	5310	LEU	666	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE1	8742	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	5309	LEU	666	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE1	8742	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	5309	LEU	666	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	8740	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OH	8744	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	8745	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE1	8742	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8743	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD2	8741	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8739	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4924	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG2	8733	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4922	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG2	8733	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	SD	4925	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG2	8733	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG2	8733	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4920	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OH	8744	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4920	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	8745	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4920	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8743	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4920	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD2	8741	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4922	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8743	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4922	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD2	8741	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	C	4913	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OH	8744	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	C	4913	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	8745	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	N	4919	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	8745	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	C	4913	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8743	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4912	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8743	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	C	4913	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD2	8741	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	N	4919	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8743	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	N	4919	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD2	8741	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9039	ALA	277	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8261	PRO	180	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9042	TYR	278	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	9041	TYR	278	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9044	TYR	278	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	3820	TYR	477			Cdc28	P00546	O	9071	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3818	TYR	477			Cdc28	P00546	O	9071	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3818	TYR	477			Cdc28	P00546	C	9069	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3817	TYR	477			Cdc28	P00546	O	9071	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3817	TYR	477			Cdc28	P00546	C	9069	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3811	GLY	476			Cdc28	P00546	C	9077	ASN	282	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3811	GLY	476			Cdc28	P00546	N	9083	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3809	GLY	476			Cdc28	P00546	O	9071	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3810	GLY	476			Cdc28	P00546	O	9071	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3811	GLY	476			Cdc28	P00546	O	9071	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3810	GLY	476			Cdc28	P00546	C	9069	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3811	GLY	476			Cdc28	P00546	C	9069	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3808	GLY	476			Cdc28	P00546	NH2	9133	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3808	GLY	476			Cdc28	P00546	NH1	9132	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3808	GLY	476			Cdc28	P00546	CZ	9134	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3800	LYS	475			Cdc28	P00546	NH2	9133	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3799	LYS	475			Cdc28	P00546	NH2	9133	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3787	TRP	474			Cdc28	P00546	NH2	9133	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	3784	ASN	473			Cdc28	P00546	NH2	9133	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	3784	ASN	473			Cdc28	P00546	CZ	9134	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3815	TYR	477			Cdc28	P00546	O	9071	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3815	TYR	477			Cdc28	P00546	C	9069	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3813	TYR	477			Cdc28	P00546	O	9071	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3813	TYR	477			Cdc28	P00546	C	9069	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3812	TYR	477			Cdc28	P00546	O	9071	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3801	LYS	475			Cdc28	P00546	NH2	9133	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3803	LYS	475			Cdc28	P00546	NH1	9132	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3801	LYS	475			Cdc28	P00546	NH1	9132	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3801	LYS	475			Cdc28	P00546	CZ	9134	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3809	GLY	476			Cdc28	P00546	NH2	9133	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3809	GLY	476			Cdc28	P00546	NH1	9132	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3868	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG1	9072	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	3866	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	9074	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	3866	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG1	9072	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3864	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	9074	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3864	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG1	9072	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	3866	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	9063	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3864	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9065	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3864	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	9063	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3828	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9062	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3828	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	9063	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3828	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	9061	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3828	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9064	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3824	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9062	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3824	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9064	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3826	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9064	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3849	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9065	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3849	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	9063	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3825	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9064	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	3820	TYR	477			Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	3819	TYR	477			Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	3819	TYR	477			Cdc28	P00546	CG1	9072	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	3819	TYR	477			Cdc28	P00546	CB	9070	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3818	TYR	477			Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3818	TYR	477			Cdc28	P00546	CA	9068	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3817	TYR	477			Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3817	TYR	477			Cdc28	P00546	CB	9070	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3817	TYR	477			Cdc28	P00546	CA	9068	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3811	GLY	476			Cdc28	P00546	O	9064	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3815	TYR	477			Cdc28	P00546	CA	9068	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3813	TYR	477			Cdc28	P00546	CA	9068	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3813	TYR	477			Cdc28	P00546	O	9064	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3814	TYR	477			Cdc28	P00546	O	9064	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE	9090	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NH1	9091	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3830	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	9086	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3830	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	9089	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	9093	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8270	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE2	8271	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8269	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE2	8271	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8269	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	9093	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE2	8271	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8269	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NH2	9092	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	9086	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9088	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9088	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9088	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9088	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE	9090	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NH1	9091	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	9089	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	9089	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	9089	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	9089	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3843	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8336	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3844	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8336	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8336	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8334	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3827	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8346	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3827	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8347	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3829	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8346	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3829	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8347	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8347	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8337	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8348	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8346	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8347	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8335	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8339	THR	191	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8337	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8341	THR	191	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8348	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8270	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8269	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8270	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3830	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8347	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8347	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8347	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8348	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3830	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9087	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3830	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9085	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9087	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9087	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9085	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	9094	ILE	284	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	9094	ILE	284	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9096	ILE	284	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9096	ILE	284	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9098	ILE	284	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9098	ILE	284	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9098	ILE	284	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3829	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9087	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3810	GLY	476			Cdc28	P00546	O	9087	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3811	GLY	476			Cdc28	P00546	O	9087	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3811	GLY	476			Cdc28	P00546	C	9085	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9065	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	9066	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	9063	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	9060	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	9061	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	9066	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	9060	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	9066	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9054	ASP	279	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	9060	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	9061	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3830	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9064	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3827	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9064	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3836	ILE	479	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8336	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3837	ILE	479	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8336	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3835	ILE	479	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8336	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9042	TYR	278	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9044	TYR	278	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9044	TYR	278	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE	9090	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NH1	9091	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3856	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9039	ALA	277	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ	9093	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE2	8271	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3857	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NH2	9092	ARG	283	Protein kinase domain	IPR000719
+Cdc24	P11433	OE2	5373	GLU	673			Cdc28	P00546	CG	8785	LYS	246	Protein kinase domain	IPR000719
+Cdc24	P11433	OE2	5373	GLU	673			Cdc28	P00546	CD	8786	LYS	246	Protein kinase domain	IPR000719
+Cdc24	P11433	OE2	5373	GLU	673			Cdc28	P00546	O	8758	PRO	243	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	5371	GLU	673			Cdc28	P00546	NZ	8788	LYS	246	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	5372	GLU	673			Cdc28	P00546	NZ	8788	LYS	246	Protein kinase domain	IPR000719
+Cdc24	P11433	OE2	5373	GLU	673			Cdc28	P00546	NZ	8788	LYS	246	Protein kinase domain	IPR000719
+Cdc24	P11433	OE2	5373	GLU	673			Cdc28	P00546	CE	8787	LYS	246	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4123	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8714	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4125	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8716	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4125	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8714	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	4128	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ2	8702	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3853	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ2	8702	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4127	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8715	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4127	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8713	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4127	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8714	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	4128	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8714	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3871	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3871	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8318	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8318	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4105	PHE	511	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4107	PHE	511	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	4108	PHE	511	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	4108	PHE	511	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8318	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	4119	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NZ	8311	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	4120	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NZ	8311	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	3612	GLU	453	Dbl homology (DH) domain	IPR000219	Cdc28	P00546	NZ	8311	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4127	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8736	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	4128	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8751	LEU	242	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4129	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8751	LEU	242	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3877	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3875	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3882	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3875	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8318	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3882	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8318	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3873	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3874	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3874	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8318	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	4130	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	8752	LEU	242	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	4130	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD2	8753	LEU	242	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	4130	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CH2	8701	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	4130	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8267	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	4130	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8264	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3852	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CH2	8701	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3852	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8264	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3852	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8266	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3845	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8316	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3847	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8316	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3847	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8314	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3845	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8322	TYR	189	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3847	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8322	TYR	189	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3847	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8324	TYR	189	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3850	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8266	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3845	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8266	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3847	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8266	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3847	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8268	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3651	ARG	457			Cdc28	P00546	CE	8310	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3879	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8309	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3879	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8306	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	3880	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8309	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	3880	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8308	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	3880	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8306	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3651	ARG	457			Cdc28	P00546	CD	8309	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	4130	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8300	GLY	186	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	4128	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	8752	LEU	242	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4129	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	8752	LEU	242	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	4130	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ2	8702	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4129	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD2	8753	LEU	242	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3852	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8698	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3852	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ2	8702	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8317	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8315	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8313	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8316	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8314	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	4130	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8751	LEU	242	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3875	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8317	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3882	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8317	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3874	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8317	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3871	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8303	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8303	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3871	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8312	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8312	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3872	GLY	483	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8305	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE2	4121	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8308	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE2	4121	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8303	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	4120	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE	8310	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	3612	GLU	453	Dbl homology (DH) domain	IPR000219	Cdc28	P00546	CE	8310	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	4119	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8309	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	4120	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8309	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	3612	GLU	453	Dbl homology (DH) domain	IPR000219	Cdc28	P00546	CD	8309	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	4119	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8308	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	4120	GLU	512	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8308	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3651	ARG	457			Cdc28	P00546	NZ	8311	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3873	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8303	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3873	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8312	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3874	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8312	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3876	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8312	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3878	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8312	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3876	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8306	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3878	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8306	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3878	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8305	LYS	187	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ3	8703	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3853	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD2	8718	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3853	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9065	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3851	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9065	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3852	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9065	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3852	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	9066	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3852	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	9063	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3850	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9065	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3850	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	9063	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3849	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8266	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CE2	8698	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ2	8702	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CZ2	8702	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CH2	8701	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8264	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8266	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3854	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8263	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3855	LYS	481	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8263	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3844	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8322	TYR	189	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3844	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8323	TYR	189	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3843	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8333	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3844	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8333	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8333	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8333	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9057	ASP	279	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	4892	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ND2	9081	ASN	282	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	4892	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	9080	ASN	282	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8704	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8694	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	4893	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	9082	ASN	282	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	4894	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	9082	ASN	282	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	4892	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	9082	ASN	282	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	4891	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	4890	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	4894	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	4894	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD2	9059	ASP	279	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	9074	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD2	9059	ASP	279	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD2	8718	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD1	9058	ASP	279	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	4892	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	4892	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OD2	9059	ASP	279	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3823	TYR	477			Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CE2	3821	TYR	477			Cdc28	P00546	CG2	9073	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	4138	ILE	514	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD1	9074	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8727	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8719	ILE	239	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG2	8725	ILE	239	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8720	ILE	239	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4906	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8711	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8711	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4910	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8716	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8711	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8712	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8715	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	4926	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8713	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4126	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8712	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4126	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8716	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	O	4126	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8714	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	4134	ILE	514	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8716	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	C	4124	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG	8716	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	C	4124	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8714	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	5380	GLN	674			Cdc28	P00546	CG	8794	PRO	247	Protein kinase domain	IPR000719
+Cdc24	P11433	NE2	5381	GLN	674			Cdc28	P00546	CG	8794	PRO	247	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	5379	GLN	674			Cdc28	P00546	CG	8794	PRO	247	Protein kinase domain	IPR000719
+Cdc24	P11433	NE2	5381	GLN	674			Cdc28	P00546	CG1	8732	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8729	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8731	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	5345	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8729	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	5345	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8731	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	5347	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CG1	8732	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	5347	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8729	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	5347	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8731	VAL	240	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8735	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	5346	LEU	670	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8734	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	4123	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8737	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4127	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8737	TYR	241	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	3744	TYR	468			Cdc28	P00546	O	7832	HIS	128	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	3708	VAL	464			Cdc28	P00546	OG	8338	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	3708	VAL	464			Cdc28	P00546	CE2	8102	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	3841	ILE	479	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OG	8338	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3704	VAL	464			Cdc28	P00546	CD2	8100	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3707	VAL	464			Cdc28	P00546	CD2	8100	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3705	VAL	464			Cdc28	P00546	CD2	8100	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3710	LYS	465			Cdc28	P00546	CD2	8100	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3710	LYS	465			Cdc28	P00546	CG	8098	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3711	LYS	465			Cdc28	P00546	CD2	8100	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3707	VAL	464			Cdc28	P00546	CE2	8102	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3705	VAL	464			Cdc28	P00546	CE2	8102	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3710	LYS	465			Cdc28	P00546	CE2	8102	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3711	LYS	465			Cdc28	P00546	CE2	8102	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	3708	VAL	464			Cdc28	P00546	CD2	8100	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CE2	3745	TYR	468			Cdc28	P00546	CG2	8344	THR	191	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3747	TYR	468			Cdc28	P00546	CG2	8344	THR	191	Protein kinase domain	IPR000719
+Cdc24	P11433	OH	3746	TYR	468			Cdc28	P00546	CG2	8344	THR	191	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3742	TYR	468			Cdc28	P00546	O	7832	HIS	128	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3714	LYS	465			Cdc28	P00546	NE	7861	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3714	LYS	465			Cdc28	P00546	NH2	7863	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3714	LYS	465			Cdc28	P00546	CZ	7864	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3715	LYS	465			Cdc28	P00546	NE	7861	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3715	LYS	465			Cdc28	P00546	CD	7860	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3713	LYS	465			Cdc28	P00546	CG	7859	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3715	LYS	465			Cdc28	P00546	CG	7859	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3720	LYS	466			Cdc28	P00546	NH2	7863	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3712	LYS	465			Cdc28	P00546	NH2	7863	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3715	LYS	465			Cdc28	P00546	NH2	7863	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3715	LYS	465			Cdc28	P00546	CZ	7864	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3715	LYS	465			Cdc28	P00546	NH1	7862	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3716	LYS	465			Cdc28	P00546	NH1	7862	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3713	LYS	465			Cdc28	P00546	CD2	8100	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	3888	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE2	8319	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3887	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE2	8319	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3883	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE2	8319	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3885	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE2	8319	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3679	HIS	461			Cdc28	P00546	CA	8094	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3681	HIS	461			Cdc28	P00546	CA	8094	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3688	GLN	462			Cdc28	P00546	C	8095	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3688	GLN	462			Cdc28	P00546	O	8097	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3687	GLN	462			Cdc28	P00546	C	8095	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3679	HIS	461			Cdc28	P00546	C	8095	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3681	HIS	461			Cdc28	P00546	C	8095	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3681	HIS	461			Cdc28	P00546	O	8097	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	O	3681	HIS	461			Cdc28	P00546	CB	8096	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3710	LYS	465			Cdc28	P00546	C	8095	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3713	LYS	465			Cdc28	P00546	C	8095	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3715	LYS	465			Cdc28	P00546	C	8095	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3716	LYS	465			Cdc28	P00546	C	8095	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3717	LYS	465			Cdc28	P00546	C	8095	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3713	LYS	465			Cdc28	P00546	O	8097	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3715	LYS	465			Cdc28	P00546	O	8097	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3716	LYS	465			Cdc28	P00546	O	8097	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3717	LYS	465			Cdc28	P00546	O	8097	PHE	161	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3782	ASN	473			Cdc28	P00546	NH2	9133	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	OH	3746	TYR	468			Cdc28	P00546	CB	9105	SER	285	Protein kinase domain	IPR000719
+Cdc24	P11433	CE2	3745	TYR	468			Cdc28	P00546	OG1	8345	THR	191	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	3841	ILE	479	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8336	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	4107	PHE	511	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE2	8319	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	4108	PHE	511	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE2	8319	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	4110	PHE	511	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE2	8319	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	C	3875	GLU	484	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE2	8319	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	N	3882	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	NE2	8319	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3883	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OE1	8320	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	3883	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8318	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3885	LEU	485	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD	8318	GLN	188	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	3685	HIS	461			Cdc28	P00546	O	8325	TYR	189	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	6621	GLU	832	PB1 domain	IPR000270	Cdc28	P00546	CD	6917	LYS	13	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6659	VAL	836	PB1 domain	IPR000270	Cdc28	P00546	CD	6937	GLU	16	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6659	VAL	836	PB1 domain	IPR000270	Cdc28	P00546	OE1	6938	GLU	16	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6626	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CG2	6973	VAL	21	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6659	VAL	836	PB1 domain	IPR000270	Cdc28	P00546	OE2	6939	GLU	16	Protein kinase domain	IPR000719
+Cdc24	P11433	NE2	3686	HIS	461			Cdc28	P00546	CD	8083	ARG	159	Protein kinase domain	IPR000719
+Cdc24	P11433	NE2	3686	HIS	461			Cdc28	P00546	CG	8082	ARG	159	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	3683	HIS	461			Cdc28	P00546	O	8092	ALA	160	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	3683	HIS	461			Cdc28	P00546	NE	8084	ARG	159	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	3683	HIS	461			Cdc28	P00546	CD	8083	ARG	159	Protein kinase domain	IPR000719
+Cdc24	P11433	NE2	3686	HIS	461			Cdc28	P00546	NE	8084	ARG	159	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	3683	HIS	461			Cdc28	P00546	CG	8082	ARG	159	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3718	LYS	465			Cdc28	P00546	CB	8091	ALA	160	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6561	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	OG1	7229	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6560	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	OG1	7229	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	OG1	7229	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6560	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CE1	6959	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6558	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CE1	6959	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CE1	6959	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6533	ASP	820	PB1 domain	IPR000270	Cdc28	P00546	CD1	6957	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6533	ASP	820	PB1 domain	IPR000270	Cdc28	P00546	CG	6956	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6533	ASP	820	PB1 domain	IPR000270	Cdc28	P00546	CA	6952	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6560	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CD1	6957	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6558	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CD1	6957	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CD1	6957	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6561	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	N	7230	ALA	55	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6560	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	N	7230	ALA	55	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	N	7230	ALA	55	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6561	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CG2	7228	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6561	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	N	7223	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6561	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CA	7224	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6561	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CB	7226	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6560	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CG2	7228	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6560	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	N	7223	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6560	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CA	7224	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6560	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CB	7226	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CG2	7228	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	N	7223	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CA	7224	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CB	7226	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	3683	HIS	461			Cdc28	P00546	CZ	8087	ARG	159	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6561	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	C	7225	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	C	7225	THR	54	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CA	7231	ALA	55	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6562	ASP	824	PB1 domain	IPR000270	Cdc28	P00546	CB	7233	ALA	55	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CG2	7137	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6575	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CG2	7137	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6575	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	C	6953	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6579	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	C	6953	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6575	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	O	6955	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6579	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CA	6964	GLY	20	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CA	6964	GLY	20	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6578	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	O	7126	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	O	7126	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6578	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	C	7124	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6578	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	N	6967	VAL	21	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7124	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6578	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	O	6955	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6578	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CA	6964	GLY	20	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	O	7126	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	C	7124	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CD2	7157	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CB	7134	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CA	7132	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	C	7133	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	O	7135	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	N	7139	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	N	7131	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	N	7131	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6584	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	N	7131	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	O	7473	LEU	84	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CA	7132	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6584	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CA	7132	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7133	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7133	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6584	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7133	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	O	7135	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6584	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	O	7135	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	N	7139	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	N	7139	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6584	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	N	7139	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CG2	7137	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CB	7134	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CA	7132	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6575	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CA	7132	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CA	7132	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	C	7133	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6575	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	C	7133	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	C	7133	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	N	7139	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6575	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	N	7139	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	N	7139	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CA	7132	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7133	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	N	7139	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	N	7131	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	N	7131	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7124	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7124	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6584	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7124	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6584	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CA	7123	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6510	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6510	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6508	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6505	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6505	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	6513	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	6511	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	6511	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	6511	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6509	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6509	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6574	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6507	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6577	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6577	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6577	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6506	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6506	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6498	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6499	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6497	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6499	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7151	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7151	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6498	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6499	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6499	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	N	7150	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	N	7150	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6499	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7152	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7152	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6498	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6499	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6497	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6509	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6574	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6507	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6506	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6509	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6574	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6505	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6505	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	C	7152	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6505	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6509	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6574	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6505	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6498	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6498	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6500	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6497	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6497	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6574	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CG2	7137	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6575	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6575	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6579	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6578	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6574	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CA	7132	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6574	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	C	7133	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6574	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	N	7139	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	N	7150	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6565	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6575	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6576	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	N	7150	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6567	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7135	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CA	7140	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6585	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CD	7128	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6585	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CE	7129	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6629	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CD	7128	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6628	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CE	7129	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6630	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CE	7129	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6629	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CE	7129	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6600	SER	830	PB1 domain	IPR000270	Cdc28	P00546	NZ	7130	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	6605	SER	830	PB1 domain	IPR000270	Cdc28	P00546	NZ	7130	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	6605	SER	830	PB1 domain	IPR000270	Cdc28	P00546	OH	6991	TYR	23	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6628	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NZ	7130	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6630	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NZ	7130	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6629	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NZ	7130	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6629	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	OH	6991	TYR	23	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6583	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7127	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6586	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7127	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6586	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7465	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6586	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CD	7466	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6586	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6586	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	OH	7487	TYR	85	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6586	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CD	7128	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6586	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CE	7129	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6585	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7127	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6599	GLY	829	PB1 domain	IPR000270	Cdc28	P00546	CE	7129	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6598	GLY	829	PB1 domain	IPR000270	Cdc28	P00546	NZ	7130	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6599	GLY	829	PB1 domain	IPR000270	Cdc28	P00546	NZ	7130	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6593	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NH1	7147	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6593	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6589	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6593	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6589	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	6595	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6596	GLY	829	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6592	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6492	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6590	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6488	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6591	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6591	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6590	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6596	GLY	829	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6597	GLY	829	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6585	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6585	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6628	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6628	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6630	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6630	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6583	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6596	GLY	829	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6492	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	CG	7465	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6588	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6492	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6590	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6488	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6592	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6598	GLY	829	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6599	GLY	829	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6581	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7127	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6584	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CB	7125	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6582	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7127	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6584	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7127	LYS	41	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7465	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6585	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6585	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6585	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6630	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6583	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CB	7142	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6583	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6583	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6583	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	6513	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	NH1	7147	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	6511	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	NH1	7147	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	6513	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	6511	TYR	818	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6593	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6589	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6589	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6588	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6588	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CD	7145	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6588	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6591	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	CG	7144	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6591	LEU	828	PB1 domain	IPR000270	Cdc28	P00546	NE	7146	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6504	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CG	7155	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	N	7469	LEU	84	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7462	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7461	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	N	7460	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CG	7155	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6504	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	N	7460	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CE2	6810	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CE1	7429	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	CE2	6810	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	ND1	7428	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	OH	6811	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	ND1	7428	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	6812	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	ND1	7428	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	OH	6811	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CG	7426	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	OH	6811	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CB	7424	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	6812	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CG	7426	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	6812	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CB	7424	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6805	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	N	7431	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	6809	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	ND1	7428	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6805	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	NE2	7430	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	6809	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CG	7426	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6805	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CD2	7427	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	6809	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CB	7424	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6504	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	NE2	7430	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6504	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CD2	7427	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6805	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	N	7460	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6788	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	CB	7153	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6785	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	CB	7153	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6785	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6783	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6784	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6786	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	CB	7453	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6503	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7452	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6503	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7451	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6503	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CB	7453	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6503	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6797	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CA	7451	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6797	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CB	7453	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6795	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CA	7451	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6795	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CB	7453	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6794	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CB	7453	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6503	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CB	7153	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6786	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6503	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6803	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CA	7451	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CA	7451	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6788	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	CD1	7156	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6504	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6504	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7452	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6504	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7451	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CB	7153	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7452	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6503	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7461	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6503	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	N	7460	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	6789	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	CE1	7429	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	6789	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	NE2	7430	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6788	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	NE2	7430	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6805	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CA	7451	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6487	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CB	7434	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6487	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	OG	7436	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6485	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	OG	7436	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6486	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	OG	7436	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	6487	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CB	6844	LEU	5		
+Cdc24	P11433	NZ	6487	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CD2	6848	LEU	5		
+Cdc24	P11433	CE	6486	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CD2	6848	LEU	5		
+Cdc24	P11433	O	6483	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CG	7455	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6483	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	N	7450	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6483	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CD2	7456	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6483	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	C	7447	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6482	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	C	7447	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6483	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	O	7449	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6481	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	O	7449	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6482	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	O	7449	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6480	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	O	7449	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6465	ILE	813	PB1 domain	IPR000270	Cdc28	P00546	NE2	7459	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6483	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	NE2	7459	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6483	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CA	7446	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6482	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CB	7448	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6472	THR	814	PB1 domain	IPR000270	Cdc28	P00546	CB	7448	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	OG1	6478	THR	814	PB1 domain	IPR000270	Cdc28	P00546	CB	7448	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6485	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	O	7449	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6484	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	O	7449	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6485	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CB	7448	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6805	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	O	7435	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6805	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	C	7433	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6803	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	O	7435	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	O	7435	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6803	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	C	7433	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	C	7433	SER	79	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6803	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	N	7437	ASP	80	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	N	7437	ASP	80	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6805	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	N	7450	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6797	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CG	7455	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6795	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CG	7455	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6794	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CG	7455	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6794	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CD2	7456	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6483	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CB	7453	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6483	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6797	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	ND1	7457	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6795	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	ND1	7457	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6794	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	ND1	7457	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6795	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CE1	7458	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6794	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CE1	7458	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6801	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CG	7455	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CG	7455	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6803	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	N	7450	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	N	7450	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	C	7447	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6802	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	ND1	7457	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6801	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	ND1	7457	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6803	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	ND1	7457	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	ND1	7457	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6801	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CE1	7458	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CE1	7458	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6803	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CA	7438	ASP	80	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CA	7438	ASP	80	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	N	7445	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	C	7439	ASP	80	Protein kinase domain	IPR000719
+Cdc24	P11433	OXT	6813	TYR	854	PB1 domain	IPR000270	Cdc28	P00546	CA	7446	ALA	81	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7135	ILE	42	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7471	LEU	84	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	N	7469	LEU	84	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	C	7462	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CA	7461	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7151	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	N	7150	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6502	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7152	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	CA	7461	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	N	7460	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6785	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	C	7152	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6786	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	C	7152	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	6503	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7152	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6499	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6499	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	C	7452	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6501	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6496	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6490	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6492	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6489	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	CB	7453	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6489	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6488	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	O	7454	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6587	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CB	7463	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6586	VAL	827	PB1 domain	IPR000270	Cdc28	P00546	CB	7463	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	6485	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CD	7466	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6484	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CD	7466	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6484	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6482	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CG	7465	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6482	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CD	7466	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6481	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6482	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6480	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	CE	7467	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6484	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6482	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6480	LYS	815	PB1 domain	IPR000270	Cdc28	P00546	NZ	7468	LYS	83	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6566	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CA	7151	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6566	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6566	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	N	7150	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6566	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6564	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6564	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	C	7141	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6568	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	6569	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	CA	7151	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	6569	PHE	825	PB1 domain	IPR000270	Cdc28	P00546	O	7143	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	2486	GLU	316	Dbl homology (DH) domain	IPR000219	Cdc28	P00546	CA	7151	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	2486	GLU	316	Dbl homology (DH) domain	IPR000219	Cdc28	P00546	C	7152	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	6791	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	CE1	7429	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	6792	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	CE1	7429	HIS	78	Protein kinase domain	IPR000719
+Cdc24	P11433	OE2	2487	GLU	316	Dbl homology (DH) domain	IPR000219	Cdc28	P00546	CB	7153	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	2485	GLU	316	Dbl homology (DH) domain	IPR000219	Cdc28	P00546	CB	7153	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	OE1	2486	GLU	316	Dbl homology (DH) domain	IPR000219	Cdc28	P00546	CB	7153	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	NE2	3686	HIS	461			Cdc28	P00546	CD1	7879	LEU	133	Protein kinase domain	IPR000719
+Cdc24	P11433	OD2	6533	ASP	820	PB1 domain	IPR000270	Cdc28	P00546	N	6951	TYR	19	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6578	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	C	6965	GLY	20	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6579	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	N	6963	GLY	20	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6578	VAL	826	PB1 domain	IPR000270	Cdc28	P00546	N	6963	GLY	20	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6628	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CG2	6973	VAL	21	Protein kinase domain	IPR000719
+Cdc24	P11433	OD1	6629	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CG2	6973	VAL	21	Protein kinase domain	IPR000719
+Cdc24	P11433	OE2	6622	GLU	832	PB1 domain	IPR000270	Cdc28	P00546	OH	6991	TYR	23	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6660	ALA	837	PB1 domain	IPR000270	Cdc28	P00546	NH1	7147	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6663	ALA	837	PB1 domain	IPR000270	Cdc28	P00546	NH1	7147	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6627	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NH1	7147	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6625	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NH1	7147	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6631	TRP	834	PB1 domain	IPR000270	Cdc28	P00546	NH1	7147	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6627	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6626	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6625	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6631	TRP	834	PB1 domain	IPR000270	Cdc28	P00546	CZ	7149	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	O	6627	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6626	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	C	6625	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6624	ASP	833	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	CA	6632	TRP	834	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6631	TRP	834	PB1 domain	IPR000270	Cdc28	P00546	NH2	7148	ARG	43	Protein kinase domain	IPR000719
+Cdc24	P11433	N	6782	ARG	852	PB1 domain	IPR000270	Cdc28	P00546	O	7154	LEU	44	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6494	ILE	816	PB1 domain	IPR000270	Cdc28	P00546	CD2	7456	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6796	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CG	7455	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6798	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CG	7455	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	6800	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CG	7455	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6796	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CD2	7456	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6798	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CD2	7456	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	6800	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CD2	7456	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6470	ILE	813	PB1 domain	IPR000270	Cdc28	P00546	CD2	7456	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6796	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	ND1	7457	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	6800	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	ND1	7457	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6796	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CE1	7458	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	6800	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	CE1	7458	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	6471	ILE	813	PB1 domain	IPR000270	Cdc28	P00546	CE1	7458	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6796	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	NE2	7459	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	6798	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	NE2	7459	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD2	6800	LEU	853	PB1 domain	IPR000270	Cdc28	P00546	NE2	7459	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CD1	6471	ILE	813	PB1 domain	IPR000270	Cdc28	P00546	NE2	7459	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6469	ILE	813	PB1 domain	IPR000270	Cdc28	P00546	CE1	7458	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG1	6469	ILE	813	PB1 domain	IPR000270	Cdc28	P00546	NE2	7459	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CG2	6470	ILE	813	PB1 domain	IPR000270	Cdc28	P00546	NE2	7459	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	6467	ILE	813	PB1 domain	IPR000270	Cdc28	P00546	NE2	7459	HIS	82	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	9021	LEU	275	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9023	LEU	275	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	9023	LEU	275	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	9020	LEU	275	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8368	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8368	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8368	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8368	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CD2	9026	LEU	275	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8369	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8369	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8369	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8366	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8366	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8366	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3830	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OG1	8371	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NE	3831	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OG1	8371	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OG1	8371	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OG1	8371	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	OG1	8371	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8349	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	O	8349	GLY	192	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CB	8375	TRP	196	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8372	TRP	196	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8372	TRP	196	Protein kinase domain	IPR000719
+Cdc24	P11433	CZ	3834	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8367	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH2	3833	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8367	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	C	8367	THR	195	Protein kinase domain	IPR000719
+Cdc24	P11433	NH1	3832	ARG	478	Pleckstrin homology domain	IPR001849	Cdc28	P00546	CA	8373	TRP	196	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3846	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8350	VAL	193	Protein kinase domain	IPR000719
+Cdc24	P11433	OG	3848	SER	480	Pleckstrin homology domain	IPR001849	Cdc28	P00546	N	8350	VAL	193	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	3685	HIS	461			Cdc28	P00546	CD1	7879	LEU	133	Protein kinase domain	IPR000719
+Cdc24	P11433	CE1	3744	TYR	468			Cdc28	P00546	CB	7831	HIS	128	Protein kinase domain	IPR000719
+Cdc24	P11433	CB	3713	LYS	465			Cdc28	P00546	CB	7857	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CG	3715	LYS	465			Cdc28	P00546	CB	7857	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CD	3716	LYS	465			Cdc28	P00546	CB	7857	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3717	LYS	465			Cdc28	P00546	CB	7857	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	CE	3717	LYS	465			Cdc28	P00546	O	7858	ARG	131	Protein kinase domain	IPR000719
+Cdc24	P11433	NZ	3718	LYS	465			Cdc28	P00546	O	8097	PHE	161	Protein kinase domain	IPR000719

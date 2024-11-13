@@ -1,0 +1,11 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	GLU	215	Calponin homology domain	IPR001715	Cdc24	P11433	LYS	481	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	ASP	309	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	ARG	478	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	ASP	309	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	ILE	479	Pleckstrin homology domain	IPR001849
+Cdc24	P11433	MET	320	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	MET	320	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	PHE	379	Dbl homology (DH) domain	IPR000219	Cdc24	P11433	LYS	465		
+Cdc24	P11433	LYS	465			Cdc24	P11433	PHE	379	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	LYS	481	Pleckstrin homology domain	IPR001849	Cdc24	P11433	GLU	215	Calponin homology domain	IPR001715
+Cdc24	P11433	SER	480	Pleckstrin homology domain	IPR001849	Cdc24	P11433	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	ARG	478	Pleckstrin homology domain	IPR001849	Cdc24	P11433	ASP	309	Dbl homology (DH) domain	IPR000219
+Cdc24	P11433	ILE	479	Pleckstrin homology domain	IPR001849	Cdc24	P11433	ASP	309	Dbl homology (DH) domain	IPR000219

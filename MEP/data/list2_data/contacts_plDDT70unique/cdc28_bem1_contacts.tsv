@@ -1,0 +1,14 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc28	P00546	ILE	218	Protein kinase domain	IPR000719	bem1	P29366	PRO	357	Phox homology	IPR001683
+cdc28	P00546	ASP	244	Protein kinase domain	IPR000719	bem1	P29366	GLY	203	SH3 domain	IPR001452
+cdc28	P00546	ASP	244	Protein kinase domain	IPR000719	bem1	P29366	GLY	202	SH3 domain	IPR001452
+cdc28	P00546	PHE	222	Protein kinase domain	IPR000719	bem1	P29366	PRO	357	Phox homology	IPR001683
+cdc28	P00546	TRP	252	Protein kinase domain	IPR000719	bem1	P29366	TYR	322	Phox homology	IPR001683
+cdc28	P00546	GLN	251	Protein kinase domain	IPR000719	bem1	P29366	GLN	319	Phox homology	IPR001683
+cdc28	P00546	TRP	252	Protein kinase domain	IPR000719	bem1	P29366	ASP	323	Phox homology	IPR001683
+cdc28	P00546	TRP	252	Protein kinase domain	IPR000719	bem1	P29366	GLN	319	Phox homology	IPR001683
+cdc28	P00546	GLU	217	Protein kinase domain	IPR000719	bem1	P29366	LEU	201	SH3 domain	IPR001452
+cdc28	P00546	LYS	223	Protein kinase domain	IPR000719	bem1	P29366	TYR	322	Phox homology	IPR001683
+cdc28	P00546	ASP	219	Protein kinase domain	IPR000719	bem1	P29366	TYR	322	Phox homology	IPR001683
+cdc28	P00546	ARG	226	Protein kinase domain	IPR000719	bem1	P29366	ASP	323	Phox homology	IPR001683
+cdc28	P00546	ARG	226	Protein kinase domain	IPR000719	bem1	P29366	TYR	322	Phox homology	IPR001683

@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bni1	P41832	LYS	1639	Formin, FH2 domain	IPR015425	cdc24	P11433	LYS	281	Dbl homology (DH) domain	IPR000219
+bni1	P41832	GLN	1807	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	TRP	637	Pleckstrin homology domain	IPR001849
+bni1	P41832	ARG	1596	Formin, FH2 domain	IPR015425	cdc24	P11433	SER	405	Dbl homology (DH) domain	IPR000219
+bni1	P41832	VAL	1764	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	503	Pleckstrin homology domain	IPR001849
+bni1	P41832	VAL	1764	Formin, FH2 domain	IPR015425	cdc24	P11433	PHE	492	Pleckstrin homology domain	IPR001849
+bni1	P41832	TYR	1757	Formin, FH2 domain	IPR015425	cdc24	P11433	LYS	490	Pleckstrin homology domain	IPR001849
+bni1	P41832	PHE	1724	Formin, FH2 domain	IPR015425	cdc24	P11433	VAL	37		

@@ -1,0 +1,135 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bni1	P41832	LYS	1639	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	423	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LYS	1639	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	278	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LYS	1639	Formin, FH2 domain	IPR015425	cdc24	P11433	LYS	281	Dbl homology (DH) domain	IPR000219
+bni1	P41832	VAL	1640	Formin, FH2 domain	IPR015425	cdc24	P11433	LYS	281	Dbl homology (DH) domain	IPR000219
+bni1	P41832	GLN	1644	Formin, FH2 domain	IPR015425	cdc24	P11433	LYS	284	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ASN	606	Formin, FH3 domain	IPR010472	cdc24	P11433	LYS	193	Calponin homology domain	IPR001715
+bni1	P41832	ASP	610	Formin, FH3 domain	IPR010472	cdc24	P11433	LYS	196	Calponin homology domain	IPR001715
+bni1	P41832	LYS	865			cdc24	P11433	LYS	193	Calponin homology domain	IPR001715
+bni1	P41832	LYS	865			cdc24	P11433	ASP	191	Calponin homology domain	IPR001715
+bni1	P41832	LEU	1148			cdc24	P11433	PRO	62		
+bni1	P41832	LEU	1148			cdc24	P11433	PHE	63		
+bni1	P41832	THR	1149			cdc24	P11433	ALA	188	Calponin homology domain	IPR001715
+bni1	P41832	THR	1149			cdc24	P11433	VAL	186	Calponin homology domain	IPR001715
+bni1	P41832	VAL	1152			cdc24	P11433	ILE	173	Calponin homology domain	IPR001715
+bni1	P41832	VAL	1152			cdc24	P11433	PHE	63		
+bni1	P41832	VAL	1152			cdc24	P11433	GLN	59		
+bni1	P41832	LEU	1145			cdc24	P11433	ALA	188	Calponin homology domain	IPR001715
+bni1	P41832	ILE	339	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	PRO	758		
+bni1	P41832	ILE	339	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	SER	756		
+bni1	P41832	ILE	339	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	ILE	757		
+bni1	P41832	HIS	376	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	SER	756		
+bni1	P41832	HIS	376	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	ILE	757		
+bni1	P41832	LEU	346	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	LEU	784	PB1 domain	IPR000270
+bni1	P41832	ASN	388	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	THR	805	PB1 domain	IPR000270
+bni1	P41832	ASN	388	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	LYS	801	PB1 domain	IPR000270
+bni1	P41832	ASN	388	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	ASN	804	PB1 domain	IPR000270
+bni1	P41832	ASN	384	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	PHE	781	PB1 domain	IPR000270
+bni1	P41832	LEU	432	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	ILE	780	PB1 domain	IPR000270
+bni1	P41832	ASN	384	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	THR	782	PB1 domain	IPR000270
+bni1	P41832	LEU	346	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	LYS	801	PB1 domain	IPR000270
+bni1	P41832	LEU	346	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	THR	782	PB1 domain	IPR000270
+bni1	P41832	GLN	343	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	LEU	784	PB1 domain	IPR000270
+bni1	P41832	ASP	375	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	PHE	753		
+bni1	P41832	GLN	377	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	ARG	765	PB1 domain	IPR000270
+bni1	P41832	HIS	376	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	PHE	753		
+bni1	P41832	GLN	377	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	THR	782	PB1 domain	IPR000270
+bni1	P41832	GLN	343	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	SER	761	PB1 domain	IPR000270
+bni1	P41832	ARG	1824	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	VAL	836	PB1 domain	IPR000270
+bni1	P41832	ALA	1811	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	TRP	637	Pleckstrin homology domain	IPR001849
+bni1	P41832	GLN	1807	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	GLU	642	Pleckstrin homology domain	IPR001849
+bni1	P41832	GLN	1807	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	TRP	637	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1808	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ARG	616	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1808	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ILE	617	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1808	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	TRP	637	Pleckstrin homology domain	IPR001849
+bni1	P41832	GLY	1812	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ARG	616	Pleckstrin homology domain	IPR001849
+bni1	P41832	LYS	1809	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	TYR	477		
+bni1	P41832	LYS	1809	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ARG	616	Pleckstrin homology domain	IPR001849
+bni1	P41832	LYS	1809	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ARG	614	Pleckstrin homology domain	IPR001849
+bni1	P41832	LYS	1809	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	LEU	613	Pleckstrin homology domain	IPR001849
+bni1	P41832	LYS	1809	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	GLY	615	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1805	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ARG	614	Pleckstrin homology domain	IPR001849
+bni1	P41832	ALA	1811	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	SER	639	Pleckstrin homology domain	IPR001849
+bni1	P41832	GLY	1812	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ASN	621	Pleckstrin homology domain	IPR001849
+bni1	P41832	ALA	1811	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ASN	621	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1804	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ASN	645	Pleckstrin homology domain	IPR001849
+bni1	P41832	GLU	1753	Formin, FH2 domain	IPR015425	cdc24	P11433	ASN	652	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1756	Formin, FH2 domain	IPR015425	cdc24	P11433	ARG	631	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1913			cdc24	P11433	THR	458		
+bni1	P41832	LEU	1913			cdc24	P11433	ILE	371	Dbl homology (DH) domain	IPR000219
+bni1	P41832	PHE	1599	Formin, FH2 domain	IPR015425	cdc24	P11433	GLN	412	Dbl homology (DH) domain	IPR000219
+bni1	P41832	THR	1598	Formin, FH2 domain	IPR015425	cdc24	P11433	GLN	412	Dbl homology (DH) domain	IPR000219
+bni1	P41832	PHE	1599	Formin, FH2 domain	IPR015425	cdc24	P11433	TYR	408	Dbl homology (DH) domain	IPR000219
+bni1	P41832	PHE	1599	Formin, FH2 domain	IPR015425	cdc24	P11433	SER	405	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ARG	1596	Formin, FH2 domain	IPR015425	cdc24	P11433	SER	405	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LYS	1731	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	285	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ASP	1735	Formin, FH2 domain	IPR015425	cdc24	P11433	ARG	416	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LYS	1731	Formin, FH2 domain	IPR015425	cdc24	P11433	ARG	416	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LYS	1731	Formin, FH2 domain	IPR015425	cdc24	P11433	THR	289	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LYS	1601	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	459		
+bni1	P41832	VAL	1800	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	THR	495	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1804	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	THR	495	Pleckstrin homology domain	IPR001849
+bni1	P41832	ASP	1802	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ARG	504	Pleckstrin homology domain	IPR001849
+bni1	P41832	MET	1801	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ILE	493	Pleckstrin homology domain	IPR001849
+bni1	P41832	MET	1801	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	PRO	502	Pleckstrin homology domain	IPR001849
+bni1	P41832	MET	1801	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	ARG	504	Pleckstrin homology domain	IPR001849
+bni1	P41832	ARG	1797	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	PRO	502	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1805	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	PHE	506	Pleckstrin homology domain	IPR001849
+bni1	P41832	VAL	1764	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	503	Pleckstrin homology domain	IPR001849
+bni1	P41832	VAL	1764	Formin, FH2 domain	IPR015425	cdc24	P11433	PHE	492	Pleckstrin homology domain	IPR001849
+bni1	P41832	GLN	1767	Formin, FH2 domain	IPR015425	cdc24	P11433	SER	499	Pleckstrin homology domain	IPR001849
+bni1	P41832	HIS	1760	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	503	Pleckstrin homology domain	IPR001849
+bni1	P41832	HIS	1760	Formin, FH2 domain	IPR015425	cdc24	P11433	PHE	492	Pleckstrin homology domain	IPR001849
+bni1	P41832	LYS	1761	Formin, FH2 domain	IPR015425	cdc24	P11433	PHE	492	Pleckstrin homology domain	IPR001849
+bni1	P41832	TYR	1757	Formin, FH2 domain	IPR015425	cdc24	P11433	LYS	651	Pleckstrin homology domain	IPR001849
+bni1	P41832	TYR	1757	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	505	Pleckstrin homology domain	IPR001849
+bni1	P41832	LYS	1761	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	505	Pleckstrin homology domain	IPR001849
+bni1	P41832	TYR	1757	Formin, FH2 domain	IPR015425	cdc24	P11433	LYS	490	Pleckstrin homology domain	IPR001849
+bni1	P41832	TYR	1757	Formin, FH2 domain	IPR015425	cdc24	P11433	PHE	492	Pleckstrin homology domain	IPR001849
+bni1	P41832	GLN	1768	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	503	Pleckstrin homology domain	IPR001849
+bni1	P41832	GLN	1768	Formin, FH2 domain	IPR015425	cdc24	P11433	ARG	504	Pleckstrin homology domain	IPR001849
+bni1	P41832	ASN	1605	Formin, FH2 domain	IPR015425	cdc24	P11433	GLN	462		
+bni1	P41832	LEU	1909			cdc24	P11433	GLN	462		
+bni1	P41832	ALA	1906			cdc24	P11433	ALA	375	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LEU	1910			cdc24	P11433	ALA	375	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LEU	1909			cdc24	P11433	ALA	375	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LEU	1910			cdc24	P11433	ALA	376	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ASN	1605	Formin, FH2 domain	IPR015425	cdc24	P11433	ASN	374	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ILE	1600	Formin, FH2 domain	IPR015425	cdc24	P11433	LEU	401	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ILE	1600	Formin, FH2 domain	IPR015425	cdc24	P11433	GLN	404	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ASN	1580	Formin, FH2 domain	IPR015425	cdc24	P11433	LEU	401	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LEU	1804	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	PHE	646	Pleckstrin homology domain	IPR001849
+bni1	P41832	LEU	1808	Diaphanous autoregulatory (DAD) domain	IPR014767	cdc24	P11433	LEU	517	Pleckstrin homology domain	IPR001849
+bni1	P41832	LYS	392	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	THR	805	PB1 domain	IPR000270
+bni1	P41832	LYS	392	Formin, GTPase-binding domain	IPR010473	cdc24	P11433	GLU	779	PB1 domain	IPR000270
+bni1	P41832	VAL	614	Formin, FH3 domain	IPR010472	cdc24	P11433	SER	221	Calponin homology domain	IPR001715
+bni1	P41832	PHE	1724	Formin, FH2 domain	IPR015425	cdc24	P11433	VAL	37		
+bni1	P41832	PHE	1724	Formin, FH2 domain	IPR015425	cdc24	P11433	LYS	292	Dbl homology (DH) domain	IPR000219
+bni1	P41832	SER	1592	Formin, FH2 domain	IPR015425	cdc24	P11433	ASN	34		
+bni1	P41832	ASP	1722	Formin, FH2 domain	IPR015425	cdc24	P11433	PRO	36		
+bni1	P41832	PHE	1724	Formin, FH2 domain	IPR015425	cdc24	P11433	PRO	36		
+bni1	P41832	HIS	628	Formin, FH3 domain	IPR010472	cdc24	P11433	TYR	200	Calponin homology domain	IPR001715
+bni1	P41832	GLN	873			cdc24	P11433	TYR	200	Calponin homology domain	IPR001715
+bni1	P41832	LEU	627	Formin, FH3 domain	IPR010472	cdc24	P11433	TYR	200	Calponin homology domain	IPR001715
+bni1	P41832	ASP	626	Formin, FH3 domain	IPR010472	cdc24	P11433	LYS	208	Calponin homology domain	IPR001715
+bni1	P41832	ASP	629	Formin, FH3 domain	IPR010472	cdc24	P11433	LYS	208	Calponin homology domain	IPR001715
+bni1	P41832	ASP	626	Formin, FH3 domain	IPR010472	cdc24	P11433	LEU	204	Calponin homology domain	IPR001715
+bni1	P41832	LEU	627	Formin, FH3 domain	IPR010472	cdc24	P11433	LEU	204	Calponin homology domain	IPR001715
+bni1	P41832	ASN	620	Formin, FH3 domain	IPR010472	cdc24	P11433	LYS	207	Calponin homology domain	IPR001715
+bni1	P41832	GLU	617	Formin, FH3 domain	IPR010472	cdc24	P11433	LYS	207	Calponin homology domain	IPR001715
+bni1	P41832	LYS	621	Formin, FH3 domain	IPR010472	cdc24	P11433	ASP	214	Calponin homology domain	IPR001715
+bni1	P41832	ASN	620	Formin, FH3 domain	IPR010472	cdc24	P11433	ASP	214	Calponin homology domain	IPR001715
+bni1	P41832	PHE	623	Formin, FH3 domain	IPR010472	cdc24	P11433	ASP	214	Calponin homology domain	IPR001715
+bni1	P41832	HIS	628	Formin, FH3 domain	IPR010472	cdc24	P11433	LEU	204	Calponin homology domain	IPR001715
+bni1	P41832	LEU	1930			cdc24	P11433	ASN	311	Dbl homology (DH) domain	IPR000219
+bni1	P41832	SER	1903			cdc24	P11433	SER	382	Dbl homology (DH) domain	IPR000219
+bni1	P41832	SER	1903			cdc24	P11433	PHE	379	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ARG	1934			cdc24	P11433	ASN	311	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ARG	1596	Formin, FH2 domain	IPR015425	cdc24	P11433	GLU	402	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ARG	1596	Formin, FH2 domain	IPR015425	cdc24	P11433	MET	33		
+bni1	P41832	LYS	1584	Formin, FH2 domain	IPR015425	cdc24	P11433	LYS	400	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LYS	1584	Formin, FH2 domain	IPR015425	cdc24	P11433	ASN	399	Dbl homology (DH) domain	IPR000219
+bni1	P41832	ALA	622	Formin, FH3 domain	IPR010472	cdc24	P11433	ASP	214	Calponin homology domain	IPR001715
+bni1	P41832	LYS	1911			cdc24	P11433	MET	320	Dbl homology (DH) domain	IPR000219
+bni1	P41832	LEU	1910			cdc24	P11433	MET	320	Dbl homology (DH) domain	IPR000219

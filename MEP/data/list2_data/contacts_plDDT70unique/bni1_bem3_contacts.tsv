@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bni1	P41832	SER	1474	Formin, FH2 domain	IPR015425	bem3	P32873	GLU	963	Rho GTPase-activating protein domain	IPR000198
+bni1	P41832	ASN	1476	Formin, FH2 domain	IPR015425	bem3	P32873	ASP	966	Rho GTPase-activating protein domain	IPR000198
+bni1	P41832	ASN	1658	Formin, FH2 domain	IPR015425	bem3	P32873	VAL	561	Phox homology	IPR001683
+bni1	P41832	ASN	1658	Formin, FH2 domain	IPR015425	bem3	P32873	SER	565	Phox homology	IPR001683
+bni1	P41832	ARG	1661	Formin, FH2 domain	IPR015425	bem3	P32873	HIS	566	Phox homology	IPR001683
+bni1	P41832	GLN	1654	Formin, FH2 domain	IPR015425	bem3	P32873	VAL	561	Phox homology	IPR001683
+bni1	P41832	ASP	1719	Formin, FH2 domain	IPR015425	bem3	P32873	LYS	672	Pleckstrin homology domain	IPR001849

@@ -1,0 +1,14 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	CG	1316	ASP	166	Bud3, N-terminal	IPR021895	rga2	Q06407	C	19456	ARG	826	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CG	1316	ASP	166	Bud3, N-terminal	IPR021895	rga2	Q06407	O	19457	ARG	826	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CG	930	ASN	116	Bud3, N-terminal	IPR021895	rga2	Q06407	CG	19459	ARG	826	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CB	1272	ASP	160	Bud3, N-terminal	IPR021895	rga2	Q06407	CB	20642	PRO	973	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CD	1282	PRO	161	Bud3, N-terminal	IPR021895	rga2	Q06407	CG	20643	PRO	973	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CB	1272	ASP	160	Bud3, N-terminal	IPR021895	rga2	Q06407	CG	20643	PRO	973	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CB	900	PRO	112	Bud3, N-terminal	IPR021895	rga2	Q06407	ND2	20801	ASN	992	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CG	1288	PRO	162	Bud3, N-terminal	IPR021895	rga2	Q06407	N	20615	VAL	970	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CG	1288	PRO	162	Bud3, N-terminal	IPR021895	rga2	Q06407	C	20609	LEU	969	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CG	1288	PRO	162	Bud3, N-terminal	IPR021895	rga2	Q06407	O	20610	LEU	969	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CD	1289	PRO	162	Bud3, N-terminal	IPR021895	rga2	Q06407	O	20610	LEU	969	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CG	901	PRO	112	Bud3, N-terminal	IPR021895	rga2	Q06407	ND2	20801	ASN	992	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	CG	1288	PRO	162	Bud3, N-terminal	IPR021895	rga2	Q06407	CA	20616	VAL	970	Rho GTPase-activating protein domain	IPR000198

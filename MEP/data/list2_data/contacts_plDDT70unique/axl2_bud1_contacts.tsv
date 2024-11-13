@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+axl2	P38928	ASN	274	Dystroglycan-type cadherin-like	IPR006644	bud1	P13856	ILE	121	Small GTP-binding domain	IPR005225
+axl2	P38928	ASN	274	Dystroglycan-type cadherin-like	IPR006644	bud1	P13856	ASP	119	Small GTP-binding domain	IPR005225

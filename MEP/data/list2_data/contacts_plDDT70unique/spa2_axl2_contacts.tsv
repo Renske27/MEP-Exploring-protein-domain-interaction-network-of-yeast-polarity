@@ -1,0 +1,10 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+spa2	P23201	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	axl2	P38928	TYR	25	Dystroglycan-type cadherin-like	IPR006644
+spa2	P23201	HIS	88			axl2	P38928	TYR	100	Dystroglycan-type cadherin-like	IPR006644
+spa2	P23201	MET	89			axl2	P38928	GLN	121	Dystroglycan-type cadherin-like	IPR006644
+spa2	P23201	HIS	88			axl2	P38928	GLN	121	Dystroglycan-type cadherin-like	IPR006644
+spa2	P23201	ALA	85			axl2	P38928	TYR	100	Dystroglycan-type cadherin-like	IPR006644
+spa2	P23201	ASN	86			axl2	P38928	THR	98	Dystroglycan-type cadherin-like	IPR006644
+spa2	P23201	PHE	87			axl2	P38928	GLN	121	Dystroglycan-type cadherin-like	IPR006644
+spa2	P23201	PHE	87			axl2	P38928	TYR	100	Dystroglycan-type cadherin-like	IPR006644
+spa2	P23201	ASN	86			axl2	P38928	TYR	100	Dystroglycan-type cadherin-like	IPR006644

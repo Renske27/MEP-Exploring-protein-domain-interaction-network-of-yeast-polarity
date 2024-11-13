@@ -1,0 +1,30 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+spa2	P23201	LEU	495			bud1	P13856	ARG	167		
+spa2	P23201	THR	500			bud1	P13856	ARG	163		
+spa2	P23201	HIS	480			bud1	P13856	GLU	156	Small GTP-binding domain	IPR005225
+spa2	P23201	ALA	1432	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bud1	P13856	LEU	70	Small GTP-binding domain	IPR005225
+spa2	P23201	LEU	1340	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bud1	P13856	ALA	66	Small GTP-binding domain	IPR005225
+spa2	P23201	LEU	1340	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bud1	P13856	MET	67	Small GTP-binding domain	IPR005225
+spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bud1	P13856	ASP	38	Small GTP-binding domain	IPR005225
+spa2	P23201	LYS	1440	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bud1	P13856	ASP	38	Small GTP-binding domain	IPR005225
+spa2	P23201	LYS	1344	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bud1	P13856	ALA	66	Small GTP-binding domain	IPR005225
+spa2	P23201	TYR	487			bud1	P13856	PRO	142	Small GTP-binding domain	IPR005225
+spa2	P23201	TYR	487			bud1	P13856	VAL	141	Small GTP-binding domain	IPR005225
+spa2	P23201	TYR	487			bud1	P13856	ARG	140	Small GTP-binding domain	IPR005225
+spa2	P23201	ARG	486			bud1	P13856	ILE	132	Small GTP-binding domain	IPR005225
+spa2	P23201	ARG	486			bud1	P13856	SER	136	Small GTP-binding domain	IPR005225
+spa2	P23201	TYR	487			bud1	P13856	SER	135	Small GTP-binding domain	IPR005225
+spa2	P23201	THR	483			bud1	P13856	PHE	143	Small GTP-binding domain	IPR005225
+spa2	P23201	TYR	487			bud1	P13856	PHE	143	Small GTP-binding domain	IPR005225
+spa2	P23201	LYS	1344	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bud1	P13856	GLU	69	Small GTP-binding domain	IPR005225
+spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bud1	P13856	ILE	61	Small GTP-binding domain	IPR005225
+spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bud1	P13856	GLY	60	Small GTP-binding domain	IPR005225
+spa2	P23201	HIS	480			bud1	P13856	TYR	144	Small GTP-binding domain	IPR005225
+spa2	P23201	TYR	491			bud1	P13856	ARG	140	Small GTP-binding domain	IPR005225
+spa2	P23201	LYS	97	GIT, Spa2 homology (SHD) domain	IPR013724	bud1	P13856	ARG	41	Small GTP-binding domain	IPR005225
+spa2	P23201	LYS	97	GIT, Spa2 homology (SHD) domain	IPR013724	bud1	P13856	VAL	24	Small GTP-binding domain	IPR005225
+spa2	P23201	HIS	480			bud1	P13856	ASN	153	Small GTP-binding domain	IPR005225
+spa2	P23201	ALA	476			bud1	P13856	ASN	153	Small GTP-binding domain	IPR005225
+spa2	P23201	ALA	476			bud1	P13856	SER	152	Small GTP-binding domain	IPR005225
+spa2	P23201	ILE	472			bud1	P13856	ILE	121	Small GTP-binding domain	IPR005225
+spa2	P23201	ILE	472			bud1	P13856	ASP	119	Small GTP-binding domain	IPR005225

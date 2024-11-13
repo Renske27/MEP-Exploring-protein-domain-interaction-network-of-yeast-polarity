@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+spa2	P23201	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	ASP	15		
+spa2	P23201	ASP	1396	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504
+spa2	P23201	ASN	1426	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	GLN	248	RNA recognition motif domain	IPR000504
+spa2	P23201	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	nrp1	P32770	PRO	17		

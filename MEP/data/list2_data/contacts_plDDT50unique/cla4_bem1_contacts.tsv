@@ -1,0 +1,79 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cla4	P48562	ASN	770	Protein kinase domain	IPR000719	bem1	P29366	ALA	491	PB1 domain	IPR000270
+cla4	P48562	GLU	771	Protein kinase domain	IPR000719	bem1	P29366	ARG	510	PB1 domain	IPR000270
+cla4	P48562	ASN	770	Protein kinase domain	IPR000719	bem1	P29366	LYS	480	PB1 domain	IPR000270
+cla4	P48562	LEU	769	Protein kinase domain	IPR000719	bem1	P29366	ALA	491	PB1 domain	IPR000270
+cla4	P48562	ASP	772	Protein kinase domain	IPR000719	bem1	P29366	ARG	510	PB1 domain	IPR000270
+cla4	P48562	TYR	733	Protein kinase domain	IPR000719	bem1	P29366	ARG	510	PB1 domain	IPR000270
+cla4	P48562	TYR	733	Protein kinase domain	IPR000719	bem1	P29366	ILE	489	PB1 domain	IPR000270
+cla4	P48562	LEU	769	Protein kinase domain	IPR000719	bem1	P29366	ILE	489	PB1 domain	IPR000270
+cla4	P48562	LEU	769	Protein kinase domain	IPR000719	bem1	P29366	PHE	490	PB1 domain	IPR000270
+cla4	P48562	LYS	695	Protein kinase domain	IPR000719	bem1	P29366	ASP	487	PB1 domain	IPR000270
+cla4	P48562	PRO	773	Protein kinase domain	IPR000719	bem1	P29366	ARG	510	PB1 domain	IPR000270
+cla4	P48562	GLU	765	Protein kinase domain	IPR000719	bem1	P29366	LYS	480	PB1 domain	IPR000270
+cla4	P48562	GLU	653	Protein kinase domain	IPR000719	bem1	P29366	LYS	545	PB1 domain	IPR000270
+cla4	P48562	GLU	765	Protein kinase domain	IPR000719	bem1	P29366	LYS	482	PB1 domain	IPR000270
+cla4	P48562	GLY	764	Protein kinase domain	IPR000719	bem1	P29366	LYS	482	PB1 domain	IPR000270
+cla4	P48562	ASP	833			bem1	P29366	GLY	344	Phox homology	IPR001683
+cla4	P48562	CYS	829			bem1	P29366	TRP	346	Phox homology	IPR001683
+cla4	P48562	MET	827			bem1	P29366	TRP	346	Phox homology	IPR001683
+cla4	P48562	ALA	828			bem1	P29366	TRP	346	Phox homology	IPR001683
+cla4	P48562	ASP	833			bem1	P29366	TRP	346	Phox homology	IPR001683
+cla4	P48562	PRO	668	Protein kinase domain	IPR000719	bem1	P29366	TRP	346	Phox homology	IPR001683
+cla4	P48562	LEU	796	Protein kinase domain	IPR000719	bem1	P29366	ILE	354	Phox homology	IPR001683
+cla4	P48562	LEU	796	Protein kinase domain	IPR000719	bem1	P29366	PRO	355	Phox homology	IPR001683
+cla4	P48562	GLU	797	Protein kinase domain	IPR000719	bem1	P29366	ARG	349	Phox homology	IPR001683
+cla4	P48562	SER	795	Protein kinase domain	IPR000719	bem1	P29366	TYR	353	Phox homology	IPR001683
+cla4	P48562	LEU	796	Protein kinase domain	IPR000719	bem1	P29366	TYR	353	Phox homology	IPR001683
+cla4	P48562	GLU	653	Protein kinase domain	IPR000719	bem1	P29366	TYR	484	PB1 domain	IPR000270
+cla4	P48562	GLU	653	Protein kinase domain	IPR000719	bem1	P29366	LYS	521	PB1 domain	IPR000270
+cla4	P48562	LEU	796	Protein kinase domain	IPR000719	bem1	P29366	GLY	356	Phox homology	IPR001683
+cla4	P48562	ARG	800	Protein kinase domain	IPR000719	bem1	P29366	GLY	356	Phox homology	IPR001683
+cla4	P48562	ARG	800	Protein kinase domain	IPR000719	bem1	P29366	PRO	357	Phox homology	IPR001683
+cla4	P48562	ARG	800	Protein kinase domain	IPR000719	bem1	P29366	PRO	355	Phox homology	IPR001683
+cla4	P48562	ARG	800	Protein kinase domain	IPR000719	bem1	P29366	TYR	318	Phox homology	IPR001683
+cla4	P48562	ARG	800	Protein kinase domain	IPR000719	bem1	P29366	TYR	322	Phox homology	IPR001683
+cla4	P48562	TYR	745	Protein kinase domain	IPR000719	bem1	P29366	ILE	198	SH3 domain	IPR001452
+cla4	P48562	ARG	692	Protein kinase domain	IPR000719	bem1	P29366	GLY	199	SH3 domain	IPR001452
+cla4	P48562	CYS	829			bem1	P29366	ARG	340	Phox homology	IPR001683
+cla4	P48562	ALA	828			bem1	P29366	ARG	340	Phox homology	IPR001683
+cla4	P48562	ASP	830			bem1	P29366	ARG	340	Phox homology	IPR001683
+cla4	P48562	GLU	747	Protein kinase domain	IPR000719	bem1	P29366	LYS	196	SH3 domain	IPR001452
+cla4	P48562	ILE	689	Protein kinase domain	IPR000719	bem1	P29366	LEU	201	SH3 domain	IPR001452
+cla4	P48562	HIS	688	Protein kinase domain	IPR000719	bem1	P29366	LEU	201	SH3 domain	IPR001452
+cla4	P48562	HIS	688	Protein kinase domain	IPR000719	bem1	P29366	GLY	202	SH3 domain	IPR001452
+cla4	P48562	HIS	688	Protein kinase domain	IPR000719	bem1	P29366	GLY	203	SH3 domain	IPR001452
+cla4	P48562	LEU	121	Pleckstrin homology domain	IPR001849	bem1	P29366	TYR	221		
+cla4	P48562	GLN	120	Pleckstrin homology domain	IPR001849	bem1	P29366	TYR	221		
+cla4	P48562	LYS	122	Pleckstrin homology domain	IPR001849	bem1	P29366	TYR	221		
+cla4	P48562	GLU	744	Protein kinase domain	IPR000719	bem1	P29366	TYR	159	SH3 domain	IPR001452
+cla4	P48562	TRP	80	Pleckstrin homology domain	IPR001849	bem1	P29366	ALA	222		
+cla4	P48562	TRP	80	Pleckstrin homology domain	IPR001849	bem1	P29366	TYR	221		
+cla4	P48562	PHE	78	Pleckstrin homology domain	IPR001849	bem1	P29366	ALA	222		
+cla4	P48562	TRP	80	Pleckstrin homology domain	IPR001849	bem1	P29366	GLY	224		
+cla4	P48562	PHE	78	Pleckstrin homology domain	IPR001849	bem1	P29366	LEU	163	SH3 domain	IPR001452
+cla4	P48562	ILE	79	Pleckstrin homology domain	IPR001849	bem1	P29366	SER	213	SH3 domain	IPR001452
+cla4	P48562	ILE	79	Pleckstrin homology domain	IPR001849	bem1	P29366	ALA	222		
+cla4	P48562	ARG	811	Protein kinase domain	IPR000719	bem1	P29366	TYR	249		
+cla4	P48562	TYR	812	Protein kinase domain	IPR000719	bem1	P29366	TYR	249		
+cla4	P48562	ALA	6			bem1	P29366	TRP	242		
+cla4	P48562	ALA	6			bem1	P29366	ILE	246		
+cla4	P48562	ILE	10			bem1	P29366	TRP	242		
+cla4	P48562	ILE	10			bem1	P29366	ILE	246		
+cla4	P48562	ILE	10			bem1	P29366	PRO	204	SH3 domain	IPR001452
+cla4	P48562	PHE	15			bem1	P29366	PRO	204	SH3 domain	IPR001452
+cla4	P48562	ASP	14			bem1	P29366	LYS	243		
+cla4	P48562	PHE	15			bem1	P29366	ILE	194	SH3 domain	IPR001452
+cla4	P48562	PHE	15			bem1	P29366	ASP	172	SH3 domain	IPR001452
+cla4	P48562	PHE	15			bem1	P29366	LEU	206	SH3 domain	IPR001452
+cla4	P48562	PHE	15			bem1	P29366	VAL	239		
+cla4	P48562	PHE	15			bem1	P29366	LYS	243		
+cla4	P48562	GLN	16			bem1	P29366	LYS	243		
+cla4	P48562	ALA	7			bem1	P29366	LYS	250		
+cla4	P48562	ALA	7			bem1	P29366	ILE	246		
+cla4	P48562	ASP	12			bem1	P29366	LYS	243		
+cla4	P48562	ILE	18			bem1	P29366	HIS	188	SH3 domain	IPR001452
+cla4	P48562	LEU	3			bem1	P29366	ILE	246		
+cla4	P48562	ARG	813	Protein kinase domain	IPR000719	bem1	P29366	TYR	249		
+cla4	P48562	LYS	748	Protein kinase domain	IPR000719	bem1	P29366	TYR	249		
+cla4	P48562	ASN	826			bem1	P29366	TRP	346	Phox homology	IPR001683
