@@ -1,7 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-act1	P60010	ARG	28	Actin family	IPR004000	cdc24	P11433	THR	782	PB1 domain	IPR000270
-act1	P60010	TYR	279	Actin family	IPR004000	cdc24	P11433	SER	315	Dbl homology (DH) domain	IPR000219
-act1	P60010	ASN	280	Actin family	IPR004000	cdc24	P11433	SER	315	Dbl homology (DH) domain	IPR000219
-act1	P60010	LYS	284	Actin family	IPR004000	cdc24	P11433	ASP	309	Dbl homology (DH) domain	IPR000219
-act1	P60010	PRO	172	Actin family	IPR004000	cdc24	P11433	ASP	214	Calponin homology domain	IPR001715
-act1	P60010	VAL	287	Actin family	IPR004000	cdc24	P11433	ASP	327	Dbl homology (DH) domain	IPR000219

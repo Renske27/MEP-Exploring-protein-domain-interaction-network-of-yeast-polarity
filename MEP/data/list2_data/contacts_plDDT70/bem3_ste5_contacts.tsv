@@ -1,7 +1,0 @@
-Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-bem3	P32873	O	7346	ARG	950	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	CA	12724	LYS	502		
-bem3	P32873	O	7346	ARG	950	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	CG	12728	LYS	502		
-bem3	P32873	O	7346	ARG	950	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	CB	12727	LYS	502		
-bem3	P32873	CB	7347	ARG	950	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	CB	12758	SER	505		
-bem3	P32873	CB	8422	ILE	1083	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	CG2	12752	ILE	504		
-bem3	P32873	CB	7358	LEU	951	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	CG	12864	ASN	518		

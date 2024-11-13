@@ -1,4 +1,0 @@
-Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-bni1	P41832	O	3230	MET	419	Formin, GTPase-binding domain	IPR010473	bud1	P13856	O	16235	ILE	103	Small GTP-binding domain	IPR005225
-bni1	P41832	O	3230	MET	419	Formin, GTPase-binding domain	IPR010473	bud1	P13856	CA	16233	ILE	103	Small GTP-binding domain	IPR005225
-bni1	P41832	CH2	4300	TRP	552	Formin, FH3 domain	IPR010472	bud1	P13856	CB	15963	LEU	70	Small GTP-binding domain	IPR005225

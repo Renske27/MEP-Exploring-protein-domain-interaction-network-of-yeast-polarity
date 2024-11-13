@@ -1,4 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-rax1	Q08760	PHE	317			rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198
-rax1	Q08760	LEU	318			rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198
-rax1	Q08760	VAL	60	RGS domain	IPR016137	rga2	Q06407	PHE	441		

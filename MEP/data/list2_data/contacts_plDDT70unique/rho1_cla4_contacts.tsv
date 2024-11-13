@@ -1,5 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-rho1	P06780	TYR	170			cla4	P48562	ASP	89	Pleckstrin homology domain	IPR001849
-rho1	P06780	PHE	30	Small GTP-binding domain	IPR005225	cla4	P48562	PRO	187	CRIB domain	IPR000095
-rho1	P06780	VAL	51	Small GTP-binding domain	IPR005225	cla4	P48562	PRO	187	CRIB domain	IPR000095
-rho1	P06780	ASP	50	Small GTP-binding domain	IPR005225	cla4	P48562	PRO	187	CRIB domain	IPR000095

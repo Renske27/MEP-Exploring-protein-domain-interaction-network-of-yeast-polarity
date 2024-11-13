@@ -1,5 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-spa2	P23201	ASP	1396	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cdc24	P11433	SER	83		
-spa2	P23201	GLN	1392	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cdc24	P11433	SER	83		
-spa2	P23201	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cdc24	P11433	GLN	84		
-spa2	P23201	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	cdc24	P11433	GLN	84		

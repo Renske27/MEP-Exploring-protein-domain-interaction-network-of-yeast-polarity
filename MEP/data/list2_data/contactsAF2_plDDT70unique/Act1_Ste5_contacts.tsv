@@ -1,7 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-Act1	P60010	PRO	112	Actin family	IPR004000	Ste5	P32917	ILE	251		
-Act1	P60010	ASN	115	Actin family	IPR004000	Ste5	P32917	SER	252		
-Act1	P60010	PRO	112	Actin family	IPR004000	Ste5	P32917	SER	252		
-Act1	P60010	PRO	112	Actin family	IPR004000	Ste5	P32917	ASP	248		
-Act1	P60010	SER	114	Actin family	IPR004000	Ste5	P32917	ASP	248		
-Act1	P60010	LYS	113	Actin family	IPR004000	Ste5	P32917	ASP	248		

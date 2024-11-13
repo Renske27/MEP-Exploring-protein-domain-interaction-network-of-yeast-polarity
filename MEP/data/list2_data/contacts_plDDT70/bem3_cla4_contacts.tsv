@@ -1,9 +1,0 @@
-Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-bem3	P32873	CG2	501	VAL	63			cla4	P48562	CB	15205	HIS	821	Protein kinase domain	IPR000719
-bem3	P32873	CG2	501	VAL	63			cla4	P48562	ND1	15207	HIS	821	Protein kinase domain	IPR000719
-bem3	P32873	CG1	500	VAL	63			cla4	P48562	ND1	15207	HIS	821	Protein kinase domain	IPR000719
-bem3	P32873	CG1	500	VAL	63			cla4	P48562	CE1	15209	HIS	821	Protein kinase domain	IPR000719
-bem3	P32873	CG2	501	VAL	63			cla4	P48562	CG	15206	HIS	821	Protein kinase domain	IPR000719
-bem3	P32873	CG2	501	VAL	63			cla4	P48562	CD2	15208	HIS	821	Protein kinase domain	IPR000719
-bem3	P32873	CG1	500	VAL	63			cla4	P48562	CD2	15208	HIS	821	Protein kinase domain	IPR000719
-bem3	P32873	CG1	500	VAL	63			cla4	P48562	NE2	15210	HIS	821	Protein kinase domain	IPR000719

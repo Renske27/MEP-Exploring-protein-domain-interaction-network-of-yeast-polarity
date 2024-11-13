@@ -1,0 +1,243 @@
+ CLUSTAL 2.1 Multiple Sequence Alignments
+
+
+Sequence type explicitly set to Protein
+Sequence format is Pearson
+Sequence 1: BEM2_Pleckstrin     69 aa
+Sequence 2: BEM3_Pleckstrin    109 aa
+Sequence 3: BOI1_Pleckstrin    121 aa
+Sequence 4: BOI2_Pleckstrin    121 aa
+Sequence 5: CDC24_Pleckstrin   192 aa
+Sequence 6: CLA4_Pleckstrin    120 aa
+Sequence 7: LMO1_Pleckstrin    145 aa
+Sequence 8: OSH2_Pleckstrin     99 aa
+Sequence 9: OSH3_Pleckstrin     96 aa
+Sequence 10: SKM1_Pleckstrin    117 aa
+Sequence 11: SPO14_Pleckstrin   168 aa
+Sequence 12: SWH1_Pleckstrin    100 aa
+Sequence 13: SYT1_Pleckstrin    230 aa
+Sequence 14: TUS1_Pleckstrin    164 aa
+Start of Pairwise alignments
+Aligning...
+
+Sequences (1:2) Aligned. Score:  23
+Sequences (1:3) Aligned. Score:  13
+Sequences (1:4) Aligned. Score:  7
+Sequences (1:5) Aligned. Score:  14
+Sequences (1:6) Aligned. Score:  11
+Sequences (1:7) Aligned. Score:  14
+Sequences (1:8) Aligned. Score:  7
+Sequences (1:9) Aligned. Score:  11
+Sequences (1:10) Aligned. Score:  10
+Sequences (1:11) Aligned. Score:  8
+Sequences (1:12) Aligned. Score:  7
+Sequences (1:13) Aligned. Score:  11
+Sequences (1:14) Aligned. Score:  20
+Sequences (2:3) Aligned. Score:  18
+Sequences (2:4) Aligned. Score:  16
+Sequences (2:5) Aligned. Score:  3
+Sequences (2:6) Aligned. Score:  17
+Sequences (2:7) Aligned. Score:  20
+Sequences (2:8) Aligned. Score:  4
+Sequences (2:9) Aligned. Score:  15
+Sequences (2:10) Aligned. Score:  19
+Sequences (2:11) Aligned. Score:  7
+Sequences (2:12) Aligned. Score:  9
+Sequences (2:13) Aligned. Score:  9
+Sequences (2:14) Aligned. Score:  7
+Sequences (3:4) Aligned. Score:  76
+Sequences (3:5) Aligned. Score:  6
+Sequences (3:6) Aligned. Score:  21
+Sequences (3:7) Aligned. Score:  11
+Sequences (3:8) Aligned. Score:  20
+Sequences (3:9) Aligned. Score:  20
+Sequences (3:10) Aligned. Score:  14
+Sequences (3:11) Aligned. Score:  19
+Sequences (3:12) Aligned. Score:  10
+Sequences (3:13) Aligned. Score:  10
+Sequences (3:14) Aligned. Score:  4
+Sequences (4:5) Aligned. Score:  4
+Sequences (4:6) Aligned. Score:  17
+Sequences (4:7) Aligned. Score:  10
+Sequences (4:8) Aligned. Score:  18
+Sequences (4:9) Aligned. Score:  25
+Sequences (4:10) Aligned. Score:  17
+Sequences (4:11) Aligned. Score:  7
+Sequences (4:12) Aligned. Score:  15
+Sequences (4:13) Aligned. Score:  14
+Sequences (4:14) Aligned. Score:  7
+Sequences (5:6) Aligned. Score:  12
+Sequences (5:7) Aligned. Score:  11
+Sequences (5:8) Aligned. Score:  11
+Sequences (5:9) Aligned. Score:  15
+Sequences (5:10) Aligned. Score:  12
+Sequences (5:11) Aligned. Score:  13
+Sequences (5:12) Aligned. Score:  8
+Sequences (5:13) Aligned. Score:  15
+Sequences (5:14) Aligned. Score:  5
+Sequences (6:7) Aligned. Score:  5
+Sequences (6:8) Aligned. Score:  5
+Sequences (6:9) Aligned. Score:  15
+Sequences (6:10) Aligned. Score:  60
+Sequences (6:11) Aligned. Score:  10
+Sequences (6:12) Aligned. Score:  5
+Sequences (6:13) Aligned. Score:  14
+Sequences (6:14) Aligned. Score:  13
+Sequences (7:8) Aligned. Score:  8
+Sequences (7:9) Aligned. Score:  5
+Sequences (7:10) Aligned. Score:  11
+Sequences (7:11) Aligned. Score:  4
+Sequences (7:12) Aligned. Score:  7
+Sequences (7:13) Aligned. Score:  16
+Sequences (7:14) Aligned. Score:  13
+Sequences (8:9) Aligned. Score:  22
+Sequences (8:10) Aligned. Score:  5
+Sequences (8:11) Aligned. Score:  9
+Sequences (8:12) Aligned. Score:  69
+Sequences (8:13) Aligned. Score:  9
+Sequences (8:14) Aligned. Score:  8
+Sequences (9:10) Aligned. Score:  14
+Sequences (9:11) Aligned. Score:  16
+Sequences (9:12) Aligned. Score:  32
+Sequences (9:13) Aligned. Score:  5
+Sequences (9:14) Aligned. Score:  9
+Sequences (10:11) Aligned. Score:  10
+Sequences (10:12) Aligned. Score:  5
+Sequences (10:13) Aligned. Score:  12
+Sequences (10:14) Aligned. Score:  18
+Sequences (11:12) Aligned. Score:  10
+Sequences (11:13) Aligned. Score:  7
+Sequences (11:14) Aligned. Score:  6
+Sequences (12:13) Aligned. Score:  8
+Sequences (12:14) Aligned. Score:  7
+Sequences (13:14) Aligned. Score:  10
+Guide tree file created:   [clustalw.dnd]
+
+There are 13 groups
+Start of Multiple Alignment
+
+Aligning...
+Group 1:                     Delayed
+Group 2: Sequences:   2      Score:1674
+Group 3:                     Delayed
+Group 4:                     Delayed
+Group 5:                     Delayed
+Group 6:                     Delayed
+Group 7: Sequences:   2      Score:2028
+Group 8: Sequences:   2      Score:1517
+Group 9:                     Delayed
+Group 10: Sequences:   4      Score:763
+Group 11:                     Delayed
+Group 12:                     Delayed
+Group 13: Sequences:   6      Score:723
+Alignment Score -2373
+
+CLUSTAL-Alignment file created  [clustalw.aln]
+
+clustalw.aln
+
+CLUSTAL 2.1 multiple sequence alignment
+
+
+CLA4_Pleckstrin       --------------------------------------------------------SKKK
+SKM1_Pleckstrin       --------------------------------------------------------GVKK
+BOI1_Pleckstrin       --------------------------------------------------------TADC
+BOI2_Pleckstrin       --------------------------------------------------------DADF
+OSH2_Pleckstrin       --------------------------------------------------------PPTY
+SWH1_Pleckstrin       --------------------------------------------------------APTY
+OSH3_Pleckstrin       --------------------------------------------------------GRYL
+BEM2_Pleckstrin       ----------------------------------------------------------DS
+BEM3_Pleckstrin       ------------------------------------------------------DNVKDG
+TUS1_Pleckstrin       -----------------KLVLSGTVYKKRDLWLDPTPVYIALLDNCLLITEEISKGETQK
+LMO1_Pleckstrin       ---------------------------------VRHQRLLQLQKGTWVYAENPLNPEAGT
+SYT1_Pleckstrin       ILQMGAIMNLGMPSRKFSIVNSAKIHWKKEFAILTSLGLLICDKMDWINPQMMKDPKSGT
+CDC24_Pleckstrin      ---RISKFGELLYFDKVFISTTNSSSEPEREFEVYLFEKIIILFSEVVTKKSASSLILKK
+SPO14_Pleckstrin      --------------QGKQGYLVIRSTAKAQGWRVSHFGKHAFKDMIDRHTTKWFLVRNSY
+
+
+CLA4_Pleckstrin       SGWVSYKDD------GILSFIWQKRYLMLH-DSYVALYKNDKQNDDAILKIPLTSIISVS
+SKM1_Pleckstrin       EGWISYKVD------GLFSFLWQKRYLVLN-DSYLAFYKSDKCNEEPVLSVPLTSITNVS
+BOI1_Pleckstrin       SGWMSKKGT------GAMG-TWKQRFFTLH-GTRLSYFTNTNDEK--ERGLIDITAHRVL
+BOI2_Pleckstrin       SGWMSKKGS------GAMS-TWKTRFFTLH-GTRLSYFSSTTDTR--ERGLIDITAHRVV
+OSH2_Pleckstrin       KGFLKKWTN------FAHG-YKLRWFILSG-DGNLSYYKDQSHVD-RPRGTLKVSTCRLH
+SWH1_Pleckstrin       KGYLKKWTN------FAQG-YKLRWFILSS-DGKLSYYIDQADTKNACRGSLNMSSCSLH
+OSH3_Pleckstrin       QGYLLKKRR------KRLQGFKKRFFTLDFRYGTLSYYLN--DHNQTCRGEIVISLSSVS
+BEM2_Pleckstrin       MQLHDLKPS------YSLKTFEIKS---------------------------IMEIINHR
+BEM3_Pleckstrin       SLLLRRPKT------LTGNSTWRVRYGILRDDVLQLFDKNQLTETIKLRQSSIELIPNLP
+TUS1_Pleckstrin       YKLIERPIP------IDYLSLEKRKIPGTSKQPLRNYSQKEHKSPMHNFSTPINSMRPLL
+LMO1_Pleckstrin       PKVYFLIVS------DNHANLLAREFETQTNDLPYLFDNKILTSPGSEALANGRTKVVVL
+SYT1_Pleckstrin       TNYIIDFKSGFSFVPGSTIDVYNGLFADRERDSLGKSHFASLVLAYTEHHSTGSHTSNTT
+CDC24_Pleckstrin      KSSTSASISASNITDNNGSPHHSYHKRHSNSSSSNNIHLSSSSAAAIIHSSTNSSDNNSN
+SPO14_Pleckstrin      LTYVSDLSS----TTPLDVFLIDWKFKVRFSGNKNNILDNENEINWIIHDPNLEINDELE
+
+
+CLA4_Pleckstrin       RTQLKQYCFELVRCS--DRNSVSSGSSSSLNVSSDS------------------------
+SKM1_Pleckstrin       RIQLKQNCFEILRAT--DQKENISPINS---YFYES------------------------
+BOI1_Pleckstrin       PASDDDRLISLYAAS--LGKGKYCFKLVPPQPGSKKGLTF--------------------
+BOI2_Pleckstrin       PAKEDDKLVSLYAAS--TGKGRYCFKLLPPQPGSKKGLTF--------------------
+OSH2_Pleckstrin       IDSSEKLNFELLGGI--TGTTRWRLKGNHP------------------------------
+SWH1_Pleckstrin       LDSSEKLKFEIIGGN--NGVIRWHLKGNHP------------------------------
+OSH3_Pleckstrin       ANKKDK----IIIID--SGMEVWVLKATTK------------------------------
+BEM2_Pleckstrin       NIPAYYYAFKIVMQN--GHEYLIQTASS--------------------------------
+BEM3_Pleckstrin       EDRFGTRNGFLITEH--KKSGLSTSTKYYICTETS-------------------------
+TUS1_Pleckstrin       KSSGNHMSTAYGDRK--TSNTEISNANPNTDEFSFKIRNT--------------------
+LMO1_Pleckstrin       KHITSFKSIELTTPSRRTSSNVYIKLDEANVYTGVELKDR--------------------
+SYT1_Pleckstrin       AASSSAKHNEGVFEPSSDEEDSITNSTDGTSSVSNGESDNDSVSSSDNQLSSNDSNEDYH
+CDC24_Pleckstrin      NSSSSSLFKLSANEPKLDLRGRIMIMNLNQIIPQNNRSLN--------------------
+SPO14_Pleckstrin      EFGIENDANNILDKNGKSKTHQKKSNISSKLLLLTLENSE--------------------
+
+
+CLA4_Pleckstrin       ---------------------NSKKSIYIATKTESDLHSWLDAIFAKCPL
+SKM1_Pleckstrin       ---------------------NSKRSIFISTRTERDLHGWLDAIFAKCPL
+BOI1_Pleckstrin       ---------------------TEPRVHYFAVENKSEMKAWLSAIIKATID
+BOI2_Pleckstrin       ---------------------TQPRTHYFAVDNKEEMRGWMAALIKTTID
+OSH2_Pleckstrin       ----------------------------------IETTRWVNAIQSAIRF
+SWH1_Pleckstrin       ----------------------------------IETNRWVWAIQGAIRY
+OSH3_Pleckstrin       ----------------------------------ENWQSWVDALQTCFDD
+BEM2_Pleckstrin       ----------------------------------SDLTEWIKMIKASK--
+BEM3_Pleckstrin       ----------------------------------KERELWLSAFSDYIDP
+TUS1_Pleckstrin       ---------------------ATGESFKFFTESAEVLNQWIDAIMESFKR
+LMO1_Pleckstrin       ---------------------NDRTVLKFYLDTEEGRYIWLDGLK-----
+SYT1_Pleckstrin       SIKDEYPIFEDENADCLLYLHTCHRNFIWKCANKYERDNWIDSINLFSAY
+CDC24_Pleckstrin      ---------------ITWESIKEQGNFLLKFKNEETRDNWSSCLQQLIHD
+SPO14_Pleckstrin      ------------------------RKLKIICKSESSLKQWMSSIIKMSTS
+                                                             *   :
+clustalw.dnd
+
+(
+(
+(
+BEM2_Pleckstrin:0.37698,
+BEM3_Pleckstrin:0.39114)
+:0.03761,
+(
+(
+CLA4_Pleckstrin:0.19915,
+SKM1_Pleckstrin:0.19401)
+:0.21327,
+TUS1_Pleckstrin:0.42946)
+:0.01656)
+:0.00481,
+(
+(
+(
+BOI1_Pleckstrin:0.11071,
+BOI2_Pleckstrin:0.12070)
+:0.27773,
+(
+(
+OSH2_Pleckstrin:0.14960,
+SWH1_Pleckstrin:0.15343)
+:0.23266,
+OSH3_Pleckstrin:0.33978)
+:0.05078)
+:0.03354,
+(
+CDC24_Pleckstrin:0.42094,
+SPO14_Pleckstrin:0.44215)
+:0.02109)
+:0.02169,
+(
+LMO1_Pleckstrin:0.41624,
+SYT1_Pleckstrin:0.41824)
+:0.02205);

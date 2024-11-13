@@ -1,0 +1,58 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Bud4_PH_domain       ---------------------------------------------NIYKEGYLLQDG---	12
+Slm1_PH_domain       ---------------------------------------------YEIKSGF-LERR---	11
+Boi1_PH_domain       ---------------------------------------------TADCSGWMSKKG---	12
+Boi2_PH_domain       ---------------------------------------------DADFSGWMSKKG---	12
+Osh3_PH_domain       ---------------------------------------------GRYLQGYLLKKR---	12
+Osh2_PH_domain       ---------------------------------------------PPTYKGF-LKKW---	11
+Swh1_PH_domain       ---------------------------------------------APTYKGY-LKKW---	11
+Cla4_PH_domain       ---------------------------------------------SKKKSGWVSYK----	11
+Skm1_PH_domain       ---------------------------------------------GVKKEGWISYK----	11
+Cdc24_PH_domain      RISKFGELLYFDKVFISTTNSSSEPEREFEVYLFEKIIILFSEVVTKKSASSLILKKKSS	60
+Bem2_PH_domain       ------------------------------------------------------------	0
+Bem3_PH_domain       ---------------------------------------------DNVKDGSLLLRRPKT	15
+                                                                                 
+
+Bud4_PH_domain       ---GDLKGKIENRFFKLH--GSQLSGYHEISRKAK----------IDINLLKVTKVLRNE	57
+Slm1_PH_domain       ---SKFLKSYSKGYYVLT--PNFLHEFKT----ADRKKDLVPVMSLALSECTVTEHSRKN	62
+Boi1_PH_domain       ---TGAMGTWKQRFFTLH--GTRLSYFTNTND--EKERGL-----IDITAHRVLPASD--	58
+Boi2_PH_domain       ---SGAMSTWKTRFFTLH--GTRLSYFSSTTD--TRERGL-----IDITAHRVVPAKE--	58
+Osh3_PH_domain       ---RKRLQGFKKRFFTLDFRYGTLSYYLNDH--NQTCRGE-----IVISLSSVSANKK--	60
+Osh2_PH_domain       ---TNFAHGYKLRWFILS-GDGNLSYYKDQSHV-DRPRGT-----LKVSTCRLHIDSS--	59
+Swh1_PH_domain       ---TNFAQGYKLRWFILS-SDGKLSYYIDQADTKNACRGS-----LNMSSCSLHLDSS--	60
+Cla4_PH_domain       -DDGILSFIWQKRYLMLH--DSYVALYKNDKQNDDA--------ILKIPLTSIISVSR--	58
+Skm1_PH_domain       -VDGLFSFLWQKRYLVLN--DSYLAFYKSDKCNEEP--------VLSVPLTSITNVSR--	58
+Cdc24_PH_domain      TSASISASNITDNNGSPH--HSYHKRHSNSSSSNNI--------HLSSSSAAAIIHSSTN	110
+Bem2_PH_domain       ---------------------DSMQLHDL-------------------------------	8
+Bem3_PH_domain       LTGN-S--TWRVRYGILR--DDVLQLFDKNQLTETI--------KLRQS-----------	51
+                                               .                                 
+
+Bud4_PH_domain       ----------------DIQADNGGQRNFTDW--VLFNECFQ------LVFD--DGERITF	91
+Slm1_PH_domain       STSSPNS-TGSDAKFVLHAKQNGIIRRGHNW--VFKA-----------------------	96
+Boi1_PH_domain       ----------DDRLISLYAASLG----KGKY--CFKLVPPQPGSKKGLTFT---EPRVHY	99
+Boi2_PH_domain       ----------DDKLVSLYAASTG----KGRY--CFKLLPPQPGSKKGLTFT---QPRTHY	99
+Osh3_PH_domain       ----------DK----IIIIDSG----MEVW--VLKA-----------------------	77
+Osh2_PH_domain       ----------EKLNFELLGGITG----TTRW--RLKG-----------------------	80
+Swh1_PH_domain       ----------EKLKFEIIGGNNG----VIRW--HLKG-----------------------	81
+Cla4_PH_domain       ------------TQ----LKQYCFE---LVRCSDRNSVSSGSSSSLNVSSDSN-SKKSIY	98
+Skm1_PH_domain       ------------IQ----LKQNCFE---ILRATDQKENISPIN---SYFYESN-SKRSIF	95
+Cdc24_PH_domain      SSDNNSNNSSSSSLFKLSANEPKLDLRGRIMIMNLNQIIPQNNRSLNITWESIKEQGNFL	170
+Bem2_PH_domain       ---------------KPSYSLKTFEIKSIMEIINHRN-IPAYYYAFK---IVMQNGHEYL	49
+Bem3_PH_domain       -----------SIELIPNLPEDRFGTRNGFLITEHK----------K---SGLSTSTKYY	87
+                                                                                 
+
+Bud4_PH_domain       NAECSNEEKSDWYNKLQEVVEL	113
+Slm1_PH_domain       ---DSYESMMSWFDNLKILTST	115
+Boi1_PH_domain       FAVENKSEMKAWLSAIIKATID	121
+Boi2_PH_domain       FAVDNKEEMRGWMAALIKTTID	121
+Osh3_PH_domain       ---TTKENWQSWVDALQTCFDD	96
+Osh2_PH_domain       ---NHPIETTRWVNAIQSAIRF	99
+Swh1_PH_domain       ---NHPIETNRWVWAIQGAIRY	100
+Cla4_PH_domain       IATKTESDLHSWLDAIFAKCPL	120
+Skm1_PH_domain       ISTRTERDLHGWLDAIFAKCPL	117
+Cdc24_PH_domain      LKFKNEETRDNWSSCLQQLIHD	192
+Bem2_PH_domain       IQTASSSDLTEWIKMIKASK--	69
+Bem3_PH_domain       ICTETSKERELWLSAFSDYIDP	109
+                                *   :      

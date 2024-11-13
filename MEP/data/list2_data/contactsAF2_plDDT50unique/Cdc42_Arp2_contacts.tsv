@@ -1,9 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-Cdc42	P19073	ILE	21	Small GTP-binding domain	IPR005225	Arp2	P32381	TYR	224	Actin family	IPR004000
-Cdc42	P19073	THR	24	Small GTP-binding domain	IPR005225	Arp2	P32381	LEU	228	Actin family	IPR004000
-Cdc42	P19073	THR	25	Small GTP-binding domain	IPR005225	Arp2	P32381	LEU	228	Actin family	IPR004000
-Cdc42	P19073	THR	52	Small GTP-binding domain	IPR005225	Arp2	P32381	ALA	238	Actin family	IPR004000
-Cdc42	P19073	ALA	41	Small GTP-binding domain	IPR005225	Arp2	P32381	LEU	239	Actin family	IPR004000
-Cdc42	P19073	THR	43	Small GTP-binding domain	IPR005225	Arp2	P32381	ALA	238	Actin family	IPR004000
-Cdc42	P19073	THR	43	Small GTP-binding domain	IPR005225	Arp2	P32381	THR	236	Actin family	IPR004000
-Cdc42	P19073	ALA	41	Small GTP-binding domain	IPR005225	Arp2	P32381	LEU	232	Actin family	IPR004000

@@ -1,4 +1,0 @@
-Protein Rdi1 gives error: Accession number protein: Q12434 No domain information found, used family instead.
-Protein Act1 gives error: Accession number protein: P60010 No domain information found, used family instead.
-Protein Arp2 gives error: Accession number protein: P32381 No domain information found, used family instead.
-Protein Arp3 gives error: Accession number protein: P47117 No domain information found, used family instead.

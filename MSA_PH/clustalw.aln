@@ -1,0 +1,66 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+CLA4_Pleckstrin       --------------------------------------------------------SKKK
+SKM1_Pleckstrin       --------------------------------------------------------GVKK
+BOI1_Pleckstrin       --------------------------------------------------------TADC
+BOI2_Pleckstrin       --------------------------------------------------------DADF
+OSH2_Pleckstrin       --------------------------------------------------------PPTY
+SWH1_Pleckstrin       --------------------------------------------------------APTY
+OSH3_Pleckstrin       --------------------------------------------------------GRYL
+BEM2_Pleckstrin       ----------------------------------------------------------DS
+BEM3_Pleckstrin       ------------------------------------------------------DNVKDG
+TUS1_Pleckstrin       -----------------KLVLSGTVYKKRDLWLDPTPVYIALLDNCLLITEEISKGETQK
+LMO1_Pleckstrin       ---------------------------------VRHQRLLQLQKGTWVYAENPLNPEAGT
+SYT1_Pleckstrin       ILQMGAIMNLGMPSRKFSIVNSAKIHWKKEFAILTSLGLLICDKMDWINPQMMKDPKSGT
+CDC24_Pleckstrin      ---RISKFGELLYFDKVFISTTNSSSEPEREFEVYLFEKIIILFSEVVTKKSASSLILKK
+SPO14_Pleckstrin      --------------QGKQGYLVIRSTAKAQGWRVSHFGKHAFKDMIDRHTTKWFLVRNSY
+                                                                                  
+
+CLA4_Pleckstrin       SGWVSYKDD------GILSFIWQKRYLMLH-DSYVALYKNDKQNDDAILKIPLTSIISVS
+SKM1_Pleckstrin       EGWISYKVD------GLFSFLWQKRYLVLN-DSYLAFYKSDKCNEEPVLSVPLTSITNVS
+BOI1_Pleckstrin       SGWMSKKGT------GAMG-TWKQRFFTLH-GTRLSYFTNTNDEK--ERGLIDITAHRVL
+BOI2_Pleckstrin       SGWMSKKGS------GAMS-TWKTRFFTLH-GTRLSYFSSTTDTR--ERGLIDITAHRVV
+OSH2_Pleckstrin       KGFLKKWTN------FAHG-YKLRWFILSG-DGNLSYYKDQSHVD-RPRGTLKVSTCRLH
+SWH1_Pleckstrin       KGYLKKWTN------FAQG-YKLRWFILSS-DGKLSYYIDQADTKNACRGSLNMSSCSLH
+OSH3_Pleckstrin       QGYLLKKRR------KRLQGFKKRFFTLDFRYGTLSYYLN--DHNQTCRGEIVISLSSVS
+BEM2_Pleckstrin       MQLHDLKPS------YSLKTFEIKS---------------------------IMEIINHR
+BEM3_Pleckstrin       SLLLRRPKT------LTGNSTWRVRYGILRDDVLQLFDKNQLTETIKLRQSSIELIPNLP
+TUS1_Pleckstrin       YKLIERPIP------IDYLSLEKRKIPGTSKQPLRNYSQKEHKSPMHNFSTPINSMRPLL
+LMO1_Pleckstrin       PKVYFLIVS------DNHANLLAREFETQTNDLPYLFDNKILTSPGSEALANGRTKVVVL
+SYT1_Pleckstrin       TNYIIDFKSGFSFVPGSTIDVYNGLFADRERDSLGKSHFASLVLAYTEHHSTGSHTSNTT
+CDC24_Pleckstrin      KSSTSASISASNITDNNGSPHHSYHKRHSNSSSSNNIHLSSSSAAAIIHSSTNSSDNNSN
+SPO14_Pleckstrin      LTYVSDLSS----TTPLDVFLIDWKFKVRFSGNKNNILDNENEINWIIHDPNLEINDELE
+                                                                                  
+
+CLA4_Pleckstrin       RTQLKQYCFELVRCS--DRNSVSSGSSSSLNVSSDS------------------------
+SKM1_Pleckstrin       RIQLKQNCFEILRAT--DQKENISPINS---YFYES------------------------
+BOI1_Pleckstrin       PASDDDRLISLYAAS--LGKGKYCFKLVPPQPGSKKGLTF--------------------
+BOI2_Pleckstrin       PAKEDDKLVSLYAAS--TGKGRYCFKLLPPQPGSKKGLTF--------------------
+OSH2_Pleckstrin       IDSSEKLNFELLGGI--TGTTRWRLKGNHP------------------------------
+SWH1_Pleckstrin       LDSSEKLKFEIIGGN--NGVIRWHLKGNHP------------------------------
+OSH3_Pleckstrin       ANKKDK----IIIID--SGMEVWVLKATTK------------------------------
+BEM2_Pleckstrin       NIPAYYYAFKIVMQN--GHEYLIQTASS--------------------------------
+BEM3_Pleckstrin       EDRFGTRNGFLITEH--KKSGLSTSTKYYICTETS-------------------------
+TUS1_Pleckstrin       KSSGNHMSTAYGDRK--TSNTEISNANPNTDEFSFKIRNT--------------------
+LMO1_Pleckstrin       KHITSFKSIELTTPSRRTSSNVYIKLDEANVYTGVELKDR--------------------
+SYT1_Pleckstrin       AASSSAKHNEGVFEPSSDEEDSITNSTDGTSSVSNGESDNDSVSSSDNQLSSNDSNEDYH
+CDC24_Pleckstrin      NSSSSSLFKLSANEPKLDLRGRIMIMNLNQIIPQNNRSLN--------------------
+SPO14_Pleckstrin      EFGIENDANNILDKNGKSKTHQKKSNISSKLLLLTLENSE--------------------
+                                                                                  
+
+CLA4_Pleckstrin       ---------------------NSKKSIYIATKTESDLHSWLDAIFAKCPL
+SKM1_Pleckstrin       ---------------------NSKRSIFISTRTERDLHGWLDAIFAKCPL
+BOI1_Pleckstrin       ---------------------TEPRVHYFAVENKSEMKAWLSAIIKATID
+BOI2_Pleckstrin       ---------------------TQPRTHYFAVDNKEEMRGWMAALIKTTID
+OSH2_Pleckstrin       ----------------------------------IETTRWVNAIQSAIRF
+SWH1_Pleckstrin       ----------------------------------IETNRWVWAIQGAIRY
+OSH3_Pleckstrin       ----------------------------------ENWQSWVDALQTCFDD
+BEM2_Pleckstrin       ----------------------------------SDLTEWIKMIKASK--
+BEM3_Pleckstrin       ----------------------------------KERELWLSAFSDYIDP
+TUS1_Pleckstrin       ---------------------ATGESFKFFTESAEVLNQWIDAIMESFKR
+LMO1_Pleckstrin       ---------------------NDRTVLKFYLDTEEGRYIWLDGLK-----
+SYT1_Pleckstrin       SIKDEYPIFEDENADCLLYLHTCHRNFIWKCANKYERDNWIDSINLFSAY
+CDC24_Pleckstrin      ---------------ITWESIKEQGNFLLKFKNEETRDNWSSCLQQLIHD
+SPO14_Pleckstrin      ------------------------RKLKIICKSESSLKQWMSSIIKMSTS
+                                                             *   :      

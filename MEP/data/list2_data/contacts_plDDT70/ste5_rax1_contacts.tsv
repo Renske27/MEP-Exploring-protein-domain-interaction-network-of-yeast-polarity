@@ -1,9 +1,0 @@
-Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-ste5	P32917	CB	5764	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	CE1	9157	TYR	236	RGS domain	IPR016137
-ste5	P32917	N	5749	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	CD1	7440	TYR	26		
-ste5	P32917	C	5747	GLY	729	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	CD1	7440	TYR	26		
-ste5	P32917	C	5747	GLY	729	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	CB	7438	TYR	26		
-ste5	P32917	N	5760	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	OH	9160	TYR	236	RGS domain	IPR016137
-ste5	P32917	CB	5764	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	CD2	7441	TYR	26		
-ste5	P32917	CB	5764	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	OH	9160	TYR	236	RGS domain	IPR016137
-ste5	P32917	CB	5764	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	rax1	Q08760	CZ	9159	TYR	236	RGS domain	IPR016137

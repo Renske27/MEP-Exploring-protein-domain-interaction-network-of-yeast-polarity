@@ -1,7 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-bni1	P41832	PHE	1130			rax1	Q08760	TYR	43	RGS domain	IPR016137
-bni1	P41832	PHE	1130			rax1	Q08760	TRP	40	RGS domain	IPR016137
-bni1	P41832	ARG	1133			rax1	Q08760	VAL	60	RGS domain	IPR016137
-bni1	P41832	ARG	1133			rax1	Q08760	ASP	61	RGS domain	IPR016137
-bni1	P41832	GLU	1501	Formin, FH2 domain	IPR015425	rax1	Q08760	ASN	204	RGS domain	IPR016137
-bni1	P41832	ARG	1133			rax1	Q08760	THR	64	RGS domain	IPR016137

@@ -1,6 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-arp2	P32381	ARG	199	Actin family	IPR004000	cdc24	P11433	CYS	415	Dbl homology (DH) domain	IPR000219
-arp2	P32381	GLY	248	Actin family	IPR004000	cdc24	P11433	PHE	488	Pleckstrin homology domain	IPR001849
-arp2	P32381	ILE	363	Actin family	IPR004000	cdc24	P11433	ILE	757		
-arp2	P32381	ILE	363	Actin family	IPR004000	cdc24	P11433	PRO	758		
-arp2	P32381	VAL	359	Actin family	IPR004000	cdc24	P11433	THR	782	PB1 domain	IPR000270

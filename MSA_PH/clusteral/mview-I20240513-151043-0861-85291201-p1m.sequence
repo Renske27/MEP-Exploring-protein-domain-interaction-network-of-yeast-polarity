@@ -1,0 +1,82 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+BOI1_Pleckstrin       --------------------------------------------TADCSGWMS-------	9
+BOI2_Pleckstrin       --------------------------------------------DADFSGWMS-------	9
+OSH3_Pleckstrin       --------------------------------------------GRYLQGYLL-------	9
+OSH2_Pleckstrin       --------------------------------------------PPTYKGF-L-------	8
+SWH1_Pleckstrin       --------------------------------------------APTYKGY-L-------	8
+SPO14_Pleckstrin      ---------------------------------QGKQGYLVIRSTAKAQGWRV-------	20
+CLA4_Pleckstrin       --------------------------------------------SKKKSGWVS-------	9
+SKM1_Pleckstrin       --------------------------------------------GVKKEGWIS-------	9
+LMO1_Pleckstrin       ---------------------------------VRHQRLLQ----LQKGTWVYAENPL-N	22
+SYT1_Pleckstrin       ILQMGAIMNLGMPSRKFSIVNSAKIHWKKEFAILTSLGLLI----CDKMDWINPQ-MMKD	55
+CDC24_Pleckstrin      --------------------------------RISKFGELL----YFDKVFISTTNSSSE	24
+TUS1_Pleckstrin       --------------------------------KLVLSGTVY----KKRDLWL-------D	17
+BEM2_Pleckstrin       ------------------------------------------------------------	0
+BEM3_Pleckstrin       ------------------------------------------------------------	0
+                                                                                  
+
+BOI1_Pleckstrin       ---------------------------------KKGTGAM-------------------G	17
+BOI2_Pleckstrin       ---------------------------------KKGSGAM-------------------S	17
+OSH3_Pleckstrin       ---------------------------------KKRRKRL-------------------Q	17
+OSH2_Pleckstrin       ---------------------------------KKWTNFA-------------------H	16
+SWH1_Pleckstrin       ---------------------------------KKWTNFA-------------------Q	16
+SPO14_Pleckstrin      ------------------------------------------SHFGKHAFKDMIDRHT--	36
+CLA4_Pleckstrin       ------------------------------------------YKDDG--ILSF--IWQ--	21
+SKM1_Pleckstrin       ------------------------------------------YKVDG--LFSF--LWQ--	21
+LMO1_Pleckstrin       PEAGTPKVYFL----------------------------------------IVSDNHAN-	41
+SYT1_Pleckstrin       PKSGTT-NYIIDFKSGFSFVPGSTIDVYNGLFADRERDSLGKSHFASLV-LAYTEHHSTG	113
+CDC24_Pleckstrin      PEREFE-VYLF----------------------------------EKII-ILFSEVVTKK	48
+TUS1_Pleckstrin       PTPVYI-A-LL----------------------------------DNCL-LI-TEEISKG	39
+BEM2_Pleckstrin       ------------------------------------------------------------	0
+BEM3_Pleckstrin       -----D-N-VK----------------------------------DGSL-L---------	9
+                                                                                  
+
+BOI1_Pleckstrin       TWKQRFFTLH--GTRLSYFTNTND--EKE-------------------------------	42
+BOI2_Pleckstrin       TWKTRFFTLH--GTRLSYFSSTTD--TRE-------------------------------	42
+OSH3_Pleckstrin       GFKKRFFTLDFRYGTLSYYLNDH--NQTC-------------------------------	44
+OSH2_Pleckstrin       GYKLRWFILS-GDGNLSYYKDQSHV-DRP-------------------------------	43
+SWH1_Pleckstrin       GYKLRWFILS-SDGKLSYYIDQADTKNAC-------------------------------	44
+SPO14_Pleckstrin      ---TKWFLVR--NSYLTYVSD-LSSTTPLDVFLIDWKFKVRFSGNKNNILDNENEI----	86
+CLA4_Pleckstrin       ---KRYLMLH--DSYVALYKNDKQNDDAI-------------------------------	45
+SKM1_Pleckstrin       ---KRYLVLN--DSYLAFYKSDKCNEEPV-------------------------------	45
+LMO1_Pleckstrin       ------LLAR------------------------------EFETQTNDLPYLFDNKILTS	65
+SYT1_Pleckstrin       SHTS--------------------NTTAASS------SAKHNEGVFEPSSDEEDSITNST	147
+CDC24_Pleckstrin      SASS--LILK--KKSSTSASISASNITDNNG------SPHHSYHKRHSNSSSSNNIHLSS	98
+TUS1_Pleckstrin       ETQKYKLIER--PIPIDYLSLEKRKIPGTSK------QPLRNYSQKEHKSPMHNFST---	88
+BEM2_Pleckstrin       -----------------------------------------------DSMQLHDL-----	8
+BEM3_Pleckstrin       -------LRR--PKT----------LTGNST------WRVRYGILRDDVLQLFDKNQLT-	43
+                                                                                  
+
+BOI1_Pleckstrin       ---RGLIDITAHRVL---PASDDDRLISLYAA------SLGKGKYC----FK---LV---	80
+BOI2_Pleckstrin       ---RGLIDITAHRVV---PAKEDDKLVSLYAA------STGKGRYC----FK---LL---	80
+OSH3_Pleckstrin       ---RGEIVISLSSVS---ANKKDK----IIII------DSGMEVWV----LK---A----	77
+OSH2_Pleckstrin       ---RGTLKVSTCRLH---IDSSEKLNFELLGG------ITGTTRWR----LK---G----	80
+SWH1_Pleckstrin       ---RGSLNMSSCSLH---LDSSEKLKFEIIGG------NNGVIRWH----LK---G----	81
+SPO14_Pleckstrin      ---NWIIHD---------------PNLEI--NDE--LEEFGIENDA--NNILDKNGKSKT	122
+CLA4_Pleckstrin       ------LKI---------------PLTSI--I-S--VSRTQLKQYC--FELV---RCSDR	74
+SKM1_Pleckstrin       ------LSV---------------PLTSI--T-N--VSRIQLKQNC--FEIL---RATDQ	74
+LMO1_Pleckstrin       PGSEALANGRTKV-----------VVLKHITSFKSIELTTPSRRTSSNVYIKLD------	108
+SYT1_Pleckstrin       DGTS---SVSNGESD---NDSVSSSDNQLSSNDS--NEDYHSIKD-E-YPIFE-------	190
+CDC24_Pleckstrin      SSAAAIIHSSTNSSDNNSNNSSSSSLFKLSANEP--KLDLRGR-----IMIMNLNQII--	149
+TUS1_Pleckstrin       ------------------PINSMRPLLKSSGNHM--STAYGDRKT-SNTEISN--ANP--	123
+BEM2_Pleckstrin       -----------------------------KPSYS--LKTFEIKS---IMEIINH-RNI--	31
+BEM3_Pleckstrin       ---E--------------TIKLRQSSIELIPNLP--EDRFGTRN---GFLITEH-K----	76
+                                                                        :         
+
+BOI1_Pleckstrin       -PPQPGSK-KGL---TFTEPRVHYFAVENKSEMKAWLSAIIKATID	121
+BOI2_Pleckstrin       -PPQPGSK-KGL---TFTQPRTHYFAVDNKEEMRGWMAALIKTTID	121
+OSH3_Pleckstrin       ---------------------------TTKENWQSWVDALQTCFDD	96
+OSH2_Pleckstrin       ---------------------------NHPIETTRWVNAIQSAIRF	99
+SWH1_Pleckstrin       ---------------------------NHPIETNRWVWAIQGAIRY	100
+SPO14_Pleckstrin      HQKKSNISSKLLLLTLENSERKLKIICKSESSLKQWMSSIIKMSTS	168
+CLA4_Pleckstrin       NSVSSGSSSSLNVSSDSNSKKSIYIATKTESDLHSWLDAIFAKCPL	120
+SKM1_Pleckstrin       KENISPIN---SYFYESNSKRSIFISTRTERDLHGWLDAIFAKCPL	117
+LMO1_Pleckstrin       ---EANVY-TGVELKDRNDRTVLKFYLDTEEGRYIWLDGLK-----	145
+SYT1_Pleckstrin       ---DENA---DCLLYLHTCHRNFIWKCANKYERDNWIDSINLFSAY	230
+CDC24_Pleckstrin      --PQNNRS-LNITWESIKEQGNFLLKFKNEETRDNWSSCLQQLIHD	192
+TUS1_Pleckstrin       --NTDEFS-FK--IRNTATGESFKFFTESAEVLNQWIDAIMESFKR	164
+BEM2_Pleckstrin       --PAYYYA-FK--I-VMQNGHEYLIQTASSSDLTEWIKMIKASK--	69
+BEM3_Pleckstrin       ----------K--S-GLSTSTKYYICTETSKERELWLSAFSDYIDP	109
+                                                         *   :      

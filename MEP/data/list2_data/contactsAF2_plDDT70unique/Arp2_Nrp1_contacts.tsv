@@ -1,6 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-Arp2	P32381	ARG	348	Actin family	IPR004000	Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504
-Arp2	P32381	ARG	342	Actin family	IPR004000	Nrp1	P32770	GLU	241	RNA recognition motif domain	IPR000504
-Arp2	P32381	ARG	342	Actin family	IPR004000	Nrp1	P32770	TRP	245	RNA recognition motif domain	IPR000504
-Arp2	P32381	ARG	342	Actin family	IPR004000	Nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504
-Arp2	P32381	ILE	355	Actin family	IPR004000	Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504

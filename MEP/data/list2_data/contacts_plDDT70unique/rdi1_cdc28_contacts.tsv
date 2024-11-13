@@ -1,6 +1,0 @@
-Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
-rdi1	Q12434	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	TRP	252	Protein kinase domain	IPR000719
-rdi1	Q12434	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	PRO	250	Protein kinase domain	IPR000719
-rdi1	Q12434	LEU	41	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	PRO	250	Protein kinase domain	IPR000719
-rdi1	Q12434	LEU	41	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	TRP	252	Protein kinase domain	IPR000719
-rdi1	Q12434	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	GLN	251	Protein kinase domain	IPR000719
