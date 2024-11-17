@@ -1,0 +1,40 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+act1	P60010	SER	348	Actin family	IPR004000	nrp1	P32770	GLU	201		
+act1	P60010	THR	350	Actin family	IPR004000	nrp1	P32770	GLU	201		
+act1	P60010	THR	350	Actin family	IPR004000	nrp1	P32770	PRO	200		
+act1	P60010	LEU	349	Actin family	IPR004000	nrp1	P32770	GLU	201		
+act1	P60010	THR	350	Actin family	IPR004000	nrp1	P32770	SER	199		
+act1	P60010	LEU	349	Actin family	IPR004000	nrp1	P32770	ASN	125		
+act1	P60010	GLU	311	Actin family	IPR004000	nrp1	P32770	SER	345		
+act1	P60010	THR	351	Actin family	IPR004000	nrp1	P32770	HIS	126		
+act1	P60010	GLN	354	Actin family	IPR004000	nrp1	P32770	GLU	128		
+act1	P60010	THR	351	Actin family	IPR004000	nrp1	P32770	GLU	128		
+act1	P60010	THR	351	Actin family	IPR004000	nrp1	P32770	ASN	125		
+act1	P60010	THR	351	Actin family	IPR004000	nrp1	P32770	PRO	127		
+act1	P60010	MET	355	Actin family	IPR004000	nrp1	P32770	PRO	127		
+act1	P60010	MET	355	Actin family	IPR004000	nrp1	P32770	GLU	128		
+act1	P60010	TYR	143	Actin family	IPR004000	nrp1	P32770	VAL	124		
+act1	P60010	TYR	143	Actin family	IPR004000	nrp1	P32770	LEU	130		
+act1	P60010	THR	148	Actin family	IPR004000	nrp1	P32770	LEU	130		
+act1	P60010	GLY	146	Actin family	IPR004000	nrp1	P32770	VAL	124		
+act1	P60010	ALA	167	Actin family	IPR004000	nrp1	P32770	LEU	130		
+act1	P60010	PHE	169	Actin family	IPR004000	nrp1	P32770	LEU	130		
+act1	P60010	PHE	169	Actin family	IPR004000	nrp1	P32770	LYS	133		
+act1	P60010	ALA	167	Actin family	IPR004000	nrp1	P32770	GLU	159		
+act1	P60010	TYR	166	Actin family	IPR004000	nrp1	P32770	GLU	159		
+act1	P60010	TYR	143	Actin family	IPR004000	nrp1	P32770	PRO	127		
+act1	P60010	PHE	169	Actin family	IPR004000	nrp1	P32770	GLY	131		
+act1	P60010	LYS	326	Actin family	IPR004000	nrp1	P32770	GLN	284	RNA recognition motif domain	IPR000504
+act1	P60010	LYS	291	Actin family	IPR004000	nrp1	P32770	GLN	284	RNA recognition motif domain	IPR000504
+act1	P60010	MET	325	Actin family	IPR004000	nrp1	P32770	ASP	285	RNA recognition motif domain	IPR000504
+act1	P60010	SER	323	Actin family	IPR004000	nrp1	P32770	ASP	285	RNA recognition motif domain	IPR000504
+act1	P60010	LYS	326	Actin family	IPR004000	nrp1	P32770	ASP	285	RNA recognition motif domain	IPR000504
+act1	P60010	SER	324	Actin family	IPR004000	nrp1	P32770	ASP	285	RNA recognition motif domain	IPR000504
+act1	P60010	LYS	328	Actin family	IPR004000	nrp1	P32770	ASN	276	RNA recognition motif domain	IPR000504
+act1	P60010	LYS	326	Actin family	IPR004000	nrp1	P32770	ASN	276	RNA recognition motif domain	IPR000504
+act1	P60010	LYS	326	Actin family	IPR004000	nrp1	P32770	SER	286	RNA recognition motif domain	IPR000504
+act1	P60010	LEU	349	Actin family	IPR004000	nrp1	P32770	PRO	127		
+act1	P60010	LEU	346	Actin family	IPR004000	nrp1	P32770	PRO	127		
+act1	P60010	PHE	352	Actin family	IPR004000	nrp1	P32770	PRO	127		
+act1	P60010	LEU	349	Actin family	IPR004000	nrp1	P32770	VAL	124		
+act1	P60010	ILE	329	Actin family	IPR004000	nrp1	P32770	LYS	260	RNA recognition motif domain	IPR000504

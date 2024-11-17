@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bem1	P29366	ASN	363	Phox homology	IPR001683	Rax1	Q08760	GLU	120	RGS domain	IPR016137
+Bem1	P29366	THR	362	Phox homology	IPR001683	Rax1	Q08760	GLU	226	RGS domain	IPR016137
+Bem1	P29366	SER	364	Phox homology	IPR001683	Rax1	Q08760	GLU	226	RGS domain	IPR016137
+Bem1	P29366	LYS	196	SH3 domain	IPR001452	Rax1	Q08760	MET	241	RGS domain	IPR016137
+Bem1	P29366	ASN	363	Phox homology	IPR001683	Rax1	Q08760	GLU	226	RGS domain	IPR016137

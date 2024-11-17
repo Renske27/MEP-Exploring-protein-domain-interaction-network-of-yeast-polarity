@@ -1,0 +1,12 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+act1	P60010	CB	1333	HIS	173	Actin family	IPR004000	bem3	P32873	CB	6955	ASN	527	Phox homology	IPR001683
+act1	P60010	CG2	2236	VAL	287	Actin family	IPR004000	bem3	P32873	OD2	7854	ASP	638	Pleckstrin homology domain	IPR001849
+act1	P60010	CB	2234	VAL	287	Actin family	IPR004000	bem3	P32873	OD2	7854	ASP	638	Pleckstrin homology domain	IPR001849
+act1	P60010	CG2	2236	VAL	287	Actin family	IPR004000	bem3	P32873	OH	8028	TYR	659	Pleckstrin homology domain	IPR001849
+act1	P60010	CB	2234	VAL	287	Actin family	IPR004000	bem3	P32873	OH	8028	TYR	659	Pleckstrin homology domain	IPR001849
+act1	P60010	CG2	2236	VAL	287	Actin family	IPR004000	bem3	P32873	CZ	8027	TYR	659	Pleckstrin homology domain	IPR001849
+act1	P60010	CG2	2236	VAL	287	Actin family	IPR004000	bem3	P32873	CE1	8025	TYR	659	Pleckstrin homology domain	IPR001849
+act1	P60010	CG1	2235	VAL	287	Actin family	IPR004000	bem3	P32873	OD2	7854	ASP	638	Pleckstrin homology domain	IPR001849
+act1	P60010	O	2202	MET	283	Actin family	IPR004000	bem3	P32873	CG	8141	ASN	673	Pleckstrin homology domain	IPR001849
+act1	P60010	O	2105	GLU	270	Actin family	IPR004000	bem3	P32873	CB	11380	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	O	2093	GLY	268	Actin family	IPR004000	bem3	P32873	NZ	10692	LYS	1003	Rho GTPase-activating protein domain	IPR000198

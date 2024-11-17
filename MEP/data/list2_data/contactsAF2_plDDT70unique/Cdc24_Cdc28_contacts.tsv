@@ -1,0 +1,26 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	GLU	233	Protein kinase domain	IPR000719
+Cdc24	P11433	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	ILE	619	Pleckstrin homology domain	IPR001849	Cdc28	P00546	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	ASN	621	Pleckstrin homology domain	IPR001849	Cdc28	P00546	PRO	237	Protein kinase domain	IPR000719
+Cdc24	P11433	ILE	514	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	ASN	473			Cdc28	P00546	ARG	288	Protein kinase domain	IPR000719
+Cdc24	P11433	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	PHE	482	Pleckstrin homology domain	IPR001849	Cdc28	P00546	PRO	280	Protein kinase domain	IPR000719
+Cdc24	P11433	ILE	479	Pleckstrin homology domain	IPR001849	Cdc28	P00546	SER	190	Protein kinase domain	IPR000719
+Cdc24	P11433	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	LEU	242	Protein kinase domain	IPR000719
+Cdc24	P11433	LYS	513	Pleckstrin homology domain	IPR001849	Cdc28	P00546	GLU	181	Protein kinase domain	IPR000719
+Cdc24	P11433	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ASP	279	Protein kinase domain	IPR000719
+Cdc24	P11433	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ASN	282	Protein kinase domain	IPR000719
+Cdc24	P11433	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	TRP	236	Protein kinase domain	IPR000719
+Cdc24	P11433	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	ARG	616	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ASP	279	Protein kinase domain	IPR000719
+Cdc24	P11433	MET	618	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	ILE	514	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ILE	281	Protein kinase domain	IPR000719
+Cdc24	P11433	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ILE	239	Protein kinase domain	IPR000719
+Cdc24	P11433	MET	620	Pleckstrin homology domain	IPR001849	Cdc28	P00546	ASP	238	Protein kinase domain	IPR000719
+Cdc24	P11433	LYS	817	PB1 domain	IPR000270	Cdc28	P00546	LEU	84	Protein kinase domain	IPR000719

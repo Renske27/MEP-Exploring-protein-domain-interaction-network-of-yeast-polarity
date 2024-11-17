@@ -1,0 +1,53 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cla4	P48562	ARG	800	Protein kinase domain	IPR000719	cla4	P48562	ASP	199	CRIB domain	IPR000095
+cla4	P48562	TYR	812	Protein kinase domain	IPR000719	cla4	P48562	VAL	196	CRIB domain	IPR000095
+cla4	P48562	THR	785	Protein kinase domain	IPR000719	cla4	P48562	ASN	227	CRIB domain	IPR000095
+cla4	P48562	VAL	808	Protein kinase domain	IPR000719	cla4	P48562	ASN	228	CRIB domain	IPR000095
+cla4	P48562	THR	785	Protein kinase domain	IPR000719	cla4	P48562	ASN	228	CRIB domain	IPR000095
+cla4	P48562	ASN	783	Protein kinase domain	IPR000719	cla4	P48562	ASN	228	CRIB domain	IPR000095
+cla4	P48562	GLY	784	Protein kinase domain	IPR000719	cla4	P48562	ASN	228	CRIB domain	IPR000095
+cla4	P48562	VAL	808	Protein kinase domain	IPR000719	cla4	P48562	SER	230	CRIB domain	IPR000095
+cla4	P48562	CYS	807	Protein kinase domain	IPR000719	cla4	P48562	SER	230	CRIB domain	IPR000095
+cla4	P48562	ASP	809	Protein kinase domain	IPR000719	cla4	P48562	ILE	234	CRIB domain	IPR000095
+cla4	P48562	ASP	809	Protein kinase domain	IPR000719	cla4	P48562	SER	230	CRIB domain	IPR000095
+cla4	P48562	TYR	812	Protein kinase domain	IPR000719	cla4	P48562	ILE	234	CRIB domain	IPR000095
+cla4	P48562	ASN	228	CRIB domain	IPR000095	cla4	P48562	ASN	783	Protein kinase domain	IPR000719
+cla4	P48562	ASN	228	CRIB domain	IPR000095	cla4	P48562	GLY	784	Protein kinase domain	IPR000719
+cla4	P48562	ASN	228	CRIB domain	IPR000095	cla4	P48562	VAL	808	Protein kinase domain	IPR000719
+cla4	P48562	ASN	228	CRIB domain	IPR000095	cla4	P48562	THR	785	Protein kinase domain	IPR000719
+cla4	P48562	ASN	227	CRIB domain	IPR000095	cla4	P48562	THR	785	Protein kinase domain	IPR000719
+cla4	P48562	SER	230	CRIB domain	IPR000095	cla4	P48562	CYS	807	Protein kinase domain	IPR000719
+cla4	P48562	ILE	234	CRIB domain	IPR000095	cla4	P48562	TYR	812	Protein kinase domain	IPR000719
+cla4	P48562	ILE	234	CRIB domain	IPR000095	cla4	P48562	ASP	809	Protein kinase domain	IPR000719
+cla4	P48562	SER	230	CRIB domain	IPR000095	cla4	P48562	ASP	809	Protein kinase domain	IPR000719
+cla4	P48562	ASP	199	CRIB domain	IPR000095	cla4	P48562	ARG	800	Protein kinase domain	IPR000719
+cla4	P48562	VAL	196	CRIB domain	IPR000095	cla4	P48562	TYR	812	Protein kinase domain	IPR000719
+cla4	P48562	GLN	120	Pleckstrin homology domain	IPR001849	cla4	P48562	GLU	747	Protein kinase domain	IPR000719
+cla4	P48562	GLN	120	Pleckstrin homology domain	IPR001849	cla4	P48562	SER	815	Protein kinase domain	IPR000719
+cla4	P48562	HIS	688	Protein kinase domain	IPR000719	cla4	P48562	ARG	118	Pleckstrin homology domain	IPR001849
+cla4	P48562	SER	815	Protein kinase domain	IPR000719	cla4	P48562	GLN	120	Pleckstrin homology domain	IPR001849
+cla4	P48562	LYS	748	Protein kinase domain	IPR000719	cla4	P48562	GLN	120	Pleckstrin homology domain	IPR001849
+cla4	P48562	ASP	746	Protein kinase domain	IPR000719	cla4	P48562	GLN	120	Pleckstrin homology domain	IPR001849
+cla4	P48562	ASP	746	Protein kinase domain	IPR000719	cla4	P48562	LEU	121	Pleckstrin homology domain	IPR001849
+cla4	P48562	ASP	746	Protein kinase domain	IPR000719	cla4	P48562	LYS	122	Pleckstrin homology domain	IPR001849
+cla4	P48562	ASP	746	Protein kinase domain	IPR000719	cla4	P48562	GLN	123	Pleckstrin homology domain	IPR001849
+cla4	P48562	GLU	747	Protein kinase domain	IPR000719	cla4	P48562	ARG	118	Pleckstrin homology domain	IPR001849
+cla4	P48562	TYR	745	Protein kinase domain	IPR000719	cla4	P48562	GLN	123	Pleckstrin homology domain	IPR001849
+cla4	P48562	HIS	688	Protein kinase domain	IPR000719	cla4	P48562	GLU	164	Pleckstrin homology domain	IPR001849
+cla4	P48562	HIS	688	Protein kinase domain	IPR000719	cla4	P48562	HIS	168	Pleckstrin homology domain	IPR001849
+cla4	P48562	ARG	811	Protein kinase domain	IPR000719	cla4	P48562	LEU	121	Pleckstrin homology domain	IPR001849
+cla4	P48562	ARG	811	Protein kinase domain	IPR000719	cla4	P48562	PHE	78	Pleckstrin homology domain	IPR001849
+cla4	P48562	ARG	811	Protein kinase domain	IPR000719	cla4	P48562	LYS	71	Pleckstrin homology domain	IPR001849
+cla4	P48562	LYS	122	Pleckstrin homology domain	IPR001849	cla4	P48562	ASP	746	Protein kinase domain	IPR000719
+cla4	P48562	GLN	123	Pleckstrin homology domain	IPR001849	cla4	P48562	TYR	745	Protein kinase domain	IPR000719
+cla4	P48562	GLN	123	Pleckstrin homology domain	IPR001849	cla4	P48562	ASP	746	Protein kinase domain	IPR000719
+cla4	P48562	LEU	121	Pleckstrin homology domain	IPR001849	cla4	P48562	ASP	746	Protein kinase domain	IPR000719
+cla4	P48562	LYS	71	Pleckstrin homology domain	IPR001849	cla4	P48562	ARG	811	Protein kinase domain	IPR000719
+cla4	P48562	LEU	121	Pleckstrin homology domain	IPR001849	cla4	P48562	ARG	811	Protein kinase domain	IPR000719
+cla4	P48562	PHE	78	Pleckstrin homology domain	IPR001849	cla4	P48562	ARG	811	Protein kinase domain	IPR000719
+cla4	P48562	GLN	120	Pleckstrin homology domain	IPR001849	cla4	P48562	ASP	746	Protein kinase domain	IPR000719
+cla4	P48562	ARG	118	Pleckstrin homology domain	IPR001849	cla4	P48562	GLU	747	Protein kinase domain	IPR000719
+cla4	P48562	ARG	118	Pleckstrin homology domain	IPR001849	cla4	P48562	HIS	688	Protein kinase domain	IPR000719
+cla4	P48562	GLU	164	Pleckstrin homology domain	IPR001849	cla4	P48562	HIS	688	Protein kinase domain	IPR000719
+cla4	P48562	HIS	168	Pleckstrin homology domain	IPR001849	cla4	P48562	HIS	688	Protein kinase domain	IPR000719
+cla4	P48562	GLN	120	Pleckstrin homology domain	IPR001849	cla4	P48562	LYS	748	Protein kinase domain	IPR000719

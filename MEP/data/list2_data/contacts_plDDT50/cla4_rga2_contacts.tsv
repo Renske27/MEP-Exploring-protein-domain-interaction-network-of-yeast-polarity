@@ -1,0 +1,108 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cla4	P48562	N	1683	HIS	218	CRIB domain	IPR000095	rga2	Q06407	NE2	14175	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	N	1683	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD2	14173	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CB	1678	LYS	217	CRIB domain	IPR000095	rga2	Q06407	NE2	14175	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CB	1678	LYS	217	CRIB domain	IPR000095	rga2	Q06407	CD2	14173	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CA	1675	LYS	217	CRIB domain	IPR000095	rga2	Q06407	CD2	14173	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	C	1676	LYS	217	CRIB domain	IPR000095	rga2	Q06407	CD1	14204	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	1677	LYS	217	CRIB domain	IPR000095	rga2	Q06407	OD1	14182	ASN	966	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	1677	LYS	217	CRIB domain	IPR000095	rga2	Q06407	CD1	14204	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	C	1676	LYS	217	CRIB domain	IPR000095	rga2	Q06407	NE2	14175	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	C	1676	LYS	217	CRIB domain	IPR000095	rga2	Q06407	CD2	14173	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	1677	LYS	217	CRIB domain	IPR000095	rga2	Q06407	CD2	14173	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	N	1683	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD1	14204	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	1702	ARG	220	CRIB domain	IPR000095	rga2	Q06407	NE	13052	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	C	1701	ARG	220	CRIB domain	IPR000095	rga2	Q06407	NE	13052	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CA	1700	ARG	220	CRIB domain	IPR000095	rga2	Q06407	NE	13052	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CG	1688	HIS	218	CRIB domain	IPR000095	rga2	Q06407	NE2	14175	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CG	1688	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD1	14204	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CA	1684	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD1	14204	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	C	1685	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD1	14204	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CB	1687	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD1	14204	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	1686	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD1	14204	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	N	1693	SER	219	CRIB domain	IPR000095	rga2	Q06407	CD1	14204	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CG	1688	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CE1	14174	HIS	965	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	1870	TYR	240	CRIB domain	IPR000095	rga2	Q06407	CG	14361	LYS	989	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OE2	4082	GLU	528			rga2	Q06407	CD1	7059	ILE	58	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CD	4080	GLU	528			rga2	Q06407	CD1	7059	ILE	58	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CG	4079	GLU	528			rga2	Q06407	CG2	7058	ILE	58	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CB	4078	GLU	528			rga2	Q06407	CG2	7058	ILE	58	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CG	4079	GLU	528			rga2	Q06407	CD1	7059	ILE	58	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OE1	4081	GLU	528			rga2	Q06407	CD1	7059	ILE	58	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CB	6032	ASP	772	Protein kinase domain	IPR000719	rga2	Q06407	CG	14234	PRO	973	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CB	4289	ALA	556	Protein kinase domain	IPR000719	rga2	Q06407	CE	14315	LYS	983	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CG	5697	PRO	732	Protein kinase domain	IPR000719	rga2	Q06407	CG1	14330	ILE	985	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CG	4729	LEU	612	Protein kinase domain	IPR000719	rga2	Q06407	O	7253	PRO	85	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CD2	4731	LEU	612	Protein kinase domain	IPR000719	rga2	Q06407	O	7253	PRO	85	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CD2	4731	LEU	612	Protein kinase domain	IPR000719	rga2	Q06407	CA	7251	PRO	85	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CD2	4731	LEU	612	Protein kinase domain	IPR000719	rga2	Q06407	C	7252	PRO	85	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CD1	4730	LEU	612	Protein kinase domain	IPR000719	rga2	Q06407	O	7253	PRO	85	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CD2	4731	LEU	612	Protein kinase domain	IPR000719	rga2	Q06407	CB	7254	PRO	85	Zinc finger, LIM-type	IPR001781
+cla4	P48562	O	1677	LYS	217	CRIB domain	IPR000095	rga2	Q06407	CG	14203	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CG	1704	ARG	220	CRIB domain	IPR000095	rga2	Q06407	CG2	14212	VAL	970	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	1870	TYR	240	CRIB domain	IPR000095	rga2	Q06407	N	14356	LYS	989	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	1870	TYR	240	CRIB domain	IPR000095	rga2	Q06407	C	14350	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	1870	TYR	240	CRIB domain	IPR000095	rga2	Q06407	N	14348	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CA	1684	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CG	14203	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	C	1685	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CG	14203	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CB	1687	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CG	14203	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	1686	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CG	14203	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	C	1685	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CB	14202	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CG	1688	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD2	14205	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CA	1684	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD2	14205	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	C	1685	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD2	14205	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CB	1687	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD2	14205	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	1686	HIS	218	CRIB domain	IPR000095	rga2	Q06407	CD2	14205	LEU	969	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CB	1687	HIS	218	CRIB domain	IPR000095	rga2	Q06407	ND2	14392	ASN	992	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	1686	HIS	218	CRIB domain	IPR000095	rga2	Q06407	ND2	14392	ASN	992	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	1870	TYR	240	CRIB domain	IPR000095	rga2	Q06407	SD	14354	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	1870	TYR	240	CRIB domain	IPR000095	rga2	Q06407	CG	14353	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	1870	TYR	240	CRIB domain	IPR000095	rga2	Q06407	CB	14352	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	1870	TYR	240	CRIB domain	IPR000095	rga2	Q06407	CA	14349	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CZ	1869	TYR	240	CRIB domain	IPR000095	rga2	Q06407	SD	14354	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CE2	1868	TYR	240	CRIB domain	IPR000095	rga2	Q06407	SD	14354	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CZ	1869	TYR	240	CRIB domain	IPR000095	rga2	Q06407	CB	14352	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CE2	1868	TYR	240	CRIB domain	IPR000095	rga2	Q06407	CB	14352	MET	988	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	1870	TYR	240	CRIB domain	IPR000095	rga2	Q06407	O	14328	ILE	985	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CZ	1869	TYR	240	CRIB domain	IPR000095	rga2	Q06407	O	14328	ILE	985	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CE2	1868	TYR	240	CRIB domain	IPR000095	rga2	Q06407	O	14328	ILE	985	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CA	4075	GLU	528			rga2	Q06407	CG2	7058	ILE	58	Zinc finger, LIM-type	IPR001781
+cla4	P48562	N	4074	GLU	528			rga2	Q06407	CG2	7058	ILE	58	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD1	6017	ASN	770	Protein kinase domain	IPR000719	rga2	Q06407	CD	13413	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OD1	6017	ASN	770	Protein kinase domain	IPR000719	rga2	Q06407	CG	13412	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OH	5710	TYR	733	Protein kinase domain	IPR000719	rga2	Q06407	CZ	13446	ARG	876	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	6006	LEU	769	Protein kinase domain	IPR000719	rga2	Q06407	CZ	13446	ARG	876	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	C	6005	LEU	769	Protein kinase domain	IPR000719	rga2	Q06407	CZ	13446	ARG	876	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	6006	LEU	769	Protein kinase domain	IPR000719	rga2	Q06407	NE	13445	ARG	876	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	6006	LEU	769	Protein kinase domain	IPR000719	rga2	Q06407	CD	13444	ARG	876	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CD	5974	GLU	765	Protein kinase domain	IPR000719	rga2	Q06407	NH2	13417	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OE2	5976	GLU	765	Protein kinase domain	IPR000719	rga2	Q06407	NH2	13417	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OE1	5975	GLU	765	Protein kinase domain	IPR000719	rga2	Q06407	NH2	13417	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	NZ	6164	LYS	789	Protein kinase domain	IPR000719	rga2	Q06407	OE1	13119	GLU	835	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CD	6162	LYS	789	Protein kinase domain	IPR000719	rga2	Q06407	OE1	13119	GLU	835	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CE	6163	LYS	789	Protein kinase domain	IPR000719	rga2	Q06407	OE1	13119	GLU	835	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	ND2	6018	ASN	770	Protein kinase domain	IPR000719	rga2	Q06407	NH2	13417	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	ND2	6018	ASN	770	Protein kinase domain	IPR000719	rga2	Q06407	CZ	13415	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	ND2	6018	ASN	770	Protein kinase domain	IPR000719	rga2	Q06407	NE	13414	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CG	6016	ASN	770	Protein kinase domain	IPR000719	rga2	Q06407	NE	13414	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OD1	6017	ASN	770	Protein kinase domain	IPR000719	rga2	Q06407	NE	13414	ARG	873	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	O	6022	GLU	771	Protein kinase domain	IPR000719	rga2	Q06407	CZ	13446	ARG	876	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	CG2	1724	THR	222	CRIB domain	IPR000095	rga2	Q06407	NE	13052	ARG	826	Rho GTPase-activating protein domain	IPR000198
+cla4	P48562	OD2	4763	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	CB	7267	SER	87	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD2	4763	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	CA	7264	SER	87	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD2	4763	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	N	7263	SER	87	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CG	4761	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	N	7263	SER	87	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD2	4763	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	C	7259	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CG	4761	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	C	7259	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD2	4763	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	CA	7258	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CG	4761	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	CA	7258	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD2	4763	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	CB	7261	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CG	4761	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	CB	7261	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD1	4762	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	C	7259	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD1	4762	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	CA	7258	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD1	4762	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	CB	7261	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD2	4763	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	O	7260	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CG	4761	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	O	7260	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD2	4763	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	OG	7262	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	CG	4761	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	OG	7262	SER	86	Zinc finger, LIM-type	IPR001781
+cla4	P48562	OD1	4762	ASP	616	Protein kinase domain	IPR000719	rga2	Q06407	OG	7262	SER	86	Zinc finger, LIM-type	IPR001781

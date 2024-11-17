@@ -1,0 +1,4 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rdi1	Q12434	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	cdc24	P11433	TYR	200	Calponin homology domain	IPR001715
+rdi1	Q12434	TYR	147	Rho protein GDP-dissociation inhibitor	IPR000406	cdc24	P11433	TYR	200	Calponin homology domain	IPR001715
+rdi1	Q12434	ALA	148	Rho protein GDP-dissociation inhibitor	IPR000406	cdc24	P11433	TYR	200	Calponin homology domain	IPR001715

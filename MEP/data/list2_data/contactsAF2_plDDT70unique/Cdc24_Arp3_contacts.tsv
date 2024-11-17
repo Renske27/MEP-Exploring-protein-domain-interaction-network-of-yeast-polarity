@@ -1,0 +1,15 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	CYS	415	Dbl homology (DH) domain	IPR000219	Arp3	P47117	ARG	140	Actin family	IPR004000
+Cdc24	P11433	ALA	448	Dbl homology (DH) domain	IPR000219	Arp3	P47117	ARG	140	Actin family	IPR004000
+Cdc24	P11433	ASN	658	Pleckstrin homology domain	IPR001849	Arp3	P47117	TYR	96	Actin family	IPR004000
+Cdc24	P11433	THR	655	Pleckstrin homology domain	IPR001849	Arp3	P47117	TYR	96	Actin family	IPR004000
+Cdc24	P11433	LYS	409	Dbl homology (DH) domain	IPR000219	Arp3	P47117	PHE	22	Actin family	IPR004000
+Cdc24	P11433	LEU	403	Dbl homology (DH) domain	IPR000219	Arp3	P47117	ASP	145	Actin family	IPR004000
+Cdc24	P11433	THR	655	Pleckstrin homology domain	IPR001849	Arp3	P47117	TYR	110	Actin family	IPR004000
+Cdc24	P11433	THR	655	Pleckstrin homology domain	IPR001849	Arp3	P47117	PHE	95	Actin family	IPR004000
+Cdc24	P11433	ARG	631	Pleckstrin homology domain	IPR001849	Arp3	P47117	TYR	110	Actin family	IPR004000
+Cdc24	P11433	ARG	631	Pleckstrin homology domain	IPR001849	Arp3	P47117	SER	111	Actin family	IPR004000
+Cdc24	P11433	PHE	650	Pleckstrin homology domain	IPR001849	Arp3	P47117	ALA	39	Actin family	IPR004000
+Cdc24	P11433	THR	655	Pleckstrin homology domain	IPR001849	Arp3	P47117	ALA	39	Actin family	IPR004000
+Cdc24	P11433	ASP	489	Pleckstrin homology domain	IPR001849	Arp3	P47117	ALA	39	Actin family	IPR004000
+Cdc24	P11433	GLU	459			Arp3	P47117	PHE	136	Actin family	IPR004000

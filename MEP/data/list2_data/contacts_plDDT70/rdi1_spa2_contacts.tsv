@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rdi1	Q12434	CB	1204	ALA	148	Rho protein GDP-dissociation inhibitor	IPR000406	spa2	P23201	O	5403	ILE	472		
+rdi1	Q12434	CB	1204	ALA	148	Rho protein GDP-dissociation inhibitor	IPR000406	spa2	P23201	CB	5437	ALA	476		
+rdi1	Q12434	CB	1204	ALA	148	Rho protein GDP-dissociation inhibitor	IPR000406	spa2	P23201	CA	5409	LEU	473		
+rdi1	Q12434	CB	1204	ALA	148	Rho protein GDP-dissociation inhibitor	IPR000406	spa2	P23201	CG2	5406	ILE	472		
+rdi1	Q12434	CG	1086	LYS	132	Rho protein GDP-dissociation inhibitor	IPR000406	spa2	P23201	O	1865	VAL	28		
+rdi1	Q12434	CA	1091	ALA	133	Rho protein GDP-dissociation inhibitor	IPR000406	spa2	P23201	O	1856	GLU	27		
+rdi1	Q12434	CD	1087	LYS	132	Rho protein GDP-dissociation inhibitor	IPR000406	spa2	P23201	O	1865	VAL	28		

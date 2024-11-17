@@ -1,0 +1,17 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	VAL	463			Arp2	P32381	HIS	4	Actin family	IPR004000
+Cdc24	P11433	PHE	488	Pleckstrin homology domain	IPR001849	Arp2	P32381	ASP	2	Actin family	IPR004000
+Cdc24	P11433	ARG	631	Pleckstrin homology domain	IPR001849	Arp2	P32381	PRO	99	Actin family	IPR004000
+Cdc24	P11433	PHE	650	Pleckstrin homology domain	IPR001849	Arp2	P32381	PRO	99	Actin family	IPR004000
+Cdc24	P11433	ASP	489	Pleckstrin homology domain	IPR001849	Arp2	P32381	MET	1		
+Cdc24	P11433	ARG	631	Pleckstrin homology domain	IPR001849	Arp2	P32381	LEU	98	Actin family	IPR004000
+Cdc24	P11433	ARG	631	Pleckstrin homology domain	IPR001849	Arp2	P32381	PHE	93	Actin family	IPR004000
+Cdc24	P11433	ARG	631	Pleckstrin homology domain	IPR001849	Arp2	P32381	LYS	97	Actin family	IPR004000
+Cdc24	P11433	ASN	658	Pleckstrin homology domain	IPR001849	Arp2	P32381	ARG	20	Actin family	IPR004000
+Cdc24	P11433	GLN	412	Dbl homology (DH) domain	IPR000219	Arp2	P32381	VAL	359	Actin family	IPR004000
+Cdc24	P11433	LYS	409	Dbl homology (DH) domain	IPR000219	Arp2	P32381	GLN	148	Actin family	IPR004000
+Cdc24	P11433	PRO	36			Arp2	P32381	ARG	342	Actin family	IPR004000
+Cdc24	P11433	CYS	415	Dbl homology (DH) domain	IPR000219	Arp2	P32381	ASN	24	Actin family	IPR004000
+Cdc24	P11433	LEU	419	Dbl homology (DH) domain	IPR000219	Arp2	P32381	PHE	25	Actin family	IPR004000
+Cdc24	P11433	LEU	419	Dbl homology (DH) domain	IPR000219	Arp2	P32381	ARG	348	Actin family	IPR004000
+Cdc24	P11433	GLU	285	Dbl homology (DH) domain	IPR000219	Arp2	P32381	PRO	347	Actin family	IPR004000

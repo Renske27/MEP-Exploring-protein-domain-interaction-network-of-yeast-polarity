@@ -1,0 +1,74 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+nrp1	P32770	LYS	318	RNA recognition motif domain	IPR000504	nrp1	P32770	ASP	15		
+nrp1	P32770	ASP	15			nrp1	P32770	LYS	318	RNA recognition motif domain	IPR000504
+nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504
+nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504	nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504
+nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504
+nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504
+nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504	nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504
+nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504
+nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504	nrp1	P32770	GLU	241	RNA recognition motif domain	IPR000504
+nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504	nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504
+nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504
+nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504
+nrp1	P32770	ARG	22			nrp1	P32770	ARG	371	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ARG	308	RNA recognition motif domain	IPR000504	nrp1	P32770	PHE	369	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ARG	308	RNA recognition motif domain	IPR000504	nrp1	P32770	ARG	372	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	GLN	248	RNA recognition motif domain	IPR000504	nrp1	P32770	GLN	349		
+nrp1	P32770	TYR	249	RNA recognition motif domain	IPR000504	nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	TYR	249	RNA recognition motif domain	IPR000504	nrp1	P32770	PHE	366	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	THR	247	RNA recognition motif domain	IPR000504	nrp1	P32770	GLN	349		
+nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	THR	373	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ALA	374	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	PRO	381	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	LYS	597	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	THR	373	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	CYS	375	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	HIS	593	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	CYS	378	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	PHE	380	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ALA	374	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ASP	98			nrp1	P32770	ARG	372	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ASP	98			nrp1	P32770	ARG	371	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ASP	99			nrp1	P32770	ARG	371	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ASN	594	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ARG	371	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ASP	98		
+nrp1	P32770	ARG	372	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ASP	98		
+nrp1	P32770	ARG	371	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ARG	22		
+nrp1	P32770	PRO	381	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	LYS	597	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	THR	373	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	LYS	597	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	THR	373	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ALA	374	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	PHE	369	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ARG	308	RNA recognition motif domain	IPR000504
+nrp1	P32770	ARG	372	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ARG	308	RNA recognition motif domain	IPR000504
+nrp1	P32770	GLN	349			nrp1	P32770	GLN	248	RNA recognition motif domain	IPR000504
+nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504	nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504
+nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	LEU	305	RNA recognition motif domain	IPR000504
+nrp1	P32770	CYS	375	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	CYS	378	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	GLU	301	RNA recognition motif domain	IPR000504
+nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	TYR	249	RNA recognition motif domain	IPR000504
+nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	GLN	349			nrp1	P32770	THR	247	RNA recognition motif domain	IPR000504
+nrp1	P32770	ALA	374	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	PRO	381	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	PHE	380	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	CYS	378	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	HIS	593	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ALA	304	RNA recognition motif domain	IPR000504
+nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	ASN	594	Zinc finger, RanBP2-type	IPR001876
+nrp1	P32770	GLU	241	RNA recognition motif domain	IPR000504	nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504
+nrp1	P32770	GLU	243	RNA recognition motif domain	IPR000504	nrp1	P32770	THR	247	RNA recognition motif domain	IPR000504
+nrp1	P32770	THR	247	RNA recognition motif domain	IPR000504	nrp1	P32770	GLU	243	RNA recognition motif domain	IPR000504
+nrp1	P32770	PHE	369	Zinc finger, RanBP2-type	IPR001876	nrp1	P32770	GLN	20		
+nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504	nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504
+nrp1	P32770	GLU	301	RNA recognition motif domain	IPR000504	nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876

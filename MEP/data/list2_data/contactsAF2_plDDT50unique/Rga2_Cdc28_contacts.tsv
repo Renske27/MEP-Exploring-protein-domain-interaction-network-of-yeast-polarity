@@ -1,0 +1,70 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rga2	Q06407	PHE	979	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLN	106	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLU	100	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLY	101	Protein kinase domain	IPR000719
+Rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLY	101	Protein kinase domain	IPR000719
+Rga2	Q06407	ASP	980	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLN	106	Protein kinase domain	IPR000719
+Rga2	Q06407	GLY	981	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLN	106	Protein kinase domain	IPR000719
+Rga2	Q06407	GLY	981	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ILE	102	Protein kinase domain	IPR000719
+Rga2	Q06407	GLU	982	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ALA	110	Protein kinase domain	IPR000719
+Rga2	Q06407	GLU	982	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLY	109	Protein kinase domain	IPR000719
+Rga2	Q06407	ASP	984	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	TYR	98	Protein kinase domain	IPR000719
+Rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	TYR	98	Protein kinase domain	IPR000719
+Rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ILE	112	Protein kinase domain	IPR000719
+Rga2	Q06407	GLU	982	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ILE	112	Protein kinase domain	IPR000719
+Rga2	Q06407	GLY	981	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	TYR	98	Protein kinase domain	IPR000719
+Rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	PHE	116	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	626			Cdc28	P00546	TYR	241	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	623			Cdc28	P00546	TYR	241	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	623			Cdc28	P00546	VAL	240	Protein kinase domain	IPR000719
+Rga2	Q06407	ASP	631			Cdc28	P00546	LYS	187	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	630			Cdc28	P00546	TYR	241	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	627			Cdc28	P00546	TYR	241	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLU	12	Protein kinase domain	IPR000719
+Rga2	Q06407	MET	962	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLU	12	Protein kinase domain	IPR000719
+Rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLU	12	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ASP	92	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	13	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	VAL	14	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	961	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	GLU	12	Protein kinase domain	IPR000719
+Rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LEU	11	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	961	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LEU	11	Protein kinase domain	IPR000719
+Rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	24	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	PHE	90	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	24	Protein kinase domain	IPR000719
+Rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	24	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	827	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	13	Protein kinase domain	IPR000719
+Rga2	Q06407	GLU	822	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	13	Protein kinase domain	IPR000719
+Rga2	Q06407	GLU	822	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	TYR	23	Protein kinase domain	IPR000719
+Rga2	Q06407	HIS	965	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	24	Protein kinase domain	IPR000719
+Rga2	Q06407	ASN	963	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LEU	11	Protein kinase domain	IPR000719
+Rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	146	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	989	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	146	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	989	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ASP	147	Protein kinase domain	IPR000719
+Rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ASN	145	Protein kinase domain	IPR000719
+Rga2	Q06407	HIS	965	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	LYS	146	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198	Cdc28	P00546	ASP	92	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	114	Zinc finger, LIM-type	IPR001781	Cdc28	P00546	VAL	51	Protein kinase domain	IPR000719
+Rga2	Q06407	THR	236			Cdc28	P00546	SER	285	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	237			Cdc28	P00546	SER	129	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	237			Cdc28	P00546	ARG	131	Protein kinase domain	IPR000719
+Rga2	Q06407	THR	236			Cdc28	P00546	ARG	287	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	237			Cdc28	P00546	ARG	287	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	233			Cdc28	P00546	SER	190	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	233			Cdc28	P00546	THR	191	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	233			Cdc28	P00546	PHE	161	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	237			Cdc28	P00546	HIS	128	Protein kinase domain	IPR000719
+Rga2	Q06407	LEU	233			Cdc28	P00546	LEU	165	Protein kinase domain	IPR000719
+Rga2	Q06407	ILE	229			Cdc28	P00546	LEU	165	Protein kinase domain	IPR000719
+Rga2	Q06407	GLU	634			Cdc28	P00546	GLN	188	Protein kinase domain	IPR000719
+Rga2	Q06407	GLU	634			Cdc28	P00546	LYS	187	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	641			Cdc28	P00546	ARG	166	Protein kinase domain	IPR000719
+Rga2	Q06407	ASP	645			Cdc28	P00546	ARG	166	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	641			Cdc28	P00546	PRO	164	Protein kinase domain	IPR000719
+Rga2	Q06407	LYS	641			Cdc28	P00546	LEU	165	Protein kinase domain	IPR000719
+Rga2	Q06407	ASN	234			Cdc28	P00546	VAL	163	Protein kinase domain	IPR000719
+Rga2	Q06407	ASP	230			Cdc28	P00546	LEU	165	Protein kinase domain	IPR000719
+Rga2	Q06407	ASP	230			Cdc28	P00546	PRO	164	Protein kinase domain	IPR000719
+Rga2	Q06407	ILE	229			Cdc28	P00546	SER	190	Protein kinase domain	IPR000719
+Rga2	Q06407	ILE	232			Cdc28	P00546	ILE	281	Protein kinase domain	IPR000719
+Rga2	Q06407	VAL	227			Cdc28	P00546	ILE	281	Protein kinase domain	IPR000719

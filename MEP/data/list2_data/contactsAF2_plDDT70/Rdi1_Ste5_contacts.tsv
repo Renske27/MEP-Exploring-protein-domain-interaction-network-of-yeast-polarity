@@ -1,0 +1,34 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rdi1	Q12434	CE2	1377	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CA	7678	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD2	1375	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CB	7680	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD2	1375	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CG	7682	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD2	1375	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CD	7683	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CE2	1377	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CG	7682	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD2	1375	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CA	7678	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD2	1386	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CD2	7676	LEU	764	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD1	1374	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CG	7674	LEU	764	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD1	1385	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CD2	7676	LEU	764	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CG	1384	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CD2	7676	LEU	764	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CG	1373	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	N	7677	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CG	1373	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CA	7678	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CG	1373	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CB	7680	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CB	1371	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CB	7680	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	NH2	1401	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CD	7683	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	NH2	1401	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OE1	7684	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	NH2	1401	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OE2	7685	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	NH1	1400	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CD	7683	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CZ	1402	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CD	7683	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	NH1	1400	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OE1	7684	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CZ	1402	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OE1	7684	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CZ	1402	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OE2	7685	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	NZ	1625	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CD	7683	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	NZ	1625	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OE1	7684	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	NZ	1625	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OE2	7685	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD	1623	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OE1	7684	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CE	1624	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OE1	7684	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CZ	1378	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CB	7704	CYS	768	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CE1	1376	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	SG	7706	CYS	768	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CE1	1376	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CB	7704	CYS	768	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD2	1386	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CB	6629	ALA	636	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	CD1	1385	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CB	6629	ALA	636	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	NZ	1625	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	OG1	6083	THR	566		

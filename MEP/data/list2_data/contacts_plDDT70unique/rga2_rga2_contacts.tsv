@@ -1,0 +1,12 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rga2	Q06407	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	VAL	834	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	SER	869	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CYS	16	Zinc finger, LIM-type	IPR001781	rga2	Q06407	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	THR	832	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CYS	16	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	SER	869	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	VAL	834	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	PHE	979	Rho GTPase-activating protein domain	IPR000198

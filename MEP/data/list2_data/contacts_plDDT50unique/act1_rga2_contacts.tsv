@@ -1,0 +1,93 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+act1	P60010	LYS	118	Actin family	IPR004000	rga2	Q06407	GLU	835	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	LYS	118	Actin family	IPR004000	rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	205	Actin family	IPR004000	rga2	Q06407	PRO	85	Zinc finger, LIM-type	IPR001781
+act1	P60010	ASP	80	Actin family	IPR004000	rga2	Q06407	THR	832	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	ASP	80	Actin family	IPR004000	rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	ASP	80	Actin family	IPR004000	rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLN	232	Actin family	IPR004000	rga2	Q06407	LEU	134		
+act1	P60010	SER	233	Actin family	IPR004000	rga2	Q06407	LEU	134		
+act1	P60010	SER	234	Actin family	IPR004000	rga2	Q06407	LEU	134		
+act1	P60010	TYR	198	Actin family	IPR004000	rga2	Q06407	LYS	112	Zinc finger, LIM-type	IPR001781
+act1	P60010	GLU	237	Actin family	IPR004000	rga2	Q06407	LYS	130		
+act1	P60010	SER	199	Actin family	IPR004000	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+act1	P60010	LEU	242	Actin family	IPR004000	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+act1	P60010	SER	239	Actin family	IPR004000	rga2	Q06407	LEU	127		
+act1	P60010	GLN	246	Actin family	IPR004000	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+act1	P60010	GLN	246	Actin family	IPR004000	rga2	Q06407	TYR	110	Zinc finger, LIM-type	IPR001781
+act1	P60010	VAL	247	Actin family	IPR004000	rga2	Q06407	LYS	112	Zinc finger, LIM-type	IPR001781
+act1	P60010	VAL	247	Actin family	IPR004000	rga2	Q06407	ALA	111	Zinc finger, LIM-type	IPR001781
+act1	P60010	GLN	246	Actin family	IPR004000	rga2	Q06407	LYS	112	Zinc finger, LIM-type	IPR001781
+act1	P60010	VAL	247	Actin family	IPR004000	rga2	Q06407	TYR	110	Zinc finger, LIM-type	IPR001781
+act1	P60010	ASP	244	Actin family	IPR004000	rga2	Q06407	PRO	85	Zinc finger, LIM-type	IPR001781
+act1	P60010	GLY	245	Actin family	IPR004000	rga2	Q06407	TYR	110	Zinc finger, LIM-type	IPR001781
+act1	P60010	GLY	245	Actin family	IPR004000	rga2	Q06407	LYS	109	Zinc finger, LIM-type	IPR001781
+act1	P60010	GLU	241	Actin family	IPR004000	rga2	Q06407	LYS	109	Zinc finger, LIM-type	IPR001781
+act1	P60010	ASP	244	Actin family	IPR004000	rga2	Q06407	LEU	108	Zinc finger, LIM-type	IPR001781
+act1	P60010	ASP	244	Actin family	IPR004000	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+act1	P60010	ASP	244	Actin family	IPR004000	rga2	Q06407	TYR	110	Zinc finger, LIM-type	IPR001781
+act1	P60010	ASP	244	Actin family	IPR004000	rga2	Q06407	LEU	84	Zinc finger, LIM-type	IPR001781
+act1	P60010	VAL	247	Actin family	IPR004000	rga2	Q06407	MET	120	Zinc finger, LIM-type	IPR001781
+act1	P60010	THR	249	Actin family	IPR004000	rga2	Q06407	HIS	123	Zinc finger, LIM-type	IPR001781
+act1	P60010	GLU	205	Actin family	IPR004000	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+act1	P60010	GLU	205	Actin family	IPR004000	rga2	Q06407	SER	87	Zinc finger, LIM-type	IPR001781
+act1	P60010	GLU	125	Actin family	IPR004000	rga2	Q06407	ARG	873	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLN	360	Actin family	IPR004000	rga2	Q06407	ASP	980	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLN	360	Actin family	IPR004000	rga2	Q06407	GLY	981	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	LYS	359	Actin family	IPR004000	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	LYS	359	Actin family	IPR004000	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLN	360	Actin family	IPR004000	rga2	Q06407	PHE	979	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLN	360	Actin family	IPR004000	rga2	Q06407	ASP	978	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	SER	358	Actin family	IPR004000	rga2	Q06407	GLY	981	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	PRO	130	Actin family	IPR004000	rga2	Q06407	ASP	984	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	MET	355	Actin family	IPR004000	rga2	Q06407	LYS	653		
+act1	P60010	MET	355	Actin family	IPR004000	rga2	Q06407	ARG	650		
+act1	P60010	THR	148	Actin family	IPR004000	rga2	Q06407	LEU	649		
+act1	P60010	TYR	143	Actin family	IPR004000	rga2	Q06407	LEU	649		
+act1	P60010	THR	148	Actin family	IPR004000	rga2	Q06407	ASP	645		
+act1	P60010	LEU	346	Actin family	IPR004000	rga2	Q06407	VAL	646		
+act1	P60010	LEU	349	Actin family	IPR004000	rga2	Q06407	VAL	646		
+act1	P60010	TYR	143	Actin family	IPR004000	rga2	Q06407	LEU	642		
+act1	P60010	GLY	146	Actin family	IPR004000	rga2	Q06407	LEU	642		
+act1	P60010	SER	144	Actin family	IPR004000	rga2	Q06407	LEU	642		
+act1	P60010	SER	145	Actin family	IPR004000	rga2	Q06407	LEU	642		
+act1	P60010	GLY	146	Actin family	IPR004000	rga2	Q06407	THR	638		
+act1	P60010	SER	145	Actin family	IPR004000	rga2	Q06407	THR	638		
+act1	P60010	SER	144	Actin family	IPR004000	rga2	Q06407	THR	638		
+act1	P60010	GLU	334	Actin family	IPR004000	rga2	Q06407	LEU	635		
+act1	P60010	ILE	345	Actin family	IPR004000	rga2	Q06407	LYS	639		
+act1	P60010	ILE	345	Actin family	IPR004000	rga2	Q06407	LEU	643		
+act1	P60010	ILE	345	Actin family	IPR004000	rga2	Q06407	LEU	642		
+act1	P60010	PHE	352	Actin family	IPR004000	rga2	Q06407	ARG	650		
+act1	P60010	GLY	146	Actin family	IPR004000	rga2	Q06407	LYS	641		
+act1	P60010	GLY	146	Actin family	IPR004000	rga2	Q06407	ASP	645		
+act1	P60010	THR	351	Actin family	IPR004000	rga2	Q06407	ARG	650		
+act1	P60010	HIS	101	Actin family	IPR004000	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	99	Actin family	IPR004000	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	100	Actin family	IPR004000	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	VAL	5	Actin family	IPR004000	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	VAL	5	Actin family	IPR004000	rga2	Q06407	LYS	989	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	LEU	349	Actin family	IPR004000	rga2	Q06407	LEU	643		
+act1	P60010	ASP	25	Actin family	IPR004000	rga2	Q06407	LYS	639		
+act1	P60010	THR	126	Actin family	IPR004000	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	83	Actin family	IPR004000	rga2	Q06407	GLY	829	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	ASN	128	Actin family	IPR004000	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	99	Actin family	IPR004000	rga2	Q06407	VAL	970	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	99	Actin family	IPR004000	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	ASN	128	Actin family	IPR004000	rga2	Q06407	SER	974	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	ASN	128	Actin family	IPR004000	rga2	Q06407	VAL	970	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	125	Actin family	IPR004000	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	99	Actin family	IPR004000	rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	TYR	91	Actin family	IPR004000	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	100	Actin family	IPR004000	rga2	Q06407	ASN	992	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLU	100	Actin family	IPR004000	rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	ALA	97	Actin family	IPR004000	rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	PHE	127	Actin family	IPR004000	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	HIS	87	Actin family	IPR004000	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	HIS	87	Actin family	IPR004000	rga2	Q06407	LYS	827	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	HIS	87	Actin family	IPR004000	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	PHE	124	Actin family	IPR004000	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	ASN	128	Actin family	IPR004000	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	GLN	121	Actin family	IPR004000	rga2	Q06407	GLU	835	Rho GTPase-activating protein domain	IPR000198
+act1	P60010	ALA	167	Actin family	IPR004000	rga2	Q06407	LEU	649		
+act1	P60010	GLU	83	Actin family	IPR004000	rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198

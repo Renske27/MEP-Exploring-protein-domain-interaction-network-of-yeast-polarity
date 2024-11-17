@@ -1,0 +1,27 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Act1	P60010	CG	1677	LYS	215	Actin family	IPR004000	Spa2	P23201	NH2	14086	ARG	1430	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	CE	1679	LYS	215	Actin family	IPR004000	Spa2	P23201	NH2	14086	ARG	1430	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	O	398	ASP	56	Actin family	IPR004000	Spa2	P23201	NE1	13756	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	C	396	ASP	56	Actin family	IPR004000	Spa2	P23201	CZ2	13758	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	N	402	GLU	57	Actin family	IPR004000	Spa2	P23201	CE2	13754	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	CA	403	GLU	57	Actin family	IPR004000	Spa2	P23201	CE2	13754	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	CA	403	GLU	57	Actin family	IPR004000	Spa2	P23201	NE1	13756	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	N	402	GLU	57	Actin family	IPR004000	Spa2	P23201	CZ2	13758	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	CA	403	GLU	57	Actin family	IPR004000	Spa2	P23201	CZ2	13758	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	CB	397	ASP	56	Actin family	IPR004000	Spa2	P23201	CZ2	13758	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	O	709	ASN	92	Actin family	IPR004000	Spa2	P23201	OE1	14187	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH2	739	ARG	95	Actin family	IPR004000	Spa2	P23201	CG	14185	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	CZ	740	ARG	95	Actin family	IPR004000	Spa2	P23201	N	14180	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	CZ	740	ARG	95	Actin family	IPR004000	Spa2	P23201	OE1	14187	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH2	739	ARG	95	Actin family	IPR004000	Spa2	P23201	N	14180	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH2	739	ARG	95	Actin family	IPR004000	Spa2	P23201	CD	14186	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH2	739	ARG	95	Actin family	IPR004000	Spa2	P23201	CA	14181	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH2	739	ARG	95	Actin family	IPR004000	Spa2	P23201	OE1	14187	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	CZ	740	ARG	95	Actin family	IPR004000	Spa2	P23201	CD	14210	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH1	738	ARG	95	Actin family	IPR004000	Spa2	P23201	CD	14210	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH2	739	ARG	95	Actin family	IPR004000	Spa2	P23201	CD	14210	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	O	697	TYR	91	Actin family	IPR004000	Spa2	P23201	NZ	14212	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH2	739	ARG	95	Actin family	IPR004000	Spa2	P23201	CG	14209	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	CZ	740	ARG	95	Actin family	IPR004000	Spa2	P23201	CB	14207	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH1	738	ARG	95	Actin family	IPR004000	Spa2	P23201	CB	14207	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Act1	P60010	NH2	739	ARG	95	Actin family	IPR004000	Spa2	P23201	CB	14207	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

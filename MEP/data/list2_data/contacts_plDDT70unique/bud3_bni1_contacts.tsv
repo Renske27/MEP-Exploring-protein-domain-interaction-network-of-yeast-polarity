@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	ILE	409	Dbl homology (DH) domain	IPR000219	bni1	P41832	LEU	659	Formin, FH3 domain	IPR010472
+bud3	P25558	LEU	408	Dbl homology (DH) domain	IPR000219	bni1	P41832	LEU	659	Formin, FH3 domain	IPR010472

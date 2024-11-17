@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	LYS	371	Dbl homology (DH) domain	IPR000219	rax1	Q08760	ALA	319		
+bud3	P25558	GLU	401	Dbl homology (DH) domain	IPR000219	rax1	Q08760	ARG	433		
+bud3	P25558	GLU	401	Dbl homology (DH) domain	IPR000219	rax1	Q08760	ARG	434		
+bud3	P25558	MET	390	Dbl homology (DH) domain	IPR000219	rax1	Q08760	PHE	317		
+bud3	P25558	MET	390	Dbl homology (DH) domain	IPR000219	rax1	Q08760	LEU	318		

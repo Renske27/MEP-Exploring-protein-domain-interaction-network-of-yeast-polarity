@@ -1,0 +1,109 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp3	P47117	O	786	SER	111	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	O	786	SER	111	Actin family	IPR004000	bem3	P32873	CD	8721	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CB	787	SER	111	Actin family	IPR004000	bem3	P32873	CG	8720	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	OG	788	SER	111	Actin family	IPR004000	bem3	P32873	CB	8711	ASN	673	Pleckstrin homology domain	IPR001849
+arp3	P47117	OG	788	SER	111	Actin family	IPR004000	bem3	P32873	C	8709	ASN	673	Pleckstrin homology domain	IPR001849
+arp3	P47117	N	797	SER	113	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CB	801	SER	113	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CB	801	SER	113	Actin family	IPR004000	bem3	P32873	CD	8721	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CB	801	SER	113	Actin family	IPR004000	bem3	P32873	OE1	8722	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	OG	802	SER	113	Actin family	IPR004000	bem3	P32873	OE1	8722	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	O	874	GLU	122	Actin family	IPR004000	bem3	P32873	NH1	8568	ARG	656	Pleckstrin homology domain	IPR001849
+arp3	P47117	O	874	GLU	122	Actin family	IPR004000	bem3	P32873	CZ	8567	ARG	656	Pleckstrin homology domain	IPR001849
+arp3	P47117	O	874	GLU	122	Actin family	IPR004000	bem3	P32873	NH2	8569	ARG	656	Pleckstrin homology domain	IPR001849
+arp3	P47117	CB	275	THR	38	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CG2	277	THR	38	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CD2	917	HIS	126	Actin family	IPR004000	bem3	P32873	OE1	8722	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	N	271	THR	38	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	O	261	ILE	36	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	OG1	276	THR	38	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	OG1	276	THR	38	Actin family	IPR004000	bem3	P32873	CG	8720	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	OG1	276	THR	38	Actin family	IPR004000	bem3	P32873	CD	8721	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	NE2	919	HIS	126	Actin family	IPR004000	bem3	P32873	CD	8721	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CE1	918	HIS	126	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CE1	918	HIS	126	Actin family	IPR004000	bem3	P32873	CD	8721	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	NE2	919	HIS	126	Actin family	IPR004000	bem3	P32873	OE1	8722	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CE1	918	HIS	126	Actin family	IPR004000	bem3	P32873	OE1	8722	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CG	915	HIS	126	Actin family	IPR004000	bem3	P32873	OE1	8722	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	ND1	916	HIS	126	Actin family	IPR004000	bem3	P32873	OE1	8722	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	OG	788	SER	111	Actin family	IPR004000	bem3	P32873	O	8710	ASN	673	Pleckstrin homology domain	IPR001849
+arp3	P47117	C	785	SER	111	Actin family	IPR004000	bem3	P32873	NE2	8723	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	CG	1208	GLU	159	Actin family	IPR004000	bem3	P32873	CB	11166	SER	990	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE1	1210	GLU	159	Actin family	IPR004000	bem3	P32873	O	11165	SER	990	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	1201	PRO	158	Actin family	IPR004000	bem3	P32873	O	10862	SER	952	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	1202	PRO	158	Actin family	IPR004000	bem3	P32873	O	10868	GLY	953	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	1201	PRO	158	Actin family	IPR004000	bem3	P32873	O	10868	GLY	953	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	1202	PRO	158	Actin family	IPR004000	bem3	P32873	CA	10870	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	1201	PRO	158	Actin family	IPR004000	bem3	P32873	CA	10870	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	1202	PRO	158	Actin family	IPR004000	bem3	P32873	C	10867	GLY	953	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	1201	PRO	158	Actin family	IPR004000	bem3	P32873	C	10867	GLY	953	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	1202	PRO	158	Actin family	IPR004000	bem3	P32873	N	10869	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	1201	PRO	158	Actin family	IPR004000	bem3	P32873	N	10869	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE2	1211	GLU	159	Actin family	IPR004000	bem3	P32873	CA	10870	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE1	1210	GLU	159	Actin family	IPR004000	bem3	P32873	CA	10870	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE2	1211	GLU	159	Actin family	IPR004000	bem3	P32873	OG	10874	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	1209	GLU	159	Actin family	IPR004000	bem3	P32873	OG	10874	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE1	1210	GLU	159	Actin family	IPR004000	bem3	P32873	OG	10874	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE2	1211	GLU	159	Actin family	IPR004000	bem3	P32873	CB	10873	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	1209	GLU	159	Actin family	IPR004000	bem3	P32873	CB	10873	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE1	1210	GLU	159	Actin family	IPR004000	bem3	P32873	CB	10873	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	1194	PRO	157	Actin family	IPR004000	bem3	P32873	OG	10880	SER	955	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE2	1665	GLU	220	Actin family	IPR004000	bem3	P32873	NH2	11892	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE2	1665	GLU	220	Actin family	IPR004000	bem3	P32873	CZ	11890	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE2	1665	GLU	220	Actin family	IPR004000	bem3	P32873	NE	11889	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	O	1660	GLU	220	Actin family	IPR004000	bem3	P32873	NH2	10850	ARG	950	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	O	1660	GLU	220	Actin family	IPR004000	bem3	P32873	CZ	10848	ARG	950	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CB	1674	TYR	222	Actin family	IPR004000	bem3	P32873	CG2	11921	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	O	1655	ALA	219	Actin family	IPR004000	bem3	P32873	CG2	11921	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD1	1676	TYR	222	Actin family	IPR004000	bem3	P32873	O	11918	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OH	1681	TYR	222	Actin family	IPR004000	bem3	P32873	NZ	11263	LYS	1003	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CB	1705	SER	226	Actin family	IPR004000	bem3	P32873	CD	11298	ARG	1007	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OG	1706	SER	226	Actin family	IPR004000	bem3	P32873	CD	11298	ARG	1007	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	N	1701	SER	226	Actin family	IPR004000	bem3	P32873	NH1	11301	ARG	1007	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CB	1705	SER	226	Actin family	IPR004000	bem3	P32873	NH1	11301	ARG	1007	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	2644	PRO	342	Actin family	IPR004000	bem3	P32873	CA	11948	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	2643	PRO	342	Actin family	IPR004000	bem3	P32873	CA	11948	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG2	1695	ILE	224	Actin family	IPR004000	bem3	P32873	CB	11951	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	2644	PRO	342	Actin family	IPR004000	bem3	P32873	CB	11951	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	2643	PRO	342	Actin family	IPR004000	bem3	P32873	CB	11951	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	2643	PRO	342	Actin family	IPR004000	bem3	P32873	N	11947	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	2643	PRO	342	Actin family	IPR004000	bem3	P32873	C	11943	SER	1086	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	2643	PRO	342	Actin family	IPR004000	bem3	P32873	O	11944	SER	1086	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE1	1664	GLU	220	Actin family	IPR004000	bem3	P32873	CG2	12239	ILE	1123	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	1662	GLU	220	Actin family	IPR004000	bem3	P32873	CG2	12239	ILE	1123	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE1	1664	GLU	220	Actin family	IPR004000	bem3	P32873	CA	12234	ILE	1123	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD1	2659	ASP	344	Actin family	IPR004000	bem3	P32873	OG	11946	SER	1086	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD1	2659	ASP	344	Actin family	IPR004000	bem3	P32873	CA	11986	PRO	1092	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD2	2660	ASP	344	Actin family	IPR004000	bem3	P32873	OG	11946	SER	1086	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD2	2660	ASP	344	Actin family	IPR004000	bem3	P32873	CA	11986	PRO	1092	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD2	2660	ASP	344	Actin family	IPR004000	bem3	P32873	C	11987	PRO	1092	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	2658	ASP	344	Actin family	IPR004000	bem3	P32873	CA	11986	PRO	1092	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CB	2642	PRO	342	Actin family	IPR004000	bem3	P32873	OG	11946	SER	1086	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	2658	ASP	344	Actin family	IPR004000	bem3	P32873	N	11992	ILE	1093	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD2	2660	ASP	344	Actin family	IPR004000	bem3	P32873	CD1	11999	ILE	1093	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD2	2660	ASP	344	Actin family	IPR004000	bem3	P32873	CG1	11997	ILE	1093	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD2	2660	ASP	344	Actin family	IPR004000	bem3	P32873	CB	11996	ILE	1093	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD2	2660	ASP	344	Actin family	IPR004000	bem3	P32873	N	11992	ILE	1093	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD2	2660	ASP	344	Actin family	IPR004000	bem3	P32873	CA	11993	ILE	1093	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CB	1661	GLU	220	Actin family	IPR004000	bem3	P32873	CD1	11922	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CB	1661	GLU	220	Actin family	IPR004000	bem3	P32873	CG1	11920	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	1662	GLU	220	Actin family	IPR004000	bem3	P32873	CD1	11922	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CG	2643	PRO	342	Actin family	IPR004000	bem3	P32873	OG	11946	SER	1086	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD2	1677	TYR	222	Actin family	IPR004000	bem3	P32873	CG	10845	ARG	950	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	C	1668	GLY	221	Actin family	IPR004000	bem3	P32873	NH2	10850	ARG	950	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	C	1659	GLU	220	Actin family	IPR004000	bem3	P32873	NH2	10850	ARG	950	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	N	1670	TYR	222	Actin family	IPR004000	bem3	P32873	NH2	10850	ARG	950	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	1663	GLU	220	Actin family	IPR004000	bem3	P32873	NH2	11892	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	1663	GLU	220	Actin family	IPR004000	bem3	P32873	CZ	11890	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	CD	1663	GLU	220	Actin family	IPR004000	bem3	P32873	NE	11889	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE1	1664	GLU	220	Actin family	IPR004000	bem3	P32873	NH2	11892	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE1	1664	GLU	220	Actin family	IPR004000	bem3	P32873	CZ	11890	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OE1	1664	GLU	220	Actin family	IPR004000	bem3	P32873	NE	11889	ARG	1079	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	O	3422	ARG	441	Actin family	IPR004000	bem3	P32873	CD1	10857	LEU	951	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	O	3422	ARG	441	Actin family	IPR004000	bem3	P32873	CD2	10858	LEU	951	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	OD2	2345	ASP	304	Actin family	IPR004000	bem3	P32873	CG	3712	LYS	28		
+arp3	P47117	OD2	2345	ASP	304	Actin family	IPR004000	bem3	P32873	CD	3713	LYS	28		
+arp3	P47117	OD2	2152	ASP	281	Actin family	IPR004000	bem3	P32873	CB	3638	GLN	20		
+arp3	P47117	CZ	838	ARG	117	Actin family	IPR004000	bem3	P32873	NZ	8706	LYS	672	Pleckstrin homology domain	IPR001849
+arp3	P47117	OD2	2516	ASP	325	Actin family	IPR004000	bem3	P32873	CZ	7942	ARG	578	Phox homology	IPR001683

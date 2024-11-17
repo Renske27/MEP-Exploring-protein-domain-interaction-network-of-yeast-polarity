@@ -1,0 +1,9 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rdi1	Q12434	CE1	1278	TYR	157	Rho protein GDP-dissociation inhibitor	IPR000406	Nrp1	P32770	OE1	4020	GLU	297	RNA recognition motif domain	IPR000504
+Rdi1	Q12434	NZ	1251	LYS	154	Rho protein GDP-dissociation inhibitor	IPR000406	Nrp1	P32770	CD	4019	GLU	297	RNA recognition motif domain	IPR000504
+Rdi1	Q12434	NZ	1251	LYS	154	Rho protein GDP-dissociation inhibitor	IPR000406	Nrp1	P32770	OE1	4020	GLU	297	RNA recognition motif domain	IPR000504
+Rdi1	Q12434	O	1174	LEU	144	Rho protein GDP-dissociation inhibitor	IPR000406	Nrp1	P32770	OE1	4050	GLU	301	RNA recognition motif domain	IPR000504
+Rdi1	Q12434	OH	1280	TYR	157	Rho protein GDP-dissociation inhibitor	IPR000406	Nrp1	P32770	NZ	3425	LYS	224		
+Rdi1	Q12434	CE1	1196	TYR	147	Rho protein GDP-dissociation inhibitor	IPR000406	Nrp1	P32770	CG	4018	GLU	297	RNA recognition motif domain	IPR000504
+Rdi1	Q12434	CD1	1194	TYR	147	Rho protein GDP-dissociation inhibitor	IPR000406	Nrp1	P32770	CG	4018	GLU	297	RNA recognition motif domain	IPR000504
+Rdi1	Q12434	C	1172	LEU	144	Rho protein GDP-dissociation inhibitor	IPR000406	Nrp1	P32770	OE1	4050	GLU	301	RNA recognition motif domain	IPR000504

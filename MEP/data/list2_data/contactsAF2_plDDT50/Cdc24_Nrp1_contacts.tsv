@@ -1,0 +1,51 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	CG2	1485	VAL	194	Calponin homology domain	IPR001715	Nrp1	P32770	N	9381	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CG1	1484	VAL	194	Calponin homology domain	IPR001715	Nrp1	P32770	N	9381	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CG2	1485	VAL	194	Calponin homology domain	IPR001715	Nrp1	P32770	O	9321	LEU	314	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CA	1428	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CG1	9386	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CA	1428	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CB	9384	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CB	1430	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CB	9384	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CG2	1433	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CB	9384	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	O	1424	VAL	186	Calponin homology domain	IPR001715	Nrp1	P32770	CD2	9302	LEU	311	RNA recognition motif domain	IPR000504
+Cdc24	P11433	N	1435	ALA	188	Calponin homology domain	IPR001715	Nrp1	P32770	CG1	9386	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	N	1435	ALA	188	Calponin homology domain	IPR001715	Nrp1	P32770	CB	9384	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	C	1429	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CG2	9387	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	O	1431	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CG2	9387	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CA	1428	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CG2	9387	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CB	1430	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CG2	9387	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	C	1429	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CG1	9386	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	C	1429	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CB	9384	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	N	1435	ALA	188	Calponin homology domain	IPR001715	Nrp1	P32770	CG2	9387	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	O	1431	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CB	9384	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CG2	1433	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	O	9385	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CG2	1433	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	C	9383	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CG2	1433	ILE	187	Calponin homology domain	IPR001715	Nrp1	P32770	CA	9382	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	CG2	1485	VAL	194	Calponin homology domain	IPR001715	Nrp1	P32770	CG2	9387	VAL	322	RNA recognition motif domain	IPR000504
+Cdc24	P11433	O	1373	PRO	180	Calponin homology domain	IPR001715	Nrp1	P32770	CG	6934	ASP	15		
+Cdc24	P11433	O	1373	PRO	180	Calponin homology domain	IPR001715	Nrp1	P32770	OD1	6935	ASP	15		
+Cdc24	P11433	CG	1401	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	OD1	6935	ASP	15		
+Cdc24	P11433	CE	1403	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	OD2	6936	ASP	15		
+Cdc24	P11433	NZ	1404	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	C	6931	ASP	15		
+Cdc24	P11433	NZ	1404	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	O	6933	ASP	15		
+Cdc24	P11433	CE	1403	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	O	6933	ASP	15		
+Cdc24	P11433	CD	1402	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	O	6933	ASP	15		
+Cdc24	P11433	NZ	1404	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	OD2	6936	ASP	15		
+Cdc24	P11433	CB	1372	PRO	180	Calponin homology domain	IPR001715	Nrp1	P32770	OD2	6936	ASP	15		
+Cdc24	P11433	CE	1403	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	CG	6934	ASP	15		
+Cdc24	P11433	CD	1402	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	CG	6934	ASP	15		
+Cdc24	P11433	CE	1403	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	OD1	6935	ASP	15		
+Cdc24	P11433	CD	1402	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	OD1	6935	ASP	15		
+Cdc24	P11433	O	1373	PRO	180	Calponin homology domain	IPR001715	Nrp1	P32770	OD2	6936	ASP	15		
+Cdc24	P11433	NZ	1404	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	CG	6934	ASP	15		
+Cdc24	P11433	NZ	1404	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	OD1	6935	ASP	15		
+Cdc24	P11433	CE	1403	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	CA	6930	ASP	15		
+Cdc24	P11433	CD	1402	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	CA	6930	ASP	15		
+Cdc24	P11433	NZ	1404	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	CB	6932	ASP	15		
+Cdc24	P11433	NZ	1404	LYS	183	Calponin homology domain	IPR001715	Nrp1	P32770	CA	6930	ASP	15		
+Cdc24	P11433	CG2	1153	ILE	151	Calponin homology domain	IPR001715	Nrp1	P32770	CE2	11442	TYR	592	Zinc finger, RanBP2-type	IPR001876
+Cdc24	P11433	CG2	1153	ILE	151	Calponin homology domain	IPR001715	Nrp1	P32770	OH	11443	TYR	592	Zinc finger, RanBP2-type	IPR001876
+Cdc24	P11433	CG2	1153	ILE	151	Calponin homology domain	IPR001715	Nrp1	P32770	CZ	11444	TYR	592	Zinc finger, RanBP2-type	IPR001876
+Cdc24	P11433	CG1	1152	ILE	151	Calponin homology domain	IPR001715	Nrp1	P32770	OH	11443	TYR	592	Zinc finger, RanBP2-type	IPR001876
+Cdc24	P11433	CD1	1154	ILE	151	Calponin homology domain	IPR001715	Nrp1	P32770	CZ	11444	TYR	592	Zinc finger, RanBP2-type	IPR001876
+Cdc24	P11433	CB	1443	SER	189	Calponin homology domain	IPR001715	Nrp1	P32770	OE1	8737	GLU	241	RNA recognition motif domain	IPR000504
+Cdc24	P11433	OG	1445	SER	189	Calponin homology domain	IPR001715	Nrp1	P32770	OE1	8737	GLU	241	RNA recognition motif domain	IPR000504

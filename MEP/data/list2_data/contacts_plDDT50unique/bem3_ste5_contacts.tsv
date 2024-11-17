@@ -1,0 +1,44 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	PRO	571	Phox homology	IPR001683	ste5	P32917	GLU	245		
+bem3	P32873	VAL	76			ste5	P32917	ILE	251		
+bem3	P32873	VAL	76			ste5	P32917	LEU	255		
+bem3	P32873	LEU	73			ste5	P32917	LEU	255		
+bem3	P32873	LEU	80			ste5	P32917	ASP	248		
+bem3	P32873	THR	648	Pleckstrin homology domain	IPR001849	ste5	P32917	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+bem3	P32873	LEU	649	Pleckstrin homology domain	IPR001849	ste5	P32917	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+bem3	P32873	SER	72			ste5	P32917	LEU	255		
+bem3	P32873	GLU	69			ste5	P32917	LEU	255		
+bem3	P32873	GLU	69			ste5	P32917	ILE	256		
+bem3	P32873	ARG	975	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	SER	185		
+bem3	P32873	ARG	975	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ARG	187		
+bem3	P32873	ASP	972	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	SER	185		
+bem3	P32873	ASP	970	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ASN	174		
+bem3	P32873	GLU	968	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ASN	174		
+bem3	P32873	SER	952	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	SER	521		
+bem3	P32873	ARG	1007	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	THR	498		
+bem3	P32873	ARG	1007	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	GLU	496		
+bem3	P32873	ARG	1007	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	SER	497		
+bem3	P32873	LYS	1003	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	GLN	501		
+bem3	P32873	THR	1088	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	GLN	501		
+bem3	P32873	ARG	1007	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	GLN	501		
+bem3	P32873	PRO	1087	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ALA	468		
+bem3	P32873	ASN	1090	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ALA	468		
+bem3	P32873	ARG	932	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	PRO	183		
+bem3	P32873	ARG	932	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ASN	186		
+bem3	P32873	ASP	970	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	PRO	183		
+bem3	P32873	ASN	996	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ASN	518		
+bem3	P32873	ARG	950	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	LYS	502		
+bem3	P32873	GLY	947	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	PHE	512		
+bem3	P32873	LEU	951	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	PHE	512		
+bem3	P32873	ARG	950	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	SER	505		
+bem3	P32873	ILE	1083	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ILE	504		
+bem3	P32873	ILE	1083	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	LEU	508		
+bem3	P32873	LEU	951	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	PHE	514		
+bem3	P32873	VAL	1084	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	SER	505		
+bem3	P32873	LEU	951	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ASN	518		
+bem3	P32873	SER	952	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	ASN	518		
+bem3	P32873	SER	952	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	LYS	502		
+bem3	P32873	VAL	1084	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	GLN	501		
+bem3	P32873	PRO	1087	Rho GTPase-activating protein domain	IPR000198	ste5	P32917	GLN	501		
+bem3	P32873	MET	79			ste5	P32917	VAL	219		
+bem3	P32873	VAL	76			ste5	P32917	VAL	219		

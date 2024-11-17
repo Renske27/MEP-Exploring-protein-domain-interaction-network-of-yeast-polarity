@@ -1,0 +1,25 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	CG1	8500	ILE	1093	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10769	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	OG	8449	SER	1086	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	N	10766	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	OG	8449	SER	1086	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10762	THR	247	RNA recognition motif domain	IPR000504
+bem3	P32873	CA	8451	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	CB	10763	THR	247	RNA recognition motif domain	IPR000504
+bem3	P32873	CB	8448	SER	1086	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	CB	10770	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	CB	8448	SER	1086	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	CA	10767	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	CD	8456	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10731	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	CA	8451	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10731	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	OG	8449	SER	1086	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	CB	10770	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	OG	8449	SER	1086	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	CA	10767	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	OG	8449	SER	1086	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10769	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	OG	8449	SER	1086	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	C	10768	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	CB	8454	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	CA	10729	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	CG	8455	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	CA	10729	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	CG	8455	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	CB	10732	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	CG	8455	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	C	10730	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	CB	8454	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	CB	10732	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	CB	8454	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	C	10730	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	CG	8455	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10731	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	CB	8454	PRO	1087	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10731	SER	244	RNA recognition motif domain	IPR000504
+bem3	P32873	N	8495	ILE	1093	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10769	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	C	8490	PRO	1092	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10769	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	CA	8489	PRO	1092	Rho GTPase-activating protein domain	IPR000198	nrp1	P32770	O	10769	GLN	248	RNA recognition motif domain	IPR000504
+bem3	P32873	CG2	4309	VAL	561	Phox homology	IPR001683	nrp1	P32770	C	13470	VAL	599	Zinc finger, RanBP2-type	IPR001876

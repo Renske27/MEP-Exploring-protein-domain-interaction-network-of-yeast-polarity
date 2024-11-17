@@ -1,0 +1,7 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp3	P47117	VAL	274	Actin family	IPR004000	nrp1	P32770	CYS	378	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	VAL	274	Actin family	IPR004000	nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	VAL	274	Actin family	IPR004000	nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	VAL	274	Actin family	IPR004000	nrp1	P32770	CYS	375	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ARG	247	Actin family	IPR004000	nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504
+arp3	P47117	GLU	248	Actin family	IPR004000	nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504

@@ -1,0 +1,25 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+ste5	P32917	GLN	590			axl2	P38928	ASN	260	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	PRO	527			axl2	P38928	ALA	351	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	PRO	527			axl2	P38928	SER	373	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	PRO	524			axl2	P38928	LEU	371	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	VAL	586			axl2	P38928	THR	376	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	ILE	528			axl2	P38928	ALA	351	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	GLY	729	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	ASN	163	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	TYR	145		
+ste5	P32917	GLU	605	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	TYR	145		
+ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	TYR	145		
+ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	ASN	144		
+ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	ASN	144		
+ste5	P32917	ARG	732	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	ASN	144		
+ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	ASN	163	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	LYS	603	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	ASP	135		
+ste5	P32917	GLU	496			axl2	P38928	THR	361	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	ALA	468			axl2	P38928	LYS	442	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	THR	498			axl2	P38928	ASN	359	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	GLU	496			axl2	P38928	GLU	364	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	SER	494			axl2	P38928	GLU	364	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	ASP	495			axl2	P38928	GLU	364	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	THR	498			axl2	P38928	MET	439	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	ASP	495			axl2	P38928	SER	441	Dystroglycan-type cadherin-like	IPR006644
+ste5	P32917	LYS	606	Protein Ste5, Fus3-binding domain	IPR021106	axl2	P38928	ASP	167	Dystroglycan-type cadherin-like	IPR006644

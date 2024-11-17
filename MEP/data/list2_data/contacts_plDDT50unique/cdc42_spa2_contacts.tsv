@@ -1,0 +1,31 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc42	P19073	ASP	38	Small GTP-binding domain	IPR005225	spa2	P23201	SER	479		
+cdc42	P19073	ASN	39	Small GTP-binding domain	IPR005225	spa2	P23201	SER	479		
+cdc42	P19073	THR	25	Small GTP-binding domain	IPR005225	spa2	P23201	LYS	475		
+cdc42	P19073	THR	24	Small GTP-binding domain	IPR005225	spa2	P23201	LYS	475		
+cdc42	P19073	TYR	40	Small GTP-binding domain	IPR005225	spa2	P23201	SER	479		
+cdc42	P19073	THR	43	Small GTP-binding domain	IPR005225	spa2	P23201	ASN	453		
+cdc42	P19073	ALA	41	Small GTP-binding domain	IPR005225	spa2	P23201	ILE	482		
+cdc42	P19073	THR	3	Small GTP-binding domain	IPR005225	spa2	P23201	PHE	445		
+cdc42	P19073	LYS	5	Small GTP-binding domain	IPR005225	spa2	P23201	ARG	486		
+cdc42	P19073	PHE	56	Small GTP-binding domain	IPR005225	spa2	P23201	ARG	486		
+cdc42	P19073	PHE	56	Small GTP-binding domain	IPR005225	spa2	P23201	THR	483		
+cdc42	P19073	SER	71	Small GTP-binding domain	IPR005225	spa2	P23201	TYR	487		
+cdc42	P19073	LEU	70	Small GTP-binding domain	IPR005225	spa2	P23201	TYR	487		
+cdc42	P19073	PRO	73	Small GTP-binding domain	IPR005225	spa2	P23201	TYR	491		
+cdc42	P19073	ALA	41	Small GTP-binding domain	IPR005225	spa2	P23201	SER	452		
+cdc42	P19073	ASN	39	Small GTP-binding domain	IPR005225	spa2	P23201	THR	483		
+cdc42	P19073	PRO	88	Small GTP-binding domain	IPR005225	spa2	P23201	ASN	1426	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	LYS	96	Small GTP-binding domain	IPR005225	spa2	P23201	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	LYS	96	Small GTP-binding domain	IPR005225	spa2	P23201	ASP	1437	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	GLU	95	Small GTP-binding domain	IPR005225	spa2	P23201	ARG	1400	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	GLU	95	Small GTP-binding domain	IPR005225	spa2	P23201	ARG	1430	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	LEU	134	Small GTP-binding domain	IPR005225	spa2	P23201	ASN	1426	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	ASP	65	Small GTP-binding domain	IPR005225	spa2	P23201	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	ARG	66	Small GTP-binding domain	IPR005225	spa2	P23201	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	HIS	103	Small GTP-binding domain	IPR005225	spa2	P23201	GLN	1392	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	GLU	95	Small GTP-binding domain	IPR005225	spa2	P23201	ILE	1403	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	GLU	91	Small GTP-binding domain	IPR005225	spa2	P23201	ARG	1430	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	PRO	69	Small GTP-binding domain	IPR005225	spa2	P23201	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	HIS	104	Small GTP-binding domain	IPR005225	spa2	P23201	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+cdc42	P19073	PRO	99	Small GTP-binding domain	IPR005225	spa2	P23201	ARG	1399	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

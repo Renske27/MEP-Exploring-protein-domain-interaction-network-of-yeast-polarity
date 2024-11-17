@@ -1,0 +1,13 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Arp2	P32381	C	1172	GLN	148	Actin family	IPR004000	Axl2	P38928	ND2	4340	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	CA	1171	GLN	148	Actin family	IPR004000	Axl2	P38928	ND2	4340	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	CB	1173	GLN	148	Actin family	IPR004000	Axl2	P38928	ND2	4340	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	CG	1175	GLN	148	Actin family	IPR004000	Axl2	P38928	ND2	4340	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	OE1	1178	GLN	148	Actin family	IPR004000	Axl2	P38928	CG	4339	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	NE2	1177	GLN	148	Actin family	IPR004000	Axl2	P38928	ND2	4340	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	CD	1176	GLN	148	Actin family	IPR004000	Axl2	P38928	ND2	4340	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	OE1	1178	GLN	148	Actin family	IPR004000	Axl2	P38928	ND2	4340	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	OE1	1178	GLN	148	Actin family	IPR004000	Axl2	P38928	OD1	4341	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	OE1	1178	GLN	148	Actin family	IPR004000	Axl2	P38928	CG2	4738	THR	207	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	NH2	2760	ARG	348	Actin family	IPR004000	Axl2	P38928	CB	4611	PRO	192	Dystroglycan-type cadherin-like	IPR006644
+Arp2	P32381	NH2	2760	ARG	348	Actin family	IPR004000	Axl2	P38928	CA	4609	PRO	192	Dystroglycan-type cadherin-like	IPR006644

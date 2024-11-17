@@ -1,0 +1,40 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp3	P47117	SER	105	Actin family	IPR004000	nrp1	P32770	PRO	14		
+arp3	P47117	PRO	108	Actin family	IPR004000	nrp1	P32770	LEU	13		
+arp3	P47117	THR	254	Actin family	IPR004000	nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504
+arp3	P47117	ARG	247	Actin family	IPR004000	nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504
+arp3	P47117	GLN	106	Actin family	IPR004000	nrp1	P32770	THR	16		
+arp3	P47117	VAL	274	Actin family	IPR004000	nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	VAL	274	Actin family	IPR004000	nrp1	P32770	CYS	378	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ILE	273	Actin family	IPR004000	nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ASN	318	Actin family	IPR004000	nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ASN	318	Actin family	IPR004000	nrp1	P32770	ARG	372	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	GLU	314	Actin family	IPR004000	nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	PHE	277	Actin family	IPR004000	nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ILE	321	Actin family	IPR004000	nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	VAL	274	Actin family	IPR004000	nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	VAL	274	Actin family	IPR004000	nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	VAL	274	Actin family	IPR004000	nrp1	P32770	CYS	375	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	GLU	320	Actin family	IPR004000	nrp1	P32770	PHE	369	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	LEU	327	Actin family	IPR004000	nrp1	P32770	PHE	369	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	GLU	320	Actin family	IPR004000	nrp1	P32770	ARG	372	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ASP	304	Actin family	IPR004000	nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ASP	304	Actin family	IPR004000	nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	PHE	287	Actin family	IPR004000	nrp1	P32770	ARG	581	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ASP	281	Actin family	IPR004000	nrp1	P32770	ALA	582	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ASP	281	Actin family	IPR004000	nrp1	P32770	ARG	581	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	TYR	307	Actin family	IPR004000	nrp1	P32770	PRO	579		
+arp3	P47117	TYR	307	Actin family	IPR004000	nrp1	P32770	PHE	580		
+arp3	P47117	TYR	307	Actin family	IPR004000	nrp1	P32770	ARG	581	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ASP	281	Actin family	IPR004000	nrp1	P32770	PHE	580		
+arp3	P47117	GLU	251	Actin family	IPR004000	nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	GLY	250	Actin family	IPR004000	nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ARG	249	Actin family	IPR004000	nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876
+arp3	P47117	ARG	247	Actin family	IPR004000	nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504
+arp3	P47117	GLU	248	Actin family	IPR004000	nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504
+arp3	P47117	ARG	247	Actin family	IPR004000	nrp1	P32770	SER	312	RNA recognition motif domain	IPR000504
+arp3	P47117	ARG	247	Actin family	IPR004000	nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504
+arp3	P47117	ARG	247	Actin family	IPR004000	nrp1	P32770	GLU	241	RNA recognition motif domain	IPR000504
+arp3	P47117	LEU	240	Actin family	IPR004000	nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504
+arp3	P47117	LEU	240	Actin family	IPR004000	nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504
+arp3	P47117	GLN	243	Actin family	IPR004000	nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504

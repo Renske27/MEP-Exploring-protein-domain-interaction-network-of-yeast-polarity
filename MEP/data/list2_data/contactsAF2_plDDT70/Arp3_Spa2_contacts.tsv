@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Arp3	P47117	NZ	3126	LYS	404	Actin family	IPR004000	Spa2	P23201	OE2	14759	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Arp3	P47117	NZ	3126	LYS	404	Actin family	IPR004000	Spa2	P23201	CD	14757	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Arp3	P47117	CE	3125	LYS	404	Actin family	IPR004000	Spa2	P23201	OE2	14759	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Arp3	P47117	CG1	2233	VAL	291	Actin family	IPR004000	Spa2	P23201	O	14593	ALA	1423	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Arp3	P47117	CG2	2330	VAL	302	Actin family	IPR004000	Spa2	P23201	O	14593	ALA	1423	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

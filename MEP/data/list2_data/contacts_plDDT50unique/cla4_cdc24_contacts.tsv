@@ -1,0 +1,21 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cla4	P48562	GLU	653	Protein kinase domain	IPR000719	cdc24	P11433	LYS	197	Calponin homology domain	IPR001715
+cla4	P48562	GLU	765	Protein kinase domain	IPR000719	cdc24	P11433	LYS	196	Calponin homology domain	IPR001715
+cla4	P48562	ASN	770	Protein kinase domain	IPR000719	cdc24	P11433	LYS	196	Calponin homology domain	IPR001715
+cla4	P48562	GLU	763	Protein kinase domain	IPR000719	cdc24	P11433	LYS	193	Calponin homology domain	IPR001715
+cla4	P48562	TYR	240	CRIB domain	IPR000095	cdc24	P11433	LYS	207	Calponin homology domain	IPR001715
+cla4	P48562	TYR	240	CRIB domain	IPR000095	cdc24	P11433	ASP	214	Calponin homology domain	IPR001715
+cla4	P48562	ASN	770	Protein kinase domain	IPR000719	cdc24	P11433	THR	219	Calponin homology domain	IPR001715
+cla4	P48562	ASN	770	Protein kinase domain	IPR000719	cdc24	P11433	SER	221	Calponin homology domain	IPR001715
+cla4	P48562	ASP	772	Protein kinase domain	IPR000719	cdc24	P11433	THR	219	Calponin homology domain	IPR001715
+cla4	P48562	HIS	218	CRIB domain	IPR000095	cdc24	P11433	GLU	215	Calponin homology domain	IPR001715
+cla4	P48562	ASN	770	Protein kinase domain	IPR000719	cdc24	P11433	ILE	220	Calponin homology domain	IPR001715
+cla4	P48562	LYS	217	CRIB domain	IPR000095	cdc24	P11433	ASP	309	Dbl homology (DH) domain	IPR000219
+cla4	P48562	LYS	214	CRIB domain	IPR000095	cdc24	P11433	GLU	215	Calponin homology domain	IPR001715
+cla4	P48562	GLU	224	CRIB domain	IPR000095	cdc24	P11433	SER	315	Dbl homology (DH) domain	IPR000219
+cla4	P48562	GLY	223	CRIB domain	IPR000095	cdc24	P11433	SER	315	Dbl homology (DH) domain	IPR000219
+cla4	P48562	LYS	122	Pleckstrin homology domain	IPR001849	cdc24	P11433	ASP	822	PB1 domain	IPR000270
+cla4	P48562	TRP	80	Pleckstrin homology domain	IPR001849	cdc24	P11433	ASP	822	PB1 domain	IPR000270
+cla4	P48562	LYS	82	Pleckstrin homology domain	IPR001849	cdc24	P11433	GLU	843	PB1 domain	IPR000270
+cla4	P48562	LYS	162	Pleckstrin homology domain	IPR001849	cdc24	P11433	ASN	844	PB1 domain	IPR000270
+cla4	P48562	LYS	122	Pleckstrin homology domain	IPR001849	cdc24	P11433	GLU	821	PB1 domain	IPR000270

@@ -1,0 +1,18 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rdi1	Q12434	TYR	31	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	ALA	167	Actin family	IPR004000
+Rdi1	Q12434	TYR	31	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	THR	148	Actin family	IPR004000
+Rdi1	Q12434	GLU	46	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	GLN	354	Actin family	IPR004000
+Rdi1	Q12434	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	ARG	147	Actin family	IPR004000
+Rdi1	Q12434	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	GLY	146	Actin family	IPR004000
+Rdi1	Q12434	GLY	145	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	SER	145	Actin family	IPR004000
+Rdi1	Q12434	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	SER	145	Actin family	IPR004000
+Rdi1	Q12434	THR	122	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	GLY	146	Actin family	IPR004000
+Rdi1	Q12434	THR	122	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	ARG	147	Actin family	IPR004000
+Rdi1	Q12434	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	ASN	296	Actin family	IPR004000
+Rdi1	Q12434	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	LYS	328	Actin family	IPR004000
+Rdi1	Q12434	HIS	143	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	ARG	147	Actin family	IPR004000
+Rdi1	Q12434	GLY	123	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	ARG	147	Actin family	IPR004000
+Rdi1	Q12434	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	ARG	147	Actin family	IPR004000
+Rdi1	Q12434	HIS	143	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	SER	145	Actin family	IPR004000
+Rdi1	Q12434	THR	153	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	THR	350	Actin family	IPR004000
+Rdi1	Q12434	GLU	46	Rho protein GDP-dissociation inhibitor	IPR000406	Act1	P60010	THR	351	Actin family	IPR004000

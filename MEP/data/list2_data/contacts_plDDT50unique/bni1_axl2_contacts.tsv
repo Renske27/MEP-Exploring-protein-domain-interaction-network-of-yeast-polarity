@@ -1,0 +1,16 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bni1	P41832	ASN	1476	Formin, FH2 domain	IPR015425	axl2	P38928	TYR	145		
+bni1	P41832	ASN	1476	Formin, FH2 domain	IPR015425	axl2	P38928	GLU	160	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	ARG	1479	Formin, FH2 domain	IPR015425	axl2	P38928	ASN	144		
+bni1	P41832	ASP	353	Formin, GTPase-binding domain	IPR010473	axl2	P38928	SER	213	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	LYS	356	Formin, GTPase-binding domain	IPR010473	axl2	P38928	ALA	214	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	LYS	356	Formin, GTPase-binding domain	IPR010473	axl2	P38928	ASN	212	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	ASP	357	Formin, GTPase-binding domain	IPR010473	axl2	P38928	ASN	212	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	ILE	171			axl2	P38928	PHE	196	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	LEU	173	Formin, GTPase-binding domain	IPR010473	axl2	P38928	PHE	196	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	GLN	224	Formin, GTPase-binding domain	IPR010473	axl2	P38928	THR	207	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	LYS	220	Formin, GTPase-binding domain	IPR010473	axl2	P38928	THR	207	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	ARG	231	Formin, GTPase-binding domain	IPR010473	axl2	P38928	ASN	193	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	LEU	227	Formin, GTPase-binding domain	IPR010473	axl2	P38928	ASN	193	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	GLN	221	Formin, GTPase-binding domain	IPR010473	axl2	P38928	ASN	159	Dystroglycan-type cadherin-like	IPR006644
+bni1	P41832	TYR	172			axl2	P38928	PHE	197	Dystroglycan-type cadherin-like	IPR006644

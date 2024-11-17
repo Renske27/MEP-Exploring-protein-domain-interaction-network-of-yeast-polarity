@@ -1,0 +1,120 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	CB	5375	PRO	693	Pleckstrin homology domain	IPR001849	cdc24	P11433	SD	11308	MET	320	Dbl homology (DH) domain	IPR000219
+bem3	P32873	N	5378	GLU	694	Pleckstrin homology domain	IPR001849	cdc24	P11433	SD	11308	MET	320	Dbl homology (DH) domain	IPR000219
+bem3	P32873	O	7970	ASP	1027	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CB	9032	ASN	34		
+bem3	P32873	ND1	7998	HIS	1030	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CG	9033	ASN	34		
+bem3	P32873	CG	7997	HIS	1030	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CG	9033	ASN	34		
+bem3	P32873	CB	7996	HIS	1030	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CG	9033	ASN	34		
+bem3	P32873	O	5516	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	C	14969	SER	778	PB1 domain	IPR000270
+bem3	P32873	C	5515	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	C	14969	SER	778	PB1 domain	IPR000270
+bem3	P32873	CA	5514	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	C	14969	SER	778	PB1 domain	IPR000270
+bem3	P32873	O	5516	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	O	14970	SER	778	PB1 domain	IPR000270
+bem3	P32873	C	5515	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	O	14970	SER	778	PB1 domain	IPR000270
+bem3	P32873	O	5507	LYS	709	Pleckstrin homology domain	IPR001849	cdc24	P11433	O	14970	SER	778	PB1 domain	IPR000270
+bem3	P32873	CA	5514	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	O	14970	SER	778	PB1 domain	IPR000270
+bem3	P32873	N	5513	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	O	14970	SER	778	PB1 domain	IPR000270
+bem3	P32873	CB	5517	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	O	14970	SER	778	PB1 domain	IPR000270
+bem3	P32873	O	5516	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	CA	14968	SER	778	PB1 domain	IPR000270
+bem3	P32873	O	5516	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	N	14967	SER	778	PB1 domain	IPR000270
+bem3	P32873	C	5515	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	CA	14968	SER	778	PB1 domain	IPR000270
+bem3	P32873	C	5515	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	N	14967	SER	778	PB1 domain	IPR000270
+bem3	P32873	O	5516	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	CB	14971	SER	778	PB1 domain	IPR000270
+bem3	P32873	CB	5498	HIS	708	Pleckstrin homology domain	IPR001849	cdc24	P11433	CD1	14989	ILE	780	PB1 domain	IPR000270
+bem3	P32873	O	5516	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	N	14973	GLU	779	PB1 domain	IPR000270
+bem3	P32873	O	5516	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	C	14963	SER	777	PB1 domain	IPR000270
+bem3	P32873	C	5515	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	C	14963	SER	777	PB1 domain	IPR000270
+bem3	P32873	O	5516	LYS	710	Pleckstrin homology domain	IPR001849	cdc24	P11433	CA	14974	GLU	779	PB1 domain	IPR000270
+bem3	P32873	CD	5384	GLU	694	Pleckstrin homology domain	IPR001849	cdc24	P11433	CB	11268	GLU	316	Dbl homology (DH) domain	IPR000219
+bem3	P32873	CD	5384	GLU	694	Pleckstrin homology domain	IPR001849	cdc24	P11433	CG	11269	GLU	316	Dbl homology (DH) domain	IPR000219
+bem3	P32873	OE2	5386	GLU	694	Pleckstrin homology domain	IPR001849	cdc24	P11433	CB	11268	GLU	316	Dbl homology (DH) domain	IPR000219
+bem3	P32873	OE2	5386	GLU	694	Pleckstrin homology domain	IPR001849	cdc24	P11433	CG	11269	GLU	316	Dbl homology (DH) domain	IPR000219
+bem3	P32873	OE2	5386	GLU	694	Pleckstrin homology domain	IPR001849	cdc24	P11433	O	11267	GLU	316	Dbl homology (DH) domain	IPR000219
+bem3	P32873	OE2	5386	GLU	694	Pleckstrin homology domain	IPR001849	cdc24	P11433	CA	11265	GLU	316	Dbl homology (DH) domain	IPR000219
+bem3	P32873	CB	4647	SER	602	Phox homology	IPR001683	cdc24	P11433	OG	10494	SER	221	Calponin homology domain	IPR001715
+bem3	P32873	OG	4648	SER	602	Phox homology	IPR001683	cdc24	P11433	OG	10494	SER	221	Calponin homology domain	IPR001715
+bem3	P32873	CG	4374	ASP	569	Phox homology	IPR001683	cdc24	P11433	CE	10382	LYS	208	Calponin homology domain	IPR001715
+bem3	P32873	OD2	4376	ASP	569	Phox homology	IPR001683	cdc24	P11433	CE	10382	LYS	208	Calponin homology domain	IPR001715
+bem3	P32873	OD2	4376	ASP	569	Phox homology	IPR001683	cdc24	P11433	NZ	10383	LYS	208	Calponin homology domain	IPR001715
+bem3	P32873	O	4365	PRO	568	Phox homology	IPR001683	cdc24	P11433	NZ	10374	LYS	207	Calponin homology domain	IPR001715
+bem3	P32873	CG	4382	LEU	570	Phox homology	IPR001683	cdc24	P11433	CE2	10318	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	CD1	4383	LEU	570	Phox homology	IPR001683	cdc24	P11433	CE2	10318	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	CD1	4383	LEU	570	Phox homology	IPR001683	cdc24	P11433	CZ	10319	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	O	4372	ASP	569	Phox homology	IPR001683	cdc24	P11433	CD2	10355	LEU	204	Calponin homology domain	IPR001715
+bem3	P32873	O	4372	ASP	569	Phox homology	IPR001683	cdc24	P11433	NZ	10374	LYS	207	Calponin homology domain	IPR001715
+bem3	P32873	C	4371	ASP	569	Phox homology	IPR001683	cdc24	P11433	CD2	10355	LEU	204	Calponin homology domain	IPR001715
+bem3	P32873	CB	4373	ASP	569	Phox homology	IPR001683	cdc24	P11433	CD2	10355	LEU	204	Calponin homology domain	IPR001715
+bem3	P32873	CD2	4384	LEU	570	Phox homology	IPR001683	cdc24	P11433	CE2	10318	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	CG1	4679	VAL	606	Phox homology	IPR001683	cdc24	P11433	CE2	10318	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	O	4691	GLU	608	Phox homology	IPR001683	cdc24	P11433	OH	10320	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	CD1	4383	LEU	570	Phox homology	IPR001683	cdc24	P11433	OH	10320	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	O	4691	GLU	608	Phox homology	IPR001683	cdc24	P11433	CZ	10319	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	CD	4687	PRO	607	Phox homology	IPR001683	cdc24	P11433	CD1	10488	ILE	220	Calponin homology domain	IPR001715
+bem3	P32873	CG	4686	PRO	607	Phox homology	IPR001683	cdc24	P11433	O	10280	LYS	196	Calponin homology domain	IPR001715
+bem3	P32873	CG	4686	PRO	607	Phox homology	IPR001683	cdc24	P11433	C	10279	LYS	196	Calponin homology domain	IPR001715
+bem3	P32873	CG	4686	PRO	607	Phox homology	IPR001683	cdc24	P11433	CB	10313	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	CG	4686	PRO	607	Phox homology	IPR001683	cdc24	P11433	N	10286	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	CB	4672	SER	605	Phox homology	IPR001683	cdc24	P11433	NZ	10285	LYS	196	Calponin homology domain	IPR001715
+bem3	P32873	O	4671	SER	605	Phox homology	IPR001683	cdc24	P11433	CD	10283	LYS	196	Calponin homology domain	IPR001715
+bem3	P32873	OE2	4696	GLU	608	Phox homology	IPR001683	cdc24	P11433	CE	10293	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	OE2	4696	GLU	608	Phox homology	IPR001683	cdc24	P11433	NZ	10294	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	CD	4694	GLU	608	Phox homology	IPR001683	cdc24	P11433	NZ	10294	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	OE2	4696	GLU	608	Phox homology	IPR001683	cdc24	P11433	CD	10292	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	CB	4685	PRO	607	Phox homology	IPR001683	cdc24	P11433	O	10258	LYS	193	Calponin homology domain	IPR001715
+bem3	P32873	CB	4685	PRO	607	Phox homology	IPR001683	cdc24	P11433	CA	10287	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	CB	4685	PRO	607	Phox homology	IPR001683	cdc24	P11433	CB	10290	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	CG	4686	PRO	607	Phox homology	IPR001683	cdc24	P11433	CA	10287	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	CG	4686	PRO	607	Phox homology	IPR001683	cdc24	P11433	CB	10290	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	CB	4685	PRO	607	Phox homology	IPR001683	cdc24	P11433	N	10286	LYS	197	Calponin homology domain	IPR001715
+bem3	P32873	CG	4390	PRO	571	Phox homology	IPR001683	cdc24	P11433	CG2	10346	ILE	203	Calponin homology domain	IPR001715
+bem3	P32873	CD	4391	PRO	571	Phox homology	IPR001683	cdc24	P11433	CG2	10346	ILE	203	Calponin homology domain	IPR001715
+bem3	P32873	CD1	4383	LEU	570	Phox homology	IPR001683	cdc24	P11433	CD2	10316	TYR	200	Calponin homology domain	IPR001715
+bem3	P32873	O	4365	PRO	568	Phox homology	IPR001683	cdc24	P11433	CE	10373	LYS	207	Calponin homology domain	IPR001715
+bem3	P32873	C	4371	ASP	569	Phox homology	IPR001683	cdc24	P11433	CD	10372	LYS	207	Calponin homology domain	IPR001715
+bem3	P32873	CA	4370	ASP	569	Phox homology	IPR001683	cdc24	P11433	CD	10372	LYS	207	Calponin homology domain	IPR001715
+bem3	P32873	O	4372	ASP	569	Phox homology	IPR001683	cdc24	P11433	CE	10373	LYS	207	Calponin homology domain	IPR001715
+bem3	P32873	O	4372	ASP	569	Phox homology	IPR001683	cdc24	P11433	CD	10372	LYS	207	Calponin homology domain	IPR001715
+bem3	P32873	CA	4644	SER	602	Phox homology	IPR001683	cdc24	P11433	OG	10494	SER	221	Calponin homology domain	IPR001715
+bem3	P32873	OG	4673	SER	605	Phox homology	IPR001683	cdc24	P11433	OG	10494	SER	221	Calponin homology domain	IPR001715
+bem3	P32873	C	3915	GLY	513	Phox homology	IPR001683	cdc24	P11433	CE	10262	LYS	193	Calponin homology domain	IPR001715
+bem3	P32873	CA	3914	GLY	513	Phox homology	IPR001683	cdc24	P11433	CE	10262	LYS	193	Calponin homology domain	IPR001715
+bem3	P32873	OE1	5385	GLU	694	Pleckstrin homology domain	IPR001849	cdc24	P11433	CG	11269	GLU	316	Dbl homology (DH) domain	IPR000219
+bem3	P32873	CG2	4519	THR	587	Phox homology	IPR001683	cdc24	P11433	CG	11269	GLU	316	Dbl homology (DH) domain	IPR000219
+bem3	P32873	CD2	5370	LEU	692	Pleckstrin homology domain	IPR001849	cdc24	P11433	CD1	11296	TYR	319	Dbl homology (DH) domain	IPR000219
+bem3	P32873	CD2	5370	LEU	692	Pleckstrin homology domain	IPR001849	cdc24	P11433	CE1	11298	TYR	319	Dbl homology (DH) domain	IPR000219
+bem3	P32873	CD1	5369	LEU	692	Pleckstrin homology domain	IPR001849	cdc24	P11433	CE1	11298	TYR	319	Dbl homology (DH) domain	IPR000219
+bem3	P32873	CB	7971	ASP	1027	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	O	9031	ASN	34		
+bem3	P32873	CG	7972	ASP	1027	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	O	9031	ASN	34		
+bem3	P32873	CE	7940	LYS	1023	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	NZ	11068	LYS	292	Dbl homology (DH) domain	IPR000219
+bem3	P32873	NZ	7941	LYS	1023	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CD	11066	LYS	292	Dbl homology (DH) domain	IPR000219
+bem3	P32873	OD1	8478	ASN	1090	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CD1	12136	LEU	419	Dbl homology (DH) domain	IPR000219
+bem3	P32873	OD1	8478	ASN	1090	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CZ	12108	ARG	416	Dbl homology (DH) domain	IPR000219
+bem3	P32873	OD1	8478	ASN	1090	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	NE	12107	ARG	416	Dbl homology (DH) domain	IPR000219
+bem3	P32873	ND2	8479	ASN	1090	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OE1	12169	GLU	423	Dbl homology (DH) domain	IPR000219
+bem3	P32873	CG	7884	GLU	1017	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	NZ	10975	LYS	281	Dbl homology (DH) domain	IPR000219
+bem3	P32873	OE1	7886	GLU	1017	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	NZ	10975	LYS	281	Dbl homology (DH) domain	IPR000219
+bem3	P32873	OE1	7886	GLU	1017	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CE	10974	LYS	281	Dbl homology (DH) domain	IPR000219
+bem3	P32873	CD	7885	GLU	1017	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	NZ	10975	LYS	281	Dbl homology (DH) domain	IPR000219
+bem3	P32873	O	7371	GLY	953	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OE2	13998	GLU	654	Pleckstrin homology domain	IPR001849
+bem3	P32873	CB	7366	SER	952	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OE2	13998	GLU	654	Pleckstrin homology domain	IPR001849
+bem3	P32873	CB	7366	SER	952	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CD	13996	GLU	654	Pleckstrin homology domain	IPR001849
+bem3	P32873	OG	7367	SER	952	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OE2	13998	GLU	654	Pleckstrin homology domain	IPR001849
+bem3	P32873	OG	7367	SER	952	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CD	13996	GLU	654	Pleckstrin homology domain	IPR001849
+bem3	P32873	O	7365	SER	952	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OD1	13979	ASN	652	Pleckstrin homology domain	IPR001849
+bem3	P32873	O	7365	SER	952	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CG	13978	ASN	652	Pleckstrin homology domain	IPR001849
+bem3	P32873	O	7365	SER	952	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	ND2	13980	ASN	652	Pleckstrin homology domain	IPR001849
+bem3	P32873	OG	7367	SER	952	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	ND2	13980	ASN	652	Pleckstrin homology domain	IPR001849
+bem3	P32873	C	7364	SER	952	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	ND2	13980	ASN	652	Pleckstrin homology domain	IPR001849
+bem3	P32873	OG	7657	SER	988	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OD1	13791	ASN	630	Pleckstrin homology domain	IPR001849
+bem3	P32873	CB	7669	SER	990	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OE1	13988	GLU	653	Pleckstrin homology domain	IPR001849
+bem3	P32873	OG	7377	SER	954	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OE2	13989	GLU	653	Pleckstrin homology domain	IPR001849
+bem3	P32873	CB	7388	THR	956	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OE2	13989	GLU	653	Pleckstrin homology domain	IPR001849
+bem3	P32873	OG1	7389	THR	956	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OE2	13989	GLU	653	Pleckstrin homology domain	IPR001849
+bem3	P32873	CB	7376	SER	954	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	OE2	13989	GLU	653	Pleckstrin homology domain	IPR001849
+bem3	P32873	OG	7377	SER	954	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CD	13987	GLU	653	Pleckstrin homology domain	IPR001849
+bem3	P32873	CZ	419	PHE	53			cdc24	P11433	OD2	10238	ASP	190	Calponin homology domain	IPR001715
+bem3	P32873	C	7969	ASP	1027	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CB	9032	ASN	34		
+bem3	P32873	CA	7968	ASP	1027	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CG	9033	ASN	34		
+bem3	P32873	OD1	7973	ASP	1027	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CG	9033	ASN	34		
+bem3	P32873	CA	7968	ASP	1027	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CB	9032	ASN	34		
+bem3	P32873	OD1	7973	ASP	1027	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	CB	9032	ASN	34		
+bem3	P32873	O	7970	ASP	1027	Rho GTPase-activating protein domain	IPR000198	cdc24	P11433	O	9031	ASN	34		

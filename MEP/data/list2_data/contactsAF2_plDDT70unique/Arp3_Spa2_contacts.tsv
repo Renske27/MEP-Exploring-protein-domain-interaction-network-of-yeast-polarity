@@ -1,0 +1,4 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Arp3	P47117	LYS	404	Actin family	IPR004000	Spa2	P23201	GLU	1444	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Arp3	P47117	VAL	291	Actin family	IPR004000	Spa2	P23201	ALA	1423	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Arp3	P47117	VAL	302	Actin family	IPR004000	Spa2	P23201	ALA	1423	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

@@ -1,0 +1,9 @@
+Protein Whi5 gives error: Accession number protein: Q12416 No domain information found, used family instead.
+Protein Ste2 gives error: Accession number protein: D6VTK4 No domain information found, used family instead.
+Protein Ste3 gives error: Accession number protein: P06783 No domain information found, used family instead.
+Protein Rdi1 gives error: Accession number protein: Q12434 No domain information found, used family instead.
+Protein Act1 gives error: Accession number protein: P60010 No domain information found, used family instead.
+Protein Arp2 gives error: Accession number protein: P32381 No domain information found, used family instead.
+Protein Arp3 gives error: Accession number protein: P47117 No domain information found, used family instead.
+Protein Bud8 gives error: ('Accession number protein: P41698', 'No domain and no family information found.', [])
+Protein Bud9 gives error: ('Accession number protein: P53226', 'No domain and no family information found.', [])

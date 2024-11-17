@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc42	P19073	PHE	56	Small GTP-binding domain	IPR005225	Act1	P60010	THR	148	Actin family	IPR004000
+Cdc42	P19073	THR	52	Small GTP-binding domain	IPR005225	Act1	P60010	LYS	291	Actin family	IPR004000

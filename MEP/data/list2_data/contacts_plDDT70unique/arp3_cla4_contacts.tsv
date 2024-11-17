@@ -1,0 +1,19 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp3	P47117	SER	226	Actin family	IPR004000	cla4	P48562	VAL	808	Protein kinase domain	IPR000719
+arp3	P47117	SER	226	Actin family	IPR004000	cla4	P48562	LEU	806	Protein kinase domain	IPR000719
+arp3	P47117	ALA	340	Actin family	IPR004000	cla4	P48562	THR	785	Protein kinase domain	IPR000719
+arp3	P47117	ILE	343	Actin family	IPR004000	cla4	P48562	PRO	791	Protein kinase domain	IPR000719
+arp3	P47117	ASP	344	Actin family	IPR004000	cla4	P48562	PRO	791	Protein kinase domain	IPR000719
+arp3	P47117	GLU	220	Actin family	IPR004000	cla4	P48562	LEU	796	Protein kinase domain	IPR000719
+arp3	P47117	PRO	342	Actin family	IPR004000	cla4	P48562	PRO	786	Protein kinase domain	IPR000719
+arp3	P47117	PRO	157	Actin family	IPR004000	cla4	P48562	ARG	811	Protein kinase domain	IPR000719
+arp3	P47117	SER	29	Actin family	IPR004000	cla4	P48562	ASN	36		
+arp3	P47117	SER	29	Actin family	IPR004000	cla4	P48562	TYR	35		
+arp3	P47117	ASP	26	Actin family	IPR004000	cla4	P48562	THR	38		
+arp3	P47117	SER	27	Actin family	IPR004000	cla4	P48562	THR	38		
+arp3	P47117	GLY	24	Actin family	IPR004000	cla4	P48562	PRO	40		
+arp3	P47117	ASN	25	Actin family	IPR004000	cla4	P48562	THR	38		
+arp3	P47117	TYR	222	Actin family	IPR004000	cla4	P48562	SER	803	Protein kinase domain	IPR000719
+arp3	P47117	GLU	220	Actin family	IPR004000	cla4	P48562	ARG	800	Protein kinase domain	IPR000719
+arp3	P47117	PRO	154	Actin family	IPR004000	cla4	P48562	TYR	812	Protein kinase domain	IPR000719
+arp3	P47117	GLY	225	Actin family	IPR004000	cla4	P48562	CYS	807	Protein kinase domain	IPR000719

@@ -1,0 +1,150 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+spa2	P23201	ASP	309	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	745		
+spa2	P23201	LEU	305	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	745		
+spa2	P23201	SER	316	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	VAL	753		
+spa2	P23201	GLU	327			bni1	P41832	LEU	760		
+spa2	P23201	GLU	320	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	756		
+spa2	P23201	LEU	317	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	756		
+spa2	P23201	GLU	324			bni1	P41832	LEU	756		
+spa2	P23201	GLU	324			bni1	P41832	GLU	759		
+spa2	P23201	GLU	324			bni1	P41832	LEU	760		
+spa2	P23201	GLU	327			bni1	P41832	ASP	764		
+spa2	P23201	GLU	320	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	VAL	753		
+spa2	P23201	ASP	302	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	ARG	738		
+spa2	P23201	ASP	298	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	ARG	738		
+spa2	P23201	ASP	298	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	ILE	734		
+spa2	P23201	LYS	294	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	731		
+spa2	P23201	ASP	291			bni1	P41832	LEU	731		
+spa2	P23201	SER	301	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	ARG	738		
+spa2	P23201	GLU	295	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	ILE	734		
+spa2	P23201	GLU	295	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	731		
+spa2	P23201	GLU	288			bni1	P41832	LEU	727		
+spa2	P23201	ASP	291			bni1	P41832	LEU	727		
+spa2	P23201	ASP	302	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	741		
+spa2	P23201	LYS	334			bni1	P41832	LEU	767		
+spa2	P23201	GLU	328			bni1	P41832	ARG	763		
+spa2	P23201	GLU	331			bni1	P41832	ARG	763		
+spa2	P23201	GLU	331			bni1	P41832	LEU	767		
+spa2	P23201	ASN	337	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	MET	774		
+spa2	P23201	LYS	334			bni1	P41832	MET	774		
+spa2	P23201	LEU	338	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	MET	774		
+spa2	P23201	LEU	1465			bni1	P41832	GLU	782		
+spa2	P23201	ASN	1462			bni1	P41832	GLU	782		
+spa2	P23201	VAL	28			bni1	P41832	SER	1662	Formin, FH2 domain	IPR015425
+spa2	P23201	VAL	28			bni1	P41832	ASN	1658	Formin, FH2 domain	IPR015425
+spa2	P23201	VAL	28			bni1	P41832	GLY	1666	Formin, FH2 domain	IPR015425
+spa2	P23201	GLU	27			bni1	P41832	ARG	1661	Formin, FH2 domain	IPR015425
+spa2	P23201	GLY	30			bni1	P41832	ARG	1530	Formin, FH2 domain	IPR015425
+spa2	P23201	THR	29			bni1	P41832	ARG	1530	Formin, FH2 domain	IPR015425
+spa2	P23201	VAL	28			bni1	P41832	ARG	1530	Formin, FH2 domain	IPR015425
+spa2	P23201	GLU	27			bni1	P41832	ASN	1658	Formin, FH2 domain	IPR015425
+spa2	P23201	GLY	30			bni1	P41832	ASN	1658	Formin, FH2 domain	IPR015425
+spa2	P23201	GLU	327			bni1	P41832	ARG	763		
+spa2	P23201	ASP	79			bni1	P41832	VAL	1475	Formin, FH2 domain	IPR015425
+spa2	P23201	THR	104	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	GLU	1472	Formin, FH2 domain	IPR015425
+spa2	P23201	GLN	103	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	GLU	1472	Formin, FH2 domain	IPR015425
+spa2	P23201	ALA	99	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	VAL	1475	Formin, FH2 domain	IPR015425
+spa2	P23201	GLU	1326	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ASN	864		
+spa2	P23201	LEU	1322			bni1	P41832	LEU	867		
+spa2	P23201	GLU	1326	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ARG	866		
+spa2	P23201	MET	1330	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	870		
+spa2	P23201	GLU	1326	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	870		
+spa2	P23201	THR	1329	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	870		
+spa2	P23201	VAL	1446	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	867		
+spa2	P23201	ILE	1333	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	870		
+spa2	P23201	ILE	1333	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	MET	874		
+spa2	P23201	ILE	1333	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLN	873		
+spa2	P23201	GLU	1326	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	867		
+spa2	P23201	ILE	1458			bni1	P41832	LEU	861		
+spa2	P23201	ILE	1458			bni1	P41832	LYS	786		
+spa2	P23201	ASN	1462			bni1	P41832	LYS	786		
+spa2	P23201	ILE	1458			bni1	P41832	LEU	790		
+spa2	P23201	LEU	1461			bni1	P41832	LEU	861		
+spa2	P23201	LEU	1454			bni1	P41832	HIS	793		
+spa2	P23201	GLU	1450			bni1	P41832	ARG	871		
+spa2	P23201	GLU	1450			bni1	P41832	PRO	863		
+spa2	P23201	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ARG	871		
+spa2	P23201	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	875		
+spa2	P23201	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ARG	800		
+spa2	P23201	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	THR	804		
+spa2	P23201	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LYS	801		
+spa2	P23201	GLU	1450			bni1	P41832	LEU	867		
+spa2	P23201	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	MET	874		
+spa2	P23201	GLN	1362	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	THR	1016		
+spa2	P23201	GLY	1411	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LYS	1020		
+spa2	P23201	ASN	1358	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LYS	1020		
+spa2	P23201	ASN	1459			bni1	P41832	LYS	786		
+spa2	P23201	GLU	1451			bni1	P41832	GLN	794		
+spa2	P23201	ALA	1381	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLN	1587	Formin, FH2 domain	IPR015425
+spa2	P23201	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLN	1587	Formin, FH2 domain	IPR015425
+spa2	P23201	ARG	1379	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLN	1587	Formin, FH2 domain	IPR015425
+spa2	P23201	THR	1442	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	MET	874		
+spa2	P23201	THR	1329	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	MET	874		
+spa2	P23201	ALA	1439	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	MET	874		
+spa2	P23201	LYS	1455			bni1	P41832	LEU	790		
+spa2	P23201	GLU	1451			bni1	P41832	HIS	793		
+spa2	P23201	LYS	1447	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ARG	871		
+spa2	P23201	LYS	1345	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	966		
+spa2	P23201	GLN	1337	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	880		
+spa2	P23201	ILE	1333	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ILE	877		
+spa2	P23201	GLN	1337	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ILE	877		
+spa2	P23201	ILE	1336	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ILE	877		
+spa2	P23201	LEU	1340	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ALA	881		
+spa2	P23201	LEU	1340	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	880		
+spa2	P23201	LEU	1340	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ILE	877		
+spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	878		
+spa2	P23201	LEU	1340	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	884		
+spa2	P23201	LYS	1344	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	884		
+spa2	P23201	LYS	1344	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	880		
+spa2	P23201	LEU	1413	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ILE	1024		
+spa2	P23201	LEU	1413	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LYS	1020		
+spa2	P23201	GLN	1420	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	THR	1028		
+spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ARG	882		
+spa2	P23201	GLY	1433	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	885		
+spa2	P23201	ALA	1432	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	885		
+spa2	P23201	ALA	1432	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ALA	881		
+spa2	P23201	GLN	1429	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	885		
+spa2	P23201	LYS	1428	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	PHE	889		
+spa2	P23201	GLN	1429	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	PHE	889		
+spa2	P23201	GLN	1429	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	THR	887		
+spa2	P23201	LYS	1425	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	PHE	889		
+spa2	P23201	LYS	1425	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ASN	888		
+spa2	P23201	ILE	1343	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	PHE	889		
+spa2	P23201	ASN	1352	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LYS	969		
+spa2	P23201	ASN	1352	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	966		
+spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ALA	881		
+spa2	P23201	PHE	1436	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	SER	808		
+spa2	P23201	ALA	1432	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	884		
+spa2	P23201	LYS	1443	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	878		
+spa2	P23201	PHE	348	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	PHE	857		
+spa2	P23201	PHE	348	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	781		
+spa2	P23201	GLU	351	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	HIS	788		
+spa2	P23201	LEU	352	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	HIS	788		
+spa2	P23201	LEU	352	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LYS	787		
+spa2	P23201	LEU	352	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	GLU	791		
+spa2	P23201	LEU	352	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	784		
+spa2	P23201	GLN	349	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	784		
+spa2	P23201	ASN	356	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	GLU	791		
+spa2	P23201	ASP	345	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	784		
+spa2	P23201	LEU	355	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LYS	792		
+spa2	P23201	GLN	358	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LYS	792		
+spa2	P23201	ILE	359	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	GLU	791		
+spa2	P23201	ILE	359	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	GLN	795		
+spa2	P23201	LEU	355	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	HIS	788		
+spa2	P23201	GLU	365	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	VAL	838		
+spa2	P23201	ASN	366	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	MET	802		
+spa2	P23201	LEU	369			bni1	P41832	LEU	839		
+spa2	P23201	LEU	369			bni1	P41832	ILE	835		
+spa2	P23201	ASN	366	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	LEU	839		
+spa2	P23201	LYS	370			bni1	P41832	MET	802		
+spa2	P23201	ILE	373			bni1	P41832	LEU	806		
+spa2	P23201	LEU	362	GIT, Spa2 homology (SHD) domain	IPR013724	bni1	P41832	GLN	795		
+spa2	P23201	LYS	1455			bni1	P41832	GLN	794		
+spa2	P23201	ILE	373			bni1	P41832	ILE	805		
+spa2	P23201	ILE	1412	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	1023		
+spa2	P23201	LYS	1415	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ILE	1027		
+spa2	P23201	LEU	1413	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ILE	1027		
+spa2	P23201	ALA	1414	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ILE	1027		
+spa2	P23201	GLU	1416	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	LEU	1031		
+spa2	P23201	LEU	1413	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	GLU	1023		
+spa2	P23201	SER	1378	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	bni1	P41832	ASN	1577	Formin, FH2 domain	IPR015425

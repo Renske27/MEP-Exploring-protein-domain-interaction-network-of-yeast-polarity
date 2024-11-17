@@ -1,0 +1,6 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Act1	P60010	TYR	53	Actin family	IPR004000	Nrp1	P32770	THR	247	RNA recognition motif domain	IPR000504
+Act1	P60010	ARG	95	Actin family	IPR004000	Nrp1	P32770	THR	237	RNA recognition motif domain	IPR000504
+Act1	P60010	ARG	95	Actin family	IPR004000	Nrp1	P32770	THR	238	RNA recognition motif domain	IPR000504
+Act1	P60010	ASN	92	Actin family	IPR004000	Nrp1	P32770	THR	238	RNA recognition motif domain	IPR000504
+Act1	P60010	ARG	95	Actin family	IPR004000	Nrp1	P32770	PRO	348		

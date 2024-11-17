@@ -1,0 +1,41 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc24	P11433	ILE	148	Calponin homology domain	IPR001715	rga2	Q06407	ARG	560		
+cdc24	P11433	ASP	793	PB1 domain	IPR000270	rga2	Q06407	ARG	626		
+cdc24	P11433	PRO	812	PB1 domain	IPR000270	rga2	Q06407	GLU	634		
+cdc24	P11433	GLU	285	Dbl homology (DH) domain	IPR000219	rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198
+cdc24	P11433	GLU	285	Dbl homology (DH) domain	IPR000219	rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+cdc24	P11433	LYS	281	Dbl homology (DH) domain	IPR000219	rga2	Q06407	GLN	862	Rho GTPase-activating protein domain	IPR000198
+cdc24	P11433	ASP	792	PB1 domain	IPR000270	rga2	Q06407	LEU	630		
+cdc24	P11433	ASN	790	PB1 domain	IPR000270	rga2	Q06407	ARG	626		
+cdc24	P11433	ASP	792	PB1 domain	IPR000270	rga2	Q06407	ARG	626		
+cdc24	P11433	THR	814	PB1 domain	IPR000270	rga2	Q06407	GLU	634		
+cdc24	P11433	ASN	809	PB1 domain	IPR000270	rga2	Q06407	LYS	641		
+cdc24	P11433	TRP	637	Pleckstrin homology domain	IPR001849	rga2	Q06407	ILE	232		
+cdc24	P11433	ARG	616	Pleckstrin homology domain	IPR001849	rga2	Q06407	THR	236		
+cdc24	P11433	GLU	642	Pleckstrin homology domain	IPR001849	rga2	Q06407	THR	236		
+cdc24	P11433	GLY	615	Pleckstrin homology domain	IPR001849	rga2	Q06407	LEU	233		
+cdc24	P11433	LEU	517	Pleckstrin homology domain	IPR001849	rga2	Q06407	LEU	233		
+cdc24	P11433	PHE	646	Pleckstrin homology domain	IPR001849	rga2	Q06407	LEU	233		
+cdc24	P11433	THR	495	Pleckstrin homology domain	IPR001849	rga2	Q06407	ILE	229		
+cdc24	P11433	ILE	493	Pleckstrin homology domain	IPR001849	rga2	Q06407	ILE	229		
+cdc24	P11433	GLU	501	Pleckstrin homology domain	IPR001849	rga2	Q06407	SER	228		
+cdc24	P11433	GLU	501	Pleckstrin homology domain	IPR001849	rga2	Q06407	ILE	229		
+cdc24	P11433	ARG	614	Pleckstrin homology domain	IPR001849	rga2	Q06407	LEU	233		
+cdc24	P11433	ARG	504	Pleckstrin homology domain	IPR001849	rga2	Q06407	ASP	230		
+cdc24	P11433	PHE	506	Pleckstrin homology domain	IPR001849	rga2	Q06407	LEU	233		
+cdc24	P11433	PHE	646	Pleckstrin homology domain	IPR001849	rga2	Q06407	ILE	232		
+cdc24	P11433	GLY	615	Pleckstrin homology domain	IPR001849	rga2	Q06407	THR	236		
+cdc24	P11433	THR	495	Pleckstrin homology domain	IPR001849	rga2	Q06407	ILE	232		
+cdc24	P11433	ARG	457			rga2	Q06407	ARG	153		
+cdc24	P11433	ARG	457			rga2	Q06407	GLU	152		
+cdc24	P11433	ARG	616	Pleckstrin homology domain	IPR001849	rga2	Q06407	ASP	240		
+cdc24	P11433	TYR	477			rga2	Q06407	ASP	240		
+cdc24	P11433	LEU	613	Pleckstrin homology domain	IPR001849	rga2	Q06407	LEU	237		
+cdc24	P11433	LYS	475			rga2	Q06407	LEU	237		
+cdc24	P11433	TYR	477			rga2	Q06407	THR	236		
+cdc24	P11433	TYR	477			rga2	Q06407	LEU	237		
+cdc24	P11433	LEU	401	Dbl homology (DH) domain	IPR000219	rga2	Q06407	ASP	984	Rho GTPase-activating protein domain	IPR000198
+cdc24	P11433	GLN	404	Dbl homology (DH) domain	IPR000219	rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198
+cdc24	P11433	ASN	399	Dbl homology (DH) domain	IPR000219	rga2	Q06407	GLY	981	Rho GTPase-activating protein domain	IPR000198
+cdc24	P11433	ASN	399	Dbl homology (DH) domain	IPR000219	rga2	Q06407	ASP	980	Rho GTPase-activating protein domain	IPR000198
+cdc24	P11433	ARG	614	Pleckstrin homology domain	IPR001849	rga2	Q06407	LEU	237		

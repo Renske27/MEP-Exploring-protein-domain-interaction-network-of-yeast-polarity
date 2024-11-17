@@ -1,0 +1,17 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+ste5	P32917	GLN	391			ste5	P32917	ARG	723	Protein Ste5, Fus3-binding domain	IPR021106
+ste5	P32917	GLN	391			ste5	P32917	ASP	721	Protein Ste5, Fus3-binding domain	IPR021106
+ste5	P32917	GLU	392			ste5	P32917	ILE	686	Protein Ste5, Fus3-binding domain	IPR021106
+ste5	P32917	GLU	446			ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106
+ste5	P32917	GLU	446			ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+ste5	P32917	ASN	440			ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106
+ste5	P32917	ARG	448			ste5	P32917	THR	726	Protein Ste5, Fus3-binding domain	IPR021106
+ste5	P32917	ASN	553			ste5	P32917	ARG	732	Protein Ste5, Fus3-binding domain	IPR021106
+ste5	P32917	ASN	553			ste5	P32917	ASP	752	Protein Ste5, Fus3-binding domain	IPR021106
+ste5	P32917	ILE	686	Protein Ste5, Fus3-binding domain	IPR021106	ste5	P32917	GLU	392		
+ste5	P32917	ASP	721	Protein Ste5, Fus3-binding domain	IPR021106	ste5	P32917	GLN	391		
+ste5	P32917	ASP	752	Protein Ste5, Fus3-binding domain	IPR021106	ste5	P32917	ASN	553		
+ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106	ste5	P32917	GLU	446		
+ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106	ste5	P32917	GLU	446		
+ste5	P32917	ARG	723	Protein Ste5, Fus3-binding domain	IPR021106	ste5	P32917	GLN	391		
+ste5	P32917	PHE	728	Protein Ste5, Fus3-binding domain	IPR021106	ste5	P32917	ASN	440		

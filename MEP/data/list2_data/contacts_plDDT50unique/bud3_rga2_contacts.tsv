@@ -1,0 +1,30 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	LYS	477			rga2	Q06407	GLN	36	Zinc finger, LIM-type	IPR001781
+bud3	P25558	SER	639			rga2	Q06407	ASN	48	Zinc finger, LIM-type	IPR001781
+bud3	P25558	ASP	612			rga2	Q06407	LYS	46	Zinc finger, LIM-type	IPR001781
+bud3	P25558	TYR	476			rga2	Q06407	ALA	21	Zinc finger, LIM-type	IPR001781
+bud3	P25558	ASP	166	Bud3, N-terminal	IPR021895	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	ASP	166	Bud3, N-terminal	IPR021895	rga2	Q06407	LYS	827	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	ASN	116	Bud3, N-terminal	IPR021895	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	ASN	116	Bud3, N-terminal	IPR021895	rga2	Q06407	VAL	970	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	LEU	68	Bud3, N-terminal	IPR021895	rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	ASP	166	Bud3, N-terminal	IPR021895	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	ASP	158	Bud3, N-terminal	IPR021895	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	139	Bud3, N-terminal	IPR021895	rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	TYR	159	Bud3, N-terminal	IPR021895	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	ASP	160	Bud3, N-terminal	IPR021895	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	161	Bud3, N-terminal	IPR021895	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	GLU	115	Bud3, N-terminal	IPR021895	rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	112	Bud3, N-terminal	IPR021895	rga2	Q06407	ASN	992	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	112	Bud3, N-terminal	IPR021895	rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	GLU	115	Bud3, N-terminal	IPR021895	rga2	Q06407	HIS	965	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	GLU	115	Bud3, N-terminal	IPR021895	rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	162	Bud3, N-terminal	IPR021895	rga2	Q06407	VAL	970	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	162	Bud3, N-terminal	IPR021895	rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	GLN	109	Bud3, N-terminal	IPR021895	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	GLN	109	Bud3, N-terminal	IPR021895	rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	TYR	110	Bud3, N-terminal	IPR021895	rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	SER	106	Bud3, N-terminal	IPR021895	rga2	Q06407	LYS	989	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	SER	108	Bud3, N-terminal	IPR021895	rga2	Q06407	LYS	989	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	112	Bud3, N-terminal	IPR021895	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	LYS	477			rga2	Q06407	ASP	35	Zinc finger, LIM-type	IPR001781

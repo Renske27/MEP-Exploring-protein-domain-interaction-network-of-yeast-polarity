@@ -1,0 +1,11 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc28	P00546	O	1945	PRO	243	Protein kinase domain	IPR000719	Axl2	P38928	NZ	2833	LYS	54	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	OD1	1954	ASP	244	Protein kinase domain	IPR000719	Axl2	P38928	NZ	2833	LYS	54	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	CE	1974	LYS	246	Protein kinase domain	IPR000719	Axl2	P38928	OD2	2805	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	CE	1974	LYS	246	Protein kinase domain	IPR000719	Axl2	P38928	CE	2832	LYS	54	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	O	1945	PRO	243	Protein kinase domain	IPR000719	Axl2	P38928	CD	2831	LYS	54	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	NZ	1975	LYS	246	Protein kinase domain	IPR000719	Axl2	P38928	OD1	2804	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	NZ	1975	LYS	246	Protein kinase domain	IPR000719	Axl2	P38928	OD2	2805	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	CE	1974	LYS	246	Protein kinase domain	IPR000719	Axl2	P38928	OD1	2804	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	NZ	1975	LYS	246	Protein kinase domain	IPR000719	Axl2	P38928	CG	2803	ASP	51	Dystroglycan-type cadherin-like	IPR006644
+Cdc28	P00546	O	1945	PRO	243	Protein kinase domain	IPR000719	Axl2	P38928	OH	2594	TYR	25	Dystroglycan-type cadherin-like	IPR006644

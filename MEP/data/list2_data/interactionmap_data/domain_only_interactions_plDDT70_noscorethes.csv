@@ -1,0 +1,128 @@
+Domain1_Name	Domain1_Accession	Domain2_Name	Domain2_Accession	Count
+Actin family	IPR004000	Actin family	IPR004000	111
+Actin family	IPR004000	Dystroglycan-type cadherin-like	IPR006644	18
+Actin family	IPR004000	other	None	95
+Actin family	IPR004000	SH3 domain	IPR001452	25
+Actin family	IPR004000	Phox homology	IPR001683	12
+Actin family	IPR004000	Pleckstrin homology domain	IPR001849	16
+Actin family	IPR004000	Rho GTPase-activating protein domain	IPR000198	46
+Actin family	IPR004000	Formin, FH2 domain	IPR015425	14
+Actin family	IPR004000	Formin, GTPase-binding domain	IPR010473	9
+Actin family	IPR004000	Small GTP-binding domain	IPR005225	3
+Actin family	IPR004000	PB1 domain	IPR000270	10
+Actin family	IPR004000	Dbl homology (DH) domain	IPR000219	8
+Actin family	IPR004000	Calponin homology domain	IPR001715	6
+Actin family	IPR004000	Protein kinase domain	IPR000719	18
+Actin family	IPR004000	RNA recognition motif domain	IPR000504	7
+Actin family	IPR004000	RGS domain	IPR016137	6
+Actin family	IPR004000	Zinc finger, LIM-type	IPR001781	7
+Actin family	IPR004000	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	20
+Actin family	IPR004000	Zinc finger, RanBP2-type	IPR001876	4
+Dystroglycan-type cadherin-like	IPR006644	other	None	21
+other	None	other	None	37
+Dystroglycan-type cadherin-like	IPR006644	SH3 domain	IPR001452	12
+Dystroglycan-type cadherin-like	IPR006644	Small GTP-binding domain	IPR005225	17
+Dystroglycan-type cadherin-like	IPR006644	RGS domain	IPR016137	7
+other	None	RGS domain	IPR016137	9
+other	None	Rho GTPase-activating protein domain	IPR000198	11
+SH3 domain	IPR001452	SH3 domain	IPR001452	2
+SH3 domain	IPR001452	Phox homology	IPR001683	10
+Phox homology	IPR001683	other	None	3
+SH3 domain	IPR001452	Rho GTPase-activating protein domain	IPR000198	5
+PB1 domain	IPR000270	Rho GTPase-activating protein domain	IPR000198	5
+Phox homology	IPR001683	Dystroglycan-type cadherin-like	IPR006644	1
+other	None	SH3 domain	IPR001452	18
+Pleckstrin homology domain	IPR001849	Small GTP-binding domain	IPR005225	22
+Phox homology	IPR001683	Calponin homology domain	IPR001715	14
+Phox homology	IPR001683	Protein kinase domain	IPR000719	28
+other	None	Protein kinase domain	IPR000719	23
+Rho GTPase-activating protein domain	IPR000198	RNA recognition motif domain	IPR000504	8
+Phox homology	IPR001683	Zinc finger, RanBP2-type	IPR001876	1
+Rho GTPase-activating protein domain	IPR000198	Rho GTPase-activating protein domain	IPR000198	16
+Formin, FH3 domain	IPR010472	SH3 domain	IPR001452	1
+Formin, FH3 domain	IPR010472	Phox homology	IPR001683	3
+Formin, FH2 domain	IPR015425	Rho GTPase-activating protein domain	IPR000198	2
+Formin, FH2 domain	IPR015425	Phox homology	IPR001683	4
+Formin, FH2 domain	IPR015425	Pleckstrin homology domain	IPR001849	4
+Formin, GTPase-binding domain	IPR010473	Formin, FH2 domain	IPR015425	19
+Formin, FH2 domain	IPR015425	Formin, FH2 domain	IPR015425	138
+Formin, GTPase-binding domain	IPR010473	Small GTP-binding domain	IPR005225	74
+Formin, FH3 domain	IPR010472	Small GTP-binding domain	IPR005225	9
+Formin, FH2 domain	IPR015425	Dbl homology (DH) domain	IPR000219	2
+Diaphanous autoregulatory (DAD) domain	IPR014767	Pleckstrin homology domain	IPR001849	1
+Formin, FH2 domain	IPR015425	other	None	6
+Formin, FH2 domain	IPR015425	Protein kinase domain	IPR000719	4
+Formin, FH2 domain	IPR015425	Zinc finger, RanBP2-type	IPR001876	5
+Formin, FH2 domain	IPR015425	RGS domain	IPR016137	1
+Small GTP-binding domain	IPR005225	Small GTP-binding domain	IPR005225	18
+Bud3, N-terminal	IPR021895	other	None	14
+Dbl homology (DH) domain	IPR000219	Rho GTPase-activating protein domain	IPR000198	3
+Dbl homology (DH) domain	IPR000219	Formin, FH3 domain	IPR010472	2
+Dbl homology (DH) domain	IPR000219	Protein kinase domain	IPR000719	3
+Dbl homology (DH) domain	IPR000219	Small GTP-binding domain	IPR005225	173
+other	None	Small GTP-binding domain	IPR005225	104
+Dbl homology (DH) domain	IPR000219	Rho protein GDP-dissociation inhibitor	IPR000406	3
+Bud3, N-terminal	IPR021895	Rho GTPase-activating protein domain	IPR000198	7
+Pleckstrin homology domain	IPR001849	SH3 domain	IPR001452	1
+PB1 domain	IPR000270	PB1 domain	IPR000270	22
+other	None	PB1 domain	IPR000270	7
+Calponin homology domain	IPR001715	Pleckstrin homology domain	IPR001849	9
+Calponin homology domain	IPR001715	other	None	1
+Pleckstrin homology domain	IPR001849	other	None	13
+Calponin homology domain	IPR001715	Protein Ste5, Fus3-binding domain	IPR021106	1
+Protein kinase domain	IPR000719	Dystroglycan-type cadherin-like	IPR006644	3
+Protein kinase domain	IPR000719	SH3 domain	IPR001452	3
+Protein kinase domain	IPR000719	Pleckstrin homology domain	IPR001849	8
+Protein kinase domain	IPR000719	PB1 domain	IPR000270	7
+Protein kinase domain	IPR000719	Protein kinase domain	IPR000719	31
+Protein kinase domain	IPR000719	Rho GTPase-activating protein domain	IPR000198	8
+Small GTP-binding domain	IPR005225	SH3 domain	IPR001452	25
+Small GTP-binding domain	IPR005225	Rho GTPase-activating protein domain	IPR000198	85
+Small GTP-binding domain	IPR005225	Formin, FH2 domain	IPR015425	3
+Small GTP-binding domain	IPR005225	Protein kinase domain	IPR000719	6
+Small GTP-binding domain	IPR005225	CRIB domain	IPR000095	25
+other	None	CRIB domain	IPR000095	5
+other	None	Zinc finger, RanBP2-type	IPR001876	2
+other	None	Zinc finger, LIM-type	IPR001781	1
+Small GTP-binding domain	IPR005225	Zinc finger, LIM-type	IPR001781	1
+Small GTP-binding domain	IPR005225	ARF GTPase-activating protein GIT1, C-terminal	IPR022018	4
+Protein kinase domain	IPR000719	Calponin homology domain	IPR001715	3
+CRIB domain	IPR000095	Protein kinase domain	IPR000719	1
+RNA recognition motif domain	IPR000504	Dystroglycan-type cadherin-like	IPR006644	19
+RNA recognition motif domain	IPR000504	SH3 domain	IPR001452	4
+Zinc finger, RanBP2-type	IPR001876	SH3 domain	IPR001452	6
+RNA recognition motif domain	IPR000504	Phox homology	IPR001683	3
+RNA recognition motif domain	IPR000504	Small GTP-binding domain	IPR005225	13
+RNA recognition motif domain	IPR000504	other	None	6
+RNA recognition motif domain	IPR000504	Protein kinase domain	IPR000719	14
+Zinc finger, RanBP2-type	IPR001876	Protein kinase domain	IPR000719	8
+RNA recognition motif domain	IPR000504	Pleckstrin homology domain	IPR001849	4
+RNA recognition motif domain	IPR000504	RNA recognition motif domain	IPR000504	5
+Rho protein GDP-dissociation inhibitor	IPR000406	Actin family	IPR004000	22
+Rho protein GDP-dissociation inhibitor	IPR000406	Dystroglycan-type cadherin-like	IPR006644	6
+Rho protein GDP-dissociation inhibitor	IPR000406	SH3 domain	IPR001452	1
+Rho protein GDP-dissociation inhibitor	IPR000406	other	None	8
+Rho protein GDP-dissociation inhibitor	IPR000406	Formin, FH3 domain	IPR010472	4
+Rho protein GDP-dissociation inhibitor	IPR000406	Formin, FH2 domain	IPR015425	2
+Rho protein GDP-dissociation inhibitor	IPR000406	Calponin homology domain	IPR001715	3
+Rho protein GDP-dissociation inhibitor	IPR000406	Protein kinase domain	IPR000719	5
+Rho protein GDP-dissociation inhibitor	IPR000406	Small GTP-binding domain	IPR005225	105
+Rho protein GDP-dissociation inhibitor	IPR000406	Pleckstrin homology domain	IPR001849	13
+Rho protein GDP-dissociation inhibitor	IPR000406	RNA recognition motif domain	IPR000504	10
+Rho protein GDP-dissociation inhibitor	IPR000406	RGS domain	IPR016137	1
+Rho protein GDP-dissociation inhibitor	IPR000406	Rho GTPase-activating protein domain	IPR000198	5
+Zinc finger, LIM-type	IPR001781	Rho GTPase-activating protein domain	IPR000198	2
+Small GTP-binding domain	IPR005225	Phox homology	IPR001683	1
+Small GTP-binding domain	IPR005225	RGS domain	IPR016137	2
+ARF GTPase-activating protein GIT1, C-terminal	IPR022018	Dystroglycan-type cadherin-like	IPR006644	1
+GIT, Spa2 homology (SHD) domain	IPR013724	Rho GTPase-activating protein domain	IPR000198	3
+ARF GTPase-activating protein GIT1, C-terminal	IPR022018	Phox homology	IPR001683	5
+GIT, Spa2 homology (SHD) domain	IPR013724	Formin, FH2 domain	IPR015425	1
+ARF GTPase-activating protein GIT1, C-terminal	IPR022018	other	None	24
+ARF GTPase-activating protein GIT1, C-terminal	IPR022018	Formin, FH2 domain	IPR015425	2
+GIT, Spa2 homology (SHD) domain	IPR013724	Protein kinase domain	IPR000719	2
+ARF GTPase-activating protein GIT1, C-terminal	IPR022018	Protein kinase domain	IPR000719	1
+ARF GTPase-activating protein GIT1, C-terminal	IPR022018	RNA recognition motif domain	IPR000504	3
+Protein Ste5, Fus3-binding domain	IPR021106	RGS domain	IPR016137	1
+Protein Ste5, Fus3-binding domain	IPR021106	other	None	3
+Protein Ste5, Fus3-binding domain	IPR021106	Ste5_Fus-binding	IPR021651	0

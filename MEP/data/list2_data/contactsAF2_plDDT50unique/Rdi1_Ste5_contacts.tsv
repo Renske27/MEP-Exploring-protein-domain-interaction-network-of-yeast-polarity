@@ -1,0 +1,18 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	LEU	764	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	LEU	764	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	GLY	174	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	ARG	173	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	LYS	132	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	ASN	564		
+Rdi1	Q12434	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	ASN	175	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	CYS	768	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	PHE	775	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	PHE	775	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	ALA	636	Protein Ste5, Fus3-binding domain	IPR021106
+Rdi1	Q12434	LYS	201	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	THR	566		
+Rdi1	Q12434	ASN	76	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	SER	185		
+Rdi1	Q12434	GLU	163	Rho protein GDP-dissociation inhibitor	IPR000406	Ste5	P32917	ARG	187		

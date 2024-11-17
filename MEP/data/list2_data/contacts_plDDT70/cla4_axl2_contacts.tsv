@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cla4	P48562	CA	4075	GLU	528			axl2	P38928	O	7994	VAL	178	Dystroglycan-type cadherin-like	IPR006644
+cla4	P48562	CB	4103	SER	531			axl2	P38928	O	7994	VAL	178	Dystroglycan-type cadherin-like	IPR006644
+cla4	P48562	OG	4104	SER	531			axl2	P38928	O	7994	VAL	178	Dystroglycan-type cadherin-like	IPR006644
+cla4	P48562	OG	4104	SER	531			axl2	P38928	OG	8003	SER	179	Dystroglycan-type cadherin-like	IPR006644
+cla4	P48562	OG	4104	SER	531			axl2	P38928	CG	8411	GLU	231	Dystroglycan-type cadherin-like	IPR006644
+cla4	P48562	OG	4104	SER	531			axl2	P38928	CD	8412	GLU	231	Dystroglycan-type cadherin-like	IPR006644
+cla4	P48562	CB	4078	GLU	528			axl2	P38928	O	7994	VAL	178	Dystroglycan-type cadherin-like	IPR006644

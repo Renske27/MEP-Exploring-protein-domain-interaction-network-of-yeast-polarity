@@ -1,0 +1,24 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp2	P32381	CB	184	PHE	25	Actin family	IPR004000	rga2	Q06407	C	9549	ARG	826	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CB	184	PHE	25	Actin family	IPR004000	rga2	Q06407	N	9558	LYS	827	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CB	184	PHE	25	Actin family	IPR004000	rga2	Q06407	CA	9559	LYS	827	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CB	184	PHE	25	Actin family	IPR004000	rga2	Q06407	O	9550	ARG	826	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CA	181	PHE	25	Actin family	IPR004000	rga2	Q06407	O	9550	ARG	826	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	N	180	PHE	25	Actin family	IPR004000	rga2	Q06407	C	9549	ARG	826	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CA	173	ASN	24	Actin family	IPR004000	rga2	Q06407	O	9550	ARG	826	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	C	174	ASN	24	Actin family	IPR004000	rga2	Q06407	O	9550	ARG	826	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	O	175	ASN	24	Actin family	IPR004000	rga2	Q06407	O	9550	ARG	826	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	N	172	ASN	24	Actin family	IPR004000	rga2	Q06407	O	9550	ARG	826	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	N	180	PHE	25	Actin family	IPR004000	rga2	Q06407	O	9550	ARG	826	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CA	1180	GLY	149	Actin family	IPR004000	rga2	Q06407	O	10853	MET	988	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CA	1180	GLY	149	Actin family	IPR004000	rga2	Q06407	C	10852	MET	988	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	O	1182	GLY	149	Actin family	IPR004000	rga2	Q06407	CA	10859	LYS	989	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	O	1182	GLY	149	Actin family	IPR004000	rga2	Q06407	N	10858	LYS	989	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	O	1182	GLY	149	Actin family	IPR004000	rga2	Q06407	CB	10862	LYS	989	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CA	1180	GLY	149	Actin family	IPR004000	rga2	Q06407	CA	10859	LYS	989	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	C	1181	GLY	149	Actin family	IPR004000	rga2	Q06407	CA	10859	LYS	989	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CA	1180	GLY	149	Actin family	IPR004000	rga2	Q06407	N	10858	LYS	989	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	C	1181	GLY	149	Actin family	IPR004000	rga2	Q06407	N	10858	LYS	989	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	C	1181	GLY	149	Actin family	IPR004000	rga2	Q06407	CB	10862	LYS	989	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	CA	1180	GLY	149	Actin family	IPR004000	rga2	Q06407	CB	10854	MET	988	Rho GTPase-activating protein domain	IPR000198
+arp2	P32381	O	1182	GLY	149	Actin family	IPR004000	rga2	Q06407	C	10852	MET	988	Rho GTPase-activating protein domain	IPR000198

@@ -1,0 +1,21 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rdi1	Q12434	GLY	134	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	HIS	628	Formin, FH3 domain	IPR010472
+rdi1	Q12434	ALA	133	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	HIS	628	Formin, FH3 domain	IPR010472
+rdi1	Q12434	ALA	133	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	LEU	627	Formin, FH3 domain	IPR010472
+rdi1	Q12434	ALA	133	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	ASP	629	Formin, FH3 domain	IPR010472
+rdi1	Q12434	PHE	170	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	GLU	617	Formin, FH3 domain	IPR010472
+rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	GLU	617	Formin, FH3 domain	IPR010472
+rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	ASN	613	Formin, FH3 domain	IPR010472
+rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	LEU	616	Formin, FH3 domain	IPR010472
+rdi1	Q12434	LYS	132	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	HIS	628	Formin, FH3 domain	IPR010472
+rdi1	Q12434	VAL	137	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	LEU	609	Formin, FH3 domain	IPR010472
+rdi1	Q12434	LEU	171	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	VAL	614	Formin, FH3 domain	IPR010472
+rdi1	Q12434	GLU	119	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	ILE	1665	Formin, FH2 domain	IPR015425
+rdi1	Q12434	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	ASN	1667	Formin, FH2 domain	IPR015425
+rdi1	Q12434	GLU	119	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	GLY	1666	Formin, FH2 domain	IPR015425
+rdi1	Q12434	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	ARG	1530	Formin, FH2 domain	IPR015425
+rdi1	Q12434	ILE	120	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	ILE	1665	Formin, FH2 domain	IPR015425
+rdi1	Q12434	THR	122	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	ARG	1661	Formin, FH2 domain	IPR015425
+rdi1	Q12434	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	ARG	1661	Formin, FH2 domain	IPR015425
+rdi1	Q12434	LYS	187	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	GLU	1472	Formin, FH2 domain	IPR015425
+rdi1	Q12434	LEU	41	Rho protein GDP-dissociation inhibitor	IPR000406	bni1	P41832	GLU	1664	Formin, FH2 domain	IPR015425

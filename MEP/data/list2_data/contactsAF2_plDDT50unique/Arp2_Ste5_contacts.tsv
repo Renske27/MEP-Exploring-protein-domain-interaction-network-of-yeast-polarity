@@ -1,0 +1,13 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Arp2	P32381	LYS	340	Actin family	IPR004000	Ste5	P32917	ILE	209		
+Arp2	P32381	GLU	170	Actin family	IPR004000	Ste5	P32917	ASN	186		
+Arp2	P32381	GLU	317	Actin family	IPR004000	Ste5	P32917	SER	774	Protein Ste5, Fus3-binding domain	IPR021106
+Arp2	P32381	VAL	341	Actin family	IPR004000	Ste5	P32917	SER	774	Protein Ste5, Fus3-binding domain	IPR021106
+Arp2	P32381	LYS	321	Actin family	IPR004000	Ste5	P32917	SER	774	Protein Ste5, Fus3-binding domain	IPR021106
+Arp2	P32381	TYR	224	Actin family	IPR004000	Ste5	P32917	ILE	639	Protein Ste5, Fus3-binding domain	IPR021106
+Arp2	P32381	GLU	241	Actin family	IPR004000	Ste5	P32917	ILE	628	Protein Ste5, Fus3-binding domain	IPR021106
+Arp2	P32381	TYR	224	Actin family	IPR004000	Ste5	P32917	ALA	636	Protein Ste5, Fus3-binding domain	IPR021106
+Arp2	P32381	LEU	228	Actin family	IPR004000	Ste5	P32917	LYS	635	Protein Ste5, Fus3-binding domain	IPR021106
+Arp2	P32381	LEU	232	Actin family	IPR004000	Ste5	P32917	TYR	631	Protein Ste5, Fus3-binding domain	IPR021106
+Arp2	P32381	LEU	232	Actin family	IPR004000	Ste5	P32917	ASP	666	Protein Ste5, Fus3-binding domain	IPR021106
+Arp2	P32381	ALA	238	Actin family	IPR004000	Ste5	P32917	LEU	668	Protein Ste5, Fus3-binding domain	IPR021106

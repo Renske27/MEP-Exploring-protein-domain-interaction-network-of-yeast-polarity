@@ -1,0 +1,16 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rga2	Q06407	ILE	232			Nrp1	P32770	LYS	339		
+Rga2	Q06407	ILE	232			Nrp1	P32770	VAL	336		
+Rga2	Q06407	ILE	229			Nrp1	P32770	TYR	229	RNA recognition motif domain	IPR000504
+Rga2	Q06407	ILE	229			Nrp1	P32770	PHE	290	RNA recognition motif domain	IPR000504
+Rga2	Q06407	LEU	233			Nrp1	P32770	TYR	229	RNA recognition motif domain	IPR000504
+Rga2	Q06407	ASP	230			Nrp1	P32770	SER	278	RNA recognition motif domain	IPR000504
+Rga2	Q06407	ASP	230			Nrp1	P32770	TYR	211		
+Rga2	Q06407	ASP	230			Nrp1	P32770	PRO	279	RNA recognition motif domain	IPR000504
+Rga2	Q06407	ASP	230			Nrp1	P32770	LYS	117		
+Rga2	Q06407	ILE	232			Nrp1	P32770	ILE	343		
+Rga2	Q06407	ILE	229			Nrp1	P32770	VAL	259	RNA recognition motif domain	IPR000504
+Rga2	Q06407	ILE	229			Nrp1	P32770	ASN	276	RNA recognition motif domain	IPR000504
+Rga2	Q06407	VAL	227			Nrp1	P32770	ASN	276	RNA recognition motif domain	IPR000504
+Rga2	Q06407	SER	228			Nrp1	P32770	ASN	276	RNA recognition motif domain	IPR000504
+Rga2	Q06407	VAL	227			Nrp1	P32770	ILE	262	RNA recognition motif domain	IPR000504

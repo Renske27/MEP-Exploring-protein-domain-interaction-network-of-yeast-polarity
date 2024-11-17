@@ -1,0 +1,288 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rga2	Q06407	CE	133	LYS	18	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OE1	14471	GLU	836	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE	133	LYS	18	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OE2	14472	GLU	836	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE	133	LYS	18	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CD	14470	GLU	836	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	115	CYS	16	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OE2	14472	GLU	836	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	115	CYS	16	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CD	14470	GLU	836	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD1	86	LEU	12	Zinc finger, LIM-type	IPR001781	rga2	Q06407	NE2	14676	GLN	862	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	123	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OE1	14675	GLN	862	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	123	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CD	14674	GLN	862	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	ND2	125	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OE1	14675	GLN	862	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD1	124	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	NE2	14676	GLN	862	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD1	124	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OE1	14675	GLN	862	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD1	124	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CD	14674	GLN	862	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	122	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CD2	14651	LEU	859	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	123	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CD2	14651	LEU	859	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	ND2	125	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CD2	14651	LEU	859	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE1	7685	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG1	14453	VAL	834	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE1	7685	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	14452	VAL	834	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	7687	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG1	14453	VAL	834	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7695	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OG	14725	SER	869	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7695	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	N	14414	GLY	829	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7695	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CA	14409	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7695	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NZ	14749	LYS	872	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7695	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	14724	SER	869	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	123	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CD1	14446	LEU	833	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	ND2	125	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CA	14441	LEU	833	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	ND2	125	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CD1	14446	LEU	833	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	ND2	125	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CB	14444	LEU	833	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	ND2	125	ASN	17	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CG	14445	LEU	833	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NE2	6123	HIS	784			rga2	Q06407	NE2	14065	HIS	784		
+rga2	Q06407	OE1	6520	GLU	835	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	15628	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	6488	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	15628	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	6488	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD2	15626	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NE2	6490	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	15628	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE2	7686	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH2	14760	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE2	7686	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	14758	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE2	7686	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14759	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD2	7684	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	14758	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD2	7684	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14759	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	7682	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14759	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	7680	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD	14756	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	7680	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	14755	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	7680	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	14758	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	7680	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14759	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	C	7679	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14759	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	7664	HIS	977	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH2	14791	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	7691	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD	14747	LYS	872	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD1	7724	ASP	984	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14790	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7725	ASP	984	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14790	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CA	7697	GLY	981	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14790	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	7723	ASP	984	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14790	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	N	7696	GLY	981	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14790	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	7672	ASP	978	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14790	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD1	7724	ASP	984	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH2	14791	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7725	ASP	984	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	14789	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7725	ASP	984	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH2	14791	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	7723	ASP	984	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH2	14791	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	6816	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15622	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6817	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15622	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6848	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15614	ASP	978	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NE	6815	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE1	15627	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	6814	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE1	15627	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	6813	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CA	15631	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NE	6815	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15622	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	6814	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15622	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	6813	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15622	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	6816	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE1	15627	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6817	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE1	15627	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6817	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD1	15625	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6817	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	C	15621	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6848	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	N	15638	GLY	981	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6848	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CA	15639	GLY	981	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH2	6849	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15667	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH2	6849	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15665	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH2	6849	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD1	15666	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	7602	LEU	969	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD1	15675	ILE	985	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH2	6849	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15606	HIS	977	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH2	6849	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	15605	HIS	977	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	6847	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15667	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6848	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15667	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	6847	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15665	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6848	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15665	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6848	ARG	876	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD1	15666	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	7663	HIS	977	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH2	14791	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH2	6818	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	15629	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH2	6818	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	15628	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	6816	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	15629	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	6816	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	15628	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	6816	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD2	15626	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6817	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	15629	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6817	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	15628	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6817	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD2	15626	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NH1	6817	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15624	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NE	6815	ARG	873	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	15629	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	7687	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH2	14760	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	7687	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	14758	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	7687	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14759	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	7687	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NE	14757	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE1	7685	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	14758	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE1	7685	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14759	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD1	7683	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14759	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE1	7685	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NE	14757	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE1	7685	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD	14756	ARG	873	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	7692	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	14724	SER	869	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	7691	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE	14748	LYS	872	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	7692	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OG	14725	SER	869	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	7693	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OG	14725	SER	869	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	7691	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NZ	14749	LYS	872	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	7704	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	14391	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	7705	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	14391	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	7705	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	C	14390	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NE	108	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OG1	14438	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	106	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CB	14437	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	106	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OG1	14438	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	104	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CB	14437	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	104	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OG1	14438	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	104	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CA	14434	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	107	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OG1	14438	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	106	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CG2	14439	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	104	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CG2	14439	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE2	324	TYR	41	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CA	14425	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE2	324	TYR	41	Zinc finger, LIM-type	IPR001781	rga2	Q06407	N	14424	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	325	TYR	41	Zinc finger, LIM-type	IPR001781	rga2	Q06407	N	14424	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	7706	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OG	14413	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE2	324	TYR	41	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CB	14428	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	325	TYR	41	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OE1	14431	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	325	TYR	41	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CB	14428	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	116	CYS	16	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CG2	14439	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CA	113	CYS	16	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CG2	14439	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	N	112	CYS	16	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CG2	14439	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	C	103	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CG2	14439	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	C	103	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	CB	14437	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG2	459	ILE	58	Zinc finger, LIM-type	IPR001781	rga2	Q06407	OD2	14684	ASP	863	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	104	ARG	15	Zinc finger, LIM-type	IPR001781	rga2	Q06407	C	14435	THR	832	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	7687	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	14429	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE1	7685	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CA	14425	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7695	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	14412	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD2	7695	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OG	14413	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	7706	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	N	14408	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	7706	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CA	14400	LYS	827	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	7706	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	14391	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	7706	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	C	14390	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE2	7686	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NE2	14432	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE2	7686	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD	14430	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE2	7686	PHE	979	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	14429	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	7693	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	14412	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	7693	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OG	14413	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD1	7694	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	14412	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OD1	7694	ASP	980	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OG	14413	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	7704	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OG	14413	SER	828	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD1	7733	ILE	985	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15544	LEU	969	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD1	7733	ILE	985	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	C	15543	LEU	969	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD1	7733	ILE	985	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	15545	LEU	969	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG2	7740	VAL	986	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	14396	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE	5232	LYS	667			rga2	Q06407	OE2	13166	GLU	666		
+rga2	Q06407	CD	5231	LYS	667			rga2	Q06407	OE2	13166	GLU	666		
+rga2	Q06407	O	7703	GLU	982	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NH1	14397	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	SD	7755	MET	988	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	SD	15697	MET	988	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OE1	6529	GLU	836	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE	8075	LYS	18	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	OG1	6496	THR	832	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	NE	8050	ARG	15	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CG2	6497	THR	832	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CA	8055	CYS	16	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CG2	6497	THR	832	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	C	8045	ARG	15	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CG2	6497	THR	832	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	8046	ARG	15	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CG2	6497	THR	832	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	8048	ARG	15	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CB	6495	THR	832	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	8046	ARG	15	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	OG1	6496	THR	832	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	8046	ARG	15	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	OG1	6496	THR	832	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	8048	ARG	15	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	OE1	6733	GLN	862	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	8065	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	OE1	6733	GLN	862	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD1	8066	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	OE1	6733	GLN	862	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	ND2	8067	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CD	6732	GLN	862	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD1	8066	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CD1	6504	LEU	833	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	ND2	8067	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	NE2	6734	GLN	862	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	8065	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	NE2	6734	GLN	862	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD1	8066	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CD2	6709	LEU	859	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	8064	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CD2	6709	LEU	859	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	8065	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CD2	6709	LEU	859	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	ND2	8067	ASN	17	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CA	6483	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	8266	TYR	41	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CA	6483	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	8267	TYR	41	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	N	6482	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	8266	TYR	41	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	N	6482	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	8267	TYR	41	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CB	6486	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	8266	TYR	41	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CB	6486	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	8267	TYR	41	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	OG	6783	SER	869	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	15634	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OG	6783	SER	869	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15637	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OG	6783	SER	869	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15635	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	6470	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15637	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OG	6471	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15637	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	6470	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15635	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OG	6471	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15635	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	6470	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD1	15636	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OG	6471	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD1	15636	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OG	6471	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	15646	GLU	982	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	N	6466	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD	15648	GLU	982	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CA	6458	LYS	827	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD	15648	GLU	982	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	N	6472	GLY	829	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15637	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	C	6468	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15637	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CA	6467	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15637	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OG	6471	SER	828	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD	15648	GLU	982	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	6782	SER	869	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	15634	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	6782	SER	869	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	OD2	15637	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	C	6448	ARG	826	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15647	GLU	982	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	6449	ARG	826	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG	15647	GLU	982	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CZ	6454	ARG	826	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG2	15682	VAL	986	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	6449	ARG	826	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	15646	GLU	982	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	C	6448	ARG	826	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD	15648	GLU	982	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	O	6449	ARG	826	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD	15648	GLU	982	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OG1	5203	THR	664			rga2	Q06407	CD1	13138	LEU	663		
+rga2	Q06407	CG1	5172	VAL	660			rga2	Q06407	CD1	13138	LEU	663		
+rga2	Q06407	O	5170	VAL	660			rga2	Q06407	CD1	13138	LEU	663		
+rga2	Q06407	OE2	5224	GLU	666			rga2	Q06407	CE	13174	LYS	667		
+rga2	Q06407	OE2	5224	GLU	666			rga2	Q06407	CD	13173	LYS	667		
+rga2	Q06407	CD1	5196	LEU	663			rga2	Q06407	OG1	13145	THR	664		
+rga2	Q06407	CD2	5142	LEU	656			rga2	Q06407	CD2	13092	LEU	657		
+rga2	Q06407	CD1	5196	LEU	663			rga2	Q06407	CG1	13114	VAL	660		
+rga2	Q06407	CB	5139	LEU	656			rga2	Q06407	CB	13081	LEU	656		
+rga2	Q06407	CD2	5197	LEU	663			rga2	Q06407	CD	13173	LYS	667		
+rga2	Q06407	CD1	5196	LEU	663			rga2	Q06407	O	13112	VAL	660		
+rga2	Q06407	CG2	5173	VAL	660			rga2	Q06407	CG2	13115	VAL	660		
+rga2	Q06407	O	5109	LYS	653			rga2	Q06407	CD1	13083	LEU	656		
+rga2	Q06407	CG	5148	LEU	657			rga2	Q06407	CD1	13083	LEU	656		
+rga2	Q06407	CG	5111	LYS	653			rga2	Q06407	CD1	13083	LEU	656		
+rga2	Q06407	O	5053	VAL	646			rga2	Q06407	CD1	13022	LEU	649		
+rga2	Q06407	CG1	5055	VAL	646			rga2	Q06407	CD1	13022	LEU	649		
+rga2	Q06407	CD2	5150	LEU	657			rga2	Q06407	CD2	13084	LEU	656		
+rga2	Q06407	CD1	5080	LEU	649			rga2	Q06407	O	12995	VAL	646		
+rga2	Q06407	CG2	5056	VAL	646			rga2	Q06407	CG2	12998	VAL	646		
+rga2	Q06407	CD1	5080	LEU	649			rga2	Q06407	CG1	12997	VAL	646		
+rga2	Q06407	CD2	5024	LEU	642			rga2	Q06407	CD2	12974	LEU	643		
+rga2	Q06407	O	4993	LYS	639			rga2	Q06407	CD1	12965	LEU	642		
+rga2	Q06407	CG	4995	LYS	639			rga2	Q06407	CD1	12965	LEU	642		
+rga2	Q06407	CE	4997	LYS	639			rga2	Q06407	CG2	12931	THR	638		
+rga2	Q06407	CD2	4969	LEU	635			rga2	Q06407	CD	12938	LYS	639		
+rga2	Q06407	CD	4996	LYS	639			rga2	Q06407	CD2	12911	LEU	635		
+rga2	Q06407	CG1	4940	VAL	632			rga2	Q06407	CD1	12910	LEU	635		
+rga2	Q06407	CD1	4880	LEU	625			rga2	Q06407	O	12788	THR	621		
+rga2	Q06407	CD1	4880	LEU	625			rga2	Q06407	CA	12817	LEU	625		
+rga2	Q06407	CD1	4880	LEU	625			rga2	Q06407	CB	12820	LEU	625		
+rga2	Q06407	CD1	4880	LEU	625			rga2	Q06407	N	12816	LEU	625		
+rga2	Q06407	CG2	4941	VAL	632			rga2	Q06407	CG2	12883	VAL	632		
+rga2	Q06407	CD1	4880	LEU	625			rga2	Q06407	CD1	12850	LEU	628		
+rga2	Q06407	CD1	4880	LEU	625			rga2	Q06407	CG2	12815	THR	624		
+rga2	Q06407	CD1	4880	LEU	625			rga2	Q06407	C	12811	THR	624		
+rga2	Q06407	CD1	4880	LEU	625			rga2	Q06407	CB	12813	THR	624		
+rga2	Q06407	CG2	4989	THR	638			rga2	Q06407	CE	12939	LYS	639		
+rga2	Q06407	CD1	4968	LEU	635			rga2	Q06407	CG1	12882	VAL	632		
+rga2	Q06407	CD1	4908	LEU	628			rga2	Q06407	CG	12857	LYS	629		
+rga2	Q06407	CD1	4908	LEU	628			rga2	Q06407	CD1	12822	LEU	625		
+rga2	Q06407	CG2	4873	THR	624			rga2	Q06407	CD1	12822	LEU	625		
+rga2	Q06407	C	4869	THR	624			rga2	Q06407	CD1	12822	LEU	625		
+rga2	Q06407	OG1	4848	THR	621			rga2	Q06407	CE2	12760	PHE	618		
+rga2	Q06407	CD1	4880	LEU	625			rga2	Q06407	CD1	12822	LEU	625		
+rga2	Q06407	CD1	5023	LEU	642			rga2	Q06407	O	12935	LYS	639		
+rga2	Q06407	CD1	5023	LEU	642			rga2	Q06407	CG	12937	LYS	639		
+rga2	Q06407	CE2	4818	PHE	618			rga2	Q06407	N	12751	PHE	618		
+rga2	Q06407	CD2	4816	PHE	618			rga2	Q06407	CA	12752	PHE	618		
+rga2	Q06407	CE2	4818	PHE	618			rga2	Q06407	O	12746	ASP	617		
+rga2	Q06407	CE2	4818	PHE	618			rga2	Q06407	OG1	12790	THR	621		
+rga2	Q06407	CE2	4818	PHE	618			rga2	Q06407	C	12745	ASP	617		
+rga2	Q06407	CE2	4818	PHE	618			rga2	Q06407	CB	12747	ASP	617		
+rga2	Q06407	CG	4915	LYS	629			rga2	Q06407	CD1	12850	LEU	628		
+rga2	Q06407	CA	4875	LEU	625			rga2	Q06407	CD1	12822	LEU	625		
+rga2	Q06407	CB	4878	LEU	625			rga2	Q06407	CD1	12822	LEU	625		
+rga2	Q06407	N	4874	LEU	625			rga2	Q06407	CD1	12822	LEU	625		
+rga2	Q06407	O	4846	THR	621			rga2	Q06407	CD1	12822	LEU	625		
+rga2	Q06407	CG2	4849	THR	621			rga2	Q06407	CG2	12791	THR	621		
+rga2	Q06407	O	4804	ASP	617			rga2	Q06407	CE2	12760	PHE	618		
+rga2	Q06407	C	4803	ASP	617			rga2	Q06407	CE2	12760	PHE	618		
+rga2	Q06407	CA	4810	PHE	618			rga2	Q06407	CD2	12758	PHE	618		
+rga2	Q06407	N	4809	PHE	618			rga2	Q06407	CE2	12760	PHE	618		
+rga2	Q06407	CD1	5141	LEU	656			rga2	Q06407	O	13051	LYS	653		
+rga2	Q06407	CD1	5141	LEU	656			rga2	Q06407	CG	13053	LYS	653		
+rga2	Q06407	CB	5078	LEU	649			rga2	Q06407	CB	13020	LEU	649		
+rga2	Q06407	CD2	5032	LEU	643			rga2	Q06407	CD2	12966	LEU	642		
+rga2	Q06407	CG1	6511	VAL	834	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	15629	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG1	6511	VAL	834	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE1	15627	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	6510	VAL	834	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE1	15627	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	OE1	6489	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	8267	TYR	41	Zinc finger, LIM-type	IPR001781
+rga2	Q06407	CG	6487	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CZ	15629	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	6487	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE2	15628	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CG	6487	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD2	15626	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CA	6483	GLN	831	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CE1	15627	PHE	979	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CE	6806	LYS	872	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15633	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	6805	LYS	872	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15633	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	NZ	6807	LYS	872	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15633	ASP	980	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	C	7601	LEU	969	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD1	15675	ILE	985	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CB	7603	LEU	969	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CD1	15675	ILE	985	Rho GTPase-activating protein domain	IPR000198
+rga2	Q06407	CD	5231	LYS	667			rga2	Q06407	CD2	13139	LEU	663		

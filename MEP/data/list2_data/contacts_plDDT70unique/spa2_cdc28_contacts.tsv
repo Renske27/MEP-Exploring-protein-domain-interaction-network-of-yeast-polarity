@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+spa2	P23201	LYS	97	GIT, Spa2 homology (SHD) domain	IPR013724	cdc28	P00546	TYR	241	Protein kinase domain	IPR000719
+spa2	P23201	ASN	100	GIT, Spa2 homology (SHD) domain	IPR013724	cdc28	P00546	VAL	240	Protein kinase domain	IPR000719

@@ -1,0 +1,35 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem1	P29366	TYR	100	SH3 domain	IPR001452	bud1	P13856	ASP	119	Small GTP-binding domain	IPR005225
+bem1	P29366	PRO	357	Phox homology	IPR001683	bud1	P13856	ASN	153	Small GTP-binding domain	IPR005225
+bem1	P29366	PRO	359	Phox homology	IPR001683	bud1	P13856	GLU	145	Small GTP-binding domain	IPR005225
+bem1	P29366	VAL	326	Phox homology	IPR001683	bud1	P13856	LEU	272		
+bem1	P29366	TYR	322	Phox homology	IPR001683	bud1	P13856	LEU	272		
+bem1	P29366	ILE	354	Phox homology	IPR001683	bud1	P13856	LEU	272		
+bem1	P29366	LEU	329	Phox homology	IPR001683	bud1	P13856	LEU	272		
+bem1	P29366	ILE	354	Phox homology	IPR001683	bud1	P13856	ILE	271		
+bem1	P29366	GLN	325	Phox homology	IPR001683	bud1	P13856	LEU	272		
+bem1	P29366	TYR	353	Phox homology	IPR001683	bud1	P13856	LEU	272		
+bem1	P29366	ARG	349	Phox homology	IPR001683	bud1	P13856	LEU	272		
+bem1	P29366	TYR	353	Phox homology	IPR001683	bud1	P13856	ILE	271		
+bem1	P29366	PRO	355	Phox homology	IPR001683	bud1	P13856	THR	270		
+bem1	P29366	GLY	356	Phox homology	IPR001683	bud1	P13856	THR	270		
+bem1	P29366	LYS	196	SH3 domain	IPR001452	bud1	P13856	ASP	38	Small GTP-binding domain	IPR005225
+bem1	P29366	TYR	159	SH3 domain	IPR001452	bud1	P13856	MET	67	Small GTP-binding domain	IPR005225
+bem1	P29366	ASN	181	SH3 domain	IPR001452	bud1	P13856	LEU	70	Small GTP-binding domain	IPR005225
+bem1	P29366	ILE	198	SH3 domain	IPR001452	bud1	P13856	TYR	71	Small GTP-binding domain	IPR005225
+bem1	P29366	ILE	198	SH3 domain	IPR001452	bud1	P13856	LEU	70	Small GTP-binding domain	IPR005225
+bem1	P29366	GLY	199	SH3 domain	IPR001452	bud1	P13856	LYS	5	Small GTP-binding domain	IPR005225
+bem1	P29366	ARG	200	SH3 domain	IPR001452	bud1	P13856	LYS	5	Small GTP-binding domain	IPR005225
+bem1	P29366	ARG	200	SH3 domain	IPR001452	bud1	P13856	GLU	54	Small GTP-binding domain	IPR005225
+bem1	P29366	ILE	198	SH3 domain	IPR001452	bud1	P13856	LEU	56	Small GTP-binding domain	IPR005225
+bem1	P29366	LEU	201	SH3 domain	IPR001452	bud1	P13856	GLU	54	Small GTP-binding domain	IPR005225
+bem1	P29366	ILE	198	SH3 domain	IPR001452	bud1	P13856	MET	67	Small GTP-binding domain	IPR005225
+bem1	P29366	TRP	346	Phox homology	IPR001683	bud1	P13856	ASN	48	Small GTP-binding domain	IPR005225
+bem1	P29366	TRP	346	Phox homology	IPR001683	bud1	P13856	LYS	49	Small GTP-binding domain	IPR005225
+bem1	P29366	GLY	337	Phox homology	IPR001683	bud1	P13856	ASP	47	Small GTP-binding domain	IPR005225
+bem1	P29366	TRP	346	Phox homology	IPR001683	bud1	P13856	ASP	47	Small GTP-binding domain	IPR005225
+bem1	P29366	GLY	337	Phox homology	IPR001683	bud1	P13856	ASN	48	Small GTP-binding domain	IPR005225
+bem1	P29366	LYS	338	Phox homology	IPR001683	bud1	P13856	ASN	48	Small GTP-binding domain	IPR005225
+bem1	P29366	LEU	339	Phox homology	IPR001683	bud1	P13856	ASN	48	Small GTP-binding domain	IPR005225
+bem1	P29366	LYS	338	Phox homology	IPR001683	bud1	P13856	GLU	45	Small GTP-binding domain	IPR005225
+bem1	P29366	TRP	346	Phox homology	IPR001683	bud1	P13856	VAL	50	Small GTP-binding domain	IPR005225

@@ -1,0 +1,25 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	nrp1	P32770	GLN	341		
+rho1	P06780	ASN	7			nrp1	P32770	CYS	378	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	ASN	7			nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	ARG	10	Small GTP-binding domain	IPR005225	nrp1	P32770	PHE	366	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	ARG	10	Small GTP-binding domain	IPR005225	nrp1	P32770	CYS	364	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	SER	8			nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	ILE	9			nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	ARG	10	Small GTP-binding domain	IPR005225	nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	ARG	10	Small GTP-binding domain	IPR005225	nrp1	P32770	GLY	365	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	nrp1	P32770	TRP	257	RNA recognition motif domain	IPR000504
+rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225	nrp1	P32770	PRO	346		
+rho1	P06780	ARG	73	Small GTP-binding domain	IPR005225	nrp1	P32770	GLN	341		
+rho1	P06780	ARG	73	Small GTP-binding domain	IPR005225	nrp1	P32770	ASP	338		
+rho1	P06780	ASN	7			nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	ARG	10	Small GTP-binding domain	IPR005225	nrp1	P32770	SER	367	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	GLU	45	Small GTP-binding domain	IPR005225	nrp1	P32770	GLN	349		
+rho1	P06780	TYR	47	Small GTP-binding domain	IPR005225	nrp1	P32770	GLN	349		
+rho1	P06780	ASN	46	Small GTP-binding domain	IPR005225	nrp1	P32770	GLN	349		
+rho1	P06780	GLU	45	Small GTP-binding domain	IPR005225	nrp1	P32770	GLN	239	RNA recognition motif domain	IPR000504
+rho1	P06780	PHE	44	Small GTP-binding domain	IPR005225	nrp1	P32770	GLN	239	RNA recognition motif domain	IPR000504
+rho1	P06780	ALA	66	Small GTP-binding domain	IPR005225	nrp1	P32770	VAL	254	RNA recognition motif domain	IPR000504
+rho1	P06780	GLU	59	Small GTP-binding domain	IPR005225	nrp1	P32770	PHE	366	Zinc finger, RanBP2-type	IPR001876
+rho1	P06780	VAL	48	Small GTP-binding domain	IPR005225	nrp1	P32770	GLN	349		
+rho1	P06780	GLU	59	Small GTP-binding domain	IPR005225	nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876

@@ -1,0 +1,16 @@
+Protein ACT1 gives error: Accession number protein: P60010 No domain information found, used family instead.
+Protein AIM44 gives error: ('Accession number protein: Q99299', 'No domain and no family information found.', [])
+Protein ARP9 gives error: Accession number protein: Q05123 No domain information found, used family instead.
+Protein BEM4 gives error: Accession number protein: P39011 No domain information found, used family instead.
+Protein CAF130 gives error: ('Accession number protein: P53280', 'No domain and no family information found.', [])
+Protein CCT2 gives error: Accession number protein: P39076 No domain information found, used family instead.
+Protein CCT6 gives error: Accession number protein: P39079 No domain information found, used family instead.
+Protein CCT7 gives error: Accession number protein: P42943 No domain information found, used family instead.
+Protein KES1 gives error: Accession number protein: P35844 No domain information found, used family instead.
+Protein MSB2 gives error: Accession number protein: P32334 No domain information found, used family instead.
+Protein NBA1 gives error: ('Accession number protein: Q08229', 'No domain and no family information found.', [])
+Protein RDI1 gives error: Accession number protein: Q12434 No domain information found, used family instead.
+Protein RTT10 gives error: Accession number protein: Q08924 No domain information found, used family instead.
+Protein TOS2 gives error: Accession number protein: P50078 No domain information found, used family instead.
+Protein TPM1 gives error: Accession number protein: P17536 No domain information found, used family instead.
+Protein TPM2 gives error: Accession number protein: P40414 No domain information found, used family instead.

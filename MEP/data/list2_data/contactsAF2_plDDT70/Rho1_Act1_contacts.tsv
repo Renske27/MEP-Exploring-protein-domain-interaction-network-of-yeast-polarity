@@ -1,0 +1,10 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rho1	P06780	CH2	489	TRP	63	Small GTP-binding domain	IPR005225	Act1	P60010	CE1	2908	TYR	166	Actin family	IPR004000
+Rho1	P06780	CE3	487	TRP	63	Small GTP-binding domain	IPR005225	Act1	P60010	CE1	2908	TYR	166	Actin family	IPR004000
+Rho1	P06780	CZ3	491	TRP	63	Small GTP-binding domain	IPR005225	Act1	P60010	CE1	2908	TYR	166	Actin family	IPR004000
+Rho1	P06780	CE2	486	TRP	63	Small GTP-binding domain	IPR005225	Act1	P60010	OH	2910	TYR	166	Actin family	IPR004000
+Rho1	P06780	CZ2	490	TRP	63	Small GTP-binding domain	IPR005225	Act1	P60010	OH	2910	TYR	166	Actin family	IPR004000
+Rho1	P06780	CZ2	490	TRP	63	Small GTP-binding domain	IPR005225	Act1	P60010	CZ	2911	TYR	166	Actin family	IPR004000
+Rho1	P06780	CH2	489	TRP	63	Small GTP-binding domain	IPR005225	Act1	P60010	CZ	2911	TYR	166	Actin family	IPR004000
+Rho1	P06780	CZ2	490	TRP	63	Small GTP-binding domain	IPR005225	Act1	P60010	CE1	2908	TYR	166	Actin family	IPR004000
+Rho1	P06780	CH2	489	TRP	63	Small GTP-binding domain	IPR005225	Act1	P60010	OH	2910	TYR	166	Actin family	IPR004000

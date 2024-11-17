@@ -1,0 +1,27 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Bem1	P29366	OH	2775	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	O	5833	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	OH	2775	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	C	5831	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	OH	2775	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	CE	5852	LYS	187	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	O	1558	ILE	198	SH3 domain	IPR001452	Rdi1	Q12434	N	5524	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CG2	1560	ILE	198	SH3 domain	IPR001452	Rdi1	Q12434	OG	5529	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CE	2651	LYS	338	Phox homology	IPR001683	Rdi1	Q12434	OD2	5836	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CE	2651	LYS	338	Phox homology	IPR001683	Rdi1	Q12434	CG	5834	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	NZ	2652	LYS	338	Phox homology	IPR001683	Rdi1	Q12434	OD2	5836	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	NZ	2652	LYS	338	Phox homology	IPR001683	Rdi1	Q12434	CG	5834	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CG2	1560	ILE	198	SH3 domain	IPR001452	Rdi1	Q12434	N	5524	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	OH	2531	TYR	322	Phox homology	IPR001683	Rdi1	Q12434	CG2	5326	ILE	120	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	OH	2531	TYR	322	Phox homology	IPR001683	Rdi1	Q12434	CD1	5327	ILE	120	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	OH	2531	TYR	322	Phox homology	IPR001683	Rdi1	Q12434	CB	5323	ILE	120	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CG	1416	ASN	181	SH3 domain	IPR001452	Rdi1	Q12434	O	5528	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	ND2	1417	ASN	181	SH3 domain	IPR001452	Rdi1	Q12434	O	5528	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CG2	1560	ILE	198	SH3 domain	IPR001452	Rdi1	Q12434	CB	5527	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CA	2793	GLY	356	Phox homology	IPR001683	Rdi1	Q12434	OE2	5319	GLU	119	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	C	2794	GLY	356	Phox homology	IPR001683	Rdi1	Q12434	OE2	5319	GLU	119	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CZ	2776	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	O	5833	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CE1	2773	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	O	5833	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CE1	2773	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	C	5831	ASP	185	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CZ	2776	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	CA	5838	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CE1	2773	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	CA	5838	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CE1	2773	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	OD1	5843	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CG	2770	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	OD1	5843	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406
+Bem1	P29366	CD1	2771	TYR	353	Phox homology	IPR001683	Rdi1	Q12434	OD1	5843	ASP	186	Rho protein GDP-dissociation inhibitor	IPR000406

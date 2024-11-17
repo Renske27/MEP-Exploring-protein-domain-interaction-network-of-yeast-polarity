@@ -1,0 +1,43 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rho1	P06780	ARG	73	Small GTP-binding domain	IPR005225	rga2	Q06407	GLY	981	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ARG	73	Small GTP-binding domain	IPR005225	rga2	Q06407	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	rga2	Q06407	ASP	984	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	VAL	43	Small GTP-binding domain	IPR005225	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASP	70	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225	rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASP	70	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASP	70	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	872	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLU	69	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLU	69	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	869	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASP	70	Small GTP-binding domain	IPR005225	rga2	Q06407	VAL	970	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLU	69	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	872	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASP	70	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	974	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLU	98	Small GTP-binding domain	IPR005225	rga2	Q06407	THR	832	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLU	102	Small GTP-binding domain	IPR005225	rga2	Q06407	THR	832	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASN	99	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASN	99	Small GTP-binding domain	IPR005225	rga2	Q06407	GLY	829	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASN	99	Small GTP-binding domain	IPR005225	rga2	Q06407	GLN	831	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLU	98	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	LYS	32	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+rho1	P06780	SER	31	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+rho1	P06780	LYS	32	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	87	Zinc finger, LIM-type	IPR001781
+rho1	P06780	GLN	68	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	VAL	40	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	PRO	41	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLY	33	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+rho1	P06780	VAL	40	Small GTP-binding domain	IPR005225	rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	TYR	39	Small GTP-binding domain	IPR005225	rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	TYR	39	Small GTP-binding domain	IPR005225	rga2	Q06407	LEU	961	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	PRO	41	Small GTP-binding domain	IPR005225	rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	TYR	39	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLY	19	Small GTP-binding domain	IPR005225	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLY	19	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASP	95	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	830	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ALA	20	Small GTP-binding domain	IPR005225	rga2	Q06407	LYS	827	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	TYR	39	Small GTP-binding domain	IPR005225	rga2	Q06407	GLY	823	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLY	67	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	ASP	18	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198
+rho1	P06780	GLU	69	Small GTP-binding domain	IPR005225	rga2	Q06407	SER	828	Rho GTPase-activating protein domain	IPR000198

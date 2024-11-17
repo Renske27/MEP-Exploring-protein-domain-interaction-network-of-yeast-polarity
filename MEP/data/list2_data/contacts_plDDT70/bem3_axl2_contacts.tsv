@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	CD1	7247	TYR	938	Rho GTPase-activating protein domain	IPR000198	axl2	P38928	CD	13176	PRO	568		
+bem3	P32873	O	4342	SER	565	Phox homology	IPR001683	axl2	P38928	CD	10489	PRO	217	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	CA	4340	SER	565	Phox homology	IPR001683	axl2	P38928	CD	10489	PRO	217	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	C	4341	SER	565	Phox homology	IPR001683	axl2	P38928	CD	10489	PRO	217	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	CG2	450	ILE	57			axl2	P38928	CB	11361	THR	332	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	CG2	450	ILE	57			axl2	P38928	CG2	11363	THR	332	Dystroglycan-type cadherin-like	IPR006644
+bem3	P32873	CB	4343	SER	565	Phox homology	IPR001683	axl2	P38928	CD	10489	PRO	217	Dystroglycan-type cadherin-like	IPR006644

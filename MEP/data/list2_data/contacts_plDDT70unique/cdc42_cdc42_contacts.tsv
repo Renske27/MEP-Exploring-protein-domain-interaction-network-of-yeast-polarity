@@ -1,0 +1,11 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc42	P19073	SER	71	Small GTP-binding domain	IPR005225	cdc42	P19073	PHE	56	Small GTP-binding domain	IPR005225
+cdc42	P19073	LEU	70	Small GTP-binding domain	IPR005225	cdc42	P19073	LYS	5	Small GTP-binding domain	IPR005225
+cdc42	P19073	LEU	70	Small GTP-binding domain	IPR005225	cdc42	P19073	PHE	56	Small GTP-binding domain	IPR005225
+cdc42	P19073	PRO	73	Small GTP-binding domain	IPR005225	cdc42	P19073	SER	74	Small GTP-binding domain	IPR005225
+cdc42	P19073	PHE	56	Small GTP-binding domain	IPR005225	cdc42	P19073	SER	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	LYS	5	Small GTP-binding domain	IPR005225	cdc42	P19073	LEU	70	Small GTP-binding domain	IPR005225
+cdc42	P19073	PHE	56	Small GTP-binding domain	IPR005225	cdc42	P19073	LEU	70	Small GTP-binding domain	IPR005225
+cdc42	P19073	SER	74	Small GTP-binding domain	IPR005225	cdc42	P19073	PRO	73	Small GTP-binding domain	IPR005225
+cdc42	P19073	THR	3	Small GTP-binding domain	IPR005225	cdc42	P19073	ARG	66	Small GTP-binding domain	IPR005225
+cdc42	P19073	PRO	73	Small GTP-binding domain	IPR005225	cdc42	P19073	PRO	73	Small GTP-binding domain	IPR005225

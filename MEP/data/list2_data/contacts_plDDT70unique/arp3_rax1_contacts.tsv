@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp3	P47117	GLN	339	Actin family	IPR004000	rax1	Q08760	MET	241	RGS domain	IPR016137
+arp3	P47117	ARG	346	Actin family	IPR004000	rax1	Q08760	MET	241	RGS domain	IPR016137

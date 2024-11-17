@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	ARG	729	Pleckstrin homology domain	IPR001849	bud1	P13856	GLU	156	Small GTP-binding domain	IPR005225
+bem3	P32873	SER	737	Pleckstrin homology domain	IPR001849	bud1	P13856	ASN	48	Small GTP-binding domain	IPR005225

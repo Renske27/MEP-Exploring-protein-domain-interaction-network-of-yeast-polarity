@@ -1,0 +1,16 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	CB	8448	SER	1086	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	15710	SER	886	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	CB	8454	PRO	1087	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15709	SER	886	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	CA	8451	PRO	1087	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15709	SER	886	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	N	8450	PRO	1087	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15709	SER	886	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	CD	8456	PRO	1087	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15709	SER	886	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	CG	8455	PRO	1087	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	15709	SER	886	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	CB	8492	PRO	1092	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	16107	ILE	934	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	CA	8489	PRO	1092	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG2	16110	ILE	934	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	N	8488	PRO	1092	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG2	16110	ILE	934	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	O	8483	ILE	1091	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG2	16110	ILE	934	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	OG	8449	SER	1086	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CG2	16110	ILE	934	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	CG1	8500	ILE	1093	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	15710	SER	886	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	OG	8449	SER	1086	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CB	15710	SER	886	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	CG	8493	PRO	1092	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	CA	16105	ILE	934	Rho GTPase-activating protein domain	IPR000198
+bem3	P32873	CG	8493	PRO	1092	Rho GTPase-activating protein domain	IPR000198	rga2	Q06407	O	16098	LYS	933	Rho GTPase-activating protein domain	IPR000198

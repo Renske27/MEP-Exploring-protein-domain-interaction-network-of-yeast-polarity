@@ -1,0 +1,65 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rho1	P06780	ARG	73	Small GTP-binding domain	IPR005225	cdc24	P11433	ARG	456		
+rho1	P06780	ARG	73	Small GTP-binding domain	IPR005225	cdc24	P11433	ASN	452	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ASP	72	Small GTP-binding domain	IPR005225	cdc24	P11433	ARG	456		
+rho1	P06780	ASP	72	Small GTP-binding domain	IPR005225	cdc24	P11433	ASN	452	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ARG	73	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	459		
+rho1	P06780	ARG	73	Small GTP-binding domain	IPR005225	cdc24	P11433	GLN	455		
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	cdc24	P11433	ASN	452	Dbl homology (DH) domain	IPR000219
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	cdc24	P11433	CYS	415	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225	cdc24	P11433	ALA	448	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225	cdc24	P11433	ASN	452	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225	cdc24	P11433	CYS	415	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ARG	75	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	654	Pleckstrin homology domain	IPR001849
+rho1	P06780	GLU	69	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	654	Pleckstrin homology domain	IPR001849
+rho1	P06780	LYS	103	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	654	Pleckstrin homology domain	IPR001849
+rho1	P06780	GLU	102	Small GTP-binding domain	IPR005225	cdc24	P11433	LYS	651	Pleckstrin homology domain	IPR001849
+rho1	P06780	GLU	102	Small GTP-binding domain	IPR005225	cdc24	P11433	ASN	652	Pleckstrin homology domain	IPR001849
+rho1	P06780	ASP	72	Small GTP-binding domain	IPR005225	cdc24	P11433	ASN	658	Pleckstrin homology domain	IPR001849
+rho1	P06780	ASP	72	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	654	Pleckstrin homology domain	IPR001849
+rho1	P06780	GLY	67	Small GTP-binding domain	IPR005225	cdc24	P11433	CYS	415	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225	cdc24	P11433	ARG	449	Dbl homology (DH) domain	IPR000219
+rho1	P06780	PRO	80	Small GTP-binding domain	IPR005225	cdc24	P11433	GLN	404	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ASP	81	Small GTP-binding domain	IPR005225	cdc24	P11433	GLN	404	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ASP	81	Small GTP-binding domain	IPR005225	cdc24	P11433	LYS	400	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225	cdc24	P11433	GLN	404	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225	cdc24	P11433	SER	405	Dbl homology (DH) domain	IPR000219
+rho1	P06780	LYS	12	Small GTP-binding domain	IPR005225	cdc24	P11433	GLN	404	Dbl homology (DH) domain	IPR000219
+rho1	P06780	GLN	68	Small GTP-binding domain	IPR005225	cdc24	P11433	TYR	408	Dbl homology (DH) domain	IPR000219
+rho1	P06780	GLN	68	Small GTP-binding domain	IPR005225	cdc24	P11433	GLN	412	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ALA	66	Small GTP-binding domain	IPR005225	cdc24	P11433	ARG	416	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ASN	46	Small GTP-binding domain	IPR005225	cdc24	P11433	GLN	412	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ASN	46	Small GTP-binding domain	IPR005225	cdc24	P11433	SER	405	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ASP	64	Small GTP-binding domain	IPR005225	cdc24	P11433	GLN	412	Dbl homology (DH) domain	IPR000219
+rho1	P06780	GLU	45	Small GTP-binding domain	IPR005225	cdc24	P11433	LYS	409	Dbl homology (DH) domain	IPR000219
+rho1	P06780	VAL	43	Small GTP-binding domain	IPR005225	cdc24	P11433	ARG	416	Dbl homology (DH) domain	IPR000219
+rho1	P06780	PHE	44	Small GTP-binding domain	IPR005225	cdc24	P11433	ARG	416	Dbl homology (DH) domain	IPR000219
+rho1	P06780	GLU	45	Small GTP-binding domain	IPR005225	cdc24	P11433	ARG	416	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ASP	64	Small GTP-binding domain	IPR005225	cdc24	P11433	ARG	416	Dbl homology (DH) domain	IPR000219
+rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	cdc24	P11433	TYR	408	Dbl homology (DH) domain	IPR000219
+rho1	P06780	SER	78	Small GTP-binding domain	IPR005225	cdc24	P11433	TYR	408	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225	cdc24	P11433	TYR	408	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ARG	10	Small GTP-binding domain	IPR005225	cdc24	P11433	ASN	399	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ARG	11	Small GTP-binding domain	IPR005225	cdc24	P11433	LEU	401	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ARG	10	Small GTP-binding domain	IPR005225	cdc24	P11433	LEU	401	Dbl homology (DH) domain	IPR000219
+rho1	P06780	VAL	48	Small GTP-binding domain	IPR005225	cdc24	P11433	MET	33		
+rho1	P06780	ASN	46	Small GTP-binding domain	IPR005225	cdc24	P11433	MET	33		
+rho1	P06780	TYR	47	Small GTP-binding domain	IPR005225	cdc24	P11433	ASN	34		
+rho1	P06780	VAL	48	Small GTP-binding domain	IPR005225	cdc24	P11433	ASN	34		
+rho1	P06780	LYS	12	Small GTP-binding domain	IPR005225	cdc24	P11433	LEU	401	Dbl homology (DH) domain	IPR000219
+rho1	P06780	GLY	67	Small GTP-binding domain	IPR005225	cdc24	P11433	LEU	419	Dbl homology (DH) domain	IPR000219
+rho1	P06780	ALA	66	Small GTP-binding domain	IPR005225	cdc24	P11433	LEU	419	Dbl homology (DH) domain	IPR000219
+rho1	P06780	THR	42	Small GTP-binding domain	IPR005225	cdc24	P11433	LEU	419	Dbl homology (DH) domain	IPR000219
+rho1	P06780	VAL	43	Small GTP-binding domain	IPR005225	cdc24	P11433	LEU	420	Dbl homology (DH) domain	IPR000219
+rho1	P06780	VAL	43	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	285	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TYR	39	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	285	Dbl homology (DH) domain	IPR000219
+rho1	P06780	THR	42	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	285	Dbl homology (DH) domain	IPR000219
+rho1	P06780	PRO	41	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	285	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TYR	39	Small GTP-binding domain	IPR005225	cdc24	P11433	ILE	282	Dbl homology (DH) domain	IPR000219
+rho1	P06780	THR	42	Small GTP-binding domain	IPR005225	cdc24	P11433	GLU	423	Dbl homology (DH) domain	IPR000219
+rho1	P06780	TYR	39	Small GTP-binding domain	IPR005225	cdc24	P11433	LYS	281	Dbl homology (DH) domain	IPR000219
+rho1	P06780	VAL	38	Small GTP-binding domain	IPR005225	cdc24	P11433	LYS	281	Dbl homology (DH) domain	IPR000219
+rho1	P06780	VAL	43	Small GTP-binding domain	IPR005225	cdc24	P11433	THR	289	Dbl homology (DH) domain	IPR000219
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	cdc24	P11433	VAL	411	Dbl homology (DH) domain	IPR000219
+rho1	P06780	GLN	68	Small GTP-binding domain	IPR005225	cdc24	P11433	CYS	415	Dbl homology (DH) domain	IPR000219
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	cdc24	P11433	TYR	408	Dbl homology (DH) domain	IPR000219

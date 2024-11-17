@@ -1,0 +1,23 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rho1	P06780	PRO	80	Small GTP-binding domain	IPR005225	cdc28	P00546	ALA	81	Protein kinase domain	IPR000719
+rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	cdc28	P00546	GLY	50	Protein kinase domain	IPR000719
+rho1	P06780	ASP	81	Small GTP-binding domain	IPR005225	cdc28	P00546	ASP	48	Protein kinase domain	IPR000719
+rho1	P06780	LYS	12	Small GTP-binding domain	IPR005225	cdc28	P00546	GLU	49	Protein kinase domain	IPR000719
+rho1	P06780	PRO	80	Small GTP-binding domain	IPR005225	cdc28	P00546	ASP	48	Protein kinase domain	IPR000719
+rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	cdc28	P00546	VAL	51	Protein kinase domain	IPR000719
+rho1	P06780	SER	78	Small GTP-binding domain	IPR005225	cdc28	P00546	VAL	51	Protein kinase domain	IPR000719
+rho1	P06780	SER	78	Small GTP-binding domain	IPR005225	cdc28	P00546	ILE	56	Protein kinase domain	IPR000719
+rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	cdc28	P00546	ILE	56	Protein kinase domain	IPR000719
+rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225	cdc28	P00546	PRO	52	Protein kinase domain	IPR000719
+rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225	cdc28	P00546	VAL	51	Protein kinase domain	IPR000719
+rho1	P06780	ASP	64	Small GTP-binding domain	IPR005225	cdc28	P00546	SER	53	Protein kinase domain	IPR000719
+rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225	cdc28	P00546	GLU	49	Protein kinase domain	IPR000719
+rho1	P06780	TRP	63	Small GTP-binding domain	IPR005225	cdc28	P00546	GLY	50	Protein kinase domain	IPR000719
+rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	cdc28	P00546	HIS	78	Protein kinase domain	IPR000719
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	cdc28	P00546	ILE	56	Protein kinase domain	IPR000719
+rho1	P06780	PHE	44	Small GTP-binding domain	IPR005225	cdc28	P00546	SER	53	Protein kinase domain	IPR000719
+rho1	P06780	TYR	71	Small GTP-binding domain	IPR005225	cdc28	P00546	SER	60	Protein kinase domain	IPR000719
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	cdc28	P00546	SER	60	Protein kinase domain	IPR000719
+rho1	P06780	LEU	77	Small GTP-binding domain	IPR005225	cdc28	P00546	LEU	84	Protein kinase domain	IPR000719
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	cdc28	P00546	ILE	59	Protein kinase domain	IPR000719
+rho1	P06780	LEU	74	Small GTP-binding domain	IPR005225	cdc28	P00546	ILE	76	Protein kinase domain	IPR000719

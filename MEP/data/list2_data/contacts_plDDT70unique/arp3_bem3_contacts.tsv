@@ -1,0 +1,15 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp3	P47117	SER	111	Actin family	IPR004000	bem3	P32873	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	SER	111	Actin family	IPR004000	bem3	P32873	ASN	673	Pleckstrin homology domain	IPR001849
+arp3	P47117	THR	38	Actin family	IPR004000	bem3	P32873	GLN	674	Pleckstrin homology domain	IPR001849
+arp3	P47117	PRO	158	Actin family	IPR004000	bem3	P32873	GLY	953	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	PRO	158	Actin family	IPR004000	bem3	P32873	SER	954	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	TYR	222	Actin family	IPR004000	bem3	P32873	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	ALA	219	Actin family	IPR004000	bem3	P32873	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	TYR	222	Actin family	IPR004000	bem3	P32873	LYS	1003	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	SER	226	Actin family	IPR004000	bem3	P32873	ARG	1007	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	PRO	342	Actin family	IPR004000	bem3	P32873	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	ILE	224	Actin family	IPR004000	bem3	P32873	PRO	1087	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	PRO	342	Actin family	IPR004000	bem3	P32873	SER	1086	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	GLU	220	Actin family	IPR004000	bem3	P32873	ILE	1083	Rho GTPase-activating protein domain	IPR000198
+arp3	P47117	TYR	222	Actin family	IPR004000	bem3	P32873	ARG	950	Rho GTPase-activating protein domain	IPR000198

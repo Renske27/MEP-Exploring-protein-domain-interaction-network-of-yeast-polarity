@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bni1	P41832	OG	11537	SER	1468	Formin, FH2 domain	IPR015425	nrp1	P32770	CB	20082	ALA	596	Zinc finger, RanBP2-type	IPR001876
+bni1	P41832	CB	11536	SER	1468	Formin, FH2 domain	IPR015425	nrp1	P32770	CB	20082	ALA	596	Zinc finger, RanBP2-type	IPR001876
+bni1	P41832	CD	12966	GLN	1644	Formin, FH2 domain	IPR015425	nrp1	P32770	O	18368	ARG	371	Zinc finger, RanBP2-type	IPR001876
+bni1	P41832	OD2	13022	ASP	1651	Formin, FH2 domain	IPR015425	nrp1	P32770	CA	20121	LEU	602	Zinc finger, RanBP2-type	IPR001876
+bni1	P41832	OD2	13022	ASP	1651	Formin, FH2 domain	IPR015425	nrp1	P32770	N	20120	LEU	602	Zinc finger, RanBP2-type	IPR001876
+bni1	P41832	OD2	13022	ASP	1651	Formin, FH2 domain	IPR015425	nrp1	P32770	C	20116	CYS	601	Zinc finger, RanBP2-type	IPR001876
+bni1	P41832	OD1	13021	ASP	1651	Formin, FH2 domain	IPR015425	nrp1	P32770	CB	20111	VAL	600	Zinc finger, RanBP2-type	IPR001876

@@ -1,0 +1,3 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc28	P00546	ARG	131	Protein kinase domain	IPR000719	Cdc28	P00546	ASN	7		
+Cdc28	P00546	ASN	7			Cdc28	P00546	ARG	131	Protein kinase domain	IPR000719

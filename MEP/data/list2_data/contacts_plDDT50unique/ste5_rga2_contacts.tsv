@@ -1,0 +1,38 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+ste5	P32917	THR	233			rga2	Q06407	GLN	131		
+ste5	P32917	LYS	235			rga2	Q06407	GLN	131		
+ste5	P32917	PHE	512			rga2	Q06407	ASP	984	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	SER	505			rga2	Q06407	MET	988	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	LEU	508			rga2	Q06407	VAL	970	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	LEU	508			rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	MET	463			rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	ARG	462			rga2	Q06407	GLU	822	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	GLN	501			rga2	Q06407	LYS	989	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	GLN	501			rga2	Q06407	ASN	992	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	THR	498			rga2	Q06407	LYS	989	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	THR	465			rga2	Q06407	ASN	966	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	THR	465			rga2	Q06407	HIS	965	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	ALA	468			rga2	Q06407	HIS	965	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	ILE	504			rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	ASN	518			rga2	Q06407	ILE	985	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	ASN	509			rga2	Q06407	ARG	876	Rho GTPase-activating protein domain	IPR000198
+ste5	P32917	ASN	234			rga2	Q06407	GLU	124	Zinc finger, LIM-type	IPR001781
+ste5	P32917	ASP	232			rga2	Q06407	LEU	127		
+ste5	P32917	ASN	234			rga2	Q06407	THR	638		
+ste5	P32917	THR	233			rga2	Q06407	LEU	127		
+ste5	P32917	ASP	232			rga2	Q06407	HIS	123	Zinc finger, LIM-type	IPR001781
+ste5	P32917	LYS	230			rga2	Q06407	LEU	635		
+ste5	P32917	LYS	230			rga2	Q06407	GLU	634		
+ste5	P32917	CYS	180			rga2	Q06407	ARG	626		
+ste5	P32917	LYS	231			rga2	Q06407	GLU	634		
+ste5	P32917	THR	227			rga2	Q06407	GLU	634		
+ste5	P32917	THR	227			rga2	Q06407	ASP	631		
+ste5	P32917	LEU	179			rga2	Q06407	LYS	627		
+ste5	P32917	ASP	181			rga2	Q06407	LEU	630		
+ste5	P32917	ASN	174			rga2	Q06407	SER	86	Zinc finger, LIM-type	IPR001781
+ste5	P32917	ILE	209			rga2	Q06407	THR	624		
+ste5	P32917	ILE	209			rga2	Q06407	PHE	620		
+ste5	P32917	CYS	206			rga2	Q06407	LEU	623		
+ste5	P32917	PRO	224			rga2	Q06407	LYS	627		
+ste5	P32917	SER	210			rga2	Q06407	LYS	627		
+ste5	P32917	CYS	180			rga2	Q06407	LEU	623		

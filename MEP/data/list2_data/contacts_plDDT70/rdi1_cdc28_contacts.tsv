@@ -1,0 +1,13 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rdi1	Q12434	CB	329	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	CE2	3660	TRP	252	Protein kinase domain	IPR000719
+rdi1	Q12434	CB	329	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	NE1	3659	TRP	252	Protein kinase domain	IPR000719
+rdi1	Q12434	O	328	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	CG	3640	PRO	250	Protein kinase domain	IPR000719
+rdi1	Q12434	O	328	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	CB	3639	PRO	250	Protein kinase domain	IPR000719
+rdi1	Q12434	N	331	LEU	41	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	CB	3639	PRO	250	Protein kinase domain	IPR000719
+rdi1	Q12434	C	327	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	CB	3639	PRO	250	Protein kinase domain	IPR000719
+rdi1	Q12434	CB	329	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	CB	3639	PRO	250	Protein kinase domain	IPR000719
+rdi1	Q12434	CB	335	LEU	41	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	CZ2	3662	TRP	252	Protein kinase domain	IPR000719
+rdi1	Q12434	CB	329	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	C	3644	GLN	251	Protein kinase domain	IPR000719
+rdi1	Q12434	CB	329	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	O	3645	GLN	251	Protein kinase domain	IPR000719
+rdi1	Q12434	O	328	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	CA	3636	PRO	250	Protein kinase domain	IPR000719
+rdi1	Q12434	CB	329	SER	40	Rho protein GDP-dissociation inhibitor	IPR000406	cdc28	P00546	CD1	3657	TRP	252	Protein kinase domain	IPR000719

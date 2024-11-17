@@ -1,0 +1,24 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+cdc42	P19073	CD1	482	TYR	64	Small GTP-binding domain	IPR005225	bud1	P13856	CG	1786	ASP	38	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD1	482	TYR	64	Small GTP-binding domain	IPR005225	bud1	P13856	CB	1785	ASP	38	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD1	513	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	OH	2059	TYR	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	CG	512	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	OH	2059	TYR	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD1	513	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	CZ	2058	TYR	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD2	514	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	CE1	2056	TYR	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD1	513	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	CG	1786	ASP	38	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD1	513	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	CB	1785	ASP	38	Small GTP-binding domain	IPR005225
+cdc42	P19073	CG	512	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	CG	1786	ASP	38	Small GTP-binding domain	IPR005225
+cdc42	P19073	CG	512	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	CB	1785	ASP	38	Small GTP-binding domain	IPR005225
+cdc42	P19073	CB	545	SER	71	Small GTP-binding domain	IPR005225	bud1	P13856	CD1	2046	LEU	70	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD	502	ARG	66	Small GTP-binding domain	IPR005225	bud1	P13856	O	1792	SER	39	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD	502	ARG	66	Small GTP-binding domain	IPR005225	bud1	P13856	CB	1793	SER	39	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD	502	ARG	66	Small GTP-binding domain	IPR005225	bud1	P13856	OG	1794	SER	39	Small GTP-binding domain	IPR005225
+cdc42	P19073	CB	500	ARG	66	Small GTP-binding domain	IPR005225	bud1	P13856	CB	1793	SER	39	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD2	540	LEU	70	Small GTP-binding domain	IPR005225	bud1	P13856	NZ	1546	LYS	5	Small GTP-binding domain	IPR005225
+cdc42	P19073	CB	511	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	OH	2059	TYR	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	CB	511	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	CZ	2058	TYR	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	CB	511	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	CE1	2056	TYR	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD1	539	LEU	70	Small GTP-binding domain	IPR005225	bud1	P13856	CE1	2056	TYR	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD1	539	LEU	70	Small GTP-binding domain	IPR005225	bud1	P13856	CD1	2054	TYR	71	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD1	539	LEU	70	Small GTP-binding domain	IPR005225	bud1	P13856	CD1	1941	LEU	56	Small GTP-binding domain	IPR005225
+cdc42	P19073	CD2	514	LEU	67	Small GTP-binding domain	IPR005225	bud1	P13856	CD2	1942	LEU	56	Small GTP-binding domain	IPR005225

@@ -1,0 +1,100 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Nrp1	P32770	ASP	15			Ste5	P32917	GLN	204		
+Nrp1	P32770	GLN	319	RNA recognition motif domain	IPR000504	Ste5	P32917	GLY	199		
+Nrp1	P32770	GLN	319	RNA recognition motif domain	IPR000504	Ste5	P32917	CYS	198		
+Nrp1	P32770	GLN	319	RNA recognition motif domain	IPR000504	Ste5	P32917	LYS	170		
+Nrp1	P32770	ARG	321	RNA recognition motif domain	IPR000504	Ste5	P32917	GLU	242		
+Nrp1	P32770	PRO	14			Ste5	P32917	LYS	192		
+Nrp1	P32770	ASP	15			Ste5	P32917	LYS	192		
+Nrp1	P32770	THR	16			Ste5	P32917	LYS	192		
+Nrp1	P32770	PRO	17			Ste5	P32917	LYS	192		
+Nrp1	P32770	PRO	17			Ste5	P32917	GLU	191		
+Nrp1	P32770	ARG	321	RNA recognition motif domain	IPR000504	Ste5	P32917	GLU	195		
+Nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504	Ste5	P32917	LEU	201		
+Nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	Ste5	P32917	GLU	195		
+Nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504	Ste5	P32917	GLU	195		
+Nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504	Ste5	P32917	LYS	170		
+Nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	Ste5	P32917	LYS	170		
+Nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	Ste5	P32917	SER	171		
+Nrp1	P32770	LYS	318	RNA recognition motif domain	IPR000504	Ste5	P32917	LYS	170		
+Nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	Ste5	P32917	LEU	201		
+Nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504	Ste5	P32917	PHE	172		
+Nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	Ste5	P32917	PHE	172		
+Nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	187		
+Nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504	Ste5	P32917	ILE	193		
+Nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504	Ste5	P32917	LEU	173		
+Nrp1	P32770	GLU	241	RNA recognition motif domain	IPR000504	Ste5	P32917	LEU	173		
+Nrp1	P32770	SER	309	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	187		
+Nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504	Ste5	P32917	LEU	173		
+Nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	Ste5	P32917	PHE	172		
+Nrp1	P32770	GLU	324			Ste5	P32917	ARG	187		
+Nrp1	P32770	PRO	17			Ste5	P32917	ARG	187		
+Nrp1	P32770	PRO	14			Ste5	P32917	ILE	249		
+Nrp1	P32770	PRO	14			Ste5	P32917	LEU	246		
+Nrp1	P32770	ASP	15			Ste5	P32917	LEU	246		
+Nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504	Ste5	P32917	GLY	199		
+Nrp1	P32770	ASP	98			Ste5	P32917	LYS	189		
+Nrp1	P32770	THR	247	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLN	248	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	LEU	305	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ALA	304	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	VAL	302	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	TYR	249	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLU	301	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLY	250	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	732	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	VAL	251	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	731	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	TYR	249	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLY	250	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	730	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	PRO	17			Ste5	P32917	GLY	190		
+Nrp1	P32770	LYS	597	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	ASP	776	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	LYS	597	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	SER	774	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLN	349			Ste5	P32917	ILE	599	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLU	243	RNA recognition motif domain	IPR000504	Ste5	P32917	ILE	599	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	VAL	599	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	PHE	775	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	PHE	775	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	SER	774	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	PHE	775	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	CYS	768	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLY	605	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	ASN	632	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	CYS	601	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	LEU	764	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	LEU	764	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLY	605	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	LEU	764	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	CYS	604	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	ASN	632	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	VAL	600	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	ILE	639	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	VAL	600	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	ALA	636	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	604	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504	Ste5	P32917	SER	601	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504	Ste5	P32917	LEU	602	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504	Ste5	P32917	GLU	753	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504	Ste5	P32917	LYS	603	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ARG	603	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	THR	761	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	ARG	603	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	PHE	762	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	GLU	765	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	THR	761	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	LYS	597	Zinc finger, RanBP2-type	IPR001876	Ste5	P32917	PHE	775	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	THR	247	RNA recognition motif domain	IPR000504	Ste5	P32917	LYS	603	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLN	239	RNA recognition motif domain	IPR000504	Ste5	P32917	SER	597	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	PHE	347			Ste5	P32917	SER	597	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	PHE	256	RNA recognition motif domain	IPR000504	Ste5	P32917	SER	597	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	PRO	346			Ste5	P32917	SER	597	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLY	255	RNA recognition motif domain	IPR000504	Ste5	P32917	SER	597	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	VAL	254	RNA recognition motif domain	IPR000504	Ste5	P32917	SER	598	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLN	239	RNA recognition motif domain	IPR000504	Ste5	P32917	SER	598	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLN	239	RNA recognition motif domain	IPR000504	Ste5	P32917	ILE	599	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	PRO	253	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	571		
+Nrp1	P32770	VAL	254	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	571		
+Nrp1	P32770	TRP	257	RNA recognition motif domain	IPR000504	Ste5	P32917	THR	595	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	TRP	257	RNA recognition motif domain	IPR000504	Ste5	P32917	ILE	596	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	VAL	254	RNA recognition motif domain	IPR000504	Ste5	P32917	PHE	573		
+Nrp1	P32770	GLN	341			Ste5	P32917	SER	591		
+Nrp1	P32770	GLN	341			Ste5	P32917	THR	595	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLU	298	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	571		
+Nrp1	P32770	ARG	252	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	571		
+Nrp1	P32770	GLN	294	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	571		
+Nrp1	P32770	GLN	294	RNA recognition motif domain	IPR000504	Ste5	P32917	GLY	572		
+Nrp1	P32770	GLU	298	RNA recognition motif domain	IPR000504	Ste5	P32917	ARG	732	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLN	294	RNA recognition motif domain	IPR000504	Ste5	P32917	SER	748	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	GLN	294	RNA recognition motif domain	IPR000504	Ste5	P32917	ASP	752	Protein Ste5, Fus3-binding domain	IPR021106
+Nrp1	P32770	LYS	226	RNA recognition motif domain	IPR000504	Ste5	P32917	THR	574		
+Nrp1	P32770	GLU	223			Ste5	P32917	ASN	576		

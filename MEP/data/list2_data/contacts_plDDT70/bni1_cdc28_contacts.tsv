@@ -1,0 +1,14 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bni1	P41832	CG2	11243	ILE	1431	Formin, FH2 domain	IPR015425	cdc28	P00546	CZ	17191	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	CB	11241	ILE	1431	Formin, FH2 domain	IPR015425	cdc28	P00546	CZ	17191	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	CA	11238	ILE	1431	Formin, FH2 domain	IPR015425	cdc28	P00546	CZ	17191	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	CA	11238	ILE	1431	Formin, FH2 domain	IPR015425	cdc28	P00546	CE2	17190	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	CG1	11242	ILE	1431	Formin, FH2 domain	IPR015425	cdc28	P00546	CE1	17414	PHE	249	Protein kinase domain	IPR000719
+bni1	P41832	CG1	11242	ILE	1431	Formin, FH2 domain	IPR015425	cdc28	P00546	CZ	17191	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	C	11239	ILE	1431	Formin, FH2 domain	IPR015425	cdc28	P00546	CE2	17190	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	O	11240	ILE	1431	Formin, FH2 domain	IPR015425	cdc28	P00546	CZ	17191	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	O	11240	ILE	1431	Formin, FH2 domain	IPR015425	cdc28	P00546	CE2	17190	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	CB	11265	HIS	1434	Formin, FH2 domain	IPR015425	cdc28	P00546	CE2	17190	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	CG	11266	HIS	1434	Formin, FH2 domain	IPR015425	cdc28	P00546	CE2	17190	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	CB	11265	HIS	1434	Formin, FH2 domain	IPR015425	cdc28	P00546	CD2	17188	PHE	222	Protein kinase domain	IPR000719
+bni1	P41832	CG	11266	HIS	1434	Formin, FH2 domain	IPR015425	cdc28	P00546	CD2	17188	PHE	222	Protein kinase domain	IPR000719

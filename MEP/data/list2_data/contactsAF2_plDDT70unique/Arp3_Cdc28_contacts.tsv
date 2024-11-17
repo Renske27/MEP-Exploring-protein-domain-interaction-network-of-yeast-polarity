@@ -1,0 +1,19 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Arp3	P47117	GLU	320	Actin family	IPR004000	Cdc28	P00546	GLU	217	Protein kinase domain	IPR000719
+Arp3	P47117	LEU	327	Actin family	IPR004000	Cdc28	P00546	ASP	244	Protein kinase domain	IPR000719
+Arp3	P47117	PRO	329	Actin family	IPR004000	Cdc28	P00546	LYS	246	Protein kinase domain	IPR000719
+Arp3	P47117	GLU	320	Actin family	IPR004000	Cdc28	P00546	LYS	246	Protein kinase domain	IPR000719
+Arp3	P47117	PHE	317	Actin family	IPR004000	Cdc28	P00546	LYS	246	Protein kinase domain	IPR000719
+Arp3	P47117	ASN	318	Actin family	IPR004000	Cdc28	P00546	LYS	246	Protein kinase domain	IPR000719
+Arp3	P47117	ASN	318	Actin family	IPR004000	Cdc28	P00546	PHE	249	Protein kinase domain	IPR000719
+Arp3	P47117	GLU	320	Actin family	IPR004000	Cdc28	P00546	PHE	249	Protein kinase domain	IPR000719
+Arp3	P47117	GLU	320	Actin family	IPR004000	Cdc28	P00546	ASP	244	Protein kinase domain	IPR000719
+Arp3	P47117	ILE	321	Actin family	IPR004000	Cdc28	P00546	GLU	217	Protein kinase domain	IPR000719
+Arp3	P47117	ILE	273	Actin family	IPR004000	Cdc28	P00546	PHE	222	Protein kinase domain	IPR000719
+Arp3	P47117	LEU	311	Actin family	IPR004000	Cdc28	P00546	ASP	219	Protein kinase domain	IPR000719
+Arp3	P47117	PHE	277	Actin family	IPR004000	Cdc28	P00546	ASP	219	Protein kinase domain	IPR000719
+Arp3	P47117	PHE	277	Actin family	IPR004000	Cdc28	P00546	ARG	226	Protein kinase domain	IPR000719
+Arp3	P47117	PHE	277	Actin family	IPR004000	Cdc28	P00546	PHE	222	Protein kinase domain	IPR000719
+Arp3	P47117	ASN	278	Actin family	IPR004000	Cdc28	P00546	TRP	252	Protein kinase domain	IPR000719
+Arp3	P47117	PHE	277	Actin family	IPR004000	Cdc28	P00546	TRP	252	Protein kinase domain	IPR000719
+Arp3	P47117	ASP	272	Actin family	IPR004000	Cdc28	P00546	PRO	250	Protein kinase domain	IPR000719

@@ -1,0 +1,12 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Cdc24	P11433	LYS	490	Pleckstrin homology domain	IPR001849	Act1	P60010	GLN	225	Actin family	IPR004000
+Cdc24	P11433	GLU	520	Pleckstrin homology domain	IPR001849	Act1	P60010	GLN	225	Actin family	IPR004000
+Cdc24	P11433	ARG	631	Pleckstrin homology domain	IPR001849	Act1	P60010	ALA	319	Actin family	IPR004000
+Cdc24	P11433	LYS	281	Dbl homology (DH) domain	IPR000219	Act1	P60010	GLN	354	Actin family	IPR004000
+Cdc24	P11433	ASP	657	Pleckstrin homology domain	IPR001849	Act1	P60010	SER	323	Actin family	IPR004000
+Cdc24	P11433	ARG	656	Pleckstrin homology domain	IPR001849	Act1	P60010	SER	323	Actin family	IPR004000
+Cdc24	P11433	LYS	422	Dbl homology (DH) domain	IPR000219	Act1	P60010	GLU	292	Actin family	IPR004000
+Cdc24	P11433	GLU	423	Dbl homology (DH) domain	IPR000219	Act1	P60010	THR	148	Actin family	IPR004000
+Cdc24	P11433	MET	33			Act1	P60010	ASP	25	Actin family	IPR004000
+Cdc24	P11433	LYS	409	Dbl homology (DH) domain	IPR000219	Act1	P60010	ASP	25	Actin family	IPR004000
+Cdc24	P11433	LYS	292	Dbl homology (DH) domain	IPR000219	Act1	P60010	ASP	25	Actin family	IPR004000

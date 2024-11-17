@@ -1,0 +1,27 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+Rdi1	Q12434	CE1	1168	HIS	143	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	OG	12497	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	CE1	1168	HIS	143	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CB	12495	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	ND1	1167	HIS	143	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	OG	12497	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	ND1	1167	HIS	143	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CB	12495	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	CD	1019	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CE3	12464	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NE	1020	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CE3	12464	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NE	1020	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CD2	12462	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	CZ	1023	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CE3	12464	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	CZ	1023	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CD2	12462	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	CZ	1023	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CG	12460	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH2	1022	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CH2	12466	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH2	1022	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CZ3	12468	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH2	1022	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CZ2	12467	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH2	1022	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CE2	12463	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH2	1022	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	NE1	12465	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH2	1022	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CE3	12464	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH2	1022	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CD2	12462	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NE	1020	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CH2	12466	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	CZ	1023	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CH2	12466	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NE	1020	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CZ3	12468	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	CZ	1023	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CZ3	12468	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	CZ	1023	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CE2	12463	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH1	1021	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CE3	12464	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH1	1021	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CD2	12462	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	NH1	1021	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	CG	12460	TRP	1389	ARF GTPase-activating protein GIT1, C-terminal	IPR022018
+Rdi1	Q12434	CD	1019	ARG	125	Rho protein GDP-dissociation inhibitor	IPR000406	Spa2	P23201	OG	12497	SER	1393	ARF GTPase-activating protein GIT1, C-terminal	IPR022018

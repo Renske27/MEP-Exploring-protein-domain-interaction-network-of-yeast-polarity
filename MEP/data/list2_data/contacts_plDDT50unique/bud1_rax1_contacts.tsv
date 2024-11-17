@@ -1,0 +1,16 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud1	P13856	ARG	102	Small GTP-binding domain	IPR005225	rax1	Q08760	LEU	68	RGS domain	IPR016137
+bud1	P13856	ARG	102	Small GTP-binding domain	IPR005225	rax1	Q08760	ASN	71	RGS domain	IPR016137
+bud1	P13856	ARG	102	Small GTP-binding domain	IPR005225	rax1	Q08760	ARG	67	RGS domain	IPR016137
+bud1	P13856	ASP	105	Small GTP-binding domain	IPR005225	rax1	Q08760	ASN	71	RGS domain	IPR016137
+bud1	P13856	ASP	105	Small GTP-binding domain	IPR005225	rax1	Q08760	ARG	67	RGS domain	IPR016137
+bud1	P13856	ILE	103	Small GTP-binding domain	IPR005225	rax1	Q08760	ARG	67	RGS domain	IPR016137
+bud1	P13856	GLU	69	Small GTP-binding domain	IPR005225	rax1	Q08760	THR	64	RGS domain	IPR016137
+bud1	P13856	ALA	66	Small GTP-binding domain	IPR005225	rax1	Q08760	ASP	61	RGS domain	IPR016137
+bud1	P13856	THR	65	Small GTP-binding domain	IPR005225	rax1	Q08760	ASP	61	RGS domain	IPR016137
+bud1	P13856	ALA	66	Small GTP-binding domain	IPR005225	rax1	Q08760	ASP	57	RGS domain	IPR016137
+bud1	P13856	GLU	69	Small GTP-binding domain	IPR005225	rax1	Q08760	VAL	60	RGS domain	IPR016137
+bud1	P13856	ALA	66	Small GTP-binding domain	IPR005225	rax1	Q08760	VAL	60	RGS domain	IPR016137
+bud1	P13856	LEU	70	Small GTP-binding domain	IPR005225	rax1	Q08760	LEU	39	RGS domain	IPR016137
+bud1	P13856	LEU	70	Small GTP-binding domain	IPR005225	rax1	Q08760	VAL	60	RGS domain	IPR016137
+bud1	P13856	LEU	70	Small GTP-binding domain	IPR005225	rax1	Q08760	TYR	43	RGS domain	IPR016137

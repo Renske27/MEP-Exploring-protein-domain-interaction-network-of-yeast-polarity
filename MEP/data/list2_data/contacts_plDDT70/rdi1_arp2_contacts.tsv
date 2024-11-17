@@ -1,0 +1,22 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+rdi1	Q12434	CA	1002	GLY	123	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	OE2	3501	GLU	235	Actin family	IPR004000
+rdi1	Q12434	N	1001	GLY	123	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	OE2	3501	GLU	235	Actin family	IPR004000
+rdi1	Q12434	CA	1179	GLY	145	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	C	3495	GLU	235	Actin family	IPR004000
+rdi1	Q12434	CA	1179	GLY	145	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	O	3496	GLU	235	Actin family	IPR004000
+rdi1	Q12434	N	1178	GLY	145	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	O	3496	GLU	235	Actin family	IPR004000
+rdi1	Q12434	O	1185	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	CG2	3508	THR	236	Actin family	IPR004000
+rdi1	Q12434	N	1182	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	CG2	3508	THR	236	Actin family	IPR004000
+rdi1	Q12434	C	1184	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	CG2	3508	THR	236	Actin family	IPR004000
+rdi1	Q12434	CA	1183	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	CG2	3508	THR	236	Actin family	IPR004000
+rdi1	Q12434	O	1185	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	OG1	3507	THR	236	Actin family	IPR004000
+rdi1	Q12434	O	1185	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	CB	3506	THR	236	Actin family	IPR004000
+rdi1	Q12434	N	1188	TYR	147	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	CG2	3508	THR	236	Actin family	IPR004000
+rdi1	Q12434	N	1182	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	C	3495	GLU	235	Actin family	IPR004000
+rdi1	Q12434	N	1182	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	O	3496	GLU	235	Actin family	IPR004000
+rdi1	Q12434	C	1180	GLY	145	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	O	3496	GLU	235	Actin family	IPR004000
+rdi1	Q12434	CA	1179	GLY	145	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	CB	3497	GLU	235	Actin family	IPR004000
+rdi1	Q12434	N	1182	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	CB	3497	GLU	235	Actin family	IPR004000
+rdi1	Q12434	C	1180	GLY	145	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	CB	3497	GLU	235	Actin family	IPR004000
+rdi1	Q12434	N	1182	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	OE2	3501	GLU	235	Actin family	IPR004000
+rdi1	Q12434	CA	1183	SER	146	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	OE2	3501	GLU	235	Actin family	IPR004000
+rdi1	Q12434	C	1180	GLY	145	Rho protein GDP-dissociation inhibitor	IPR000406	arp2	P32381	OE2	3501	GLU	235	Actin family	IPR004000

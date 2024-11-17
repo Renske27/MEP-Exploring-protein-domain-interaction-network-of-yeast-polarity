@@ -1,0 +1,62 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+nrp1	P32770	THR	247	RNA recognition motif domain	IPR000504	rga2	Q06407	VAL	937	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504	rga2	Q06407	THR	800	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	SER	244	RNA recognition motif domain	IPR000504	rga2	Q06407	VAL	937	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	SER	240	RNA recognition motif domain	IPR000504	rga2	Q06407	GLU	941	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	LYS	952	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	955	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	LYS	597	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	959	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PHE	595	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	959	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	TYR	592	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ASP	816	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	LEU	311	RNA recognition motif domain	IPR000504	rga2	Q06407	LYS	798	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	rga2	Q06407	GLU	797	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	rga2	Q06407	GLU	797	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	rga2	Q06407	SER	799	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	rga2	Q06407	ARG	806	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ASN	313	RNA recognition motif domain	IPR000504	rga2	Q06407	LYS	798	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	rga2	Q06407	LYS	798	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ARG	321	RNA recognition motif domain	IPR000504	rga2	Q06407	HIS	848	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504	rga2	Q06407	SER	849	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504	rga2	Q06407	THR	851	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504	rga2	Q06407	HIS	848	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	VAL	322	RNA recognition motif domain	IPR000504	rga2	Q06407	HIS	848	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PRO	320	RNA recognition motif domain	IPR000504	rga2	Q06407	ASP	850	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	1003	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	1003	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	CYS	378	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	1003	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	SER	379	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	955	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	CYS	375	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	955	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	LEU	602	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ASP	816	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ARG	371	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ASP	816	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	955	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	1003	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	CYS	378	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	955	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	TYR	280	RNA recognition motif domain	IPR000504	rga2	Q06407	ASN	234		
+nrp1	P32770	TYR	229	RNA recognition motif domain	IPR000504	rga2	Q06407	ASN	234		
+nrp1	P32770	ASP	216			rga2	Q06407	SER	235		
+nrp1	P32770	ASP	216			rga2	Q06407	LEU	237		
+nrp1	P32770	ASP	216			rga2	Q06407	THR	236		
+nrp1	P32770	LYS	117			rga2	Q06407	ASP	230		
+nrp1	P32770	LYS	117			rga2	Q06407	ASP	231		
+nrp1	P32770	TYR	211			rga2	Q06407	ASN	234		
+nrp1	P32770	TYR	211			rga2	Q06407	ASP	230		
+nrp1	P32770	ARG	121			rga2	Q06407	ASP	231		
+nrp1	P32770	PRO	279	RNA recognition motif domain	IPR000504	rga2	Q06407	ASP	230		
+nrp1	P32770	VAL	259	RNA recognition motif domain	IPR000504	rga2	Q06407	LEU	233		
+nrp1	P32770	SER	288	RNA recognition motif domain	IPR000504	rga2	Q06407	LEU	233		
+nrp1	P32770	TYR	229	RNA recognition motif domain	IPR000504	rga2	Q06407	LEU	233		
+nrp1	P32770	ILE	343			rga2	Q06407	ILE	229		
+nrp1	P32770	ASN	277	RNA recognition motif domain	IPR000504	rga2	Q06407	ASP	230		
+nrp1	P32770	ASN	277	RNA recognition motif domain	IPR000504	rga2	Q06407	ILE	229		
+nrp1	P32770	SER	278	RNA recognition motif domain	IPR000504	rga2	Q06407	ASN	234		
+nrp1	P32770	SER	278	RNA recognition motif domain	IPR000504	rga2	Q06407	ASP	230		
+nrp1	P32770	VAL	336			rga2	Q06407	SER	235		
+nrp1	P32770	VAL	336			rga2	Q06407	LEU	233		
+nrp1	P32770	VAL	336			rga2	Q06407	ILE	232		
+nrp1	P32770	PHE	290	RNA recognition motif domain	IPR000504	rga2	Q06407	LEU	233		
+nrp1	P32770	LYS	339			rga2	Q06407	ILE	232		
+nrp1	P32770	GLU	243	RNA recognition motif domain	IPR000504	rga2	Q06407	LYS	944	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ARG	377	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	TYR	1002	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PHE	376	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	TYR	1002	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	PHE	366	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	LYS	952	Rho GTPase-activating protein domain	IPR000198
+nrp1	P32770	ASN	598	Zinc finger, RanBP2-type	IPR001876	rga2	Q06407	ARG	959	Rho GTPase-activating protein domain	IPR000198

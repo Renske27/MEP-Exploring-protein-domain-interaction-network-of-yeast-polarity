@@ -1,0 +1,10 @@
+Protein1	Protein1_Accession	Atom1	Atom1_Number	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Atom2	Atom2_Number	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+arp2	P32381	C	1558	ARG	199	Actin family	IPR004000	cla4	P48562	O	4001	VAL	116	Pleckstrin homology domain	IPR001849
+arp2	P32381	CA	1568	GLY	200	Actin family	IPR004000	cla4	P48562	N	4011	ARG	118	Pleckstrin homology domain	IPR001849
+arp2	P32381	O	1542	SER	197	Actin family	IPR004000	cla4	P48562	CB	4015	ARG	118	Pleckstrin homology domain	IPR001849
+arp2	P32381	O	1542	SER	197	Actin family	IPR004000	cla4	P48562	N	4011	ARG	118	Pleckstrin homology domain	IPR001849
+arp2	P32381	N	1567	GLY	200	Actin family	IPR004000	cla4	P48562	N	4011	ARG	118	Pleckstrin homology domain	IPR001849
+arp2	P32381	O	1548	ARG	198	Actin family	IPR004000	cla4	P48562	O	4001	VAL	116	Pleckstrin homology domain	IPR001849
+arp2	P32381	C	1547	ARG	198	Actin family	IPR004000	cla4	P48562	CB	4009	SER	117	Pleckstrin homology domain	IPR001849
+arp2	P32381	O	1548	ARG	198	Actin family	IPR004000	cla4	P48562	CA	4006	SER	117	Pleckstrin homology domain	IPR001849
+arp2	P32381	O	1548	ARG	198	Actin family	IPR004000	cla4	P48562	CB	4009	SER	117	Pleckstrin homology domain	IPR001849

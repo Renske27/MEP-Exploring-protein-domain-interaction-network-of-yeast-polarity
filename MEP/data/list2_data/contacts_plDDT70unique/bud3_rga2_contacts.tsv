@@ -1,0 +1,8 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bud3	P25558	ASP	166	Bud3, N-terminal	IPR021895	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	ASN	116	Bud3, N-terminal	IPR021895	rga2	Q06407	ARG	826	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	ASP	160	Bud3, N-terminal	IPR021895	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	161	Bud3, N-terminal	IPR021895	rga2	Q06407	PRO	973	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	112	Bud3, N-terminal	IPR021895	rga2	Q06407	ASN	992	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	162	Bud3, N-terminal	IPR021895	rga2	Q06407	VAL	970	Rho GTPase-activating protein domain	IPR000198
+bud3	P25558	PRO	162	Bud3, N-terminal	IPR021895	rga2	Q06407	LEU	969	Rho GTPase-activating protein domain	IPR000198

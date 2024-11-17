@@ -1,0 +1,11 @@
+Protein1	Protein1_Accession	Residue1	Residue1_Number	Domain1_Name	Domain1_Accession	Protein2	Protein2_Accession	Residue2	Residue2_Number	Domain2_Name	Domain2_Accession
+bem3	P32873	PHE	334			bem1	P29366	ASP	172	SH3 domain	IPR001452
+bem3	P32873	PHE	334			bem1	P29366	PRO	204	SH3 domain	IPR001452
+bem3	P32873	PHE	334			bem1	P29366	GLY	205	SH3 domain	IPR001452
+bem3	P32873	ASP	539	Phox homology	IPR001683	bem1	P29366	SER	157	SH3 domain	IPR001452
+bem3	P32873	SER	542	Phox homology	IPR001683	bem1	P29366	GLY	156	SH3 domain	IPR001452
+bem3	P32873	SER	542	Phox homology	IPR001683	bem1	P29366	SER	157	SH3 domain	IPR001452
+bem3	P32873	PHE	334			bem1	P29366	TRP	242		
+bem3	P32873	PHE	334			bem1	P29366	ILE	194	SH3 domain	IPR001452
+bem3	P32873	PHE	506			bem1	P29366	ILE	198	SH3 domain	IPR001452
+bem3	P32873	LYS	1075	Rho GTPase-activating protein domain	IPR000198	bem1	P29366	LEU	163	SH3 domain	IPR001452
